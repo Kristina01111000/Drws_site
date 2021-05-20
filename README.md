@@ -7,12 +7,12 @@ plugins im using on dr ws site:
 	- removed video plugin (it had malware in it) 
 - learndash 
 - paid memberships pro
-- woocommerce -> removed it(not necessary)
 - real simple ssl
 - Forget About Shortcode button 
 - aksimet
 - total upkeep
-- widget context -> for choosing which pages widgets appear/ not appear on
+- widget context 
+	- for choosing which pages widgets appear/ not appear on
 
 Currently working on Dr. W's site
 
@@ -25,7 +25,7 @@ Currently working on Dr. W's site
 	- auto updates work now
 		- not peepso or any of the its plugins
 			- need to check it for updates every few days, it updates often
-		- or wordpress itself -> probably keep this way 
+		- or wordpress itself -> probably want to keep it this way 
 - non-members cannot get access to courses, can view the headings -> fixed it in learndash settings
 
 To Do:
