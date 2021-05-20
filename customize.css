@@ -1,1 +1,38 @@
-
+//:Current css in customize:
+//menu class
+.menucolor{
+	color:#60E266 !important;
+	font-size: 1.1em;
+}
+// padding of front page
+.page-id-142{
+   padding: 10px 10% 5% 10%;
+    width: 100%;
+}
+// text color of frontpage
+.page-id-142, p{
+	color: #2a4928;
+}
+// body margin
+body .wp-block-columns .wp-block-column {
+    /*margin-right: px;
+    margin-left: 0;*/
+	margin: auto;
+}
+title of all pages
+.entry-title{
+  color: #205e1c;
+}
+// set header background
+.gc-header{
+	 background-image: url(https://growingholistically.com/wp-content/uploads/2021/05/newyellowtile.jpeg);
+}
+// side bar background + centered text
+.gc-widget--sidebar{
+	background-image: url(https://growingholistically.com/wp-content/uploads/2021/05/tilegreen.jpeg);
+	text-align: center;
+}
+// set button background to tile
+.wp-block-button {
+		background-image: url(https://growingholistically.com/wp-content/uploads/2021/05/newyellowtile.jpeg);
+}
