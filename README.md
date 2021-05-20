@@ -16,12 +16,12 @@ plugins im using on dr ws site:
 
 Currently working on Dr. W's site
 
--> with gecko theme in editor main background photo is set in theme -> body settings
-	-> need to put separate background pictures into additional css
-	-> figure out how to make pictures scroll -> change to scroll
+- with gecko theme in editor main background photo is set in theme -> body settings
+	- need to put separate background pictures into additional css
+	- figure out how to make pictures scroll -> change to scroll
 		- normal pictures can just be put in using image in page builder
--> in peepso logo height has to be in px, not %
--> he uses inmotion web hosting
+- in peepso logo height has to be in px, not %
+- he uses inmotion web hosting
 	- auto updates work now
 		- not peepso or any of the its plugins
 			- need to check it for updates every few days, it updates often
@@ -40,7 +40,7 @@ To Do:
 	- error shows up in the site health status page, still not working
 	- will need to contact peepso support
 - figure out where in peepso the button to stop non members from viewing the website is
-->>>>> using paid membershippro 
+- using paid membershippro 
 	- set up 2 groups (patients + paid) $29
 	- got api certificates from him
 	- set it up
@@ -60,7 +60,7 @@ To Do:
 
 Need from Dr. W:
 
--> additional text	
+- additional text	
 - score card stuff(added sentence to monthly topics, need info on everything else)
 	- just an excel file i think? google doc?
 - sent email to him with what he needs to do to get site running
