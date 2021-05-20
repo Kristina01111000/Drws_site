@@ -1,5 +1,5 @@
 # Drws_site
-everything to do with dr w's site
+everything to do with dr w's wordpress site
 
 plugins im using on dr ws site:
 
@@ -16,7 +16,6 @@ plugins im using on dr ws site:
 
 Currently working on Dr. W's site
 
-->> saving css changes in extras.css
 -> with gecko theme in editor main background photo is set in theme -> body settings
 	-> need to put separate background pictures into additional css
 	-> figure out how to make pictures scroll -> change to scroll
@@ -31,7 +30,7 @@ Currently working on Dr. W's site
 
 To Do:
 
--> update resume with this project
+- update resume with this project
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
