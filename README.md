@@ -15,6 +15,11 @@ plugins im using on dr ws site:
 - widget context 
 	- for choosing which pages widgets appear/ not appear on
 
+https://web.dev/measure/:
+- resize images
+- check image loading
+- server response time
+
 Currently working on Dr. W's site
 
 - with gecko theme in editor main background photo is set in theme -> body settings
