@@ -33,7 +33,8 @@ Currently working on Dr. W's site
 		- not peepso or any of the its plugins
 			- need to check it for updates every few days, it updates often
 		- or wordpress itself -> probably want to keep it this way 
-- non-members cannot get access to courses, can view the headings -> fixed it in learndash settings
+- non-members cannot get access to courses, can view the headings 
+ 	- fixed it in learndash settings, still can't figure out peepso setting
 
 To Do:
 
