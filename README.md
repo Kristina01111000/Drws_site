@@ -46,7 +46,8 @@ To Do:
 	- figure out how to force send one, peepso confirmation email works
 	- error shows up in the site health status page, still not working
 	- will need to contact peepso support
-	- maybe set learndash email instead?
+	- maybe set learndash email system instead?
+		- on opening of new section and update to weekly topics?
 - using paid membershippro 
 	- set up 2 groups (patients + paid) $29
 	- got api certificates from him
