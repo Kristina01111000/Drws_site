@@ -6,6 +6,7 @@ plugins im using on dr ws site:
 - peepso
 	- removed video plugin (it had malware in it) 
 	- see if he wants it put back in
+	- maybe remove email plugin, it doesn't appear to add anything
 - learndash 
 - paid memberships pro
 - real simple ssl
