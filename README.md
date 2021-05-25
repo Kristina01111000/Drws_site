@@ -54,6 +54,7 @@ To Do:
 	- set it up
 	- ?make different url for patients group?
 - add links to the other monthly topics course pages
+	- he put some of them into articles
 - fix the login button/ menu  spacing
 -  new email topics:
 	- does he like centered sidebar text
