@@ -51,7 +51,6 @@ To Do:
 	- got api certificates from him
 	- set it up
 	- ?make different url for patients group?
-- add cost into to course section
 - add links to the other monthly topics course pages
 - fix the login button/ menu  spacing
 -  new email topics:
@@ -60,6 +59,7 @@ To Do:
 	- did he add pictures to the front page? there are spots for img, but no img
 	- does he like the button background?
 	- Does he like the added text at top of registration page talking about the cost
+	- Does he like the added text in the about the course section in the front page talking about the cost
 
 Need from Dr. W:
 
