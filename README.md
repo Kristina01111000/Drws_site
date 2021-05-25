@@ -56,7 +56,9 @@ To Do:
 	- ?make different url for patients group?
 - add links to the other monthly topics course pages
 	- he put some of them into articles
+	- does he want articles? ar should i put them into the course
 - fix the login button/ menu  spacing
+	- leave it, remove it, move it
 -  new email topics:
 	- does he like centered sidebar text
 	- does he like the new frontpage side bar, what about the login button, leave it, remove it, move it?
