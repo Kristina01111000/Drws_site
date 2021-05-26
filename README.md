@@ -14,7 +14,7 @@ plugins im using on dr ws site:
 - aksimet
 - total upkeep
 - widget context 
-	- for choosing which pages widgets appear/ not appear on
+	- for choosing which pages widgets appear/ not appear on -> really like it
 
 https://web.dev/measure/:
 - resize images
@@ -60,13 +60,7 @@ To Do:
 - fix the login button/ menu  spacing
 	- leave it, remove it, move it
 -  new email topics:
-	- does he like centered sidebar text
-	- does he like the new frontpage side bar, what about the login button, leave it, remove it, move it?
-		- it look weird where it is
-	- did he add pictures to the front page? there are spots for img, but no img
-	- does he like the button background?
-	- Does he like the added text at top of registration page talking about the cost
-	- Does he like the added text in the about the course section in the front page talking about the cost
+
 
 Need from Dr. W:
 
@@ -79,4 +73,12 @@ Need from Dr. W:
 	- a video for the beginning of the front page
 	- a video for words from dr w section, do you still want one here?
 	- Do you want another picture of yourself for the  words from dr wsection? or just the video
+	
 	- list of what month each monthly topic will be in
+	- does he like centered sidebar text
+	- does he like the new frontpage side bar, what about the login button, leave it, remove it, move it?
+		- it look weird where it is
+	- did he add pictures to the front page? there are spots for img, but no img
+	- does he like the button background?
+	- Does he like the added text at top of registration page talking about the cost
+	- Does he like the added text in the about the course section in the front page talking about the cost
