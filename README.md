@@ -32,6 +32,7 @@ Currently working on Dr. W's site
 	- auto updates work now
 		- not peepso or any of the its plugins
 			- need to check it for updates every few days, it updates often
+		- learndash is not auto updating
 		- or wordpress itself -> probably want to keep it this way 
 - non-members cannot get access to courses, can view the headings 
  	- fixed it in learndash settings, still can't figure out peepso setting
