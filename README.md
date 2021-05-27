@@ -62,7 +62,7 @@ To Do:
 - fix the login button/ menu  spacing
 	- leave it, remove it, move it
 -  new email topics:
-
+	- does he want articles in monthly course? or as articles? 
 
 Need from Dr. W:
 
