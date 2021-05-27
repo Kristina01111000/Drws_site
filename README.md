@@ -50,6 +50,7 @@ To Do:
 	- will need to contact peepso support
 	- maybe set learndash email system instead?
 		- on opening of new section and update to weekly topics?
+	- talk it over with dr w
 - using paid membershippro 
 	- set up 2 groups (patients + paid) $29
 	- got api certificates from him
