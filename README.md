@@ -56,6 +56,7 @@ To Do:
 	- set up 2 groups (patients + paid) $29
 	- still in testing only mode, change when ready for site to open
 	- change email associated with checkout, what does he want? -> set it to admin for now
+	- check on auto generated emails from pmp
 	- ?make different url for patients group?
 - add links to the other monthly topics course pages
 	- he put some of them into articles
