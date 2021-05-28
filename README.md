@@ -53,6 +53,7 @@ To Do:
 		- on opening of new section and update to weekly topics?
 	- talk it over with dr w
 - using paid membershippro 
+	- set up free account for plugin 
 	- set up 2 groups (patients + paid) $29
 	- still in testing only mode, change when ready for site to open
 	- change email associated with checkout, what does he want? -> set it to admin for now
