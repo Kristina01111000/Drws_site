@@ -55,6 +55,7 @@ To Do:
 - using paid membershippro 
 	- set up 2 groups (patients + paid) $29
 	- still in testing only mode, change when ready for site to open
+	- change email associated with checkout, what does he want?
 	- ?make different url for patients group?
 - add links to the other monthly topics course pages
 	- he put some of them into articles
