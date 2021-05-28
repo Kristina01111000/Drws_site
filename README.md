@@ -69,7 +69,7 @@ Need from Dr. W:
 - additional text	
 - score card stuff(added sentence to monthly topics, need info on everything else)
 	- just an excel file i think? google doc?
-- sent email to him with what he needs to do to get site running
+- sent email to him with what he needs to do to get site running (he says he will get back to me tomorrow)
 	- confirmation on all pictures
 	- ssl still not working right on his old computer?
 	- a video for the beginning of the front page
