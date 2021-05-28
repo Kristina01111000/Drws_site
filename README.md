@@ -54,8 +54,7 @@ To Do:
 	- talk it over with dr w
 - using paid membershippro 
 	- set up 2 groups (patients + paid) $29
-	- got api certificates from him
-	- set it up
+	- still in testing only mode, change when ready for site to open
 	- ?make different url for patients group?
 - add links to the other monthly topics course pages
 	- he put some of them into articles
