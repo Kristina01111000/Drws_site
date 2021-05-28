@@ -52,13 +52,7 @@ To Do:
 	- maybe set learndash email system instead?
 		- on opening of new section and update to weekly topics?
 	- talk it over with dr w
-- using paid membershippro 
-	- set up free account for plugin 
-	- set up 2 groups (patients + paid) $29
-	- still in testing only mode, change when ready for site to open
-	- change email associated with checkout, what does he want? -> set it to admin for now
-	- check on auto generated emails from pmp
-	- ?make different url for patients group?
+- figure out how to get patients into it using pmp
 - add links to the other monthly topics course pages
 	- he put some of them into articles
 	- does he want articles? ar should i put them into the course
@@ -67,8 +61,15 @@ To Do:
 -  new email topics:
 	- does he want articles in monthly course? or as articles? 
 
-Need from Dr. W:
 
+Need from Dr. W:
+- using paid membershippro 
+	- set up free account for plugin -> in his emails name, need to pay for a support license fee
+	- set up 2 groups (patients + paid) $29
+	- still in testing only mode, change when ready for site to open
+	- change email associated with checkout, what does he want? -> set it to admin for now
+	- check on auto generated emails from pmp
+	- ?make different url for patients group?
 - additional text	
 - score card stuff(added sentence to monthly topics, need info on everything else)
 	- just an excel file i think? google doc?
