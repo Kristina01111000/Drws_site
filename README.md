@@ -52,12 +52,10 @@ To Do:
 	- maybe set learndash email system instead?
 		- on opening of new section and update to weekly topics?
 	- talk it over with dr w
-- figure out how to get patients into it using pmp
+- figure out how to get patients into it using pmp -> main focus
 - add links to the other monthly topics course pages
 	- he put some of them into articles
 	- does he want articles? ar should i put them into the course
-- fix the login button/ menu  spacing
-	- leave it, remove it, move it
 -  new email topics:
 	- does he want articles in monthly course? or as articles? 
 
