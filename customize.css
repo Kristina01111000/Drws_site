@@ -34,5 +34,6 @@ title of all pages
 }
 // set button background to tile
 .wp-block-button {
-		background-image: url(https://growingholistically.com/wp-content/uploads/2021/05/newyellowtile.jpeg);
+	background-image: url(https://growingholistically.com/wp-content/uploads/2021/05/newyellowtile.jpeg);
+	border-radius:25px;
 }
