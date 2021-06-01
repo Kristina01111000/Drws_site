@@ -88,3 +88,41 @@ Need from Dr. W:
 	- does he like the button background?
 	- Does he like the added text at top of registration page talking about the cost
 	- Does he like the added text in the about the course section in the front page talking about the cost
+
+
+From Dr. W:
+
+do you like the way the tiles look? I'm not sure if they mesh well with the front page, but I think they look good everywhere else
+
+    I agree
+
+do you like the centered sidebar text? i think it looks good
+
+    I like them!
+
+do you like the new frontpage sidebar?
+
+    Not really; I think it might be overkill for just quick navs to text on the page. Any thoughts?
+    Might they look better on the left side, perhaps starting at the level of the italic text below our green name text?
+     
+
+ what about the login button, leave it, remove it, move it?
+
+    Yes, its there on the top of the sidebar already.
+    it looks weird where it is, I think it should be removed
+
+did you add pictures to the front page? there are spots for img, but no img?
+
+    You have pix there, was I going to do something diff/more, besides the video?
+
+do you like the button background?
+
+    Are you talking about the call to action of joining? If so: The yellow tile background is ok. Is there a way to make the shape more interesting – perhaps a starburst?
+
+Do you like the added text at the top of the registration page talking about the cost?
+
+    Can there be a line break after Welcome!
+
+Do you like the added text in the about the course section in the front page talking about the cost?
+
+    I think it’s appropriate to have something in some of those yellow Call to action links that speak to the price of it. We should have different ways to say it, like Invest in yourself….
