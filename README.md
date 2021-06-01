@@ -81,10 +81,8 @@ Need from Dr. W:
 	- Do you want another picture of yourself for the  words from dr wsection? or just the video
 	
 	- list of what month each monthly topic will be in
-	- does he like centered sidebar text
 	- does he like the new frontpage side bar, what about the login button, leave it, remove it, move it?
 		- it look weird where it is
-	- did he add pictures to the front page? there are spots for img, but no img
 	- does he like the button background?
 	- Does he like the added text at top of registration page talking about the cost
 	- Does he like the added text in the about the course section in the front page talking about the cost
@@ -96,10 +94,6 @@ do you like the way the tiles look? I'm not sure if they mesh well with the fron
 
     I agree
 
-do you like the centered sidebar text? i think it looks good
-
-    I like them!
-
 do you like the new frontpage sidebar?
 
     Not really; I think it might be overkill for just quick navs to text on the page. Any thoughts?
@@ -110,10 +104,6 @@ do you like the new frontpage sidebar?
 
     Yes, its there on the top of the sidebar already.
     it looks weird where it is, I think it should be removed
-
-did you add pictures to the front page? there are spots for img, but no img?
-
-    You have pix there, was I going to do something diff/more, besides the video?
 
 do you like the button background?
 
