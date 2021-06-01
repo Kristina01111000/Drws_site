@@ -126,3 +126,7 @@ Do you like the added text at the top of the registration page talking about the
 Do you like the added text in the about the course section in the front page talking about the cost?
 
     I think it’s appropriate to have something in some of those yellow Call to action links that speak to the price of it. We should have different ways to say it, like Invest in yourself….
+
+The green hot links work for me
+
+How does the membership plug into the registration? Is there a discount code that a patient could have to allow them to use the existent registration form, or should we have a different page that they could be linked to from an email from me?
