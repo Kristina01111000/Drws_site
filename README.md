@@ -79,40 +79,22 @@ Need from Dr. W:
 	- a video for the beginning of the front page
 	- a video for words from dr w section, do you still want one here?
 	- Do you want another picture of yourself for the  words from dr wsection? or just the video
-	
 	- list of what month each monthly topic will be in
-	- does he like the new frontpage side bar, what about the login button, leave it, remove it, move it?
-		- it look weird where it is
 	- does he like the button background?
-	- Does he like the added text in the about the course section in the front page talking about the cost
-
+	- I redid the ssl, is it still not working on your home computer? If not, what browser are you using?
+	- do you have a video for the beginning of the front page
+	- do you have a video for words from dr w section, do you still want one here?
+	- i removed the login button
+	- i moved the nav bar to the left on the frontpage, and also made it scrollable, what do you think
 
 From Dr. W:
-
-do you like the way the tiles look? I'm not sure if they mesh well with the front page, but I think they look good everywhere else
-
-    I agree
-
-do you like the new frontpage sidebar?
-
-    Not really; I think it might be overkill for just quick navs to text on the page. Any thoughts?
-    Might they look better on the left side, perhaps starting at the level of the italic text below our green name text?
      
-
- what about the login button, leave it, remove it, move it?
-
-    Yes, its there on the top of the sidebar already.
-    it looks weird where it is, I think it should be removed
 
 do you like the button background?
 
     Are you talking about the call to action of joining? If so: The yellow tile background is ok. Is there a way to make the shape more interesting – perhaps a starburst?
 
 
-
-Do you like the added text in the about the course section in the front page talking about the cost?
-
-    I think it’s appropriate to have something in some of those yellow Call to action links that speak to the price of it. We should have different ways to say it, like Invest in yourself….
 
 The green hot links work for me
 
