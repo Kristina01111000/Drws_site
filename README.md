@@ -84,7 +84,6 @@ Need from Dr. W:
 	- does he like the new frontpage side bar, what about the login button, leave it, remove it, move it?
 		- it look weird where it is
 	- does he like the button background?
-	- Does he like the added text at top of registration page talking about the cost
 	- Does he like the added text in the about the course section in the front page talking about the cost
 
 
@@ -109,9 +108,7 @@ do you like the button background?
 
     Are you talking about the call to action of joining? If so: The yellow tile background is ok. Is there a way to make the shape more interesting – perhaps a starburst?
 
-Do you like the added text at the top of the registration page talking about the cost?
 
-    Can there be a line break after Welcome!
 
 Do you like the added text in the about the course section in the front page talking about the cost?
 
