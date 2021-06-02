@@ -7,6 +7,7 @@ plugins im using on dr ws site:
 	- removed video plugin (it had malware in it) 
 	- see if he wants it put back in
 	- maybe remove email plugin?, it doesn't appear to add anything that we need 
+		- if it does I can't get it to work
 - learndash 
 - paid memberships pro
 - real simple ssl
