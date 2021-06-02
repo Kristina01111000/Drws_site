@@ -55,9 +55,7 @@ To Do:
 	- talk it over with dr w
 	- automatic one for sign up works
 - figure out how to get patients into it using pmp -> main focus
-- add links to the other monthly topics course pages
-	- he put some of them into articles
-	- does he want articles? ar should i put them into the course
+	- see if there is a link system or something else
 -  new email topics:
 	- does he want articles in monthly course? or as articles? 
 	- talk about button shape -> starburst a bad idea looks old
