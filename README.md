@@ -60,6 +60,7 @@ To Do:
 	- does he want articles? ar should i put them into the course
 -  new email topics:
 	- does he want articles in monthly course? or as articles? 
+	- talk about button shape -> starburst a bad idea looks old
 
 
 Need from Dr. W:
@@ -90,9 +91,6 @@ Need from Dr. W:
 From Dr. W:
      
 
-do you like the button background?
-
-    Are you talking about the call to action of joining? If so: The yellow tile background is ok. Is there a way to make the shape more interesting – perhaps a starburst?
 
 
 
