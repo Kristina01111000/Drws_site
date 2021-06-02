@@ -52,6 +52,7 @@ To Do:
 	- maybe set learndash email system instead?
 		- on opening of new section and update to weekly topics?
 	- talk it over with dr w
+	- automatic one for sign up works
 - figure out how to get patients into it using pmp -> main focus
 - add links to the other monthly topics course pages
 	- he put some of them into articles
