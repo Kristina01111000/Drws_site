@@ -44,6 +44,7 @@ To Do:
 - update resume with this project
 - ssl not working in chrome of safari
 	- err cert authority invalid
+	- ask inmotion to fix it, currently can't login 
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
