@@ -42,7 +42,8 @@ Currently working on Dr. W's site
 To Do:
 
 - update resume with this project
-- ssl not working in chrome of safari
+- ssl not working in chrome, safari, silk browsers
+	- works in firefox
 	- err cert authority invalid
 	- ask inmotion to fix it, currently can't login 
 - change default user image
