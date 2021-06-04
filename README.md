@@ -31,10 +31,8 @@ Currently working on Dr. W's site
 - in peepso logo height has to be in px, not %
 - he uses inmotion web hosting
 	- auto updates work now
-		- not peepso or any of the its plugins
-			- need to check it for updates every few days, it updates often
-		- learndash is not auto updating 
-			- enabled it, see if it works
+		- peepso -> endabled auto updates
+		- learndash -> enabled auto updates
 		- or wordpress itself -> probably want to keep it this way 
 - non-members cannot get access to courses, can view the headings 
  	- fixed it in learndash settings, still can't figure out peepso setting
