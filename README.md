@@ -45,6 +45,8 @@ To Do:
 	- err cert authority invalid
 	- ask inmotion to fix it, currently can't login 
 	- password not working for me? waiting on dr w
+	- not working in safari, working in firefox 
+	- certificate chain issue
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
