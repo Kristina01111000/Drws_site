@@ -82,8 +82,6 @@ Need from Dr. W:
 	- a video for words from dr w section, do you still want one here?
 	- Do you want another picture of yourself for the  words from dr wsection? or just the video
 	- list of what month each monthly topic will be in
-	- does he like the button background?
-	- I redid the ssl, is it still not working on your home computer? If not, what browser are you using?
 	- do you have a video for the beginning of the front page
 	- do you have a video for words from dr w section, do you still want one here?
 	- i removed the login button
