@@ -10,7 +10,7 @@ plugins im using on dr ws site:
 		- if it does I can't get it to work
 - learndash 
 - paid memberships pro
-- real simple ssl
+- real simple ssl -> would upgrading fix the issue?
 - Forget About Shortcode button 
 - aksimet
 - total upkeep
