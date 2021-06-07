@@ -67,6 +67,7 @@ To Do:
 
 
 Need from Dr. W:
+- password for inmotion -> can't get in
 - using paid membershippro 
 	- set up free account for plugin -> in his emails name, need to pay for a support license fee
 	- set up 2 groups (patients + paid) $29
