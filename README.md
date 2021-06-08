@@ -1,6 +1,6 @@
 # Drws_site
 everything to do with dr w's wordpress site
- Hours worked this month: 6
+ Hours worked this month: 8
 plugins im using on dr ws site:
 
 - peepso
@@ -47,7 +47,7 @@ To Do:
 	- not working in safari, working in firefox 
 	- certificate chain issue
 	- sent follow up email for password
-	- inmotion server down?
+	- inmotion server down? so is the site
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
