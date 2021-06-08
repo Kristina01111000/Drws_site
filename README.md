@@ -47,6 +47,7 @@ To Do:
 	- not working in safari, working in firefox 
 	- certificate chain issue
 	- sent follow up email for password
+	- inmotion server down?
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
