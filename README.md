@@ -49,6 +49,7 @@ To Do:
 	- sent follow up email for password
 	- inmotion server down? so is the site
 	- none of the passwords are working
+	- ask him to make another one?
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
