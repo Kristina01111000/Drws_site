@@ -46,10 +46,7 @@ To Do:
 	- password not working for me? waiting on dr w
 	- not working in safari, working in firefox 
 	- certificate chain issue
-	- sent follow up email for password
-	- inmotion server down? so is the site
-	- none of the passwords are working
-	- ask him to make another one?
+	- finally got in!
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
