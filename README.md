@@ -1,7 +1,9 @@
 # Drws_site
 everything to do with dr w's wordpress site
- Hours worked this month: 8
-plugins im using on dr ws site:
+
+ Hours worked this month: 12
+ 
+plugins im using on site:
 
 - peepso
 	- removed video plugin (it had malware in it), maybe put back in the future 
