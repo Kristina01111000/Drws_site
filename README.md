@@ -43,8 +43,7 @@ To Do:
 - update resume with this project
 - ssl not working in chrome, safari, silk browsers
 	- works in firefox
-	- err cert authority invalid
-	- certificate chain issue
+	- certificate chain issue -> fixed (ssllabs.com)
 	- finally got in! fixed csr, see if it works everywhere
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
