@@ -46,7 +46,7 @@ To Do:
 	- password not working for me? waiting on dr w
 	- not working in safari, working in firefox 
 	- certificate chain issue
-	- finally got in!
+	- finally got in! fixed csr, see if it works everywhere
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
@@ -67,7 +67,6 @@ To Do:
 
 
 Need from Dr. W:
-- password for inmotion -> can't get in
 - using paid membershippro 
 	- set up free account for plugin -> in his emails name, need to pay for a support license fee
 	- set up 2 groups (patients + paid) $29
