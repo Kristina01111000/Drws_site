@@ -38,11 +38,11 @@ Currently working on Dr. W's site
 
 To Do:
 
-- update resume with this project
 - ssl not working in safari, silk browsers
 	- works in firefox
 	- certificate chain issue -> fixed (ssllabs.com)
 	- right now, no sni, looks like inmotion issue?
+	- waiting on check
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
