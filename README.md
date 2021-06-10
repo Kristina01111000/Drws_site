@@ -44,9 +44,6 @@ To Do:
 - ssl not working in chrome, safari, silk browsers
 	- works in firefox
 	- err cert authority invalid
-	- ask inmotion to fix it, currently can't login 
-	- password not working for me? waiting on dr w
-	- not working in safari, working in firefox 
 	- certificate chain issue
 	- finally got in! fixed csr, see if it works everywhere
 - change default user image
