@@ -46,10 +46,10 @@ To Do:
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
-- test email plugin -> set it to go out @ 4 today, 
-	- did not go out, need to check whats up
-	- figure out how to force send one, peepso confirmation email works
-	- automatic one for sign up works
+- test email plugin -> 
+	- not working, peepso problem
+	- automatic emails work
+	- figure out how to force send one
 - figure out how to get patients into it using pmp -> main focus
 	- see if there is a link system or something else
 - add picture to wordrs from dr w
