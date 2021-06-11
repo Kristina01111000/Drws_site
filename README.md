@@ -57,6 +57,7 @@ To Do:
 	- automatic one for sign up works
 - figure out how to get patients into it using pmp -> main focus
 	- see if there is a link system or something else
+- add picture to wordrs from dr w
 -  new email topics:
 	- does he want articles in monthly course? or as articles? 
 	- talk about button shape -> starburst a bad idea looks old
