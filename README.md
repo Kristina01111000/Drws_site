@@ -74,16 +74,15 @@ Need from Dr. W:
 - score card stuff(added sentence to monthly topics, need info on everything else)
 	- just an excel file i think? google doc?
 - sent email to him with what he needs to do to get site running (he says he will get back to me tomorrow)
-	- confirmation on all pictures
 	- ssl still not working right on his old computer?
-	- a video for the beginning of the front page
+	- a video for the beginning of the front page 
+	- patients page video
 	- a video for words from dr w section, do you still want one here?
 	- Do you want another picture of yourself for the  words from dr wsection? or just the video
 	- list of what month each monthly topic will be in
 	- do you have a video for the beginning of the front page
 	- do you have a video for words from dr w section, do you still want one here?
-	- i removed the login button
-	- i moved the nav bar to the left on the frontpage, and also made it scrollable, what do you think
+
 
 From Dr. W:
      
