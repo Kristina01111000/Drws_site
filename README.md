@@ -59,7 +59,7 @@ To Do:
 
 
 Need from Dr. W:
-- to check ssl on his computer
+
 - using paid membershippro 
 	- set up free account for plugin -> in his emails name, need to pay for a support license fee
 	- set up 2 groups (patients + paid) $29
@@ -70,7 +70,6 @@ Need from Dr. W:
 - score card stuff(added sentence to monthly topics, need info on everything else)
 	- just an excel file i think? google doc?
 - sent email to him with what he needs to do to get site running (he says he will get back to me tomorrow)
-	- ssl still not working right on his old computer?
 	- a video for the beginning of the front page 
 	- patients page video
 	- a video for words from dr w section, do you still want one here?
@@ -81,7 +80,7 @@ Need from Dr. W:
 
 
 From Dr. W:
-     
+     - img on him for about section
 
 
 
