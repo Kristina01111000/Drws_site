@@ -89,7 +89,10 @@ From Dr. W:
 
      - img on him for about section
      - contact from inmotion?
-	
+     - check about 2 unverified users 
+     	- jesseclade
+	- michael mer
+		
 
 
 
