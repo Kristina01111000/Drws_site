@@ -42,7 +42,7 @@ To Do:
 	- works in firefox
 	- certificate chain issue -> fixed (ssllabs.com)
 	- ssl.com says inmotion issue
-	- waiting on inmotion
+	- contacted inmotion, sent them the ssl, waiting to see if it works
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
