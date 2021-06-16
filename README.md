@@ -50,6 +50,7 @@ To Do:
 	- not working, peepso problem
 	- automatic emails work 
 		- did not work when signed up for new account
+		- check and see if it works for dr w
 	- figure out how to force send one
 - figure out how to get patients into it using pmp -> main focus
 	- see if there is a link system or something else
