@@ -48,7 +48,8 @@ To Do:
 	- explains how to do it, need to figure out the default images we want
 - test email plugin -> 
 	- not working, peepso problem
-	- automatic emails work
+	- automatic emails work 
+		- did not work when signed up for new account
 	- figure out how to force send one
 - figure out how to get patients into it using pmp -> main focus
 	- see if there is a link system or something else
