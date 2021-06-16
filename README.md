@@ -81,8 +81,10 @@ Need from Dr. W:
 
 
 From Dr. W:
-     - img on him for about section
 
+     - img on him for about section
+     - contact from inmotion?
+	
 
 
 
