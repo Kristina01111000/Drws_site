@@ -53,6 +53,7 @@ To Do:
 - figure out how to get patients into it using pmp -> main focus
 	- see if there is a link system or something else
 	- made a seperate patients page, make it so they can log in through it? and not paying members?
+	- see if possible to set pmp registration page to different groups with different pages
 - add picture to wordrs from dr w
 -  new email topics:
 	- does he want articles in monthly course? or as articles? 
