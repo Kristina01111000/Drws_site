@@ -111,3 +111,5 @@ Meeting today:
      	- so patients page will still have payment option
 	- and paid page will still have free option
 	- figure something out with emails or get a different membership plugin?
+     - did payment work?
+     	- did you get email from payment?
