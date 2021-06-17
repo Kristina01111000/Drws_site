@@ -1,7 +1,7 @@
 # Drws_site
 everything to do with dr w's wordpress site
 
- Hours worked this month: 15
+ Hours worked this month: 16
  
 plugins im using on site:
 
@@ -104,6 +104,7 @@ How does the membership plug into the registration? Is there a discount code tha
 Meeting today:
 
      - contact from inmotion? on ssl?
+     - 1099 form for payment? 16 hours this month, once a month not weekly
      - check about 2 unverified users 
      	- jesseclade
 	- michael mer
