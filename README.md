@@ -113,3 +113,4 @@ Meeting today:
 	- figure something out with emails or get a different membership plugin?
      - did payment work?
      	- did you get email from payment?
+     - just realized email might not have been working b/c i put in the wrong email
