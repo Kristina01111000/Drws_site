@@ -59,6 +59,7 @@ To Do:
 	- if not figure out how to get patients in for free and not anyone else
 - add picture to wordrs from dr w
 - make patients redirect to patient
+- fix cellphone view of menu
 -  new email topics:
 	- does he want articles in monthly course? or as articles? 
 	- talk about button shape -> starburst a bad idea looks old
