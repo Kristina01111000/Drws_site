@@ -100,3 +100,14 @@ From Dr. W:
 The green hot links work for me
 
 How does the membership plug into the registration? Is there a discount code that a patient could have to allow them to use the existent registration form, or should we have a different page that they could be linked to from an email from me?
+
+Meeting today:
+
+     - contact from inmotion? on ssl?
+     - check about 2 unverified users 
+     	- jesseclade
+	- michael mer
+     - pmp doesn't allow different registration pages
+     	- so patients page will still have payment option
+	- and paid page will still have free option
+	- figure something out with emails or get a different membership plugin?
