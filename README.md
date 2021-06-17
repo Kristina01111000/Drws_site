@@ -70,10 +70,9 @@ Need from Dr. W:
 - using paid membershippro 
 	- set up free account for plugin -> in his emails name, need to pay for a support license fee
 	- set up 2 groups (patients + paid) $29
-	- still in testing only mode, change when ready for site to open
 	- change email associated with checkout, what does he want? -> set it to admin for now
 	- check on auto generated emails from pmp
-	- ?make different url for patients group?
+	- ?make different url for patients group? -> won't work the way he wants
 - score card stuff(added sentence to monthly topics, need info on everything else)
 	- just an excel file i think? google doc?
 - sent email to him with what he needs to do to get site running (he says he will get back to me tomorrow)
