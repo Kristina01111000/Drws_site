@@ -6,9 +6,8 @@ everything to do with dr w's wordpress site
 plugins im using on site:
 
 - peepso
-	- removed video plugin (it had malware in it), maybe put back in the future 
-	- maybe remove email plugin?, it doesn't appear to add anything that we need 
-		- if it does I can't get it to work
+	- updated to include installer
+	- autoupdates not working for plugins again
 - learndash 
 - paid memberships pro
 - real simple ssl -> would upgrading fix the issue?
