@@ -18,6 +18,8 @@ plugins im using on site:
 - widget context 
 	- for choosing which pages widgets appear/ not appear on -> really like it
 
+https://www.ssllabs.com/ssltest
+
 https://web.dev/measure/:
 - resize images
 - check image loading
