@@ -60,7 +60,6 @@ To Do:
 	- see if possible to set pmp registration page to different groups with different pages
 	- if not figure out how to get patients in for free and not anyone else
 - add picture to words from dr w
-- make patients redirect to patient
 - fix cellphone view of menu
 -  new email topics:
 	- does he want articles in monthly course? or as articles? 
