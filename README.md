@@ -23,7 +23,7 @@ https://web.dev/measure/:
 - check image loading
 - server response time
 
-Currently working on Dr. W's site
+Notes:
 
 - with gecko theme in editor main background photo is set in theme -> body settings
 	- need to put separate background pictures into additional css
@@ -57,7 +57,7 @@ To Do:
 	- made a seperate patients page, make it so they can log in through it? and not paying members?
 	- see if possible to set pmp registration page to different groups with different pages
 	- if not figure out how to get patients in for free and not anyone else
-- add picture to wordrs from dr w
+- add picture to words from dr w
 - make patients redirect to patient
 - fix cellphone view of menu
 -  new email topics:
@@ -88,8 +88,8 @@ Need from Dr. W:
 From Dr. W:
 
      - img on him for about section
-     - contact from inmotion?
-     - check about 2 unverified users 
+     - contact from inmotion? they resinstalled. see if it works for him
+
 
 
 
