@@ -15,7 +15,7 @@ plugins im using on site:
 - aksimet
 - total upkeep
 - widget context 
-	- for choosing which pages widgets appear/ not appear on -> really like it
+- redirection 
 
 https://www.ssllabs.com/ssltest
 
