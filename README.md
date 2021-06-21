@@ -31,16 +31,13 @@ Notes:
 	- figure out how to make pictures scroll -> change to scroll
 		- normal pictures can just be put in using image in page builder
 - in peepso logo height has to be in px, not %
-- he uses inmotion web hosting
-- auto updates work now
-	- not wordpress itself -> probably want to keep it this way 
 - non-members cannot get access to courses, can view the headings 
  	- fixed it in learndash settings, still can't figure out peepso setting
 
 To Do:
 
 - ssl not working in safari, silk browsers
-	- contacted inmotion reinstalled, still not working in safari
+	- contacted inmotion, they reinstalled, still not working in safari
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
@@ -57,6 +54,7 @@ To Do:
 	- if not figure out how to get patients in for free and not anyone else
 - add picture to words from dr w
 - fix cellphone view of menu
+- emails for new users not being sent out
 -  new email topics:
 	- does he want articles in monthly course? or as articles? 
 	- talk about button shape -> starburst a bad idea looks old
