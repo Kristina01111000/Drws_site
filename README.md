@@ -40,10 +40,7 @@ Notes:
 To Do:
 
 - ssl not working in safari, silk browsers
-	- works in firefox
-	- certificate chain issue -> fixed (ssllabs.com)
-	- ssl.com says inmotion issue
-	- contacted inmotion, sent them the ssl, waiting to see if it works
+	- contacted inmotion reinstalled, still not working in safari
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
