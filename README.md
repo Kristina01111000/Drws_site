@@ -10,7 +10,7 @@ plugins im using on site:
 	- autoupdates not working for plugins again
 - learndash 
 - paid memberships pro
-- real simple ssl -> would upgrading fix the issue?
+- real simple ssl 
 - Forget About Shortcode button 
 - aksimet
 - total upkeep
@@ -81,15 +81,6 @@ Need from Dr. W:
 
 
 From Dr. W:
-
-     - img on him for about section
-     - contact from inmotion? they resinstalled. see if it works for him
-
-
-
-
-
-The green hot links work for me
 
 How does the membership plug into the registration? Is there a discount code that a patient could have to allow them to use the existent registration form, or should we have a different page that they could be linked to from an email from me?
 
