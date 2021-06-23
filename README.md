@@ -2,6 +2,7 @@
 everything to do with dr w's wordpress site
 
  Hours worked this month: 16
+ Hours worked this month: 2
  
 plugins im using on site:
 
