@@ -7,10 +7,10 @@ everything to do with dr w's wordpress site
 plugins im using on site:
 
 - peepso
-	- updated to include installer
+	- updated included installer, easy to add new plugins
 	- autoupdates not working for plugins again
 - learndash 
-- paid memberships pro
+- paid memberships pro -> issues, maybe need different membership plugin
 - real simple ssl 
 - Forget About Shortcode button 
 - aksimet
