@@ -47,12 +47,12 @@ To Do:
 		- did not work when signed up for new account
 		- check and see if it works for dr w
 	- figure out how to force send one
+	- no emails working
 - figure out how to get patients into it using pmp -> main focus
-	- see if there is a link system or something else
 	- made a seperate patients page, make it so they can log in through it? and not paying members?
-	- see if possible to set pmp registration page to different groups with different pages
-	- if not figure out how to get patients in for free and not anyone else
-	- enabled pmp in peepso -> does this fix problem?
+	- see if possible to set pmp registration page to different groups with different pages -> no
+	- if not figure out how to get patients in for free and not anyone else -> easy
+	- enabled pmp in peepso -> does this fix problem? -> part of it
 	- email not sent out, but choice allowed when signing in
 - add picture to words from dr w
 - fix cellphone view of menu
