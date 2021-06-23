@@ -57,7 +57,6 @@ To Do:
 	- if not figure out how to get patients in for free and not anyone else -> easy
 	- enabled pmp in peepso -> does this fix problem? -> part of it
 	- email not sent out, but choice allowed when signing in
-- add picture to words from dr w
 - fix cellphone view of menu
 - emails for new users not being sent out
 -  new email topics:
@@ -79,8 +78,7 @@ Need from Dr. W:
 	- a video for the beginning of the front page 
 	- patients page video
 	- a video for words from dr w section, do you still want one here?
-	- Do you want another picture of yourself for the  words from dr wsection? or just the video
-	- list of what month each monthly topic will be in
+	-  list of what month each monthly topic will be in
 	- do you have a video for the beginning of the front page
 	- do you have a video for words from dr w section, do you still want one here?
 
