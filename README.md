@@ -53,6 +53,7 @@ To Do:
 	- see if possible to set pmp registration page to different groups with different pages
 	- if not figure out how to get patients in for free and not anyone else
 	- enabled pmp in peepso -> does this fix problem?
+	- email not sent out, but choice allowed when signing in
 - add picture to words from dr w
 - fix cellphone view of menu
 - emails for new users not being sent out
