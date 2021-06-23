@@ -16,6 +16,7 @@ plugins im using on site:
 - total upkeep
 - widget context 
 - redirection 
+	- for patients page, remove if patients page is removed
 
 https://www.ssllabs.com/ssltest
 
