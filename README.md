@@ -52,6 +52,7 @@ To Do:
 	- made a seperate patients page, make it so they can log in through it? and not paying members?
 	- see if possible to set pmp registration page to different groups with different pages
 	- if not figure out how to get patients in for free and not anyone else
+	- enabled pmp in peepso -> does this fix problem?
 - add picture to words from dr w
 - fix cellphone view of menu
 - emails for new users not being sent out
