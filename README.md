@@ -48,6 +48,7 @@ To Do:
 		- check and see if it works for dr w
 	- figure out how to force send one
 	- no emails working
+	- force accepting user in wp doesn't work
 - figure out how to get patients into it using pmp -> main focus
 	- made a seperate patients page, make it so they can log in through it? and not paying members?
 	- see if possible to set pmp registration page to different groups with different pages -> no
