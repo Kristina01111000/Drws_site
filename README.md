@@ -80,7 +80,7 @@ Need from Dr. W:
 	- a video for words from dr w section, do you still want one here?
 	-  list of what month each monthly topic will be in
 	- do you have a video for the beginning of the front page
-	- do you have a video for words from dr w section, do you still want one here?
+	- do you have a video for words from dr w section, do you still want one here? -> added a picture instead
 
 
 From Dr. W:
