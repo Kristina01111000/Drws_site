@@ -125,3 +125,8 @@ New Call:
 - older apple products arent getting ssl
 - remove option to pay with credit card 
 - set code for current patients
+- fix spacing and color of buttons
+- try to make smiley face bigger, if not add it back onto line
+- add 4 element stor video somewhere in member page 
+	- sidebar? header? where should it go? in best place i think of
+- 
