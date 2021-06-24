@@ -123,3 +123,4 @@ New Call:
 - email works for dr w account
 - older apple products arent getting ssl
 - remove option to pay with credit card 
+- set code for current patients
