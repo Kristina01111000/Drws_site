@@ -113,3 +113,13 @@ Meeting today:
 	- GET ONE EVERY OTHER WEEK FROM LEARN DASH
 	
 	- next phone call friday @ 11
+
+
+
+
+New Call:
+
+- add peepso admin for email issue
+- email works for dr w account
+- older apple products arent getting ssl
+- remove option to pay with credit card 
