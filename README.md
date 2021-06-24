@@ -113,11 +113,6 @@ Meeting today:
 	- ALWAYS SEE THEM ON THE SITE
 	- GET ONE EVERY OTHER WEEK FROM LEARN DASH
 	
-	- next phone call friday @ 11
-
-
-
-
 New Call:
 
 - add peepso admin for email issue
@@ -129,4 +124,4 @@ New Call:
 - try to make smiley face bigger, if not add it back onto line
 - add 4 element stor video somewhere in member page 
 	- sidebar? header? where should it go? in best place i think of
-- 
+- next call either thurs or fri
