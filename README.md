@@ -46,14 +46,8 @@ To Do:
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
 - test email plugin -> 
-	- not working, peepso problem
-	- automatic emails do not work 
-		- did not work when signed up for new account
-		- check and see if it works for dr w
-	- figure out how to force send one
-	- no emails working
-	- force accepting user in wp also doesn't work
-	- checking on peepso documentation
+	- waiting 24 hours to see if email plugin works 
+	- automatic emails are working
 - figure out how to get patients into it using pmp -> main focus
 	- made a seperate patients page, make it so they can log in through it? and not paying members?
 	- see if possible to set pmp registration page to different groups with different pages -> no
@@ -119,7 +113,7 @@ New Call:
 - email works for dr w account
 - older apple products arent getting ssl
 - remove option to pay with credit card 
-- set code for current patients
+- set coupn code for current patients
 - fix spacing and color of buttons
 - try to make smiley face bigger, if not add it back onto line
 - add 4 element stor video somewhere in member page 
