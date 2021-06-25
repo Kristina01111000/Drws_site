@@ -121,4 +121,5 @@ Next Call:
 
 - next call either thurs or fri
 - set coupon code for current patients code is patient, can be anything
+	- test with new member 
 
