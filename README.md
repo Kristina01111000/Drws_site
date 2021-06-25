@@ -49,13 +49,8 @@ To Do:
 	- waiting 24 hours to see if email plugin works 
 	- automatic emails are working
 - figure out how to get patients into it using pmp -> main focus
-	- made a seperate patients page, make it so they can log in through it? and not paying members?
-	- see if possible to set pmp registration page to different groups with different pages -> no
-	- if not figure out how to get patients in for free and not anyone else -> easy
-	- enabled pmp in peepso -> does this fix problem? -> part of it
-	- email not sent out, but choice allowed when signing in
+	- set patients code in new members
 - fix cellphone view of menu
-- emails for new users not being sent out
 -  new email topics:
 	- does he want articles in monthly course? or as articles? 
 	- talk about button shape -> starburst a bad idea looks old
