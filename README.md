@@ -11,14 +11,14 @@ plugins im using on site:
 	- updated included installer, easy to add new plugins
 	- autoupdates not working for plugins again
 - learndash 
-- paid memberships pro -> issues, maybe need different membership plugin
+- paid memberships pro
 - real simple ssl 
 - Forget About Shortcode button 
 - aksimet
 - total upkeep
 - widget context 
 - redirection 
-	- for patients page, remove if patients page is removed
+	- for patients page, remove if patients page is removed -> might remove it
 
 https://www.ssllabs.com/ssltest
 
@@ -68,11 +68,8 @@ Need from Dr. W:
 	- just an excel file i think? google doc?
 - sent email to him with what he needs to do to get site running (he says he will get back to me tomorrow)
 	- a video for the beginning of the front page 
-	- patients page video
-	- a video for words from dr w section, do you still want one here?
+	- patients page video ????
 	-  list of what month each monthly topic will be in
-	- do you have a video for the beginning of the front page
-	- do you have a video for words from dr w section, do you still want one here? -> added a picture instead
 
 
 From Dr. W:
