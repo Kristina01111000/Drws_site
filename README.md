@@ -112,8 +112,7 @@ New Call:
 - add peepso admin for email issue
 - email works for dr w account
 - older apple products arent getting ssl
-- remove option to pay with credit card 
-- set coupn code for current patients
+- set coupon code for current patients
 - fix spacing and color of buttons
 - try to make smiley face bigger, if not add it back onto line
 - add 4 element stor video somewhere in member page 
