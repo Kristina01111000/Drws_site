@@ -81,15 +81,8 @@ Meeting today:
      - contact from inmotion? on ssl? SENT FILES TO INMOTION
      - 1099 form for payment? 16 hours this month, once a month not weekly NEXT WEEK
 
-     - pmp doesn't allow different registration pages
-     	- so patients page will still have payment option
-	- and paid page will still have free option
-	- figure something out with emails or get a different membership plugin?
-	- FIGURE OUT ANOTHER WAY OTHER THAN EMAILS FOR PATIENTS
      - did payment work?
      	- did you get email from payment? NO, NO PAYMENT OR LOGIN EMAIL
-	-ADD CURRENT PATIENTS GROUP FOR PEEPSO IN PMP DR.W'S PATIENTS
-	- HIDDEN TO PEOPLE NOT IN IT
 	
 	- THINK ABOUT A GROUP FOR MAILING LIST, SEE IF PEEPSO LETS YOU DO IT BY USER CHOICE
 	- GOOGLE DOC AND PDF FOR SCORECARD 
