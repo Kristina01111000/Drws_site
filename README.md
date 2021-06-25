@@ -48,8 +48,8 @@ To Do:
 - test email plugin -> 
 	- waiting 24 hours to see if email plugin works 
 	- automatic emails are working
-- figure out how to get patients into it using pmp -> main focus
-	- set patients code in new members
+- figure out how to get patients into it using pmp 
+	- set patients code in new members section
 - fix cellphone view of menu
 -  new email topics:
 	- does he want articles in monthly course? or as articles? 
@@ -107,4 +107,5 @@ Next Call:
 - next call either thurs or fri
 - set coupon code for current patients code is patient, can be anything
 	- test with new member 
+- fixed payemnt so no credit cards
 
