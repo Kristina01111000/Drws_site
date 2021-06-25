@@ -112,9 +112,13 @@ New Call:
 - add peepso admin for email issue
 - email works for dr w account
 - older apple products arent getting ssl
-- set coupon code for current patients
 - fix spacing and color of buttons
 - try to make smiley face bigger, if not add it back onto line
 - add 4 element stor video somewhere in member page 
 	- sidebar? header? where should it go? in best place i think of
+
+Next Call:
+
 - next call either thurs or fri
+- set coupon code for current patients code is patient, can be anything
+
