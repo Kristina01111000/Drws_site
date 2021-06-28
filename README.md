@@ -1,7 +1,7 @@
 # Drws_site
 everything to do with dr w's wordpress site
 
- Hours worked this month: 16
+ Hours worked 16 may to 16 june: 16
  
  Hours worked this month: 4
  
