@@ -81,10 +81,8 @@ Meeting today:
      - contact from inmotion? on ssl? SENT FILES TO INMOTION
      - 1099 form for payment? 16 hours this month, once a month not weekly NEXT WEEK
 
-	
-	- THINK ABOUT A GROUP FOR MAILING LIST, SEE IF PEEPSO LETS YOU DO IT BY USER CHOICE
 	- GOOGLE DOC AND PDF FOR SCORECARD 
-		- MAKE PAGE THAT HAS INSTRUCTIONS THEN LINK TO GOOGLE DOC AND DOWNLOAD FOR EXCEL SHEET
+		- MAKE PAGE THAT HAS INSTRUCTIONS THEN LINK TO GOOGLE DOC AND DOWNLOAD FOR EXCEL SHEET?
 
 	- MONTHLY TOPIC, ENTIRE THING IN EMAIL, EVERY WEEK MAYBE
 	- ALWAYS SEE THEM ON THE SITE
@@ -93,7 +91,6 @@ Meeting today:
 New Call:
 
 - add peepso admin for email issue
-- email works for dr w account
 - older apple products arent getting ssl
 - fix spacing and color of buttons
 - try to make smiley face bigger, if not add it back onto line
@@ -107,3 +104,4 @@ Next Call:
 	- test with new member 
 - fixed payemnt so no credit cards
 - different picture of him for front page?
+- send over scorecard
