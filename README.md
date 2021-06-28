@@ -81,8 +81,6 @@ Meeting today:
      - contact from inmotion? on ssl? SENT FILES TO INMOTION
      - 1099 form for payment? 16 hours this month, once a month not weekly NEXT WEEK
 
-     - did payment work?
-     	- did you get email from payment? NO, NO PAYMENT OR LOGIN EMAIL
 	
 	- THINK ABOUT A GROUP FOR MAILING LIST, SEE IF PEEPSO LETS YOU DO IT BY USER CHOICE
 	- GOOGLE DOC AND PDF FOR SCORECARD 
