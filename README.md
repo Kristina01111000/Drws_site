@@ -106,4 +106,4 @@ Next Call:
 - set coupon code for current patients code is patient, can be anything
 	- test with new member 
 - fixed payemnt so no credit cards
-
+- different picture of him for front page?
