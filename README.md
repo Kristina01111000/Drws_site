@@ -92,6 +92,7 @@ New Call:
 
 - add peepso admin for email issue
 - older apple products arent getting ssl
+	- ask ssl support, busy when i tried
 - fix spacing and color of buttons
 - try to make smiley face bigger, if not add it back onto line
 - add 4 element stor video somewhere in member page 
