@@ -44,6 +44,7 @@ To Do:
 	- contacted inmotion again, recheck with ssl company if still not working tomorrow
 	- ssl company says "It is not resolving the intermediate certificates."
 	- inmotion says rekeying it should work
+	- rekeyed it, re private keyed it, re csred it 
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
