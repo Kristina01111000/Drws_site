@@ -105,6 +105,7 @@ Next Call:
 - next call either thurs or fri
 - set coupon code for current patients code is patient, can be anything
 	- test with new member 
-- fixed payemnt so no credit cards
+- fixed payment so no credit cards
 - different picture of him for front page?
 - send over scorecard
+- ssl issue still onging -> inmotion blaming on ssl, ssl blaming on inmotion
