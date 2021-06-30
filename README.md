@@ -109,3 +109,4 @@ Next Call:
 - different picture of him for front page?
 - send over scorecard
 - ssl issue still onging -> inmotion blaming on ssl, ssl blaming on inmotion
+- button randomly being added to front page, accident?
