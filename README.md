@@ -3,7 +3,7 @@ everything to do with dr w's wordpress site
 
  Hours worked 16 may to 16 june: 16
  
- Hours worked this month: 4
+ Hours worked this month: 7
  
 plugins im using on site:
 
