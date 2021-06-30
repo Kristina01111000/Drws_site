@@ -45,6 +45,7 @@ To Do:
 	- ssl company says "It is not resolving the intermediate certificates."
 	- inmotion says rekeying it should work
 	- rekeyed it, re private keyed it, re csred it 
+	- silk still not working -> go daddy certificate causing problems?
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
