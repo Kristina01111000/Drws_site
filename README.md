@@ -112,3 +112,8 @@ Next Call:
 	- put in left sidebar seperately 
 	- take screen grab of thumbnail for picture at bottom
 - does he want receipt in email or on paper?
+
+
+
+New: 
+- add logout button back to menu
