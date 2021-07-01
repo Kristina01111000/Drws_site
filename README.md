@@ -109,3 +109,4 @@ Next Call:
 - ssl issue still onging -> inmotion blaming on ssl, ssl blaming on inmotion
 - button randomly being added to front page, accident?
 - added 4 element story video in sidebar
+- does he want receipt in email or on paper?
