@@ -97,8 +97,6 @@ New Call:
 - add peepso admin for email issue
 - older apple products arent getting ssl
 	- ask ssl support, busy when i tried
-- add 4 element stor video somewhere in member page 
-	- sidebar? header? where should it go? in best place i think of
 
 Next Call:
 
@@ -110,3 +108,4 @@ Next Call:
 - send over scorecard
 - ssl issue still onging -> inmotion blaming on ssl, ssl blaming on inmotion
 - button randomly being added to front page, accident?
+- added 4 element story video in sidebar
