@@ -110,4 +110,5 @@ Next Call:
 - button randomly being added to front page, accident?
 - added 4 element story video in sidebar
 	- put in left sidebar seperately 
+	- take screen grab of thumbnail for picture at bottom
 - does he want receipt in email or on paper?
