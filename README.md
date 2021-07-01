@@ -101,16 +101,9 @@ New Call:
 Next Call:
 
 - next call either thurs or fri
-- set coupon code for current patients code is patient, can be anything
-	- test with new member 
-- fixed payment so no credit cards
 - different picture of him for front page?
 - send over scorecard
 - ssl issue still onging -> inmotion blaming on ssl, ssl blaming on inmotion
-- added 4 element story video in sidebar
-	- put in left sidebar seperately 
-	- take screen grab of thumbnail for picture at bottom
-- does he want receipt in email or on paper?
 
 
 
@@ -118,3 +111,6 @@ New:
 - add logout button back to menu
 - add cancel course early section to page and get prior month free
 - fine tune new button, side bar description
+- added 4 element story video in sidebar
+	- put in left sidebar seperately 
+	- take screen grab of thumbnail for picture at bottom
