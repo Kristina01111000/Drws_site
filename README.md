@@ -107,7 +107,6 @@ Next Call:
 - different picture of him for front page?
 - send over scorecard
 - ssl issue still onging -> inmotion blaming on ssl, ssl blaming on inmotion
-- button randomly being added to front page, accident?
 - added 4 element story video in sidebar
 	- put in left sidebar seperately 
 	- take screen grab of thumbnail for picture at bottom
@@ -117,3 +116,5 @@ Next Call:
 
 New: 
 - add logout button back to menu
+- add cancel course early section to page and get prior month free
+- fine tune new button, side bar description
