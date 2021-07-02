@@ -3,7 +3,7 @@ everything to do with dr w's wordpress site
 
  Hours worked 16 may to 16 june: 16 -> invoice sent
  
- Hours worked this month: 8
+ Hours worked this month: 9
  
 plugins im using on site:
 
@@ -104,6 +104,7 @@ Next Call:
 - different picture of him for front page?
 - send over scorecard
 - ssl issue still onging -> inmotion blaming on ssl, ssl blaming on inmotion
+	- certificate using old ip address, needs to be deleted from that server and it will use inmotion 
 
 
 
