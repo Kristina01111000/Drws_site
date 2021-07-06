@@ -107,3 +107,7 @@ New:
 - fine tune new button, side bar description
 - added 4 element story video in sidebar
 	- fine tune side bar description
+
+
+next call:
+- where does he want the log out section? on header and right sidebar remove one?
