@@ -9,7 +9,7 @@ plugins im using on site:
 
 - peepso
 	- updated included installer, easy to add new plugins
-	- autoupdates work for plugins not theme
+	- autoupdates need to be enabled every time they are updated
 - learndash 
 - paid memberships pro
 - real simple ssl 
