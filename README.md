@@ -45,6 +45,8 @@ To Do:
 	- inmotion says rekeying it should work
 	- rekeyed it, re private keyed it, re csred it 
 	- silk still not working -> go daddy certificate causing problems?
+	- ssl issue still onging -> inmotion blaming on ssl, ssl blaming on inmotion
+	- certificate using old ip address, needs to be deleted from that server and it will use inmotion 
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
@@ -92,9 +94,6 @@ Next Call:
 
 - different picture of him for front page?
 - send over scorecard
-- ssl issue still onging -> inmotion blaming on ssl, ssl blaming on inmotion
-	- certificate using old ip address, needs to be deleted from that server and it will use inmotion 
-
 
 
 New: 
