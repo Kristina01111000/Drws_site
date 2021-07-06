@@ -83,15 +83,13 @@ Meeting today:
 	- ALWAYS SEE THEM ON THE SITE
 	- GET ONE EVERY OTHER WEEK FROM LEARN DASH
 	
-New Call:
+Still Check:
 
-- add peepso admin for email issue
-- older apple products arent getting ssl
-	- ask ssl support, busy when i tried
+-  peepso  for email issue
+
 
 Next Call:
 
-- next call either thurs or fri
 - different picture of him for front page?
 - send over scorecard
 - ssl issue still onging -> inmotion blaming on ssl, ssl blaming on inmotion
