@@ -103,7 +103,6 @@ Next Call:
 
 
 New: 
-- add logout button back to menu
 - add cancel course early section to page and get prior month free
 - fine tune new button, side bar description
 - added 4 element story video in sidebar
