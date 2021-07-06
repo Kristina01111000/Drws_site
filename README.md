@@ -61,6 +61,7 @@ Need from Dr. W:
 
 - using paid membershippro 
 	- patients code for membership, only one way to work
+	-  discount code that a patient get to allow them to use the existent registration form
 - score card stuff(added sentence to monthly topics, need info on everything else)
 	- just an excel file i think? google doc?
 - sent email to him with what he needs to do to get site running (he says he will get back to me tomorrow)
@@ -71,12 +72,9 @@ Need from Dr. W:
 
 From Dr. W:
 
-How does the membership plug into the registration? Is there a discount code that a patient could have to allow them to use the existent registration form, or should we have a different page that they could be linked to from an email from me?
 
 Meeting today:
 
-     - contact from inmotion? on ssl? SENT FILES TO INMOTION
-     - 1099 form for payment? 16 hours this month, once a month not weekly NEXT WEEK
 
 	- GOOGLE DOC AND PDF FOR SCORECARD 
 		- MAKE PAGE THAT HAS INSTRUCTIONS THEN LINK TO GOOGLE DOC AND DOWNLOAD FOR EXCEL SHEET?
