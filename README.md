@@ -56,8 +56,6 @@ To Do:
 - fix cellphone view of menu
 -  new email topics:
 	- does he want articles in monthly course? or as articles? 
-	- talk about button shape -> starburst a bad idea looks old
-
 
 Need from Dr. W:
 
@@ -68,9 +66,6 @@ Need from Dr. W:
 	- just an excel file i think? google doc?
 - sent email to him with what he needs to do to get site running (he says he will get back to me tomorrow)
 	- a video for the beginning of the front page 
-	- patients page video ????
-	-  list of what month each monthly topic will be in
-
 
 From Dr. W:
 
