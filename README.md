@@ -17,8 +17,7 @@ plugins im using on site:
 - aksimet
 - total upkeep
 - widget context 
-- redirection 
-	- for patients page, remove if patients page is removed -> might remove it
+- redirection -> removed it, not needed anymore
 
 https://www.ssllabs.com/ssltest
 
