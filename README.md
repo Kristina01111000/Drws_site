@@ -3,7 +3,7 @@ everything to do with dr w's wordpress site
 
  Hours worked 16 may to 16 june: 16 -> invoice sent
  
- Hours worked this month: 9
+ Hours worked this month: 10
  
 plugins im using on site:
 
@@ -52,8 +52,6 @@ To Do:
 - test email plugin -> 
 	- waiting 24 hours to see if email plugin works 
 	- automatic emails are working
-- figure out how to get patients into it using pmp 
-	- set patients code in new members section
 - fix cellphone view of menu
 -  new email topics:
 	- does he want articles in monthly course? or as articles? 
@@ -63,11 +61,7 @@ To Do:
 Need from Dr. W:
 
 - using paid membershippro 
-	- set up free account for plugin -> in his emails name, need to pay for a support license fee
-	- set up 2 groups (patients + paid) $29
-	- change email associated with checkout, what does he want? -> set it to admin for now
-	- check on auto generated emails from pmp
-	- ?make different url for patients group? -> won't work the way he wants
+	- patients code for membership, only one way to work
 - score card stuff(added sentence to monthly topics, need info on everything else)
 	- just an excel file i think? google doc?
 - sent email to him with what he needs to do to get site running (he says he will get back to me tomorrow)
