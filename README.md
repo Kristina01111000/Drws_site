@@ -55,6 +55,7 @@ To Do:
 	- waiting 24 hours to see if email plugin works 
 	- automatic emails are working
 - fix cellphone view of menu
+- remove the extra group from membership
 -  new email topics:
 	- does he want articles in monthly course? or as articles? 
 
