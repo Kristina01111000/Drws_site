@@ -63,19 +63,13 @@ Need from Dr. W:
 - using paid membershippro 
 	- patients code for membership, only one way to work
 	-  discount code that a patient get to allow them to use the existent registration form
-- score card stuff(added sentence to monthly topics, need info on everything else)
-	- just an excel file i think? google doc?
-- sent email to him with what he needs to do to get site running (he says he will get back to me tomorrow)
-	- a video for the beginning of the front page 
+
 
 From Dr. W:
 
 
 Meeting today:
 
-
-	- GOOGLE DOC AND PDF FOR SCORECARD 
-		- MAKE PAGE THAT HAS INSTRUCTIONS THEN LINK TO GOOGLE DOC AND DOWNLOAD FOR EXCEL SHEET?
 
 	- MONTHLY TOPIC, ENTIRE THING IN EMAIL, EVERY WEEK MAYBE
 	- ALWAYS SEE THEM ON THE SITE
@@ -101,3 +95,5 @@ New:
 
 next call:
 - where does he want the log out section? on header and right sidebar remove one?
+- google doc for scorecard? Send it over
+	- MAKE PAGE THAT HAS INSTRUCTIONS THEN LINK TO GOOGLE DOC AND DOWNLOAD FOR EXCEL SHEET?
