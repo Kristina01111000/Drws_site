@@ -98,3 +98,4 @@ next call:
 - where does he want the log out section? on header and right sidebar remove one?
 - google doc for scorecard? Send it over
 	- MAKE PAGE THAT HAS INSTRUCTIONS THEN LINK TO GOOGLE DOC AND DOWNLOAD FOR EXCEL SHEET?
+- discount code for patients works
