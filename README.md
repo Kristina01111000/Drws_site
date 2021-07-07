@@ -58,6 +58,7 @@ To Do:
 - remove the extra group from membership
 -  new email topics:
 	- does he want articles in monthly course? or as articles? 
+- emails every week? multiple times a week?
 
 Need from Dr. W:
 
@@ -69,13 +70,6 @@ Need from Dr. W:
 From Dr. W:
 
 
-Meeting today:
-
-
-	- MONTHLY TOPIC, ENTIRE THING IN EMAIL, EVERY WEEK MAYBE
-	- ALWAYS SEE THEM ON THE SITE
-	- GET ONE EVERY OTHER WEEK FROM LEARN DASH
-	
 Still Check:
 
 -  peepso  for email issue
