@@ -85,7 +85,7 @@ New:
 
 
 next call:
-- where does he want the log out section? on header and right sidebar remove one?
+- where does he want the log out section?  right sidebar 
 - google doc for scorecard? Send it over
 	- MAKE PAGE THAT HAS INSTRUCTIONS THEN LINK TO GOOGLE DOC AND DOWNLOAD FOR EXCEL SHEET?
 - discount code for patients works
@@ -93,7 +93,10 @@ next call:
 - send over scorecard
 - does he have the front page video
 - ssl back and forth
+- 
 Next Call:
 
--
+- he's going to call godaddy
+- remove from right sidebar 4 element
+- fix left sidebar problem (not showing up)
 
