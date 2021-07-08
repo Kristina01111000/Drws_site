@@ -102,5 +102,5 @@ Next Call:
 - fix scroll of sidebar lock left
 - score card image?
 - change "dr.w patient"
-	-try the . and ' ' 
+	-try the . and ' ' password
 
