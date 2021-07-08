@@ -86,15 +86,10 @@ New:
 
 next call:
 - where does he want the log out section?  right sidebar 
-- google doc for scorecard? Send it over
-	- MAKE PAGE THAT HAS INSTRUCTIONS THEN LINK TO GOOGLE DOC AND DOWNLOAD FOR EXCEL SHEET?
-- discount code for patients works
 - different picture of him for front page?
-- send over scorecard
-- does he have the front page video
-- ssl back and forth
+- does he have the front page video -> still working on it
 - 
-Next Call:
+Current Notes:
 
 - he's going to call godaddy
 - remove from right sidebar 4 element
@@ -106,3 +101,4 @@ Next Call:
 - get rid of credit card link on payment (or see if it forces paypal)
 - more elegant scorecard?
 	- make it more user friendly
+	- MAKE PAGE THAT HAS INSTRUCTIONS THEN LINK TO GOOGLE DOC AND DOWNLOAD FOR EXCEL SHEET?
