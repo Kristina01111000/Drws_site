@@ -3,7 +3,7 @@ everything to do with dr w's wordpress site
 
  Hours worked 16 may to 16 june: 16 -> invoice sent
  
- Hours worked this month: 10
+ Hours worked this month: 11
  
 plugins im using on site:
 
@@ -105,3 +105,4 @@ Next Call:
 	-try the . and ' ' password
 - get rid of credit card link on payment (or see if it forces paypal)
 - more elegant scorecard?
+	- make it more user friendly
