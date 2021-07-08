@@ -99,5 +99,8 @@ Next Call:
 - he's going to call godaddy
 - remove from right sidebar 4 element
 - fix left sidebar problem (not showing up)
-- fix scroll of sidebar
+- fix scroll of sidebar lock left
+- score card image?
+- change "dr.w patient"
+	-try the . and ' ' 
 
