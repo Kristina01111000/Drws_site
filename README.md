@@ -91,7 +91,8 @@ next call:
 - discount code for patients works
 - different picture of him for front page?
 - send over scorecard
-- 
+- does he have the front page video
+- ssl back and forth
 Next Call:
 
 -
