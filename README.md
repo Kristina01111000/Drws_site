@@ -104,3 +104,4 @@ Next Call:
 - change "dr.w patient"
 	-try the . and ' ' password
 - get rid of credit card link on payment (or see if it forces paypal)
+- more elegant scorecard?
