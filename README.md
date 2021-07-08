@@ -75,15 +75,11 @@ Still Check:
 -  peepso  for email issue
 
 
-Next Call:
-
-- different picture of him for front page?
-- send over scorecard
 
 
 New: 
 - add cancel course early section to page and get prior month free
-- fine tune new button, side bar description
+- fine tune new button description
 - added 4 element story video in sidebar
 	- fine tune side bar description
 
@@ -93,3 +89,10 @@ next call:
 - google doc for scorecard? Send it over
 	- MAKE PAGE THAT HAS INSTRUCTIONS THEN LINK TO GOOGLE DOC AND DOWNLOAD FOR EXCEL SHEET?
 - discount code for patients works
+- different picture of him for front page?
+- send over scorecard
+- 
+Next Call:
+
+-
+
