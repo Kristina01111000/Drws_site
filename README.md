@@ -84,8 +84,6 @@ Current Notes:
 
 - he's going to call godaddy
 - score card image?
-- change "dr.w patient"
-	-try the . and ' ' password
 - get rid of credit card link on payment (or see if it forces paypal)
 - more elegant scorecard?
 	- make it more user friendly
@@ -97,3 +95,6 @@ Next Call:
 - 
 - different picture of him for front page?
 - does he have the front page video -> still working on it
+
+- changed "dr.w patient"
+	- the . and ' ' password was auto changed to DrWspatient
