@@ -98,3 +98,4 @@ Next Call:
 
 - changed "dr.w patient"
 	- the . and ' ' password was auto changed to DrWspatient
+	- ' ' and . removed by pmp
