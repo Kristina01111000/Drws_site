@@ -92,7 +92,6 @@ next call:
 Current Notes:
 
 - he's going to call godaddy
-- remove from right sidebar 4 element
 - fix left sidebar problem (not showing up)
 - fix scroll of sidebar lock left
 - score card image?
