@@ -80,16 +80,10 @@ Still Check:
 New: 
 - add cancel course early section to page and get prior month free
 - fine tune new button description
-- added 4 element story video in sidebar
-	- fine tune side bar description
-
-
-next call:
-
-- where does he want the log out section?  right sidebar 
 - different picture of him for front page?
 - does he have the front page video -> still working on it
-- 
+
+
 Current Notes:
 
 - he's going to call godaddy
