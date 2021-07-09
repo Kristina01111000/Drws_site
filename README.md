@@ -93,8 +93,6 @@ next call:
 Current Notes:
 
 - he's going to call godaddy
-- fix left sidebar problem (not showing up)
-- fix scroll of sidebar lock left
 - score card image?
 - change "dr.w patient"
 	-try the . and ' ' password
