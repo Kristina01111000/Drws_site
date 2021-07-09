@@ -85,6 +85,7 @@ New:
 
 
 next call:
+
 - where does he want the log out section?  right sidebar 
 - different picture of him for front page?
 - does he have the front page video -> still working on it
@@ -101,3 +102,7 @@ Current Notes:
 - more elegant scorecard?
 	- make it more user friendly
 	- MAKE PAGE THAT HAS INSTRUCTIONS THEN LINK TO GOOGLE DOC AND DOWNLOAD FOR EXCEL SHEET?
+
+Next Call:
+
+- made right sidebar wider, does he prefer that?
