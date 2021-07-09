@@ -80,8 +80,6 @@ Still Check:
 New: 
 - add cancel course early section to page and get prior month free
 - fine tune new button description
-- different picture of him for front page?
-- does he have the front page video -> still working on it
 
 
 Current Notes:
@@ -98,3 +96,6 @@ Current Notes:
 Next Call:
 
 - made right sidebar wider, does he prefer that?
+- 
+- different picture of him for front page?
+- does he have the front page video -> still working on it
