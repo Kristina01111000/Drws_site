@@ -83,6 +83,7 @@ New:
 Current Notes:
 
 - he's going to call godaddy
+	- still not working correctly
 - score card image?
 - get rid of credit card link on payment (or see if it forces paypal)
 - more elegant scorecard?
