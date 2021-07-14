@@ -63,6 +63,8 @@ To Do:
 	- add it to a google document
 	- add directions to copy it
 	- make directions make sense
+- check to see if all pages are removed if they aren't supposed to be there still
+
 
 Need from Dr. W:
 
