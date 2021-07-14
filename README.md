@@ -62,6 +62,7 @@ To Do:
 	- link to side bar
 	- add it to a google document
 	- add directions to copy it
+	- make directions make sense
 
 Need from Dr. W:
 
