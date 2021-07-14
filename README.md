@@ -60,6 +60,8 @@ To Do:
 - emails every week? multiple times a week?
 - make the score card page
 	- link to side bar
+	- add it to a google document
+	- add directions to copy it
 
 Need from Dr. W:
 
