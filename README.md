@@ -59,6 +59,7 @@ To Do:
 	- does he want articles in monthly course? or as articles? 
 - emails every week? multiple times a week?
 - make the score card page
+	- link to side bar
 
 Need from Dr. W:
 
