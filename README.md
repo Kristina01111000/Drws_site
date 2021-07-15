@@ -93,6 +93,7 @@ Current Notes:
 	- still not working correctly
 - score card image?
 - get rid of credit card link on payment (or see if it forces paypal)
+	- check it, get paid for what i put in
 - more elegant scorecard?
 	- make it more user friendly
 	- MAKE PAGE THAT HAS INSTRUCTIONS THEN LINK TO GOOGLE DOC AND DOWNLOAD FOR EXCEL SHEET?
