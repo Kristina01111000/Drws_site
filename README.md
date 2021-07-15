@@ -39,13 +39,6 @@ Notes:
 To Do:
 
 - ssl not working in safari, silk browsers
-	- contacted inmotion, they reinstalled, still not working in safari
-	- contacted inmotion again, recheck with ssl company if still not working tomorrow
-	- ssl company says "It is not resolving the intermediate certificates."
-	- inmotion says rekeying it should work
-	- rekeyed it, re private keyed it, re csred it 
-	- silk still not working -> go daddy certificate causing problems?
-	- ssl issue still onging -> inmotion blaming on ssl, ssl blaming on inmotion
 	- certificate using old ip address, needs to be deleted from that server and it will use inmotion 
 	- waiting on passwords/ usernames etc. 
 	- he is taking the lead on this
