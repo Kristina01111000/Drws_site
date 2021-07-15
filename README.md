@@ -102,3 +102,4 @@ Next Call:
 - changed "dr.w patient"
 	- the . and ' ' password was auto changed to DrWspatient
 	- ' ' and . removed by pmp
+	-  we don't want a hard to remember passcode or hard to type in
