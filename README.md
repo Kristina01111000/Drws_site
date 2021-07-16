@@ -55,7 +55,7 @@ To Do:
 - score card page
 	- add it to a google document
 	- add directions to copy it
-	- go over text to see if there are mistakes
+	- go over text to see if there are mistakes, make user friendly
 	- add image in word document to page
 - check to see if all pages are removed if they aren't supposed to be there still
 
@@ -85,13 +85,8 @@ Current Notes:
 
 - he's going to call godaddy
 	- still not working correctly
-- score card image?
 - get rid of credit card link on payment (or see if it forces paypal)
 	- check it, get paid for what i put in
-- more elegant scorecard?
-	- make it more user friendly
-	- MAKE PAGE THAT HAS INSTRUCTIONS THEN LINK TO GOOGLE DOC AND DOWNLOAD FOR EXCEL SHEET?
-
 Next Call:
 
 - made right sidebar wider, does he prefer that?
