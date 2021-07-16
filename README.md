@@ -83,7 +83,7 @@ New:
 Current Notes:
 
 - he's going to call godaddy
-	- still not working correctly
+	- still not working correctly as of 7/16/21
 - get rid of credit card link on payment (or see if it forces paypal)
 	- check it, get paid for what i put in
 Next Call:
