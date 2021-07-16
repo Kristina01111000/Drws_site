@@ -84,6 +84,7 @@ Current Notes:
 
 - he's going to call godaddy
 	- still not working correctly as of 7/16/21
+	- might be time to buy a new one and cancel the current ssl
 - get rid of credit card link on payment (or see if it forces paypal)
 	- check it, get paid for what i put in
 Next Call:
