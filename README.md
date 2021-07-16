@@ -56,7 +56,6 @@ To Do:
 	- add it to a google document
 	- add directions to copy it
 	- go over text to see if there are mistakes, make user friendly
-	- add image in word document to page
 - check to see if all pages are removed if they aren't supposed to be there still
 
 
