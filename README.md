@@ -89,7 +89,8 @@ Current Notes:
 Next Call:
 
 - made right sidebar wider, does he prefer that?
-- 
+- shorter scorecard explanation?
+	- beginning 4 paragraphs, then img, then the rest?
 - different picture of him for front page?
 - does he have the front page video -> still working on it
 
