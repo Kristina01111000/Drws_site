@@ -3,7 +3,7 @@ everything to do with dr w's wordpress site
 
  Hours worked 16 may to 16 june: 16 ->  recieved
  
- Hours worked this june 17 to july 17: 12
+ Hours worked this june 17 to july 17: 12.5
  
 plugins im using on site:
 
@@ -53,7 +53,6 @@ To Do:
 	- does he want articles in monthly course? or as articles? 
 - emails every week? multiple times a week?
 - score card page
-	- link to side bar
 	- add it to a google document
 	- add directions to copy it
 	- go over text to see if there are mistakes
