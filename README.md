@@ -56,7 +56,6 @@ To Do:
 	- add it to a google document
 	- add directions to copy it
 	- go over text to see if there are mistakes, make user friendly
-- check to see if all pages are removed if they aren't supposed to be there still
 
 
 Need from Dr. W:
@@ -87,6 +86,7 @@ Current Notes:
 	- might be time to buy a new one and cancel the current ssl
 - get rid of credit card link on payment (or see if it forces paypal)
 	- check it, get paid for what i put in
+	
 Next Call:
 
 - made right sidebar wider, does he prefer that?
@@ -95,7 +95,8 @@ Next Call:
 - different picture of him for front page?
 - does he have the front page video -> still working on it
 
-- changed "dr.w patient"
+- changed code to "dr.w patient", left patient
 	- the . and ' ' password was auto changed to DrWspatient
 	- ' ' and . removed by pmp
 	-  we don't want a hard to remember passcode or hard to type in
+	-  user ease important
