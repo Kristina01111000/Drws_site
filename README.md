@@ -56,6 +56,7 @@ To Do:
 	- add it to a google document
 	- add directions to copy it
 	- go over text to see if there are mistakes, make user friendly
+- excess pages deleted, check every month or so
 
 
 Need from Dr. W:
