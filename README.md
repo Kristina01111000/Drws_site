@@ -58,6 +58,9 @@ To Do:
 	- go over text to see if there are mistakes, make user friendly
 - excess pages deleted, check every month or so
 
+- add cancel course early section to page and get prior month free
+- fine tune new button description
+
 
 Need from Dr. W:
 
@@ -72,12 +75,6 @@ Still Check:
 
 -  peepso  for email issue
 
-
-
-
-New: 
-- add cancel course early section to page and get prior month free
-- fine tune new button description
 
 
 Current Notes:
