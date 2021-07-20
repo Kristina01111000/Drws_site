@@ -44,6 +44,7 @@ To Do:
 	- certificate using old ip address, needs to be deleted from that server and it will use inmotion 
 	- waiting on passwords/ usernames etc. 
 	- he is taking the lead on this
+	- work around? remove growing from syracuse, get new one
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
