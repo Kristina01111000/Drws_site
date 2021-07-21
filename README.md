@@ -5,7 +5,7 @@ everything to do with dr w's wordpress site
  
  Hours worked  june 17 to july 16: 12 -> sent
  
- Hours worked july 17 to august 16: 0.5
+ Hours worked july 17 to august 16: 1
  
 plugins im using on site:
 
@@ -57,9 +57,9 @@ To Do:
 	- does he want articles in monthly course? or as articles? 
 - emails every week? multiple times a week?
 - score card page
-	- add it to a google document
 	- add directions to copy it
 	- go over text to see if there are mistakes, make user friendly
+	- picture is different than the excel file which one do you prefer?
 - excess pages deleted, check every month or so
 
 - add cancel course early section to page and get prior month free
