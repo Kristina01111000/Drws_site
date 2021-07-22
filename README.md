@@ -100,8 +100,9 @@ Next Call:
 	- add downloadable pdf? and also google doc? -> yes
 	- add copy directions to the scorecard file
 	- add to file add up each element per month
-	- and each element per year
-	- and total elements per month
+	- and each element per month in line 4
+	- and each element per week in line 13
+	- and total elements per month 
 - different picture of him for front page?
 - does he have the front page video -> still working on it
 - on scorecard page bold the italicized stuff, keep the italicized
