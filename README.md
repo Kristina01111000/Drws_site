@@ -92,18 +92,22 @@ Current Notes:
 	
 Next Call:
 
-- made right sidebar wider, does he prefer that?
+
 - shorter scorecard explanation?
 	- beginning paragraph, bottom 2 paragraphs from first section, then img, then the rest?
 - excel file looks different than the scorecard picture
 	- the scorecard picture might be better than the excel file itself
-	- add downloadable pdf? and also google doc?
+	- add downloadable pdf? and also google doc? -> yes
 	- add copy directions to the scorecard file
+	- add to file add up each element per month
+	- and each element per year
+	- and total elements per month
 - different picture of him for front page?
 - does he have the front page video -> still working on it
-
+- on scorecard page bold the italicized stuff, keep the italicized
 - changed code to "dr.w patient", left patient
 	- the . and ' ' password was auto changed to DrWspatient
 	- ' ' and . removed by pmp
 	-  we don't want a hard to remember passcode or hard to type in
 	-  user ease important
+- look at on a different computer, the google docs file won't let you copy
