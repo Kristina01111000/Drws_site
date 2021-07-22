@@ -103,7 +103,8 @@ Next Call:
 	- and each element per month in line 4
 	- and each element per week in line 13
 	- and total elements per month 
-	- remove the microsoft user triangles
+	- remove the microsoft user triangles, on excel sheet
+	- remove the 2017 at the bottom, on excel sheet
 - different picture of him for front page?
 - does he have the front page video -> still working on it
 - on scorecard page bold the italicized stuff, keep the italicized
