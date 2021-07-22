@@ -5,7 +5,7 @@ everything to do with dr w's wordpress site
  
  Hours worked  june 17 to july 16: 12 -> sent
  
- Hours worked july 17 to august 16: 1
+ Hours worked july 17 to august 16: 2
  
 plugins im using on site:
 
@@ -110,7 +110,7 @@ Next Call:
 	- see if i can stop the excel sheet at row 70
 	- put the explanation into the excel sheet in a comment in column b
 	- have scorecard open in new tab
-- different picture of him for front page?
+- different picture of him for front page? - torso or body shot
 - does he have the front page video -> still working on it
 - on scorecard page bold the italicized stuff, keep the italicized
 - changed code to "dr.w patient", left patient
