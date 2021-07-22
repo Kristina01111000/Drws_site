@@ -106,6 +106,7 @@ Next Call:
 	- remove the microsoft user triangles, on excel sheet
 	- remove the 2017 at the bottom, on excel sheet
 	- add years to the bottom of the excel file on copies of page, 5 years on excel sheet
+	- add a brief how to use section at bottom of page
 - different picture of him for front page?
 - does he have the front page video -> still working on it
 - on scorecard page bold the italicized stuff, keep the italicized
