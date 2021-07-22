@@ -94,7 +94,7 @@ Next Call:
 
 - made right sidebar wider, does he prefer that?
 - shorter scorecard explanation?
-	- beginning 4 paragraphs, then img, then the rest?
+	- beginning paragraph, bottom 2 paragraphs from first section, then img, then the rest?
 - excel file looks different than the scorecard picture
 	- the scorecard picture might be better than the excel file itself
 	- add downloadable pdf? and also google doc?
