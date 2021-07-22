@@ -95,6 +95,9 @@ Next Call:
 - made right sidebar wider, does he prefer that?
 - shorter scorecard explanation?
 	- beginning 4 paragraphs, then img, then the rest?
+- excel file looks different than the scorecard picture
+	- the scorecard picture might be better than the excel file itself
+	- add copy directions to the scorecard file
 - different picture of him for front page?
 - does he have the front page video -> still working on it
 
