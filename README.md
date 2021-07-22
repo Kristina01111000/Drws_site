@@ -107,6 +107,9 @@ Next Call:
 	- remove the 2017 at the bottom, on excel sheet
 	- add years to the bottom of the excel file on copies of page, 5 years on excel sheet
 	- add a brief how to use section at bottom of page
+	- see if i can stop the excel sheet at row 70
+	- put the explanation into the excel sheet in a comment in column b
+	- have scorecard open in new tab
 - different picture of him for front page?
 - does he have the front page video -> still working on it
 - on scorecard page bold the italicized stuff, keep the italicized
@@ -115,4 +118,5 @@ Next Call:
 	- ' ' and . removed by pmp
 	-  we don't want a hard to remember passcode or hard to type in
 	-  user ease important
-- look at on a different computer, the google docs file won't let you copy
+- look at on a different computer, the google docs file won't let him copy
+- change date to september
