@@ -97,6 +97,7 @@ Next Call:
 	- beginning 4 paragraphs, then img, then the rest?
 - excel file looks different than the scorecard picture
 	- the scorecard picture might be better than the excel file itself
+	- add downloadable pdf? and also google doc?
 	- add copy directions to the scorecard file
 - different picture of him for front page?
 - does he have the front page video -> still working on it
