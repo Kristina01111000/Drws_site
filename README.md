@@ -110,13 +110,12 @@ Next Call:
 	- see if i can stop the excel sheet at row 70
 	- put the explanation into the excel sheet in a comment in column b
 	- have scorecard open in new tab
-- different picture of him for front page? - torso or body shot
-- does he have the front page video -> still working on it
 - on scorecard page bold the italicized stuff, keep the italicized
-- changed code to "dr.w patient", left patient
-	- the . and ' ' password was auto changed to DrWspatient
-	- ' ' and . removed by pmp
-	-  we don't want a hard to remember passcode or hard to type in
-	-  user ease important
 - look at on a different computer, the google docs file won't let him copy
 - change date to september
+
+Next Call:
+
+- different picture of him for front page? - torso or body shot
+- 
+- does he have the front page video -> still working on it
