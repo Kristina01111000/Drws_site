@@ -61,7 +61,6 @@ To Do:
 	- go over text to see if there are mistakes, make user friendly
 	- picture is different than the excel file which one do you prefer?
 - excess pages deleted, check every month or so
-
 - add cancel course early section to page and get prior month free
 - fine tune new button description
 - get rid of credit card link on payment (or see if it forces paypal)
@@ -87,25 +86,9 @@ To Do:
 - on scorecard page bold the italicized stuff, keep the italicized
 - look at on a different computer, the google docs file won't let him copy
 - change date to september
-
-Need from Dr. W:
-
-- using paid membershippro 
-	- patients code for membership, only one way to work
-	-  discount code that a patient get to allow them to use the existent registration form
-
-
-From Dr. W:
-
 Still Check:
 
 -  peepso  for email issue
-
-
-
-Current Notes:
-
-
 
 Next Call:
 
