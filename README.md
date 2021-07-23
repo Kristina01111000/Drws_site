@@ -64,25 +64,6 @@ To Do:
 
 - add cancel course early section to page and get prior month free
 - fine tune new button description
-
-
-Need from Dr. W:
-
-- using paid membershippro 
-	- patients code for membership, only one way to work
-	-  discount code that a patient get to allow them to use the existent registration form
-
-
-From Dr. W:
-
-Still Check:
-
--  peepso  for email issue
-
-
-
-Current Notes:
-
 - get rid of credit card link on payment (or see if it forces paypal)
 	- check it, get paid for what i put in
 	- set itto one dollar just for giggles
@@ -106,6 +87,25 @@ Current Notes:
 - on scorecard page bold the italicized stuff, keep the italicized
 - look at on a different computer, the google docs file won't let him copy
 - change date to september
+
+Need from Dr. W:
+
+- using paid membershippro 
+	- patients code for membership, only one way to work
+	-  discount code that a patient get to allow them to use the existent registration form
+
+
+From Dr. W:
+
+Still Check:
+
+-  peepso  for email issue
+
+
+
+Current Notes:
+
+
 
 Next Call:
 
