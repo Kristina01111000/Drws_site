@@ -86,6 +86,7 @@ To Do:
 - on scorecard page bold the italicized stuff, keep the italicized
 - look at on a different computer, the google docs file won't let him copy
 - change date to september
+- 
 Still Check:
 
 -  peepso  for email issue
@@ -93,5 +94,5 @@ Still Check:
 Next Call:
 
 - different picture of him for front page? - torso or body shot
-- 
+- ssl update
 - does he have the front page video -> still working on it
