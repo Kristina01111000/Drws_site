@@ -65,8 +65,6 @@ To Do:
 	- check it, get paid for what i put in
 	- set itto one dollar just for giggles
 - score card page
-	- add to file add up each element per month
-	- and each element per month in line 4
 	- and each element per week in line 13
 	- and total elements per month 
 	- remove the microsoft user triangles, on excel sheet
