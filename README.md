@@ -65,15 +65,12 @@ To Do:
 	- check it, get paid for what i put in
 	- set itto one dollar just for giggles
 - score card page
-	- and each element per week in line 13
-	- and total elements per month 
-	- remove the microsoft user triangles, on excel sheet
-	- remove the 2017 at the bottom, on excel sheet
 	- add years to the bottom of the excel file on copies of page, 5 years on excel sheet
 	- add a brief how to use section at bottom of page
 	- see if i can stop the excel sheet at row 70
 	- have scorecard open in new tab
 	- add google doc link at top and bottom
+	- element yearly totals
 - on scorecard page bold the italicized stuff, keep the italicized
 - look at on a different computer, the google docs file won't let him copy
 - make sure pdf thumbnail isnt being shown
