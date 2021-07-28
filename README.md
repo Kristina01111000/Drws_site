@@ -64,10 +64,10 @@ To Do:
 - get rid of credit card link on payment (or see if it forces paypal)
 	- check it, get paid for what i put in
 	- set itto one dollar just for giggles
+	- 
 - score card page
-	- add years to the bottom of the excel file on copies of page, 5 years on excel sheet
+	
 	- add a brief how to use section at bottom of page
-	- see if i can stop the excel sheet at row 70
 	- have scorecard open in new tab
 	- add google doc link at top and bottom
 - on scorecard page bold the italicized stuff, keep the italicized
