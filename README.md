@@ -20,7 +20,7 @@ plugins im using on site:
 - aksimet
 - total upkeep
 - widget context 
-- code snippets
+- code snippets -> remove it if he wants the image there
 - redirection -> removed it, not needed anymore
 
 https://www.ssllabs.com/ssltest
@@ -70,8 +70,6 @@ To Do:
 - shorter scorecard explanation?
 	- beginning paragraph, bottom 2 paragraphs from first section, then img, then the rest?
 - excel file looks different than the scorecard picture
-	- the scorecard picture might be better than the excel file itself
-	- add downloadable pdf? and also google doc? -> yes
 	- add copy directions to the scorecard file
 	- add to file add up each element per month
 	- and each element per month in line 4
