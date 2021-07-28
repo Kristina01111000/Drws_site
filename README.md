@@ -20,6 +20,7 @@ plugins im using on site:
 - aksimet
 - total upkeep
 - widget context 
+- code snippets
 - redirection -> removed it, not needed anymore
 
 https://www.ssllabs.com/ssltest
