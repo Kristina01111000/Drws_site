@@ -5,7 +5,7 @@ everything to do with dr w's wordpress site
  
  Hours worked  june 17 to july 16: 12 -> sent
  
- Hours worked july 17 to august 16: 2
+ Hours worked july 17 to august 16: 2.5
  
 plugins im using on site:
 
@@ -85,6 +85,7 @@ To Do:
 	- have scorecard open in new tab
 - on scorecard page bold the italicized stuff, keep the italicized
 - look at on a different computer, the google docs file won't let him copy
+- make sure pdf thumbnail isnt being shown
 
 - 
 Still Check:
