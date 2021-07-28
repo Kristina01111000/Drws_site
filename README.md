@@ -65,7 +65,6 @@ To Do:
 	- check it, get paid for what i put in
 	- set itto one dollar just for giggles
 - score card page
-	- add copy directions to the scorecard file
 	- add to file add up each element per month
 	- and each element per month in line 4
 	- and each element per week in line 13
