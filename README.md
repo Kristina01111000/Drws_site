@@ -57,19 +57,14 @@ To Do:
 -  new email topics:
 	- does he want articles in monthly course? or as articles? 
 - emails every week? multiple times a week?
-- score card page
-	- add directions to copy it
-	- go over text to see if there are mistakes, make user friendly
-	- picture is different than the excel file which one do you prefer?
+
 - excess pages deleted, check every month or so
 - add cancel course early section to page and get prior month free
 - fine tune new button description
 - get rid of credit card link on payment (or see if it forces paypal)
 	- check it, get paid for what i put in
 	- set itto one dollar just for giggles
-- shorter scorecard explanation?
-	- beginning paragraph, bottom 2 paragraphs from first section, then img, then the rest?
-- excel file looks different than the scorecard picture
+- score card page
 	- add copy directions to the scorecard file
 	- add to file add up each element per month
 	- and each element per month in line 4
