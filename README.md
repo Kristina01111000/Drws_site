@@ -64,12 +64,6 @@ To Do:
 - get rid of credit card link on payment (or see if it forces paypal)
 	- check it, get paid for what i put in
 	- set itto one dollar just for giggles
-	- 
-- score card page
-	
-	- add a brief how to use section at bottom of page
-	- have scorecard open in new tab
-	- add google doc link at top and bottom
 - on scorecard page bold the italicized stuff, keep the italicized
 - look at on a different computer, the google docs file won't let him copy
 - make sure pdf thumbnail isnt being shown
@@ -85,3 +79,4 @@ Next Call:
 - ssl update
 - does he have the front page video -> still working on it
 - changed month to september
+- made changes to 4 element scorecard
