@@ -82,6 +82,7 @@ To Do:
 	- see if i can stop the excel sheet at row 70
 	- put the explanation into the excel sheet in a comment in column b
 	- have scorecard open in new tab
+	- add google doc link at top and bottom
 - on scorecard page bold the italicized stuff, keep the italicized
 - look at on a different computer, the google docs file won't let him copy
 - make sure pdf thumbnail isnt being shown
