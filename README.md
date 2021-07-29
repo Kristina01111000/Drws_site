@@ -72,7 +72,8 @@ To Do:
 - add monthly total for all 4 elements 
 - add weekly totals for each week
 - check to see if 'one topic' word can be removed from the lesson content, or change it to lesson
--  make all first letters of lesson titles capitalized
+
+
 Still Check:
 
 -  peepso  for email issue
