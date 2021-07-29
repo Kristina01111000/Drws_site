@@ -64,6 +64,7 @@ To Do:
 	- check it, get paid for what i put in
 	- set itto one dollar just for giggles
 - look at on a different computer, the google docs file won't let him copy
+- remove email from scorecard comments
 
 
 Still Check:
