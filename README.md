@@ -51,11 +51,9 @@ To Do:
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
 - test email plugin -> 
-	- waiting 24 hours to see if email plugin works 
-	- automatic emails are working
+	- automatic login emails are working
 - fix cellphone view of menu
--  new email topics:
-	- does he want articles in monthly course? or as articles? 
+- does he want articles in monthly course? or as articles? 
 - emails every week? multiple times a week?
 - excess pages deleted, check every month or so
 - add cancel course early section to page and get prior month free
