@@ -67,6 +67,7 @@ To Do:
 - remove email from scorecard comments
 - change text color of the make a coopy of the yearly scorecard
 - switch order of the download and print of the scorecard
+- check make a copy of google doc, he is getting only a view only
 
 Still Check:
 
