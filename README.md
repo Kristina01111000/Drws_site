@@ -66,9 +66,8 @@ To Do:
 	- set itto one dollar just for giggles
 - on scorecard page bold the italicized stuff, keep the italicized
 - look at on a different computer, the google docs file won't let him copy
-- make sure pdf thumbnail isnt being shown
 
-- 
+
 Still Check:
 
 -  peepso  for email issue
