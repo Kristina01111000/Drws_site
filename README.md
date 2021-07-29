@@ -5,7 +5,7 @@ everything to do with dr w's wordpress site
  
  Hours worked  june 17 to july 16: 12 -> sent
  
- Hours worked july 17 to august 16: 4 hours 5 min
+ Hours worked july 17 to august 16: 5 hours 5 min
  
 plugins im using on site:
 
@@ -68,7 +68,11 @@ To Do:
 - change text color of the make a coopy of the yearly scorecard
 - switch order of the download and print of the scorecard
 - check make a copy of google doc, he is getting only a view only
-
+- make the a column stay on the left
+- add monthly total for all 4 elements 
+- add weekly totals for each week
+- check to see if 'one topic' word can be removed from the lesson content, or change it to lesson
+-  make all first letters of lesson titles capitalized
 Still Check:
 
 -  peepso  for email issue
@@ -77,6 +81,5 @@ Next Call:
 
 - different picture of him for front page? - torso or body shot
 - ssl update
-- does he have the front page video -> still working on it
-- changed month to september
-- made changes to 4 element scorecard
+- does he have the front page video 
+
