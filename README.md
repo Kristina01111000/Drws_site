@@ -5,7 +5,7 @@ everything to do with dr w's wordpress site
  
  Hours worked  june 17 to july 16: 12 -> sent
  
- Hours worked july 17 to august 16: 4
+ Hours worked july 17 to august 16: 4 hours 5 min
  
 plugins im using on site:
 
@@ -57,14 +57,12 @@ To Do:
 -  new email topics:
 	- does he want articles in monthly course? or as articles? 
 - emails every week? multiple times a week?
-
 - excess pages deleted, check every month or so
 - add cancel course early section to page and get prior month free
 - fine tune new button description
 - get rid of credit card link on payment (or see if it forces paypal)
 	- check it, get paid for what i put in
 	- set itto one dollar just for giggles
-- on scorecard page bold the italicized stuff, keep the italicized
 - look at on a different computer, the google docs file won't let him copy
 
 
