@@ -3,7 +3,7 @@ everything to do with dr w's wordpress site
 
  Hours worked 16 may to 16 june: 16 ->  recieved
  
- Hours worked  june 17 to july 16: 12 -> sent
+ Hours worked  june 17 to july 16: 12 -> recieved
  
  Hours worked july 17 to august 16: 5 hours 5 min
  
