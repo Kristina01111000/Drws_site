@@ -65,7 +65,8 @@ To Do:
 	- set itto one dollar just for giggles
 - look at on a different computer, the google docs file won't let him copy
 - remove email from scorecard comments
-
+- change text color of the make a coopy of the yearly scorecard
+- switch order of the download and print of the scorecard
 
 Still Check:
 
