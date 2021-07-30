@@ -63,8 +63,7 @@ To Do:
 	- set itto one dollar just for giggles
 - look at on a different computer, the google docs file won't let him copy
 - remove email from scorecard comments
-- change text color of the make a coopy of the yearly scorecard
-- switch order of the download and print of the scorecard
+- change text color of the make a copy of the yearly scorecard
 - check make a copy of google doc, he is getting only a view only
 - make the a column stay on the left
 - add monthly total for all 4 elements 
