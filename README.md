@@ -20,7 +20,7 @@ plugins im using on site:
 - aksimet
 - total upkeep
 - widget context 
-- code snippets -> remove it if he wants the image there
+- code snippets -> remove it if he wants the image there, remove it still?
 - redirection -> removed it, not needed anymore
 
 https://www.ssllabs.com/ssltest
