@@ -78,3 +78,7 @@ Next Call:
 	- works for me with a seperate google account
 	- made the changes to the document
 
+- write out directions for downloading googledoc
+-  see if default 0 can be removed from excel file
+-   add monthly totals for each element at the bottom
+
