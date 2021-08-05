@@ -62,9 +62,7 @@ To Do:
 	- check it, get paid for what i put in
 	- set itto one dollar just for giggles
 
-- remove email from scorecard comments
 - make the a column stay on the left
-- add monthly total for all 4 elements 
 - check to see if 'one topic' word can be removed from the lesson content, or change it to lesson
 
 
