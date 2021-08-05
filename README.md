@@ -76,4 +76,5 @@ Next Call:
 - will be adding my mom as user for testing
 - might need google account for google docs
 	- works for me with a seperate google account
+	- made the changes to the document
 
