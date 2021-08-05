@@ -61,8 +61,6 @@ To Do:
 - get rid of credit card link on payment (or see if it forces paypal)
 	- check it, get paid for what i put in
 	- set itto one dollar just for giggles
-
-- make the a column stay on the left
 - check to see if 'one topic' word can be removed from the lesson content, or change it to lesson
 
 
