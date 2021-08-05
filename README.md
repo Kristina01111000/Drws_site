@@ -80,4 +80,6 @@ Next Call:
 - different picture of him for front page? - torso or body shot
 - ssl update
 - does he have the front page video 
+- will be adding my mom as user for testing
+- might need google account for google docs
 
