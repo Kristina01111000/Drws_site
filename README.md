@@ -5,7 +5,7 @@ everything to do with dr w's wordpress site
  
  Hours worked  june 17 to july 16: 12 -> recieved
  
- Hours worked july 17 to august 16: 6 hours 20 min
+ Hours worked july 17 to august 16: 6 hours 30 min
  
 plugins im using on site:
 
@@ -83,5 +83,4 @@ Next Call:
 -   add monthly totals for each element at the bottom
 - change patient page to patients
 - change logo click to go to homepage, not frontpage
-- give comments on video
 - put attached word document on patients page
