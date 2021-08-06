@@ -82,3 +82,6 @@ Next Call:
 -  see if default 0 can be removed from excel file
 -   add monthly totals for each element at the bottom
 - change patient page to patients
+- change logo click to go to homepage, not frontpage
+- give comments on video
+- put attached word document on patients page
