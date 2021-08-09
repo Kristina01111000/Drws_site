@@ -88,3 +88,4 @@ Next Call:
 Next call:
 
 - does he want search on the header?
+- needed to change logo link in header file, will need to rechange it every time theme upgrades
