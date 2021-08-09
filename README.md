@@ -90,4 +90,5 @@ Next call:
 - need to change logo link in header file, will need to rechange it every time theme upgrades, is this what he wants?
 	- can switch activity page to frontpage? -> would not work b/c then frontpage will not be visible
 		- maybe force front page to load for people not logged in?
+		- make a landing page that redirects to a learn more page?
 - make patients page visvle to people not logged in -> think the redirects in gecko theme got it done
