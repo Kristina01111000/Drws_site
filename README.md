@@ -81,11 +81,11 @@ Next Call:
 - write out directions for downloading googledoc
 -  see if default 0 can be removed from excel file
 -   add monthly totals for each element at the bottom
-- make patients page visvle to people not logged in 
 - change logo click to go to homepage, not frontpage
 
 
 Next call:
 
 - does he want search on the header?
-- needed to change logo link in header file, will need to rechange it every time theme upgrades
+- need to change logo link in header file, will need to rechange it every time theme upgrades, is this what he wants?
+- make patients page visvle to people not logged in -> think the redirects in gecko theme got it done
