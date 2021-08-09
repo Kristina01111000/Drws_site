@@ -83,4 +83,3 @@ Next Call:
 -   add monthly totals for each element at the bottom
 - make patients page visvle to people not logged in 
 - change logo click to go to homepage, not frontpage
-- put attached word document on patients page
