@@ -81,6 +81,6 @@ Next Call:
 - write out directions for downloading googledoc
 -  see if default 0 can be removed from excel file
 -   add monthly totals for each element at the bottom
-- change patient page to patients
+- make patients page visvle to people not logged in 
 - change logo click to go to homepage, not frontpage
 - put attached word document on patients page
