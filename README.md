@@ -5,7 +5,7 @@ everything to do with dr w's wordpress site
  
  Hours worked  june 17 to july 16: 12 -> recieved
  
- Hours worked july 17 to august 16: 6 hours 45 min
+ Hours worked july 17 to august 16: 7 hours 05 min
  
 plugins im using on site:
 
