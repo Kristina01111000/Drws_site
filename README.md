@@ -83,3 +83,8 @@ Next Call:
 -   add monthly totals for each element at the bottom
 - make patients page visvle to people not logged in 
 - change logo click to go to homepage, not frontpage
+
+
+Next call:
+
+- does he want search on the header?
