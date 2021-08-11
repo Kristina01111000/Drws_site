@@ -13,7 +13,6 @@ plugins im using on site:
 	- updated included installer, easy to add new plugins
 	- autoupdates need to be enabled every time they are updated
 	- auto updates only work for main peepso plugin, not the additional ones
-	- peepso updates block logins to site when not updated
 - learndash 
 - paid memberships pro
 - real simple ssl 
@@ -64,7 +63,7 @@ To Do:
 	- set itto one dollar just for giggles
 - check to see if 'one topic' word can be removed from the lesson content, or change it to lesson
 - stop users from accessing wordpress login/logout page
-
+- add login page to redirect acceptions
 Still Check:
 
 -  peepso  for email issue
