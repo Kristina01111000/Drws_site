@@ -95,3 +95,6 @@ Next call:
 - default 0 cannot be removed
 - 
 - will be adding my mom as user for testing
+
+-set activity page to homepage
+- force not logged people to go to current homepage
