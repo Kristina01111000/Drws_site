@@ -100,3 +100,4 @@ Next call:
 - force not logged people to go to current homepage
 - sheck link for scorecard
 - move monthly totals for each element above the others
+- clean up scorecard paragraphs on page
