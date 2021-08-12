@@ -5,7 +5,7 @@ everything to do with dr w's wordpress site
  
  Hours worked  june 17 to july 16: 12 -> recieved
  
- Hours worked july 17 to august 16: 7 hours 35 min
+ Hours worked july 17 to august 16: 7 hours 45 min
  
 plugins im using on site:
 
@@ -91,7 +91,7 @@ Next call:
 		- make a landing page that redirects to a learn more page?
 - make patients page visible to people not logged in -> think the redirects in gecko theme got it done
 	- what other pages? homepage, login page, frontpage?
-
+- added monthly totals to the excel file, anything else?
 - default 0 cannot be removed
 - 
 - will be adding my mom as user for testing
