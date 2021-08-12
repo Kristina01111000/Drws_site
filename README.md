@@ -73,13 +73,11 @@ Next Call:
 - different picture of him for front page? - torso or body shot
 - ssl update
 - does he have the front page video 
-- will be adding my mom as user for testing
 - might need google account for google docs
 	- works for me with a seperate google account
 	- made the changes to the document
 
 - write out directions for downloading googledoc
--  see if default 0 can be removed from excel file
 -   add monthly totals for each element at the bottom
 - change logo click to go to homepage, not frontpage
 
@@ -91,4 +89,9 @@ Next call:
 	- can switch activity page to frontpage? -> would not work b/c then frontpage will not be visible
 		- maybe force front page to load for people not logged in?
 		- make a landing page that redirects to a learn more page?
-- make patients page visvle to people not logged in -> think the redirects in gecko theme got it done
+- make patients page visible to people not logged in -> think the redirects in gecko theme got it done
+	- what other pages? homepage, login page, frontpage?
+
+- default 0 cannot be removed
+- 
+- will be adding my mom as user for testing
