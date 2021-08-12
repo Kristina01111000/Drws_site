@@ -101,3 +101,4 @@ Next call:
 - sheck link for scorecard
 - move monthly totals for each element above the others
 - clean up scorecard paragraphs on page
+-add pdf of scorecard directions
