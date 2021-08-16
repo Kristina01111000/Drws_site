@@ -64,6 +64,7 @@ To Do:
 - check to see if 'one topic' word can be removed from the lesson content, or change it to lesson
 - stop users from accessing wordpress login/logout page
 - add login page to redirect acceptions
+- check spelling/tense on scorecard
 Still Check:
 
 -  peepso  for email issue
