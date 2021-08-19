@@ -106,3 +106,6 @@ Next Call:
 - need to fix widgets for  old front page -> fight with widgt context they updated the widget page so now it doesn't work correctly
 	- the update makes you update all the old widgets so they look different, doesn't allow widget context to work anymore 
 	- will try deleting widget context to make them work again
+
+
+- fix redirects so login page is added to it
