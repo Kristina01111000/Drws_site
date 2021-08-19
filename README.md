@@ -92,13 +92,13 @@ Next call:
 - default 0 cannot be removed
 - will be adding my mom as user for testing
 
-- sheck link for scorecard
-- move monthly totals for each element above the others
 - clean up scorecard paragraphs on page
 - add pdf of scorecard directions
-- remove search from header
 - add join here at bottom of front page menu
 
 Next Call:
-- switched homepage, and logo link
+
+- switched homepage, and logo link -> other pages added to not redirect? score card, documentary
+	- I would add the documentary to the bottom of the page, not a link
 - socre card: moved up monthly totals, waiting on delete initial one until confirmation that you like where it is
+- removed search from header
