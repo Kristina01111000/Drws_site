@@ -96,14 +96,13 @@ Next call:
 	- put scorecard and the link to movie in a seperate menu on same side 
 - added monthly totals to the excel file, anything else?
 - default 0 cannot be removed
-- 
 - will be adding my mom as user for testing
 
-- set activity page to homepage
-- force not logged people to go to current homepage
 - sheck link for scorecard
 - move monthly totals for each element above the others
 - clean up scorecard paragraphs on page
 - add pdf of scorecard directions
 - remove search from header
 - add join here at bottom of front page menu
+
+- switched homepage, and logo link
