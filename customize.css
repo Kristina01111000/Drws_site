@@ -37,3 +37,8 @@ title of all pages
 	background-image: url(https://growingholistically.com/wp-content/uploads/2021/05/newyellowtile.jpeg);
 	border-radius:25px;
 }
+
+// removes bullet points from nav menus
+.widget_nav_menu ul li{
+    list-style: none;
+}
