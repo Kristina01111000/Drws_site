@@ -5,7 +5,9 @@ everything to do with dr w's wordpress site
  
  Hours worked  june 17 to july 16: 12 -> recieved
  
- Hours worked july 17 to august 16: 8 hours 30 min
+ Hours worked july 17 to august 16: 8 hours 30 min -> make invoice
+ 
+ Hours worked august 17 to spetember 16: 
  
 plugins im using on site:
 
