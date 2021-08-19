@@ -108,3 +108,4 @@ Next call:
 
 Next Call:
 - switched homepage, and logo link
+- socre card: moved up monthly totals, waiting on delete initial one until confirmation that you like where it is
