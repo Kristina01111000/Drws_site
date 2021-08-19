@@ -102,3 +102,5 @@ Next Call:
 	- I would add the documentary to the bottom of the page, not a link
 - socre card: moved up monthly totals, waiting on delete initial one until confirmation that you like where it is
 - removed search from header
+
+- need to fix menus for  old front page
