@@ -7,7 +7,7 @@ everything to do with dr w's wordpress site
  
  Hours worked july 17 to august 16: 8 hours 30 min -> make invoice
  
- Hours worked august 17 to spetember 16: 45 min
+ Hours worked august 17 to spetember 16: 1 hour 45 min
  
 plugins im using on site:
 
@@ -108,4 +108,5 @@ Next Call:
 	- will try deleting widget context to make them work again
 
 
-- fix redirects so login page is added to it
+- fix redirects so login page is added to it (and start redirect again)
+- make changes to widgts and remove then readd widget context
