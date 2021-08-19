@@ -103,4 +103,6 @@ Next Call:
 - socre card: moved up monthly totals, waiting on delete initial one until confirmation that you like where it is
 - removed search from header
 
-- need to fix menus for  old front page -> fight with widgt context they updated the widget page so now it doesn't work correctly
+- need to fix widgets for  old front page -> fight with widgt context they updated the widget page so now it doesn't work correctly
+	- the update makes you update all the old widgets so they look different, doesn't allow widget context to work anymore 
+	- will try deleting widget context to make them work again
