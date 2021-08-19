@@ -94,7 +94,6 @@ Next call:
 - make patients page visible to people not logged in -> think the redirects in gecko theme got it done
 	- what other pages? homepage, login page, frontpage? add a free link to scorecard on page, also link to the movie
 	- put scorecard and the link to movie in a seperate menu on same side 
-- added monthly totals to the excel file, anything else?
 - default 0 cannot be removed
 - will be adding my mom as user for testing
 
@@ -105,4 +104,5 @@ Next call:
 - remove search from header
 - add join here at bottom of front page menu
 
+Next Call:
 - switched homepage, and logo link
