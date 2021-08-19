@@ -103,4 +103,4 @@ Next Call:
 - socre card: moved up monthly totals, waiting on delete initial one until confirmation that you like where it is
 - removed search from header
 
-- need to fix menus for  old front page
+- need to fix menus for  old front page -> fight with widgt context
