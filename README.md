@@ -7,7 +7,7 @@ everything to do with dr w's wordpress site
  
  Hours worked july 17 to august 16: 8 hours 30 min -> make invoice
  
- Hours worked august 17 to spetember 16: 
+ Hours worked august 17 to spetember 16: 45 min
  
 plugins im using on site:
 
