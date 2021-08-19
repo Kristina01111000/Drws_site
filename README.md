@@ -65,9 +65,8 @@ To Do:
 	- set itto one dollar just for giggles
 - check to see if 'one topic' word can be removed from the lesson content, or change it to lesson
 - stop users from accessing wordpress login/logout page
-- add login page to redirect acceptions
-- check spelling on scorecard
 - check the comments on scorecard
+- 
 Still Check:
 
 -  peepso  for email issue
@@ -77,14 +76,8 @@ Next Call:
 - different picture of him for front page? - torso or body shot
 - ssl update
 - does he have the front page video 
-- might need google account for google docs
-	- works for me with a seperate google account
-	- made the changes to the document
 
 - write out directions for downloading googledoc
--   add monthly totals for each element at the bottom
-- change logo click to go to homepage, not frontpage
-
 
 Next call:
 
