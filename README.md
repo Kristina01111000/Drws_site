@@ -110,3 +110,11 @@ Next Call:
 
 - fix redirects so login page is added to it (and start redirect again)
 - make changes to widgts and remove then readd widget context
+
+widget plan:
+figure out why pages menu items look bad
+fix it
+re add widget context
+see if it works
+if yes -> YAY
+if not -> talk to dr w
