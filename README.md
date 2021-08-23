@@ -81,28 +81,12 @@ Next Call:
 
 Next call:
 
-- does he want search on the header?
-- need to change logo link in header file, will need to rechange it every time theme upgrades, is this what he wants?
-	- can switch activity page to frontpage? -> would not work b/c then frontpage will not be visible
-		- maybe force front page to load for people not logged in?
-		- make a landing page that redirects to a learn more page?
-- make patients page visible to people not logged in -> think the redirects in gecko theme got it done
-	- what other pages? homepage, login page, frontpage? add a free link to scorecard on page, also link to the movie
-	- put scorecard and the link to movie in a seperate menu on same side 
-- default 0 cannot be removed
-- will be adding my mom as user for testing
-
 - clean up scorecard paragraphs on page
 - add pdf of scorecard directions
 - add join here at bottom of front page menu
 
-Next Call:
-
 - switched homepage, and logo link -> other pages added to not redirect? score card, documentary
 	- I would add the documentary to the bottom of the page, not a link
-- socre card: moved up monthly totals, waiting on delete initial one until confirmation that you like where it is
-- removed search from header
-
 - need to fix widgets for  old front page -> fight with widgt context they updated the widget page so now it doesn't work correctly
 	- the update makes you update all the old widgets so they look different, doesn't allow widget context to work anymore 
 	- will try deleting widget context to make them work again
