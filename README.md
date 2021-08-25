@@ -106,4 +106,8 @@ if not -> talk to dr w
 
 Next call:
 - does he link the promo page menu? i think it looks nice, but i can change it to look like the other one
-- got widget context to work by downloading classic widgets plugin, will work until 2022
+- got widget context to work by downloading classic widgets plugin, will work until at least 2022
+- pages to link to from copy of widgetson front page
+	- documentary links to documentary?
+	- scorecard links to scorecard?
+	- monthly topic links to sale page?
