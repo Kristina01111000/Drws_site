@@ -102,3 +102,7 @@ re add widget context
 see if it works
 if yes -> YAY
 if not -> talk to dr w
+
+
+Next call:
+- does he link the promo page menu? i think it looks nice, but i can change it to look like the other one
