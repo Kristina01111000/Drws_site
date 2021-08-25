@@ -87,9 +87,7 @@ Next call:
 
 - switched homepage, and logo link -> other pages added to not redirect? score card, documentary
 	- I would add the documentary to the bottom of the page, not a link
-- need to fix widgets for  old front page -> fight with widgt context they updated the widget page so now it doesn't work correctly
-	- the update makes you update all the old widgets so they look different, doesn't allow widget context to work anymore 
-	- will try deleting widget context to make them work again
+
 
 
 - fix redirects so login page is added to it (and start redirect again)
