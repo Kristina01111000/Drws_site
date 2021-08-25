@@ -65,8 +65,8 @@ To Do:
 	- set itto one dollar just for giggles
 - check to see if 'one topic' word can be removed from the lesson content, or change it to lesson
 - stop users from accessing wordpress login/logout page
-- check the comments on scorecard
-- 
+
+
 Still Check:
 
 -  peepso  for email issue
@@ -93,7 +93,6 @@ Next call:
 
 
 - fix redirects so login page is added to it (and start redirect again)
-- make changes to widgts and remove then readd widget context
 
 
 Next call:
