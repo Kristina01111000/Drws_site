@@ -38,7 +38,8 @@ title of all pages
 	border-radius:25px;
 }
 
-// removes bullet points from nav menus
+// removes bullet points from nav menus, increases the line height
 .widget_nav_menu ul li{
     list-style: none;
+	line-height: normal;
 }
