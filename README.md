@@ -49,6 +49,7 @@ Notes:
 	- patients
 	- Need:
 		- sale page for redirect from weekly topic
+		- documentary sale page?
 
 
 To Do:
@@ -93,13 +94,6 @@ Next call:
 - clean up scorecard paragraphs on page
 - add pdf of scorecard directions
 - add join here at bottom of front page menu
-
-- switched homepage, and logo link -> other pages added to not redirect? score card, documentary
-	- I would add the documentary to the bottom of the page, not a link
-
-
-
-- fix redirects so login page is added to it (and start redirect again)
 
 
 Next call:
