@@ -7,7 +7,7 @@ everything to do with dr w's wordpress site
  
  Hours worked july 17 to august 16: 8 hours 30 min -> sent
  
- Hours worked august 17 to spetember 16: 2 hour 25 min
+ Hours worked august 17 to spetember 16: 3 hour 10 min
  
 plugins im using on site:
 
@@ -117,4 +117,4 @@ Next call:
 - -speed tests on the site
 - fix promo page menu links to growing-holistically
 - leave a reply -> leave a comment, change words to comment section 
-- see if we can take away website from comment page
+- see if we can take away website ask from from comment section, leave name and email
