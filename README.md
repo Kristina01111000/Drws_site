@@ -103,6 +103,7 @@ Next call:
 	- documentary links to documentary?
 	- scorecard links to scorecard?
 	- monthly topic links to sale page?
-- confirmation on extra widget copies: whole widget context thing adds several steps to makingthem want confirmation before i do it
+- confirmation on extra widget copies: whole widget context thing adds several steps to making them and changing them,
+	-  want confirmation before i do it
 	- copy of weekly topic widget to sale page
 	- copy of documentary widget to documentary and sale page
