@@ -23,7 +23,7 @@ plugins im using on site:
 - total upkeep
 - widget context 
 - code snippets -> remove it if he wants the image there, remove it still?
-- redirection -> removed it, not needed anymore
+- redirection -> removed it, not needed anymore -peepso has it
 
 https://www.ssllabs.com/ssltest
 
@@ -41,6 +41,15 @@ Notes:
 - in peepso logo height has to be in px, not %
 - non-members cannot get access to courses, can view the headings 
  	- fixed it in learndash settings, still can't figure out peepso setting
+- pages aloowed to nonmembers:
+	- promo
+	- login
+	- registration
+	- scorecard
+	- patients
+	- Need:
+		- sale page for redirect from weekly topic
+
 
 To Do:
 
