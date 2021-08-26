@@ -107,3 +107,4 @@ Next call:
 	-  want confirmation before i do it
 	- copy of weekly topic widget to sale page
 	- copy of documentary widget to documentary and sale page
+- see if nonmembers can be shuffled into a different page for sale
