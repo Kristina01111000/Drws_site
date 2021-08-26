@@ -97,7 +97,7 @@ Next call:
 
 
 Next call:
-- does he link the promo page menu? i think it looks nice, but i can change it to look like the other one
+- fixed the menus
 - got widget context to work by downloading classic widgets plugin, will work until at least 2022
 - pages to link to from copy of widgetson front page
 	- documentary links to documentary?
