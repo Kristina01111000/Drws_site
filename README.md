@@ -47,9 +47,10 @@ Notes:
 	- registration
 	- scorecard
 	- patients
+	- documentary page
 	- Need:
 		- sale page for redirect from weekly topic
-		- documentary sale page?
+
 
 
 To Do:
@@ -108,3 +109,12 @@ Next call:
 	- copy of weekly topic widget to sale page
 	- copy of documentary widget to documentary and sale page
 - see if nonmembers can be shuffled into a different page for sale
+
+- documentary widget make text bigger, bold bottom text 
+- -change score card gotten to downloaded
+- make a second promo page menu widget separated between about the course and personal a nd professional growth
+- septembers topic onleft for most of site, promo one on the right
+- -speed tests on the site
+- fix promo page menu links to growing-holistically
+- leave a reply -> leave a comment, change words to comment section 
+- see if we can take away website from comment page
