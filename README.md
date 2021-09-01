@@ -5,9 +5,9 @@ everything to do with dr w's wordpress site
  
  Hours worked  june 17 to july 16: 12 -> recieved
  
- Hours worked july 17 to august 16: 8 hours 30 min -> sent
+ Hours worked july 17 to august 16: 8 hours 30 min -> recieved
  
- Hours worked august 17 to spetember 16: 3 hour 10 min
+ Hours worked august 17 to spetember 16: 3 hour 20 min
  
 plugins im using on site:
 
@@ -118,3 +118,12 @@ Next call:
 - fix promo page menu links to growing-holistically
 - leave a reply -> leave a comment, change words to comment section 
 - see if we can take away website ask from from comment section, leave name and email
+
+
+Next call:
+to fix speed:
+- redirect adds time
+- cacheing needed for slower load next time
+- change img file types for faster load
+- new plugin for defering non critical css 
+- activity stream really slow on peepso, switch to different main page?
