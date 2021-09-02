@@ -112,9 +112,9 @@ Next call:
 
 - documentary widget make text bigger, bold bottom text 
 - -change score card gotten to downloaded
-- make a second promo page menu widget separated between about the course and personal a nd professional growth
+- make a second promo page menu widget separated between about the course and personal and professional growth
 - septembers topic onleft for most of site, promo one on the right
-- -speed tests on the site
+- speed tests on the site
 - fix promo page menu links to growing-holistically
 - leave a reply -> leave a comment, change words to comment section 
 - see if we can take away website ask from from comment section, leave name and email
@@ -128,4 +128,10 @@ to fix speed:
 - peepso is a clunky theme -> new plugin for defering non critical css -> researching a plugin for this - autoptimize, lightspeed cache
 - widgets slow it down a little -> holding off on adding more until the speed is better
 - widget editor plugin slows it down a bit, will delete when confirmation on all widgets next week
-- cacheing needed for slower load next time -> problem for later
+- caching needed for faster load next time -> problem for later
+
+to do:
+- make new homepage, a static page - have it say here's "this months topic", then put topic in article form
+- resize images manually, change img file types to avif, make less clunky
+- redirect turned off, login not working right when it is on
+- add pictures from google drive
