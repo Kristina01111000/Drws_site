@@ -127,4 +127,5 @@ to fix speed:
 - change img file types for faster load -> researching a plugin for this
 - peepso is a clunky theme -> new plugin for defering non critical css -> researching a plugin for this - autoptimize, lightspeed cache
 - widgets slow it down a little -> holding off on adding more until the speed is better
+- widget editor plugin slows it down a bit, will delete when confirmation on all widgets next week
 - cacheing needed for slower load next time -> problem for later
