@@ -7,7 +7,7 @@ everything to do with dr w's wordpress site
  
  Hours worked july 17 to august 16: 8 hours 30 min -> recieved
  
- Hours worked august 17 to spetember 16: 3 hour 20 min
+ Hours worked august 17 to spetember 16: 3 hour 40 min
  
 plugins im using on site:
 
@@ -122,8 +122,9 @@ Next call:
 
 Next call:
 to fix speed:
-- redirect adds time
-- cacheing needed for slower load next time
-- change img file types for faster load
-- new plugin for defering non critical css 
-- activity stream really slow on peepso, switch to different main page?
+- redirect adds  a lot of time -> needed, looking at streamlining
+- the activity stream is the slowest loading page on peepso -> pick different home page -> user page or promo page?
+- change img file types for faster load -> researching a plugin for this
+- peepso is a clunky theme -> new plugin for defering non critical css -> researching a plugin for this - autoptimize, lightspeed cache
+- widgets slow it down a little -> holding off on adding more until the speed is better
+- cacheing needed for slower load next time -> problem for later
