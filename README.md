@@ -111,7 +111,6 @@ Next call:
 - see if nonmembers can be shuffled into a different page for sale
 
 - documentary widget make text bigger, bold bottom text 
-- -change score card gotten to downloaded
 - make a second promo page menu widget separated between about the course and personal and professional growth
 - septembers topic onleft for most of site, promo one on the right
 - speed tests on the site
