@@ -7,7 +7,7 @@ everything to do with dr w's wordpress site
  
  Hours worked july 17 to august 16: 8 hours 30 min -> recieved
  
- Hours worked august 17 to spetember 16: 3 hour 40 min
+ Hours worked august 17 to spetember 16: 4 hour 20 min
  
 plugins im using on site:
 
@@ -134,3 +134,4 @@ to do:
 - resize images manually, change img file types to avif, make less clunky
 - redirect turned off, login not working right when it is on
 - add pictures from google drive
+- check promo page buttons, outline not meshing with button
