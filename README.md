@@ -7,7 +7,7 @@ everything to do with dr w's wordpress site
  
  Hours worked july 17 to august 16: 8 hours 30 min -> recieved
  
- Hours worked august 17 to spetember 16: 4 hour 20 min
+ Hours worked august 17 to spetember 16: 4 hour 30 min
  
 plugins im using on site:
 
@@ -130,7 +130,6 @@ to fix speed:
 - caching needed for faster load next time -> problem for later
 
 to do:
-- make new homepage, a static page - have it say here's "this months topic", then put topic in article form
 - resize images manually, change img file types to avif, make less clunky
 - redirect turned off, login not working right when it is on
 - add pictures from google drive
