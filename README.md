@@ -142,4 +142,7 @@ next call:
 - added w3 total cache score: 70! good
 - removed autooptimize: score: 57, reactivated it
 - readded the redirect : score: 66 ok, but not good
-- look for a different redirect plugin?
+- look for a redirect plugin? 
+
+To do:
+- manually size images, change img file types?
