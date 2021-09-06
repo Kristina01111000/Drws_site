@@ -28,6 +28,10 @@ plugins im using on site:
 
 https://www.ssllabs.com/ssltest
 
+
+speed test:
+https://developers.google.com/speed/pagespeed/insights/
+
 https://web.dev/measure/:
 - resize images
 - check image loading
@@ -86,20 +90,11 @@ Still Check:
 Next Call:
 
 - different picture of him for front page? - torso or body shot
-- ssl update
-- does he have the front page video 
-
 - write out directions for downloading googledoc
-
-Next call:
-
-- clean up scorecard paragraphs on page
 - add pdf of scorecard directions
 - add join here at bottom of front page menu
 
-
 Next call:
-- fixed the menus
 - got widget context to work by downloading classic widgets plugin, will work until at least 2022
 - pages to link to from copy of widgets on front page
 	- documentary links to documentary?
