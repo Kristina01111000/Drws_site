@@ -133,3 +133,7 @@ to do:
 - redirect turned off, login not working right when it is on
 - add pictures from google drive
 - check promo page buttons, outline not meshing with button
+
+next call:
+
+- redirect really slowing it down, I think the promo page should be the main page
