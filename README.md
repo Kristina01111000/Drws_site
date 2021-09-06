@@ -23,7 +23,8 @@ plugins im using on site:
 - total upkeep
 - widget context 
 - code snippets -> remove it if he wants the image there, remove it still?
-- redirection -> removed it, not needed anymore -peepso has it
+- autoptimization (not css, messed it up really bad)
+- w3 total cache
 
 https://www.ssllabs.com/ssltest
 
