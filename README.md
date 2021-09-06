@@ -146,3 +146,4 @@ next call:
 
 To do:
 - manually size images, change img file types?
+- research redirect plugin? peepso redirect might be the problem
