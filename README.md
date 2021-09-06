@@ -7,7 +7,7 @@ everything to do with dr w's wordpress site
  
  Hours worked july 17 to august 16: 8 hours 30 min -> recieved
  
- Hours worked august 17 to spetember 16: 4 hour 30 min
+ Hours worked august 17 to spetember 16: 5 hour 30 min
  
 plugins im using on site:
 
@@ -137,3 +137,9 @@ to do:
 next call:
 
 - redirect really slowing it down, I think the promo page should be the main page
+-  all w/o redirect
+- added autoptimize, score: 19!!! bad
+- added w3 total cache score: 70! good
+- removed autooptimize: score: 57, reactivated it
+- readded the redirect : score: 66 ok, but not good
+- look for a different redirect plugin?
