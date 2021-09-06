@@ -100,7 +100,7 @@ Next call:
 Next call:
 - fixed the menus
 - got widget context to work by downloading classic widgets plugin, will work until at least 2022
-- pages to link to from copy of widgetson front page
+- pages to link to from copy of widgets on front page
 	- documentary links to documentary?
 	- scorecard links to scorecard?
 	- monthly topic links to sale page?
@@ -114,7 +114,6 @@ Next call:
 - make a second promo page menu widget separated between about the course and personal and professional growth
 - septembers topic onleft for most of site, promo one on the right
 - speed tests on the site
-- fix promo page menu links to growing-holistically
 - leave a reply -> leave a comment, change words to comment section 
 - see if we can take away website ask from from comment section, leave name and email
 
