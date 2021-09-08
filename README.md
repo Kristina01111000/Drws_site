@@ -57,7 +57,6 @@ Notes:
 		- sale page for redirect from weekly topic
 
 
-
 To Do:
 
 - ssl not working in safari, silk browsers
@@ -82,12 +81,8 @@ To Do:
 - check to see if 'one topic' word can be removed from the lesson content, or change it to lesson
 - stop users from accessing wordpress login/logout page
 - Still Check peepso  for email issue - showing up in spam folder
-
-Next Call:
-
 - write out directions for downloading googledoc
 - add pdf of scorecard directions
-- add join here at bottom of front page menu
 
 Next call:
 - got widget context to work by downloading classic widgets plugin, will work until at least 2022
@@ -134,9 +129,9 @@ next call:
 - removed autooptimize: score: 57, reactivated it
 - readded the redirect : score: 66 ok, but not good
 - look for a redirect plugin?  -> looks like peepso redirect is the best for a peepso site
+- can manually (in peepso) direct members to a page after login, would this be better combined with the different promo page?
+
 
 To do:
 - manually size images, change img file types?
 
-
-- can manually (in peepso) direct members to a page after login, would this be better combined with the different promo page?
