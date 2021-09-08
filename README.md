@@ -7,7 +7,7 @@ everything to do with dr w's wordpress site
  
  Hours worked july 17 to august 16: 8 hours 30 min -> recieved
  
- Hours worked august 17 to spetember 16: 5 hour 30 min
+ Hours worked august 17 to spetember 16: 6 hour 0 min
  
 plugins im using on site:
 
@@ -138,11 +138,10 @@ next call:
 - added w3 total cache score: 70! good
 - removed autooptimize: score: 57, reactivated it
 - readded the redirect : score: 66 ok, but not good
-- look for a redirect plugin?  -> looks like peepso redirect is the best for peepso
+- look for a redirect plugin?  -> looks like peepso redirect is the best for a peepso site
 
 To do:
 - manually size images, change img file types?
-- research redirect plugin? peepso redirect might be the problem
 
 
-- can manually (in peepso) direct members to a page after login
+- can manually (in peepso) direct members to a page after login, would this be better combined with the different promo page?
