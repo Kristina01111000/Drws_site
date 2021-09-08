@@ -7,7 +7,7 @@ everything to do with dr w's wordpress site
  
  Hours worked july 17 to august 16: 8 hours 30 min -> recieved
  
- Hours worked august 17 to spetember 16: 6 hour 0 min
+ Hours worked august 17 to spetember 16: 6 hour 5 min
  
 plugins im using on site:
 
@@ -130,7 +130,7 @@ next call:
 - readded the redirect : score: 66 ok, but not good
 - look for a redirect plugin?  -> looks like peepso redirect is the best for a peepso site
 - can manually (in peepso) direct members to a page after login, would this be better combined with the different promo page?
-
+- confirmation on what side of page widgets are on, add other widgets? they slow if down a little
 
 To do:
 - manually size images, change img file types?
