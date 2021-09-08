@@ -132,14 +132,17 @@ to do:
 
 next call:
 
-- redirect really slowing it down, I think the promo page should be the main page
+- redirect really slowing it down, I think the promo page should be the main page with a new text widget on the right that says login here
 -  all w/o redirect
 - added autoptimize, score: 19!!! bad
 - added w3 total cache score: 70! good
 - removed autooptimize: score: 57, reactivated it
 - readded the redirect : score: 66 ok, but not good
-- look for a redirect plugin? 
+- look for a redirect plugin?  -> looks like peepso redirect is the best for peepso
 
 To do:
 - manually size images, change img file types?
 - research redirect plugin? peepso redirect might be the problem
+
+
+- can manually (in peepso) direct members to a page after login
