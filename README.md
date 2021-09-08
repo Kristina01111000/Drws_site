@@ -46,7 +46,7 @@ Notes:
 - in peepso logo height has to be in px, not %
 - non-members cannot get access to courses, can view the headings 
  	- fixed it in learndash settings, still can't figure out peepso setting
-- pages aloowed to nonmembers:
+- pages allowed to nonmembers:
 	- promo
 	- login
 	- registration
@@ -81,15 +81,10 @@ To Do:
 	- set itto one dollar just for giggles
 - check to see if 'one topic' word can be removed from the lesson content, or change it to lesson
 - stop users from accessing wordpress login/logout page
-
-
-Still Check:
-
--  peepso  for email issue
+- Still Check peepso  for email issue - showing up in spam folder
 
 Next Call:
 
-- different picture of him for front page? - torso or body shot
 - write out directions for downloading googledoc
 - add pdf of scorecard directions
 - add join here at bottom of front page menu
