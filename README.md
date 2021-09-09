@@ -7,7 +7,7 @@ everything to do with dr w's wordpress site
  
  Hours worked july 17 to august 16: 8 hours 30 min -> recieved
  
- Hours worked august 17 to spetember 16: 6 hour 5 min
+ Hours worked august 17 to spetember 16: 6 hour 35 min
  
 plugins im using on site:
 
@@ -136,4 +136,10 @@ To do:
 - manually size the rest of the images, 
 - change img file types if it doesn't speed it up 
 - complete widgets
-
+- check login while redirect is on, there seems to be a problem
+- put quote on site somewhere, are pictures good to use? change images, from big stock, promo page, one or both documentary page
+- check server speed
+- he can't login
+- see if users who don't join in with email confirmation can automatically be deleted after a week
+- promo page monthly topic sale widget
+- finish widgets, resizing pictures
