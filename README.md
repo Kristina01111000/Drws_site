@@ -135,4 +135,5 @@ next call:
 To do:
 - manually size the rest of the images, 
 - change img file types if it doesn't speed it up 
+- complete widgets
 
