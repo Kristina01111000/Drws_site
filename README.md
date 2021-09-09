@@ -122,16 +122,17 @@ to do:
 
 next call:
 
-- redirect really slowing it down, I think the promo page should be the main page with a new text widget on the right that says login here
+- redirect really slowing it down, should seriously consider having the promo page the homepage, with a new text widget on the right that says login here, and have a redirect after they login
+- can manually (in peepso) direct members to a page after login, would this be better combined with the different promo page?
 -  all w/o redirect
 - added autoptimize, score: 19!!! bad
 - added w3 total cache score: 70! good
 - removed autooptimize: score: 57, reactivated it
 - readded the redirect : score: 66 ok, but not good
 - look for a redirect plugin?  -> looks like peepso redirect is the best for a peepso site
-- can manually (in peepso) direct members to a page after login, would this be better combined with the different promo page?
 - confirmation on what side of page widgets are on, add other widgets? they slow the site a little, so we shouldn't have tons
 
 To do:
-- manually size the rest of the images, change img file types?
+- manually size the rest of the images, 
+- change img file types if it doesn't speed it up 
 
