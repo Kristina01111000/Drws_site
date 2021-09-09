@@ -139,7 +139,7 @@ To do:
 - check login while redirect is on, there seems to be a problem
 - put quote on site somewhere, are pictures good to use? change images, from big stock, promo page, one or both documentary page
 - check server speed
-- he can't login
+- he can't login, might be temporary server issue, could be real problem
 - see if users who don't join in with email confirmation can automatically be deleted after a week
 - promo page monthly topic sale widget
 - finish widgets, resizing pictures
