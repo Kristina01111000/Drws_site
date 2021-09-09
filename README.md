@@ -143,3 +143,4 @@ To do:
 - see if users who don't join in with email confirmation can automatically be deleted after a week
 - promo page monthly topic sale widget
 - finish widgets, resizing pictures
+- stopped the redirect temporarily
