@@ -146,4 +146,4 @@ To do:
 - finish widgets, resizing pictures
 - stopped the redirect temporarily
 - check login when redirect is on, it might be causing problems
-	- figure out what happens when pages that are no open to non-members are viewed by non-members, 404? or go to homepage?
+	- figure out what happens when pages that are no open to non-members are viewed by non-members, 404? or go to homepage? -> if go to homepage then we should set homepage to promo page
