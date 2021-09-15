@@ -136,7 +136,6 @@ To do:
 - manually size the rest of the images, 
 - change img file types if it doesn't speed it up 
 - complete widgets
-- check login while redirect is on, there seems to be a problem
 - put quotes on site somewhere, change images, with new ones from big stock, 
 	- one on promo page, one on documentary page
 - check server speed
@@ -151,3 +150,4 @@ To do:
 If page is set to members only it shows a page that says "This content is for Members only"
 - not as clean as the redirect, but the redirect really slows down the site
 - has a login button and a join here button
+- there is some issue with logging in while the redirect is on, sometimes it works, sometimes it does not,I'm not sure what is causing it, if we decide to use it I'm going to contact peepso to see what's up
