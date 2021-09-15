@@ -150,3 +150,4 @@ To do:
 
 If page is set to members only it shows a page that says "This content is for Members only"
 - not as clean as the redirect, but the redirect really slows down the site
+- has a login button and a join here button
