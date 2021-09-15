@@ -147,3 +147,6 @@ To do:
 - stopped the redirect temporarily
 - check login when redirect is on, it might be causing problems
 	- figure out what happens when pages that are no open to non-members are viewed by non-members, 404? or go to homepage? -> if go to homepage then we should set homepage to promo page
+
+If page is set to members only it shows a page that says "This content is for Members only"
+- not as clean as the redirect, but the redirect really slows down the site
