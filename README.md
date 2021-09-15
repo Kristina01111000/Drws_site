@@ -143,11 +143,14 @@ To do:
 - see if users who don't join in with email confirmation can automatically be deleted after a week
 - promo page monthly topic sale widget
 - finish widgets, resizing pictures
-- stopped the redirect temporarily
-- check login when redirect is on, it might be causing problems
-	- figure out what happens when pages that are no open to non-members are viewed by non-members, 404? or go to homepage? -> if go to homepage then we should set homepage to promo page
 
+
+Next call:
+
+- stopped the redirect temporarily
 If page is set to members only it shows a page that says "This content is for Members only"
 - not as clean as the redirect, but the redirect really slows down the site
 - has a login button and a join here button
 - there is some issue with logging in while the redirect is on, sometimes it works, sometimes it does not,I'm not sure what is causing it, if we decide to use it I'm going to contact peepso to see what's up
+
+
