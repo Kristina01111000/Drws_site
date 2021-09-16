@@ -148,9 +148,10 @@ To do:
 Next call:
 
 - stopped the redirect temporarily
-If page is set to members only it shows a page that says "This content is for Members only"
+If page is set to members only it shows a page that says "This content is for Members only", on nutrition page
 - not as clean as the redirect, but the redirect really slows down the site
 - has a login button and a join here button
 - there is some issue with logging in while the redirect is on, sometimes it works, sometimes it does not,I'm not sure what is causing it, if we decide to use it I'm going to contact peepso to see what's up
 
-
+- made the monthly topic sale page, does he like it?
+- put widgets where we said, looks empty on left side on every page but promo, lets switch some
