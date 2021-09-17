@@ -155,3 +155,4 @@ If page is set to members only it shows a page that says "This content is for Me
 
 - made the monthly topic sale page, does he like it?
 - put widgets where we said, looks empty on left side on every page but promo, lets switch some
+- empty on main page, different main page?
