@@ -131,6 +131,8 @@ next call:
 - readded the redirect : score: 66 ok, but not good
 - look for a redirect plugin?  -> looks like peepso redirect is the best for a peepso site
 - confirmation on what side of page widgets are on, add other widgets? they slow the site a little, so we shouldn't have tons
+- switch to october?
+
 
 To do:
 - manually size the rest of the images, 
