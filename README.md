@@ -162,5 +162,5 @@ TO do by thursday:
 - switch picture file type
 - try to see what the redirect login issue is 
 - add quotes to the images he says are good
-
+- send invoice
 waiting on: confirmation of pictures, ssl, course material
