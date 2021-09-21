@@ -165,4 +165,5 @@ TO do by thursday:
 - try to see what the redirect login issue is 
 - add quotes to the images he says are good
 - send invoice
+- try to figure out redirect, frontpage issue
 waiting on: confirmation of pictures, ssl, course material
