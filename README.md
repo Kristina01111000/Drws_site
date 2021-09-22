@@ -1,6 +1,8 @@
 # Drws_site
 everything to do with dr w's wordpress site
 
+MAKE SURE HE AN LOGIN< THERE WAS ALMOST AN ISSUE
+
  Hours worked 16 may to 16 june: 16 ->  recieved
  
  Hours worked  june 17 to july 16: 12 -> recieved
