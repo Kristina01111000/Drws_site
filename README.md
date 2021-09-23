@@ -11,6 +11,8 @@ MAKE SURE HE CAN LOGIN, THERE WAS ALMOST AN ISSUE
  
  Hours worked august 17 to spetember 16: 7 hour 20 min
  
+  Hours worked spetember 17 to  october 16: 0 hour 30 min
+ 
 plugins im using on site:
 
 - peepso
@@ -173,4 +175,16 @@ waiting on: confirmation of pictures, ssl, course material
 this call: 
 - can he login, make sure he can create new account if not
 - going to contact peepso to see what the login issue is, if it is caused by redirect, cache, something else
-- did he pick out the pictures he wants
+- did he pick out the pictures he wants -> use purple plant picture for nature quote, look for different walking one in saved photos
+
+his login news
+- when it took you to the wordpress login instead of website login
+- he pressed logout instead, and it went to the wordpress login page, then could login 
+
+
+maybe to make a subdomain for people to be in? 
+how do other people get around the login issue? talk to peepso
+
+- make a break in the promo page left menu, between about the course and personal and professional growth
+- score card below september's topics on left
+- see if there are other smiley faces, less yellow, bigger 
