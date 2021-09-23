@@ -170,12 +170,12 @@ TO do by thursday:
 - add quotes to the images he says are good
 - send invoice
 - try to figure out redirect, frontpage issue
-waiting on: confirmation of pictures, ssl, course material
+waiting on:  ssl, course material
 
 this call: 
 - can he login, make sure he can create new account if not
 - going to contact peepso to see what the login issue is, if it is caused by redirect, cache, something else
-- did he pick out the pictures he wants -> use purple plant picture for nature quote, look for different walking one in saved photos
+- did he pick out the pictures he wants -> use purple plant picture for nature quote, look for different walking one in saved photos, crowd in the city is a good one
 
 his login news
 - when it took you to the wordpress login instead of website login
@@ -187,4 +187,4 @@ how do other people get around the login issue? talk to peepso
 
 - make a break in the promo page left menu, between about the course and personal and professional growth
 - score card below september's topics on left
-- see if there are other smiley faces, less yellow, bigger 
+- see if there are other smiley faces, less yellow, bigger for inside the buttons
