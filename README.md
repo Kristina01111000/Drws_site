@@ -172,5 +172,5 @@ waiting on: confirmation of pictures, ssl, course material
 
 this call: 
 - can he login, make sure he can create new account if not
-- going to contact peepso to see what the login issue is, if it is caused by redirect
+- going to contact peepso to see what the login issue is, if it is caused by redirect, cache, something else
 - did he pick out the pictures he wants
