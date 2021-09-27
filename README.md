@@ -14,8 +14,9 @@ MAKE SURE HE CAN LOGIN, THERE WAS ALMOST AN ISSUE
   Hours worked spetember 17 to  october 16: 0 hour 30 min
  
 To Talk with peepso:
-autooptimization and w3 total cache may be causing a login issue?
 the redirect caused a huge slowdown in the site speed, how to fix this?
+added autooptimization and w3 total cache to increase teh site speed, 
+have had a login issue since then, sometimes can't login even if the password is changed, needed to wait a while and then it just worked
 
  
 plugins im using on site:
