@@ -195,3 +195,7 @@ how do other people get around the login issue? talk to peepso
 - make a break in the promo page left menu, between about the course and personal and professional growth
 - score card below september's topics on left
 - see if there are other smiley faces, less yellow, bigger for inside the buttons
+
+
+
+redirect is reactivated
