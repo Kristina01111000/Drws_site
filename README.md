@@ -17,7 +17,7 @@ To Talk with peepso:
 the redirect caused a huge slowdown in the site speed, how to fix this?
 added autooptimization and w3 total cache to increase teh site speed, 
 have had a login issue since then, sometimes can't login even if the password is changed, needed to wait a while and then it just works;
-
+sometimes login attempt fails, it says to refresh the page, and the login attempt worked
 Dr W's login news
 - couldn't login, tried multiple times
 - he pressed logout instead, took him to wordpress login instead of website login
