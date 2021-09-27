@@ -16,7 +16,12 @@ MAKE SURE HE CAN LOGIN, THERE WAS ALMOST AN ISSUE
 To Talk with peepso:
 the redirect caused a huge slowdown in the site speed, how to fix this?
 added autooptimization and w3 total cache to increase teh site speed, 
-have had a login issue since then, sometimes can't login even if the password is changed, needed to wait a while and then it just worked
+have had a login issue since then, sometimes can't login even if the password is changed, needed to wait a while and then it just works;
+
+Dr W's login news
+- couldn't login, tried multiple times
+- he pressed logout instead, took him to wordpress login instead of website login
+- he could login from there, but it was weird
 
  
 plugins im using on site:
@@ -182,10 +187,6 @@ this call:
 - can he login, make sure he can create new account if not
 - going to contact peepso to see what the login issue is, if it is caused by redirect, cache, something else
 - did he pick out the pictures he wants -> use purple plant picture for nature quote, look for different walking one in saved photos, crowd in the city is a good one
-
-his login news
-- when it took you to the wordpress login instead of website login
-- he pressed logout instead, and it went to the wordpress login page, then could login 
 
 
 maybe to make a subdomain for people to be in? 
