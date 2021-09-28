@@ -11,7 +11,7 @@ MAKE SURE HE CAN LOGIN, THERE WAS ALMOST AN ISSUE
  
  Hours worked august 17 to spetember 16: 7 hour 20 min
  
-  Hours worked spetember 17 to  october 16: 0 hour 30 min
+  Hours worked spetember 17 to  october 16: 0 hour 50 min
  
 To Talk with peepso:
 the redirect caused a huge slowdown in the site speed, how to fix this?
@@ -197,8 +197,7 @@ how do other people get around the login issue? talk to peepso
 - see if there are other smiley faces, less yellow, bigger for inside the buttons
 
 
-
-redirect is reactivated
  for next call:
  - they have a upgrade sale where you can get 5 years for the price of 3, jsyk
- - 
+ - redirect is reactivated
+ - sent support ticket into peepso
