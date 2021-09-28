@@ -199,3 +199,6 @@ how do other people get around the login issue? talk to peepso
 
 
 redirect is reactivated
+ for next call:
+ - they have a upgrade sale where you can get 5 years for the price of 3, jsyk
+ - 
