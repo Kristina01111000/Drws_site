@@ -11,7 +11,7 @@ MAKE SURE HE CAN LOGIN, THERE WAS ALMOST AN ISSUE
  
  Hours worked august 17 to spetember 16: 7 hour 20 min
  
-  Hours worked spetember 17 to  october 16: 0 hour 50 min
+  Hours worked spetember 17 to  october 16: 1 hour 00 min
  
 To Talk with peepso:
 the redirect caused a huge slowdown in the site speed, how to fix this?
