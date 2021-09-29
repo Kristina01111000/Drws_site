@@ -200,4 +200,4 @@ how do other people get around the login issue? talk to peepso
  for next call:
  - they have a upgrade sale where you can get 5 years for the price of 3, jsyk
  - redirect is reactivated
- - sent support ticket into peepso
+ - sent support ticket into peepso - make sure that shortcodes are not being messed up by autooptimize
