@@ -175,17 +175,14 @@ If page is set to members only it shows a page that says "This content is for Me
 - empty on main page, different main page?
 
 TO do by thursday:
-- finish manually sizing pictures
-- switch picture file type
+- switch picture file type -> maybe
 - try to see what the redirect login issue is 
 - add quotes to the images he says are good
 - send invoice
 - try to figure out redirect, frontpage issue
 waiting on:  ssl, course material
 
-this call: 
-- can he login, make sure he can create new account if not
-- going to contact peepso to see what the login issue is, if it is caused by redirect, cache, something else
+this call:
 - did he pick out the pictures he wants -> use purple plant picture for nature quote, look for different walking one in saved photos, crowd in the city is a good one
 
 
