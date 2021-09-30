@@ -202,3 +202,10 @@ how do other people get around the login issue? talk to peepso
  - site speed as fast as I think we can get it without upgrading the server
  - images for hippocrates quotes -> walking one good, others maybe good?
  - trying sending notes to him before call good? bad?
+
+
+- make sure that short codes are all in autooptimize
+- ask peepso about redirect, really slow in help 
+- his login not working, must have missed a shortcode
+- redirect not causing the login issue
+- look for a different walking image, different quotes in big stock, look for them for pictures
