@@ -211,3 +211,5 @@ how do other people get around the login issue? talk to peepso
 - look for a different walking image, different quotes in big stock, look for them for pictures
 - philosopher's corner thing
 - redirect disabled, site randlmly cannot be reached by dr w
+- not working in chrome,safari, working in firefox and silk, and mozilla on phone, all of mine work, none of his work 4 element lifestyle working for me, not him, maybe the server is not connecting to his computers, he was on it before, but it stopped working after 10 minutes
+	- he is going to email me to see of all 3 of his sites work on his home computer
