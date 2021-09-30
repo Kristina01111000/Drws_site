@@ -11,7 +11,7 @@ MAKE SURE HE CAN LOGIN, THERE WAS ALMOST AN ISSUE
  
  Hours worked august 17 to spetember 16: 7 hour 20 min
  
-  Hours worked spetember 17 to  october 16: 1 hour 00 min
+  Hours worked spetember 17 to  october 16: 1 hour 30 min
  
 To Talk with peepso:
 the redirect caused a huge slowdown in the site speed, how to fix this?
@@ -201,3 +201,4 @@ how do other people get around the login issue? talk to peepso
  - check his login -> think it is fixed, check shortcodes if it isn't
  - site speed as fast as I think we can get it without upgrading the server
  - images for hippocrates quotes -> walking one good, others maybe good?
+ - trying sending notes to him before call good? bad?
