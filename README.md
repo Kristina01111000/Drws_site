@@ -193,8 +193,11 @@ how do other people get around the login issue? talk to peepso
 - score card below september's topics on left
 - see if there are other smiley faces, less yellow, bigger for inside the buttons
 
+ - sent support ticket into peepso - make sure that shortcodes are not being messed up by autooptimize
 
  for next call:
- - they have a upgrade sale where you can get 5 years for the price of 3, jsyk
- - redirect is reactivated
- - sent support ticket into peepso - make sure that shortcodes are not being messed up by autooptimize
+ - peepso has an upgrade sale where you can get 5 years for the price of 3, jsyk
+ - redirect is reactivated, is site still slow?
+ - check his login -> think it is fixed, check shortcodes if it isn't
+ - site speed as fast as I think we can get it without upgrading the server
+ - images for hippocrates quotes -> walking one good, others maybe good?
