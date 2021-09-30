@@ -209,3 +209,5 @@ how do other people get around the login issue? talk to peepso
 - his login not working, must have missed a shortcode
 - redirect not causing the login issue
 - look for a different walking image, different quotes in big stock, look for them for pictures
+- philosopher's corner thing
+- redirect disabled, site randlmly cannot be reached by dr w
