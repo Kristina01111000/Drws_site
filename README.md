@@ -1,7 +1,7 @@
 # Drws_site
 everything to do with dr w's wordpress site
 
-MAKE SURE HE CAN LOGIN, THERE WAS ALMOST AN ISSUE
+MAKE SURE HE CAN LOGIN, THERE IS AN ISSUE WITH SHORTCODES
 
  Hours worked 16 may to 16 june: 16 ->  recieved
  
@@ -18,6 +18,7 @@ the redirect caused a huge slowdown in the site speed, how to fix this?
 added autooptimization and w3 total cache to increase teh site speed, 
 have had a login issue since then, sometimes can't login even if the password is changed, needed to wait a while and then it just works;
 sometimes login attempt fails, it says to refresh the page, and the login attempt worked
+
 Dr W's login news
 - couldn't login, tried multiple times
 - he pressed logout instead, took him to wordpress login instead of website login
@@ -84,27 +85,17 @@ To Do:
 	- explains how to do it, need to figure out the default images we want
 - test email plugin -> 
 	- automatic login emails are working
-- fix cellphone view of menu
+- fix cellphone view of menus
 - does he want articles in monthly course? or as articles? 
 - emails every week? multiple times a week?
 - excess pages deleted, check every month or so
 - add cancel course early section to page and get prior month free
-- fine tune new button description
-- get rid of credit card link on payment (or see if it forces paypal)
-	- check it, get paid for what i put in
-	- set itto one dollar just for giggles
-- check to see if 'one topic' word can be removed from the lesson content, or change it to lesson
 - stop users from accessing wordpress login/logout page
 - Still Check peepso  for email issue - showing up in spam folder
 - write out directions for downloading googledoc
 - add pdf of scorecard directions
 
 Next call:
-- got widget context to work by downloading classic widgets plugin, will work until at least 2022
-- pages to link to from copy of widgets on front page
-	- documentary links to documentary?
-	- scorecard links to scorecard?
-	- monthly topic links to sale page?
 - confirmation on extra widget copies: whole widget context thing adds several steps to making them and changing them,
 	-  want confirmation before i do it
 	- copy of weekly topic widget to sale page
