@@ -96,11 +96,6 @@ To Do:
 - add pdf of scorecard directions
 
 Next call:
-- confirmation on extra widget copies: whole widget context thing adds several steps to making them and changing them,
-	-  want confirmation before i do it
-	- copy of weekly topic widget to sale page
-	- copy of documentary widget to documentary and sale page
-- see if nonmembers can be shuffled into a different page for sale
 
 - documentary widget make text bigger, bold bottom text 
 - make a second promo page menu widget separated between about the course and personal and professional growth
