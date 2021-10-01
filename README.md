@@ -215,3 +215,4 @@ how do other people get around the login issue? talk to peepso
 	- he is going to email me to see of all 3 of his sites work on his home computer
 
 - server issue for him? firewall? every computer @ his office was not working
+- email himm tomorrow to check the site @ his office again and at his house
