@@ -119,32 +119,16 @@ next call:
 - removed autooptimize: score: 57, reactivated it
 - readded the redirect : score: 66 ok, but not good
 - look for a redirect plugin?  -> looks like peepso redirect is the best for a peepso site
-- confirmation on what side of page widgets are on, add other widgets? they slow the site a little, so we shouldn't have tons
-- switch to october?
 
 
 To do:
-- complete widgets
 - put quotes on site somewhere, change images, with new ones from big stock, 
 	- one on promo page, one on documentary page
-- check server speed
 - he can't login, might be temporary server issue, could be real problem
 - see if users who don't join in with email confirmation can automatically be deleted after a week
-- promo page monthly topic sale widget
-- finish widgets, resizing pictures
-
 
 Next call:
 
-- stopped the redirect temporarily
-If page is set to members only it shows a page that says "This content is for Members only", on nutrition page
-- not as clean as the redirect, but the redirect really slows down the site
-- has a login button and a join here button
-- there is some issue with logging in while the redirect is on, sometimes it works, sometimes it does not,I'm not sure what is causing it, if we decide to use it I'm going to contact peepso to see what's up
-
-- made the monthly topic sale page, does he like it?
-- put widgets where we said, looks empty on left side on every page but promo, lets switch some
-- empty on main page, different main page?
 
 TO do by thursday:
 - switch picture file type -> maybe
