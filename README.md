@@ -97,9 +97,6 @@ To Do:
 
 Next call:
 
-- documentary widget make text bigger, bold bottom text 
-- make a second promo page menu widget separated between about the course and personal and professional growth
-- septembers topic onleft for most of site, promo one on the right
 - speed tests on the site
 - leave a reply -> leave a comment, change words to comment section 
 - see if we can take away website ask from from comment section, leave name and email
@@ -136,8 +133,6 @@ next call:
 
 
 To do:
-- manually size the rest of the images, 
-- change img file types if it doesn't speed it up 
 - complete widgets
 - put quotes on site somewhere, change images, with new ones from big stock, 
 	- one on promo page, one on documentary page
@@ -207,3 +202,6 @@ how do other people get around the login issue? talk to peepso
 
 
 - make a coupon code for discounted price, waiting on word + amount
+
+- documentary widget make text bigger, bold bottom text 
+- make a second promo page menu widget separated between about the course and personal and professional growth
