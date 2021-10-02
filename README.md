@@ -69,6 +69,7 @@ Notes:
 	- scorecard
 	- patients
 	- documentary page
+	- second promo page
 	- Need:
 		- sale page for redirect from weekly topic
 
@@ -95,11 +96,7 @@ To Do:
 - write out directions for downloading googledoc
 - add pdf of scorecard directions
 
-Next call:
 
-- speed tests on the site
-- leave a reply -> leave a comment, change words to comment section 
-- see if we can take away website ask from from comment section, leave name and email
 
 
 Next call:
@@ -205,3 +202,5 @@ how do other people get around the login issue? talk to peepso
 
 - documentary widget make text bigger, bold bottom text 
 - make a second promo page menu widget separated between about the course and personal and professional growth
+- 
+- see if we can take away website ask from from comment section, leave name and email
