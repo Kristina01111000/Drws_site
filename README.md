@@ -203,3 +203,7 @@ how do other people get around the login issue? talk to peepso
 - server issue for him? firewall? every computer @ his office was not working
 - email himm tomorrow to check the site @ his office again and at his house
 	- he fot to the site, but could not login, got an error message
+
+
+
+- make a coupon code for discounted price, waiting on word + amount
