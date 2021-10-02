@@ -1,7 +1,7 @@
 # Drws_site
 everything to do with dr w's wordpress site
 
-MAKE SURE HE CAN LOGIN, THERE IS AN ISSUE WITH SHORTCODES
+ HE CANNOT LOGIN, THERE IS AN ISSUE WITH SHORTCODES? OR SOMETHING ELSE?
 
  Hours worked 16 may to 16 june: 16 ->  recieved
  
