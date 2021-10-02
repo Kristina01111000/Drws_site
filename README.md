@@ -109,12 +109,6 @@ to fix speed:
 - widget editor plugin slows it down a bit, will delete when confirmation on all widgets next week
 - caching needed for faster load next time -> problem for later
 
-to do:
-- resize images manually, change img file types to avif, make less clunky
-- redirect turned off, login not working right when it is on
-- add pictures from google drive
-- check promo page buttons, outline not meshing with button
-
 next call:
 
 - redirect really slowing it down, should seriously consider having the promo page the homepage, with a new text widget on the right that says login here, and have a redirect after they login
@@ -204,3 +198,6 @@ how do other people get around the login issue? talk to peepso
 - make a second promo page menu widget separated between about the course and personal and professional growth
 - 
 - see if we can take away website ask from from comment section, leave name and email
+
+- crop pictures from google drive
+- check promo page buttons, outline not meshing with button
