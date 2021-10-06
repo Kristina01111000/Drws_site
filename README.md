@@ -177,9 +177,7 @@ how do other people get around the login issue? talk to peepso
 	- he fot to the site, but could not login, got an error message
 	- he got to the site at home, but still couldn't login
 
-
-- make a coupon code for discounted price, waiting on word + amount
-
+To Do:
 - documentary widget make text bigger, bold bottom text 
 - make a second promo page menu widget separated between about the course and personal and professional growth
 - 
@@ -188,6 +186,8 @@ how do other people get around the login issue? talk to peepso
 - crop pictures from google drive
 - check promo page buttons, outline not meshing with button
 
+
+- login issue still occuring,definitely caused by w3 cache
 - server not responding, if it doesn't start working, manually deactivate plugin on inmotion
 
 Next call:
