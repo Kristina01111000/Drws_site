@@ -189,3 +189,6 @@ how do other people get around the login issue? talk to peepso
 - check promo page buttons, outline not meshing with button
 
 - server not responding, if it doesn't start working, manually deactivate plugin on inmotion
+
+Next call:
+- made discount code
