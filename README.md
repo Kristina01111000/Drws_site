@@ -193,3 +193,10 @@ To Do:
 Next call:
 - made discount code
 - keep going back and forth with peepso
+
+
+- see if inmotion can test what is wrong with the site, 
+- check speed tests 
+- make screen grab and send it to peepso 
+- subdomain is an option for fixing it? redirect problem
+- split up main menu on promo page
