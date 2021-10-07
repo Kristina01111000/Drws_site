@@ -4,6 +4,7 @@ everything to do with dr w's wordpress site
  HE CANNOT LOGIN, GETS ERROR 406, THERE IS AN ISSUE WITH SHORTCODES? OR SOMETHING ELSE?
  SERVER NOW RESPONDING TOO SLOW TO GO TO SITE --> got in turned off redirect, stopped plugins, still can't login
  got in, login works when w3 cache is disabled and you go to wp-admin to log in
+ admins can login at /wp-admin/, only admins though
 
  Hours worked 16 may to 16 june: 16 ->  recieved
  
