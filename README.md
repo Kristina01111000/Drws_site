@@ -201,3 +201,5 @@ Next call:
 - subdomain is an option for fixing it? redirect problem
 - split up main menu on promo page
 - make them use paypal when checking out, shows up as credit card possible
+- at payment, say you will not be charged again after 4 months, "this learning program ends in four months, and your monthly payments will stop after your fourth month"
+- put down included with membership under courses, monthly and 4 month 
