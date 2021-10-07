@@ -13,7 +13,7 @@ everything to do with dr w's wordpress site
  
  Hours worked august 17 to september 16: 7 hour 20 min
  
-  Hours worked spetember 17 to  october 16: 3 hour 30 min
+  Hours worked spetember 17 to  october 16: 3 hour 40 min
  
 To Talk with peepso:
 the redirect caused a huge slowdown in the site speed, how to fix this?
@@ -191,7 +191,6 @@ To Do:
 - server not responding, if it doesn't start working, manually deactivate plugin on inmotion
 
 Next call:
-- made discount code
 - keep going back and forth with peepso
 
 
