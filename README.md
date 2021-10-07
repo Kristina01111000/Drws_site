@@ -205,3 +205,6 @@ Next call:
 
 updated peepso people, asked them about caause of login issue, stopped w3 cache and autoptimize
 no response yet
+
+Next call:
+- set up philosophy corner
