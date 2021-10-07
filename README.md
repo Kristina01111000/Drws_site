@@ -206,5 +206,6 @@ Next call:
 updated peepso people, asked them about caause of login issue, stopped w3 cache and autoptimize
 no response yet
 
+administrators can login with wp-admin, others cannot
 Next call:
 - set up philosophy corner
