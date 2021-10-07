@@ -11,9 +11,9 @@ everything to do with dr w's wordpress site
  
  Hours worked july 17 to august 16: 8 hours 30 min -> recieved
  
- Hours worked august 17 to spetember 16: 7 hour 20 min
+ Hours worked august 17 to september 16: 7 hour 20 min
  
-  Hours worked spetember 17 to  october 16: 3 hour 00 min
+  Hours worked spetember 17 to  october 16: 3 hour 30 min
  
 To Talk with peepso:
 the redirect caused a huge slowdown in the site speed, how to fix this?
