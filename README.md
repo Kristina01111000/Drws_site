@@ -200,3 +200,4 @@ Next call:
 - make screen grab and send it to peepso 
 - subdomain is an option for fixing it? redirect problem
 - split up main menu on promo page
+- make them use paypal when checking out, shows up as credit card possible
