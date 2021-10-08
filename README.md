@@ -91,20 +91,15 @@ To Do:
 
 To Do:
 
-maybe to make a subdomain for people to be in? 
 
 - make a break in the promo page left menu, between about the course and personal and professional growth
 - see if there are other smiley faces, less yellow, bigger for inside the buttons
 - philosopher's corner thing
-
 - documentary widget make text bigger, bold bottom text 
 - see if we can take away website ask from from comment section, leave name and email
 - crop pictures from google drive
 - check promo page buttons, outline not meshing with button
-- see if inmotion can test what is wrong with the site, 
 - check speed tests 
-- make screen grab and send it to peepso 
-- subdomain is an option for fixing it? redirect problem
 - split up main menu on promo page
 - make them use paypal when checking out, shows up as credit card possible
 - at payment, say you will not be charged again after 4 months, "this learning program ends in four months, and your monthly payments will stop after your fourth month"
