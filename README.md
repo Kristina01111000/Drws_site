@@ -91,19 +91,9 @@ To Do:
 To do:
 - put quotes on site somewhere, change images, with new ones from big stock, 
 	- one on promo page, one on documentary page
-- he can't login, might be temporary server issue, could be real problem
 - see if users who don't join in with email confirmation can automatically be deleted after a week
 
-Next call:
 
-
-TO do by thursday:
-- switch picture file type -> maybe
-- try to see what the redirect login issue is 
-- add quotes to the images he says are good
-- send invoice
-- try to figure out redirect, frontpage issue
-waiting on:  ssl, course material
 
 this call:
 - did he pick out the pictures he wants -> use purple plant picture for nature quote, look for different walking one in saved photos, crowd in the city is a good one
