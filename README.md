@@ -106,6 +106,6 @@ To Do:
 - put down included with membership under courses, monthly and 4 month 
 - looks like front page isn't redirecting, others are
 - clicking logout takes you to wordpress login page, fix it
-
+	- removed the logout button, put peepso logout somewhere visible
 Next call:
 - set up philosophy corner
