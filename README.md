@@ -88,19 +88,6 @@ To Do:
 
 
 
-
-next call:
-
-- redirect really slowing it down, should seriously consider having the promo page the homepage, with a new text widget on the right that says login here, and have a redirect after they login
-- can manually (in peepso) direct members to a page after login, would this be better combined with the different promo page?
--  all w/o redirect
-- added autoptimize, score: 19!!! bad
-- added w3 total cache score: 70! good
-- removed autooptimize: score: 57, reactivated it
-- readded the redirect : score: 66 ok, but not good
-- look for a redirect plugin?  -> looks like peepso redirect is the best for a peepso site
-
-
 To do:
 - put quotes on site somewhere, change images, with new ones from big stock, 
 	- one on promo page, one on documentary page
