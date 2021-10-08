@@ -207,6 +207,9 @@ Next call:
 updated peepso people, asked them about caause of login issue, stopped w3 cache and autoptimize
 no response yet
 
+
+clicking logout takes you to wordpress login page, fix it
+
 administrators can login with wp-admin, others cannot
 Next call:
 - set up philosophy corner
