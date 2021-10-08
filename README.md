@@ -85,19 +85,11 @@ To Do:
 - Still Check peepso  for email issue - showing up in spam folder
 - write out directions for downloading googledoc
 - add pdf of scorecard directions
-
-
-
-To do:
-- put quotes on site somewhere, change images, with new ones from big stock, 
-	- one on promo page, one on documentary page
 - see if users who don't join in with email confirmation can automatically be deleted after a week
 
 
 
 this call:
-- did he pick out the pictures he wants -> use purple plant picture for nature quote, look for different walking one in saved photos, crowd in the city is a good one
-
 
 maybe to make a subdomain for people to be in? 
 how do other people get around the login issue? talk to peepso
@@ -109,12 +101,7 @@ how do other people get around the login issue? talk to peepso
  - sent support ticket into peepso - make sure that shortcodes are not being messed up by autooptimize
 
  for next call:
- - peepso has an upgrade sale where you can get 5 years for the price of 3, jsyk
- - redirect is reactivated, is site still slow?
- - check his login -> think it is fixed, check shortcodes if it isn't
- - site speed as fast as I think we can get it without upgrading the server
- - images for hippocrates quotes -> walking one good, others maybe good?
- - trying sending notes to him before call good? bad?
+
 
 
 - make sure that short codes are all in autooptimize
