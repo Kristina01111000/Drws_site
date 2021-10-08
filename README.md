@@ -89,16 +89,6 @@ To Do:
 
 
 
-Next call:
-to fix speed:
-- redirect adds  a lot of time -> needed, looking at streamlining
-- the activity stream is the slowest loading page on peepso -> pick different home page -> user page or promo page?
-- change img file types for faster load -> researching a plugin for this
-- peepso is a clunky theme -> new plugin for defering non critical css -> researching a plugin for this - autoptimize, lightspeed cache
-- widgets slow it down a little -> holding off on adding more until the speed is better
-- widget editor plugin slows it down a bit, will delete when confirmation on all widgets next week
-- caching needed for faster load next time -> problem for later
-
 next call:
 
 - redirect really slowing it down, should seriously consider having the promo page the homepage, with a new text widget on the right that says login here, and have a redirect after they login
