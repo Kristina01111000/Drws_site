@@ -95,20 +95,11 @@ maybe to make a subdomain for people to be in?
 how do other people get around the login issue? talk to peepso
 
 - make a break in the promo page left menu, between about the course and personal and professional growth
-- score card below september's topics on left
 - see if there are other smiley faces, less yellow, bigger for inside the buttons
 
- - sent support ticket into peepso - make sure that shortcodes are not being messed up by autooptimize
 
  for next call:
 
-
-
-- make sure that short codes are all in autooptimize
-- ask peepso about redirect, really slow in help 
-- his login not working, must have missed a shortcode
-- redirect not causing the login issue
-- look for a different walking image, different quotes in big stock, look for them for pictures
 - philosopher's corner thing
 - redirect disabled, site randlmly cannot be reached by dr w
 - not working in chrome,safari, working in firefox and silk, and mozilla on phone, all of mine work, none of his work 4 element lifestyle working for me, not him, maybe the server is not connecting to his computers, he was on it before, but it stopped working after 10 minutes
