@@ -12,7 +12,7 @@ everything to do with dr w's wordpress site
  
   Hours worked spetember 17 to  october 16: 4 hour 00 min
  
-Login issue: caused by logging in through pmp, not peepso, changed all logins to peepso, now it works
+Login issue solved: caused by logging in through pmp, not peepso, changed all logins to peepso, now it works!
 
  
 plugins im using on site:
@@ -89,39 +89,18 @@ To Do:
 
 
 
-this call:
+To Do:
 
 maybe to make a subdomain for people to be in? 
-how do other people get around the login issue? talk to peepso
 
 - make a break in the promo page left menu, between about the course and personal and professional growth
 - see if there are other smiley faces, less yellow, bigger for inside the buttons
-
-
- for next call:
-
 - philosopher's corner thing
-- redirect disabled, site randlmly cannot be reached by dr w
-- not working in chrome,safari, working in firefox and silk, and mozilla on phone, all of mine work, none of his work 4 element lifestyle working for me, not him, maybe the server is not connecting to his computers, he was on it before, but it stopped working after 10 minutes
-	- he is going to email me to see of all 3 of his sites work on his home computer
 
-- server issue for him? firewall? every computer @ his office was not working
-- email himm tomorrow to check the site @ his office again and at his house
-	- he fot to the site, but could not login, got an error message
-	- he got to the site at home, but still couldn't login
-
-To Do:
 - documentary widget make text bigger, bold bottom text 
-- make a second promo page menu widget separated between about the course and personal and professional growth
-- 
 - see if we can take away website ask from from comment section, leave name and email
-
 - crop pictures from google drive
 - check promo page buttons, outline not meshing with button
-
-
-- login issue still occuring,definitely caused by w3 cache
-- server not responding, if it doesn't start working, manually deactivate plugin on inmotion
 
 Next call:
 - keep going back and forth with peepso
