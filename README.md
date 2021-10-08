@@ -12,16 +12,7 @@ everything to do with dr w's wordpress site
  
   Hours worked spetember 17 to  october 16: 4 hour 00 min
  
-To Talk with peepso:
-the redirect caused a huge slowdown in the site speed, how to fix this?
-added autooptimization and w3 total cache to increase teh site speed, 
-have had a login issue since then, sometimes can't login even if the password is changed, needed to wait a while and then it just works;
-sometimes login attempt fails, it says to refresh the page, and the login attempt worked
-
-Dr W's login news
-- couldn't login, tried multiple times
-- he pressed logout instead, took him to wordpress login instead of website login
-- he could login from there, but it was weird
+Login issue: caused by logging in through pmp, not peepso, changed all logins to peepso, now it works
 
  
 plugins im using on site:
