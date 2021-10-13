@@ -10,7 +10,7 @@ everything to do with dr w's wordpress site
  
  Hours worked august 17 to september 16: 7 hour 20 min
  
-  Hours worked spetember 17 to  october 16: 4 hour 05 min
+  Hours worked spetember 17 to  october 16: 4 hour 20 min
  
 Login issue solved: caused by logging in through pmp, not peepso, changed all logins to peepso, now it works!
 
@@ -92,7 +92,6 @@ To Do:
 To Do:
 
 
-- make a break in the promo page left menu, between about the course and personal and professional growth
 - see if there are other smiley faces, less yellow, bigger for inside the buttons
 - philosopher's corner thing
 - documentary widget make text bigger, bold bottom text 
@@ -104,7 +103,6 @@ To Do:
 - make them use paypal when checking out, shows up as credit card possible
 - at payment, say you will not be charged again after 4 months, "this learning program ends in four months, and your monthly payments will stop after your fourth month"
 - put down included with membership under courses, monthly and 4 month 
-- looks like front page isn't redirecting, others are
 - clicking logout takes you to wordpress login page, fix it
 	- removed the logout button, put peepso logout somewhere visible
 - look @ new peepso release for mobile
