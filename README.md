@@ -112,3 +112,5 @@ To Do:
 Next call:
 - set up philosophy corner
 - site is still slow
+- do you like the promo page new menu?
+	- will delete other bits form first menu if you like it
