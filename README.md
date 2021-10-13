@@ -11,6 +11,7 @@ everything to do with dr w's wordpress site
  Hours worked august 17 to september 16: 7 hour 20 min
  
   Hours worked spetember 17 to  october 16: 4 hour 20 min
+  - send invoice before call tomorrow
  
 Login issue solved: caused by logging in through pmp, not peepso, changed all logins to peepso, now it works!
 
