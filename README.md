@@ -96,7 +96,7 @@ To Do:
 - philosopher's corner thing
 - documentary widget make text bigger, bold bottom text 
 - see if we can take away website ask from from comment section, leave name and email
-- crop pictures from google drive
+- crop pictures from google drive -> may have to redownload them
 - check speed tests 
 - make them use paypal when checking out, shows up as credit card possible
 - at payment, say you will not be charged again after 4 months, "this learning program ends in four months, and your monthly payments will stop after your fourth month"
