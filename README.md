@@ -111,3 +111,5 @@ Next call:
 - site is still slow
 - do you like the promo page  menu split?
 
+
+- ? from last meeting -> put down included with membership under courses, monthly and 4 month 
