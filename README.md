@@ -62,6 +62,7 @@ Notes:
 	- documentary page
 	- second promo page
 	- community activity
+		- does peepso change the pages numbers when new updates are made?
 	- Need:
 		- sale page for redirect from weekly topic
 
