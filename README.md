@@ -10,11 +10,11 @@ everything to do with dr w's wordpress site
  
  Hours worked august 17 to september 16: 7 hour 20 min
  
-  Hours worked spetember 17 to  october 16: 4 hour 20 min
+  Hours worked spetember 17 to  october 16: 5 hour 20 min
+  
+  
   - send invoice before call tomorrow
  
-Login issue solved: caused by logging in through pmp, not peepso, changed all logins to peepso, now it works!
-
  
 plugins im using on site:
 
@@ -120,6 +120,9 @@ cache issue, needed to opt out of caching for peepso shortcodes
 nonce check was also an issue with caching
 -server speed made it worse b/c if it took too long it wouldnt go through instead of showing the crash
 
+
+to do:
+
 - after login send them to another  page - main page see them as squares dash lines
 	- four widgets for this page, not hot links
 	- philosophy corner? quotation of the month top right just an image, not hot, underneath say feed your soul
@@ -130,3 +133,6 @@ nonce check was also an issue with caching
 - remove its free from the activity page
 - make hot links a different color, red? for now try to change just the documentary one
 - switch community activity to ativity page
+
+- created powerpoint course, additional free course?
+- make some quiz questions for the powerpoint course
