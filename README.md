@@ -10,11 +10,10 @@ everything to do with dr w's wordpress site
  
  Hours worked august 17 to september 16: 7 hour 20 min
  
-  Hours worked spetember 17 to  october 16: 5 hour 20 min
+  Hours worked september 17 to  october 16: 5 hour 20 min
   
   
-  - send invoice before call tomorrow
- 
+  - send invoice on 16th
  
 plugins im using on site:
 
