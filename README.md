@@ -61,6 +61,7 @@ Notes:
 	- patients
 	- documentary page
 	- second promo page
+	- community activity
 	- Need:
 		- sale page for redirect from weekly topic
 
