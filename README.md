@@ -109,9 +109,14 @@ To Do:
 - look @ new peepso release for mobile - not something that is useful for us, affects plugins for two other apps
 
 Next call:
+- added promo page login to redirect exceptions
 - set up philosophy corner
-- site is still slow
+- site is still kinda slow
 - do you like the promo page  menu split?
 
+3 things caused the problem:
+wrong login link, pmp, not peepso
+cache issue, needed to opt out of caching for peepso shortcodes
+nonce check was also an issue with caching
 
 - ? from last meeting -> put down included with membership under courses, monthly and 4 month 
