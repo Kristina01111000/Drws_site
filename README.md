@@ -120,7 +120,13 @@ cache issue, needed to opt out of caching for peepso shortcodes
 nonce check was also an issue with caching
 -server speed made it worse b/c if it took too long it wouldnt go through instead of showing the crash
 
-
+- after login send them to another  page - main page see them as squares dash lines
+	- four widgets for this page, not hot links
+	- philosophy corner? quotation of the month top right just an image, not hot, underneath say feed your soul
+	- try this exercise in bottom left "life is movement corner" tagline-> because life is movement, movement is life
+	- top left nutrition fact- nutrition corner tagline -> feed your body well
+	- bottom right practical earth corner "here and now corner" -"being practical is good!" underneath it
 
 - remove its free from the activity page
 - make hot links a different color, red? for now try to change just the documentary one
+- switch community activity to ativity page
