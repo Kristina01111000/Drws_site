@@ -118,5 +118,11 @@ Next call:
 wrong login link, pmp, not peepso
 cache issue, needed to opt out of caching for peepso shortcodes
 nonce check was also an issue with caching
+-server speed made it worse b/c if it took too long it wouldnt go through instead of showing the crash
 
 - ? from last meeting -> put down included with membership under courses, monthly and 4 month 
+
+
+
+- remove its free from the activity page
+- make hot links a different color, red? for now
