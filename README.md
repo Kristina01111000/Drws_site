@@ -131,7 +131,7 @@ to do:
 
 - remove its free from the activity page
 - make hot links a different color, red? for now try to change just the documentary one
-- switch community activity to ativity page
+
 
 - created powerpoint course, additional free course?
 - make some quiz questions for the powerpoint course
