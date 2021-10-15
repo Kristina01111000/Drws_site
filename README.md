@@ -133,6 +133,5 @@ to do:
 - make hot links a different color, red? for now try to change just the documentary one
 - switch community activity to ativity page
 
-- email him for powerpoint around 10 on friday if he hasn't sent it
 - created powerpoint course, additional free course?
 - make some quiz questions for the powerpoint course
