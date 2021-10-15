@@ -129,9 +129,10 @@ to do:
 	- top left nutrition fact- nutrition corner tagline -> feed your body well
 	- bottom right practical earth corner "here and now corner" -"being practical is good!" underneath it
 
-- remove its free from the activity page
+- remove its free from the activity page, manually edit theme?
 - make hot links a different color, red? for now try to change just the documentary one -> leave it be for now
 
 
 - created powerpoint course, additional free course?
-- make some quiz questions for the powerpoint course
+	- look at it to see if it is good
+	- make some quiz questions for the powerpoint course
