@@ -130,7 +130,7 @@ to do:
 	- bottom right practical earth corner "here and now corner" -"being practical is good!" underneath it
 
 - remove its free from the activity page
-- make hot links a different color, red? for now try to change just the documentary one
+- make hot links a different color, red? for now try to change just the documentary one -> leave it be for now
 
 
 - created powerpoint course, additional free course?
