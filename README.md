@@ -126,6 +126,7 @@ to do:
 	- four widgets for this page, not hot links
 	- philosophy corner? quotation of the month top right just an image, not hot, underneath say feed your soul -> done
 	- try this exercise in bottom left "life is movement corner" tagline-> because life is movement, movement is life
+		- added this stuff, need middle section
 	- top left nutrition fact- nutrition corner tagline -> feed your body well
 	- bottom right practical earth corner "here and now corner" -"being practical is good!" underneath it
 
