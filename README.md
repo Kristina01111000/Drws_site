@@ -122,6 +122,13 @@ nonce check was also an issue with caching
 
 to do:
 
+
+
+- remove its free from the activity page, manually edit theme?
+- make hot links a different color, red? for now try to change just the documentary one -> leave it be for now
+
+Waiting on Dr W:
+
 - after login send them to another  page - main page see them as squares dash lines
 	- four widgets for this page, not hot links
 	- philosophy corner? quotation of the month top right just an image, not hot, underneath say feed your soul -> done
@@ -132,10 +139,8 @@ to do:
 	- bottom right practical earth corner "here and now corner" -"being practical is good!" underneath it
 		- added this stuff, need middle section
 
-- remove its free from the activity page, manually edit theme?
-- make hot links a different color, red? for now try to change just the documentary one -> leave it be for now
-
-
 - created powerpoint course, additional free course?
 	- look at it to see if it is good
 	- make some quiz questions for the powerpoint course
+
+
