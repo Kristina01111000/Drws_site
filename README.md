@@ -12,7 +12,7 @@ everything to do with dr w's wordpress site
  
   Hours worked september 17 to  october 16: 5 hour 20 min
   
-  Hours worked october 17 to November 16:  0 hour 20 min
+  Hours worked october 17 to November 16:  0 hour 30 min
   - send invoice on 16th
  
 plugins im using on site:
@@ -130,6 +130,7 @@ to do:
 	- top left nutrition fact- nutrition corner tagline -> feed your body well
 		- added this stuff, need middle section
 	- bottom right practical earth corner "here and now corner" -"being practical is good!" underneath it
+		- added this stuff, need middle section
 
 - remove its free from the activity page, manually edit theme?
 - make hot links a different color, red? for now try to change just the documentary one -> leave it be for now
