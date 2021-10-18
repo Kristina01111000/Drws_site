@@ -122,10 +122,7 @@ nonce check was also an issue with caching
 
 to do:
 
-
-
 - remove its free from the activity page, manually edit theme?
-- make hot links a different color, red? for now try to change just the documentary one -> leave it be for now
 
 Waiting on Dr W:
 
@@ -143,4 +140,4 @@ Waiting on Dr W:
 	- look at it to see if it is good
 	- make some quiz questions for the powerpoint course
 
-
+- does he actually want the hot links a different color
