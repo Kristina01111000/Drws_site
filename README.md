@@ -124,7 +124,7 @@ to do:
 
 - after login send them to another  page - main page see them as squares dash lines
 	- four widgets for this page, not hot links
-	- philosophy corner? quotation of the month top right just an image, not hot, underneath say feed your soul
+	- philosophy corner? quotation of the month top right just an image, not hot, underneath say feed your soul -> done
 	- try this exercise in bottom left "life is movement corner" tagline-> because life is movement, movement is life
 	- top left nutrition fact- nutrition corner tagline -> feed your body well
 	- bottom right practical earth corner "here and now corner" -"being practical is good!" underneath it
