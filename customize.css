@@ -43,3 +43,10 @@ title of all pages
     list-style: none;
 	line-height: normal;
 }
+
+
+// adds a small border around groups with the additional css class customgroup
+.customgroup{
+    padding: 10px;
+    border: 1px solid #ccc;
+}
