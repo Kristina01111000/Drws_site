@@ -128,6 +128,7 @@ to do:
 	- try this exercise in bottom left "life is movement corner" tagline-> because life is movement, movement is life
 		- added this stuff, need middle section
 	- top left nutrition fact- nutrition corner tagline -> feed your body well
+		- added this stuff, need middle section
 	- bottom right practical earth corner "here and now corner" -"being practical is good!" underneath it
 
 - remove its free from the activity page, manually edit theme?
