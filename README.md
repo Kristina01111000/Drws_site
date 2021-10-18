@@ -64,7 +64,7 @@ Notes:
 		- does peepso change the pages numbers when new updates are made?
 	- Need:
 		- sale page for redirect from weekly topic
-
+- .customclass is the class name to add a border around a group
 
 To Do:
 
