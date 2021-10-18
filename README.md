@@ -12,7 +12,7 @@ everything to do with dr w's wordpress site
  
   Hours worked september 17 to  october 16: 5 hour 20 min
   
-  Hours worked october 17 to November 16:  0 hour 30 min
+  Hours worked october 17 to November 16:  0 hour 40 min
   - send invoice on 16th
  
 plugins im using on site:
