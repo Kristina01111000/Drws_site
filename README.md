@@ -120,10 +120,6 @@ nonce check was also an issue with caching
 -server speed made it worse b/c if it took too long it wouldnt go through instead of showing the crash
 
 
-to do:
-
-- remove its free from the activity page, manually edit theme?
-
 Waiting on Dr W:
 
 - after login send them to another  page - main page see them as squares dash lines
@@ -141,3 +137,8 @@ Waiting on Dr W:
 	- make some quiz questions for the powerpoint course
 
 - does he actually want the hot links a different color
+
+
+Next call:
+
+- removed its free from the activity page, do you like the current text or want something different?
