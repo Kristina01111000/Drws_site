@@ -8,12 +8,12 @@ everything to do with dr w's wordpress site
  
  Hours worked july 17 to august 16: 8 hours 30 min -> recieved
  
- Hours worked august 17 to september 16: 7 hour 20 min
+ Hours worked august 17 to september 16: 7 hour 20 min -> sent 
  
-  Hours worked september 17 to  october 16: 5 hour 20 min
+  Hours worked september 17 to  october 16: 5 hour 20 min -> sent
   
   Hours worked october 17 to November 16:  0 hour 40 min
-  - send invoice on 16th
+
  
 plugins im using on site:
 
