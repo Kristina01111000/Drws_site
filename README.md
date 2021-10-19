@@ -104,7 +104,6 @@ To Do:
 - put down included with membership under courses, monthly and 4 month 
 - clicking logout takes you to wordpress login page, fix it
 	- removed the logout button, put peepso logout somewhere visible
-- look @ new peepso release for mobile - not something that is useful for us, affects plugins for two other apps
 
 Next call:
 - do you like the promo page  menu split?
