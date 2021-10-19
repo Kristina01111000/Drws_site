@@ -95,7 +95,6 @@ To Do:
 
 
 - see if there are other smiley faces, less yellow, bigger for inside the buttons
-- philosopher's corner thing
 - documentary widget make text bigger, bold bottom text 
 - see if we can take away website ask from from comment section, leave name and email
 - crop pictures from google drive -> may have to redownload them
@@ -108,9 +107,6 @@ To Do:
 - look @ new peepso release for mobile - not something that is useful for us, affects plugins for two other apps
 
 Next call:
-- added promo page login to redirect exceptions
-- set up philosophy corner
-- site is still kinda slow
 - do you like the promo page  menu split?
 
 3 things caused the problem:
