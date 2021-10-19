@@ -136,9 +136,10 @@ Waiting on Dr W:
 	- look at it to see if it is good
 	- make some quiz questions for the powerpoint course
 
-- does he actually want the hot links a different color
+
 
 
 Next call:
 
-- removed its free from the activity page, do you like the current text or want something different?
+- removed its free from the activity login page, do you like the current text or want something different?
+- does he actually want the hot links a different color
