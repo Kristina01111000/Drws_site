@@ -138,3 +138,8 @@ Next call:
 
 - removed its free from the activity login page, do you like the current text or want something different?
 - does he actually want the hot links a different color
+- powerpoint course?
+- layout of welcome page?
+	- other sections in welcome page
+	- include link to courses?
+	- will link to this page after login once it is done
