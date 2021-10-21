@@ -161,7 +161,15 @@ Next call:
 	- put in small paragraphs, don't link to posts yet
 	- think about hpw to archive posts that are linked, but not easily available to them
 	- change the meditates picture to yellow instead of blue -> yes
+
+
 Next call:
 
 - removed its free from the activity login page, do you like the current text or want something different?
 - check the new membership process - kinda screwy right now, he can login without paying, weird, make some new users, they can't join a membership level
+	 - I found that it worked when I tried it with a different account (already made)
+	 	- select the membership level
+	 	- then press select
+	 	- then click to add the discount code 
+	 	- then click apply
+	- for a new account:
