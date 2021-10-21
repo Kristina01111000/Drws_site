@@ -175,6 +175,7 @@ Next call:
 	- for a new account: try with other email account
 
 -welcome/home pages, separate rectangles on home, squares on welcome
+	- changed text to be good for different colors
 	- yellow image for philosophers corner
 	
 -using pixlr for basic edits
