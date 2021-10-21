@@ -12,7 +12,7 @@ everything to do with dr w's wordpress site
  
   Hours worked september 17 to  october 16: 5 hour 20 min -> sent
   
-  Hours worked october 17 to November 16:  0 hour 40 min
+  Hours worked october 17 to November 16:  1 hour 40 min
 
  
 plugins im using on site:
@@ -157,7 +157,7 @@ Next call:
 	- paragraph, click here to read more
 	- create 2 versions, one squares, one rectangles
 	- make corners have background colors
-	- switch philosopher and nutrition corner on page, top left for philosophers
+	- switch philosopher on page, top left for philosophers, top right for life is movement
 	- put in small paragraphs, don't link to posts yet
 	- think about hpw to archive posts that are linked, but not easily available to them
 Next call:
