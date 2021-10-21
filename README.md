@@ -137,7 +137,7 @@ Waiting on Dr W:
 Next call:
 
 - does he actually want the hot links a different color
-- powerpoint course?
+- powerpoint course? -> in google drive, make a quiz, upload it to the site, break it up 
 - layout of welcome page?
 	- other sections in welcome page
 	- include link to courses?
@@ -145,8 +145,18 @@ Next call:
 
 - activity page is showing membership levels to dr w 
 	- clicking on login sends him to /membership-account/membership-levels
+	- he doesn't have a membership level assigned, and can't click into one on his admin account
+- add easier logout to page 
+- change url of welcome page to home
 
-
+- make philosopher's corner different: make it bigger, put picture of philosopher in 
+- make quick bites of the articles he sent, link to full articles in a read more section
+	- ie did you know that ....... then link
+	- make them engaging and quick
+	- studies show you can improve you brain by eating more vegetables
+	- paragraph, click here to read more
+	- create 2 versions, one squares, one rectangles
 Next call:
 
 - removed its free from the activity login page, do you like the current text or want something different?
+- check the new membership process - kinda screwy right now, he can login without paying, weird, make some new users, they can't join a membership level
