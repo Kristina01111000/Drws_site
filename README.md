@@ -157,6 +157,7 @@ Next call:
 	- paragraph, click here to read more
 	- create 2 versions, one squares, one rectangles
 	- make corners have background colors
+	- switch philosopher and nutrition corner on page, top left for philosophers
 Next call:
 
 - removed its free from the activity login page, do you like the current text or want something different?
