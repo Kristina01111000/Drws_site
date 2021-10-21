@@ -174,5 +174,7 @@ Next call:
 	 	- then click apply
 	- for a new account: try with other email account
 
-welcome/home pages
+-welcome/home pages, separate rectangles on home, squares on welcome
 	- yellow image for philosophers corner
+	
+-using pixlr for basic edits
