@@ -158,6 +158,8 @@ Next call:
 	- create 2 versions, one squares, one rectangles
 	- make corners have background colors
 	- switch philosopher and nutrition corner on page, top left for philosophers
+	- put in small paragraphs, don't link to posts yet
+	- think about hpw to archive posts that are linked, but not easily available to them
 Next call:
 
 - removed its free from the activity login page, do you like the current text or want something different?
