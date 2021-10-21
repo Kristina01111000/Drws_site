@@ -156,6 +156,7 @@ Next call:
 	- studies show you can improve you brain by eating more vegetables
 	- paragraph, click here to read more
 	- create 2 versions, one squares, one rectangles
+	- make corners have background colors
 Next call:
 
 - removed its free from the activity login page, do you like the current text or want something different?
