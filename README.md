@@ -172,4 +172,4 @@ Next call:
 	 	- then press select
 	 	- then click to add the discount code 
 	 	- then click apply
-	- for a new account:
+	- for a new account: try with other email account
