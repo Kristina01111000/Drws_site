@@ -12,7 +12,7 @@ everything to do with dr w's wordpress site
  
   Hours worked september 17 to  october 16: 5 hour 20 min -> sent
   
-  Hours worked october 17 to November 16:  1 hour 40 min
+  Hours worked october 17 to November 16:  2 hour 00 min
 
  
 plugins im using on site:
@@ -173,3 +173,6 @@ Next call:
 	 	- then click to add the discount code 
 	 	- then click apply
 	- for a new account: try with other email account
+
+welcome/home pages
+	- yellow image for philosophers corner
