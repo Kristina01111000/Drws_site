@@ -160,6 +160,7 @@ Next call:
 	- switch philosopher on page, top left for philosophers, top right for life is movement
 	- put in small paragraphs, don't link to posts yet
 	- think about hpw to archive posts that are linked, but not easily available to them
+	- change the meditates picture to yellow instead of blue -> yes
 Next call:
 
 - removed its free from the activity login page, do you like the current text or want something different?
