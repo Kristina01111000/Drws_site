@@ -131,15 +131,22 @@ Waiting on Dr W:
 	- look at it to see if it is good
 	- make some quiz questions for the powerpoint course
 
-
+- not working after update of theme, login button going to membership levels
 
 
 Next call:
 
-- removed its free from the activity login page, do you like the current text or want something different?
 - does he actually want the hot links a different color
 - powerpoint course?
 - layout of welcome page?
 	- other sections in welcome page
 	- include link to courses?
 	- will link to this page after login once it is done
+
+- activity page is showing membership levels to dr w 
+	- clicking on login sends him to /membership-account/membership-levels
+
+
+Next call:
+
+- removed its free from the activity login page, do you like the current text or want something different?
