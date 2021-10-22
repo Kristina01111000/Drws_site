@@ -134,23 +134,14 @@ Waiting on Dr W:
 - not working after update of theme, login button going to membership levels
 
 
-Next call:
+To Do:
 
-- does he actually want the hot links a different color
 - powerpoint course? -> in google drive, make a quiz, upload it to the site, break it up 
-- layout of welcome page?
-	- other sections in welcome page
-	- include link to courses?
-	- will link to this page after login once it is done
 
-- activity page is showing membership levels to dr w 
-	- clicking on login sends him to /membership-account/membership-levels
-	- he doesn't have a membership level assigned, and can't click into one on his admin account
 - add easier logout to page 
-- change url of welcome page to home
 
 - make philosopher's corner different: make it bigger, put picture of philosopher in 
-- make quick bites of the articles he sent, link to full articles in a read more section
+- make quick bites of the articles he sent, link to full articles in a read more section -> don;t link the articles yet, want to figure out a archive system that he likes
 	- ie did you know that ....... then link
 	- make them engaging and quick
 	- studies show you can improve you brain by eating more vegetables
@@ -162,8 +153,14 @@ Next call:
 	- think about hpw to archive posts that are linked, but not easily available to them
 	- change the meditates picture to yellow instead of blue -> yes
 
-
-Next call:
+- make two pages with url of welcome and home
+- welcome/home pages, separate rectangles on home, squares on welcome
+	- change text to be good for different colors
+- layout of welcome page?
+	- other sections in welcome page
+	- include link to courses?
+	- will link to this page after login once it is done
+	
 
 - removed its free from the activity login page, do you like the current text or want something different?
 - check the new membership process - kinda screwy right now, he can login without paying, weird, make some new users, they can't join a membership level
@@ -173,9 +170,10 @@ Next call:
 	 	- then click to add the discount code 
 	 	- then click apply
 	- for a new account: try with other email account
+		- does it let you pick a membership level?
 
--welcome/home pages, separate rectangles on home, squares on welcome
-	- changed text to be good for different colors
+Next call:
+
+
+-using pixlr for basic photo edits
 	- yellow image for philosophers corner
-	
--using pixlr for basic edits
