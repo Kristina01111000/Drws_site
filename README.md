@@ -127,8 +127,8 @@ Waiting on Dr W:
 	- bottom right practical earth corner "here and now corner" -"being practical is good!" underneath it
 		- added this stuff, need middle section
 
-- created powerpoint course, additional free course?
-	- look at it to see if it is good
+-  powerpoint course, additional free course
+	- add it to site, break it up into sections
 	- make some quiz questions for the powerpoint course
 
 - not working after update of theme, login button going to membership levels
