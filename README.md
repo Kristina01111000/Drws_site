@@ -115,24 +115,6 @@ nonce check was also an issue with caching
 -server speed made it worse b/c if it took too long it wouldnt go through instead of showing the crash
 
 
-Waiting on Dr W:
-
-- after login send them to another  page - main page see them as squares dash lines
-	- four widgets for this page, not hot links
-	- philosophy corner? quotation of the month top right just an image, not hot, underneath say feed your soul -> done
-	- try this exercise in bottom left "life is movement corner" tagline-> because life is movement, movement is life
-		- added this stuff, need middle section
-	- top left nutrition fact- nutrition corner tagline -> feed your body well
-		- added this stuff, need middle section
-	- bottom right practical earth corner "here and now corner" -"being practical is good!" underneath it
-		- added this stuff, need middle section
-
--  powerpoint course, additional free course
-	- add it to site, break it up into sections
-	- make some quiz questions for the powerpoint course
-
-- not working after update of theme, login button going to membership levels
-
 
 To Do:
 
@@ -147,7 +129,6 @@ To Do:
 	- paragraph, click here to read more
 	- create 2 versions, one squares, one rectangles
 	- make corners have background colors
-	- switch philosopher on page, top left for philosophers, top right for life is movement
 	- put in small paragraphs, don't link to posts yet
 	- think about hpw to archive posts that are linked, but not easily available to them
 
