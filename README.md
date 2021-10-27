@@ -140,7 +140,6 @@ To Do:
 
 - add easier logout to page 
 
-- make philosopher's corner different: make it bigger, put picture of philosopher in 
 - make quick bites of the articles he sent, link to full articles in a read more section -> don;t link the articles yet, want to figure out a archive system that he likes
 	- ie did you know that ....... then link
 	- make them engaging and quick
@@ -151,7 +150,7 @@ To Do:
 	- switch philosopher on page, top left for philosophers, top right for life is movement
 	- put in small paragraphs, don't link to posts yet
 	- think about hpw to archive posts that are linked, but not easily available to them
-	- change the meditates picture to yellow instead of blue -> yes
+
 
 - make two pages with url of welcome and home
 - welcome/home pages, separate rectangles on home, squares on welcome
@@ -173,7 +172,10 @@ To Do:
 		- does it let you pick a membership level?
 
 Next call:
-
-
+- home/welcome page:
+	- archive system for the home page articles -> i think making them posts would be the best bet
+		- have not linked the articles yet b/c waiting on archive system
+	- ksdjafh
+- text on activity login pages, it it good?
 -using pixlr for basic photo edits
 	- yellow image for philosophers corner
