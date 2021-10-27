@@ -12,7 +12,7 @@ everything to do with dr w's wordpress site
  
   Hours worked september 17 to  october 16: 5 hour 20 min -> recieved
   
-  Hours worked october 17 to November 16:  2 hour 30 min
+  Hours worked october 17 to November 16:  3 hour 20 min
 
  
 plugins im using on site:
@@ -122,27 +122,6 @@ To Do:
 
 - add easier logout to page 
 
-- make quick bites of the articles he sent, link to full articles in a read more section -> don;t link the articles yet, want to figure out a archive system that he likes
-	- ie did you know that ....... then link
-	- make them engaging and quick
-	- studies show you can improve you brain by eating more vegetables
-	- paragraph, click here to read more
-	- create 2 versions, one squares, one rectangles
-	- make corners have background colors
-	- put in small paragraphs, don't link to posts yet
-	- think about hpw to archive posts that are linked, but not easily available to them
-
-
-- make two pages with url of welcome and home
-- welcome/home pages, separate rectangles on home, squares on welcome
-	- change text to be good for different colors
-- layout of welcome page?
-	- other sections in welcome page
-	- include link to courses?
-	- will link to this page after login once it is done
-	
-
-- removed its free from the activity login page, do you like the current text or want something different?
 - check the new membership process - kinda screwy right now, he can login without paying, weird, make some new users, they can't join a membership level
 	 - I found that it worked when I tried it with a different account (already made)
 	 	- select the membership level
@@ -160,7 +139,7 @@ Next call:
 	- archive system for the home page articles -> i think making them posts would be the best bet
 		- have not linked the articles yet b/c waiting on archive system
 	- different word than sturdying for here and now
-	- 
+	- will link after it's done
 - text on activity login pages, it it good?
 -using pixlr for basic photo edits
 	- yellow image for philosophers corner
