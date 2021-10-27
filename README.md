@@ -12,7 +12,7 @@ everything to do with dr w's wordpress site
  
   Hours worked september 17 to  october 16: 5 hour 20 min -> recieved
   
-  Hours worked october 17 to November 16:  2 hour 00 min
+  Hours worked october 17 to November 16:  2 hour 30 min
 
  
 plugins im using on site:
@@ -154,7 +154,7 @@ To Do:
 
 Next call:
 - home/welcome page:
-	- better description of what he wants, currently looks wierd, I having an image with text on for all sections then click on it to go to the article
+	- better description of what he wants, currently looks wierd, I think having an image with text on it for all sections then click on it to go to the article, or having a quote about the topic and then a link
 	- archive system for the home page articles -> i think making them posts would be the best bet
 		- have not linked the articles yet b/c waiting on archive system
 	- different word than sturdying for here and now
