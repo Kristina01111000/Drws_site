@@ -142,6 +142,10 @@ Next call:
 	- will link after it's done
 - text on activity login pages, it it good?
 - the powerpoint course is really long, how should i separate it?
+	- do you have the rights to the photos in it?
+	- intro slide 1 to 27 
+	- why slide 28 - 35?
+	- chakras 36 - 44
 
 -using pixlr for basic photo edits
 	- yellow image for philosophers corner
