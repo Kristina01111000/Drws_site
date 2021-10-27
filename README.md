@@ -154,9 +154,11 @@ To Do:
 
 Next call:
 - home/welcome page:
+	- better description of what he wants, currently looks wierd, I having an image with text on for all sections then click on it to go to the article
 	- archive system for the home page articles -> i think making them posts would be the best bet
 		- have not linked the articles yet b/c waiting on archive system
-	- ksdjafh
+	- different word than sturdying for here and now
+	- 
 - text on activity login pages, it it good?
 -using pixlr for basic photo edits
 	- yellow image for philosophers corner
