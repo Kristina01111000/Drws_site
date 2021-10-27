@@ -155,6 +155,7 @@ To Do:
 Next call:
 - home/welcome page:
 	- better description of what he wants, currently looks wierd, I think having an image with text on it for all sections then click on it to go to the article, or having a quote about the topic and then a link
+	- color scheme does not match the site, yellow good, brown ok, pink and blue not matching
 	- archive system for the home page articles -> i think making them posts would be the best bet
 		- have not linked the articles yet b/c waiting on archive system
 	- different word than sturdying for here and now
