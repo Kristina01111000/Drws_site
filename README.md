@@ -163,3 +163,4 @@ Next call:
 - text on activity login pages, it it good?
 -using pixlr for basic photo edits
 	- yellow image for philosophers corner
+- used photo editor for flavenoids picture, font = fresh
