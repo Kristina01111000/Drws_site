@@ -141,6 +141,8 @@ Next call:
 	- different word than sturdying for here and now
 	- will link after it's done
 - text on activity login pages, it it good?
+- the powerpoint course is really long, how should i separate it?
+
 -using pixlr for basic photo edits
 	- yellow image for philosophers corner
 - used photo editor for flavenoids picture, font = fresh
