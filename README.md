@@ -165,3 +165,4 @@ current call:
 		- put them in an unlisted category after their have been un visibled
 	- all posts should have comments turned off
 	- hide time of publishing from users
+	- unlisted pages are in a copied category
