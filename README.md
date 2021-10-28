@@ -98,15 +98,11 @@ To Do:
 - documentary widget make text bigger, bold bottom text 
 - see if we can take away website ask from from comment section, leave name and email
 - crop pictures from google drive -> may have to redownload them
-- check speed tests 
 - make them use paypal when checking out, shows up as credit card possible
 - at payment, say you will not be charged again after 4 months, "this learning program ends in four months, and your monthly payments will stop after your fourth month"
 - put down included with membership under courses, monthly and 4 month 
 - clicking logout takes you to wordpress login page, fix it
 	- removed the logout button, put peepso logout somewhere visible
-
-Next call:
-- do you like the promo page  menu split?
 
 3 things caused the problem:
 wrong login link, pmp, not peepso
@@ -133,9 +129,6 @@ To Do:
 
 Next call:
 - home/welcome page:
-	- better description of what he wants, currently looks wierd, I think having an image with text on it for all sections then click on it to go to the article, or having a quote about the topic and then a link
-	- /welcome what he described, /home close to what i think it should be
-	- color scheme does not match the site, yellow good, brown ok, blue acceptable when really page, pink  not matching
 	- archive system for the home page articles -> i think making them posts would be the best bet
 		- have not linked the articles yet b/c waiting on archive system
 	- different word than sturdying for here and now section -> steadying? strong?
@@ -147,7 +140,7 @@ Next call:
 	- definitely needs a voice over or to be reorganized if we want it on the site
 	- try separating it into 2-3 courses, 
 - delete welcome page
-- 
+
 -using pixlr for basic photo edits
 	- yellow image for philosophers corner
 - used photo editor for flavenoids picture, font = fresh
