@@ -168,4 +168,5 @@ current call:
 	- unlisted pages are in a copied category
 
 - start putting the powerpoint into the site
-	- break it up inthe way that seems best
+	- break it up in the way that seems best
+	- should he do voice over? probably
