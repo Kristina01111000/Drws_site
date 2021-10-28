@@ -134,18 +134,18 @@ To Do:
 Next call:
 - home/welcome page:
 	- better description of what he wants, currently looks wierd, I think having an image with text on it for all sections then click on it to go to the article, or having a quote about the topic and then a link
-	- welcome what he described, home close to what i think it should be
+	- /welcome what he described, /home close to what i think it should be
 	- color scheme does not match the site, yellow good, brown ok, blue acceptable when really page, pink  not matching
 	- archive system for the home page articles -> i think making them posts would be the best bet
 		- have not linked the articles yet b/c waiting on archive system
-	- different word than sturdying for here and now
-	- will link after it's done
+	- different word than sturdying for here and now section -> steadying? strong?
 - text on activity login pages, it it good?
 - the powerpoint course is really long, how should i separate it?
 	- do you have the rights to the photos in it?
 	- intro slide 1 to 27 
 	- why slide 28 - 35?
 	- chakras 36 - 44
+	- definitely needs a voice over or to be reorganized if we want it on the site
 
 -using pixlr for basic photo edits
 	- yellow image for philosophers corner
