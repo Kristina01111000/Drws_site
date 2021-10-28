@@ -139,14 +139,15 @@ Next call:
 	- archive system for the home page articles -> i think making them posts would be the best bet
 		- have not linked the articles yet b/c waiting on archive system
 	- different word than sturdying for here and now section -> steadying? strong?
-- text on activity login pages, it it good?
 - the powerpoint course is really long, how should i separate it?
-	- do you have the rights to the photos in it?
+	- do you have the rights to the photos in it? -> they're good, 
 	- intro slide 1 to 27 
 	- why slide 28 - 35?
 	- chakras 36 - 44
 	- definitely needs a voice over or to be reorganized if we want it on the site
-
+	- try separating it into 2-3 courses, 
+- delete welcome page
+- 
 -using pixlr for basic photo edits
 	- yellow image for philosophers corner
 - used photo editor for flavenoids picture, font = fresh
@@ -161,3 +162,6 @@ current call:
 	- see if meta tags can be hidden
 	- put in categories instead
 	- look to see if they can be hidden or if we mark them some other way for admins, not for users -> unlisted?
+		- put them in an unlisted category after their have been un visibled
+	- all posts should have comments turned off
+	- hide time of publishing from users
