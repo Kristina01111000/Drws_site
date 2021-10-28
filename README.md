@@ -150,3 +150,14 @@ Next call:
 -using pixlr for basic photo edits
 	- yellow image for philosophers corner
 - used photo editor for flavenoids picture, font = fresh
+
+current call:
+- for home page, not welcome page
+- make black background less dark in photos
+- make text not have quotes around it 
+
+- wants some posts that visible whenever, and some that are not unless they are linked  -> on the right side menu of post editor, put a dr w meta tag for stuff he wrote vs. got from somewhere else
+	- meta tags: don'treuse, taken from another source, copied drwwritten, 
+	- see if meta tags can be hidden
+	- put in categories instead
+	- look to see if they can be hidden or if we mark them some other way for admins, not for users -> unlisted?
