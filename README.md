@@ -166,3 +166,6 @@ current call:
 	- all posts should have comments turned off
 	- hide time of publishing from users
 	- unlisted pages are in a copied category
+
+- start putting the powerpoint into the site
+	- break it up inthe way that seems best
