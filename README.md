@@ -152,10 +152,9 @@ current call:
 
 - wants some posts that visible whenever, and some that are not unless they are linked  -> on the right side menu of post editor, put a dr w meta tag for stuff he wrote vs. got from somewhere else
 	- meta tags: don'treuse, taken from another source, copied drwwritten, 
-	- see if meta tags can be hidden
 	- put in categories instead
 	- look to see if they can be hidden or if we mark them some other way for admins, not for users -> unlisted?
-		- put them in an unlisted category after their  visiblity has been removed
+		- put them in an unlisted category after their visiblity has been removed
 	- all posts should have comments turned off -> for now
 		- comments need to be removed manually if they are turned off after comments have been added
 	- hide time of publishing from users?
@@ -163,4 +162,5 @@ current call:
 
 - start putting the powerpoint into the site
 	- break it up in the way that seems best
+	- try to get ~ 10 slides per lesson
 	- should he do voice over? probably
