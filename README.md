@@ -155,10 +155,11 @@ current call:
 	- see if meta tags can be hidden
 	- put in categories instead
 	- look to see if they can be hidden or if we mark them some other way for admins, not for users -> unlisted?
-		- put them in an unlisted category after their have been un visibled
-	- all posts should have comments turned off
-	- hide time of publishing from users
-	- unlisted pages are in a copied category
+		- put them in an unlisted category after their  visiblity has been removed
+	- all posts should have comments turned off -> for now
+		- comments need to be removed manually if they are turned off after comments have been added
+	- hide time of publishing from users?
+	- put unlisted pages  in a copied category
 
 - start putting the powerpoint into the site
 	- break it up in the way that seems best
