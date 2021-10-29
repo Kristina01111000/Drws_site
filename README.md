@@ -160,7 +160,7 @@ current call:
 	- hide time of publishing from users?
 	- put unlisted pages  in a copied category
 
-- start putting the powerpoint into the site
+- start putting the powerpoint into the site first quarter of the course, break it up so it is less overwhelming
 	- break it up in the way that seems best
 	- try to get ~ 10 slides per lesson
 	- should he do voice over? probably
