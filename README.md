@@ -164,3 +164,7 @@ current call:
 	- break it up in the way that seems best
 	- try to get ~ 10 slides per lesson
 	- should he do voice over? probably
+	- 
+Next call:
+
+- removed dates from posts in settings, all or nothing way to do it
