@@ -12,7 +12,7 @@ everything to do with dr w's wordpress site
  
   Hours worked september 17 to  october 16: 5 hour 20 min -> recieved
   
-  Hours worked october 17 to November 16:  4 hour 00 min
+  Hours worked october 17 to November 16:  4 hour 10 min
 
  
 plugins im using on site:
@@ -168,3 +168,5 @@ current call:
 Next call:
 
 - removed dates from posts in settings, all or nothing way to do it
+- no way to remove the author from the post, switched it to dr w, 
+	- if you really want the author removed them I can edit the theme code, it will need to be reedited every time it updates (which is every week)
