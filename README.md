@@ -131,7 +131,7 @@ Next call:
 - home/welcome page:
 	- archive system for the home page articles -> i think making them posts would be the best bet
 		- have not linked the articles yet b/c waiting on archive system
-	- different word than sturdying for here and now section -> steadying? strong?
+
 - the powerpoint course is really long, how should i separate it?
 	- do you have the rights to the photos in it? -> they're good, 
 	- intro slide 1 to 27 
@@ -157,7 +157,7 @@ current call:
 		- put them in an unlisted category after their visiblity has been removed
 	- all posts should have comments turned off -> for now
 		- comments need to be removed manually if they are turned off after comments have been added
-	- hide time of publishing from users?
+
 	- put unlisted pages  in a copied category
 
 - start putting the powerpoint into the site first quarter of the course, break it up so it is less overwhelming
