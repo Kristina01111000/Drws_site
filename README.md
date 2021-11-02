@@ -92,14 +92,10 @@ To Do:
 To Do:
 
 
-- documentary widget make text bigger, bold bottom text 
 - see if we can take away website ask from from comment section, leave name and email
-- crop pictures from google drive -> may have to redownload them
 - make them use paypal when checking out, shows up as credit card possible
 - at payment, say you will not be charged again after 4 months, "this learning program ends in four months, and your monthly payments will stop after your fourth month"
 - put down included with membership under courses, monthly and 4 month??
-- clicking logout takes you to wordpress login page, fix it
-	- removed the logout button, put peepso logout somewhere visible
 
 3 things caused the problem:
 wrong login link, pmp, not peepso
