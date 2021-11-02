@@ -63,7 +63,8 @@ Notes:
 	- community activity
 		- does peepso change the pages numbers when new updates are made?
 	- Need:
-		- sale page for redirect from weekly topic
+		- sale page for redirect from weekly topic?
+	
 - .customclass is the class name to add a border around a group
 
 To Do:
@@ -76,15 +77,12 @@ To Do:
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
-- test email plugin -> 
-	- automatic login emails are working
 - fix cellphone view of menus
 - does he want articles in monthly course? or as articles? 
 - emails every week? multiple times a week?
 - excess pages deleted, check every month or so
 - add cancel course early section to page and get prior month free
 - stop users from accessing wordpress login/logout page
-- Still Check peepso  for email issue - showing up in spam folder
 - write out directions for downloading googledoc
 - add pdf of scorecard directions
 - see if users who don't join in with email confirmation can automatically be deleted after a week
