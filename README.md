@@ -112,9 +112,8 @@ nonce check was also an issue with caching
 
 To Do:
 
-- powerpoint course? -> in google drive, make a quiz, upload it to the site, break it up 
 
-- add easier logout to page 
+- add easier logout to page (header?)
 
 - check the new membership process - kinda screwy right now, he can login without paying, weird, make some new users, they can't join a membership level
 	 - I found that it worked when I tried it with a different account (already made)
@@ -168,3 +167,5 @@ Next call:
 - removed dates from posts in settings, all or nothing way to do it
 - no way to remove the author from the post, switched it to dr w, 
 	- if you really want the author removed them I can edit the theme code, it will need to be reedited every time it updates (which is every week)
+
+- welcome page deleted, any changes to home page?
