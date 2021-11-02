@@ -67,6 +67,13 @@ Notes:
 	
 - .customclass is the class name to add a border around a group
 
+
+- wants some posts that visible always, some that are unlisted that he uses other sources
+	- meta tags: don'treuse, taken from another source, copied, drwwritten, 
+	- put in categories instead, unlist the ones from other sources, put them in unlisted category
+	- all posts should have comments turned off -> for now
+		- comments need to be removed manually if they are turned off after comments have been added
+
 To Do:
 
 - ssl not working in safari, silk browsers
@@ -142,21 +149,12 @@ current call:
 - make black background less dark in photos
 - make text not have quotes around it 
 
-- wants some posts that visible whenever, and some that are not unless they are linked  -> on the right side menu of post editor, put a dr w meta tag for stuff he wrote vs. got from somewhere else
-	- meta tags: don'treuse, taken from another source, copied drwwritten, 
-	- put in categories instead
-	- look to see if they can be hidden or if we mark them some other way for admins, not for users -> unlisted?
-		- put them in an unlisted category after their visiblity has been removed
-	- all posts should have comments turned off -> for now
-		- comments need to be removed manually if they are turned off after comments have been added
-
-	- put unlisted pages  in a copied category
 
 - start putting the powerpoint into the site first quarter of the course, break it up so it is less overwhelming
 	- break it up in the way that seems best
 	- try to get ~ 10 slides per lesson
 	- should he do voice over? probably
-	- 
+	
 Next call:
 
 - removed dates from posts in settings, all or nothing way to do it
