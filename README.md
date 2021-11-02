@@ -128,7 +128,7 @@ To Do:
 		- does it let you pick a membership level?
 
 Next call:
-- home/welcome page:
+- home page:
 	- archive system for the home page articles -> i think making them posts would be the best bet
 		- have not linked the articles yet b/c waiting on archive system
 
@@ -139,7 +139,7 @@ Next call:
 	- chakras 36 - 44
 	- definitely needs a voice over or to be reorganized if we want it on the site
 	- try separating it into 2-3 courses, 
-- delete welcome page
+
 
 -using pixlr for basic photo edits
 	- yellow image for philosophers corner
