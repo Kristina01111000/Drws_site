@@ -133,7 +133,7 @@ Next call:
 
 - the powerpoint course is really long, how should i separate it?
 	- do you have the rights to the photos in it? -> they're good, 
-	- intro slide 1 to 27 
+	- intro slide 1 to 27 -> how to separate intro slides?
 	- why slide 28 - 35?
 	- chakras 36 - 44
 	- definitely needs a voice over or to be reorganized if we want it on the site
