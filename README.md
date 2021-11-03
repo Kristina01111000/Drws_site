@@ -145,8 +145,6 @@ Next call:
 - used photo editor for flavenoids picture, font = fresh
 
 current call:
-- for home page, not welcome page
-- make black background less dark in photos
 
 
 - start putting the powerpoint into the site first quarter of the course, break it up so it is less overwhelming
@@ -161,3 +159,4 @@ Next call:
 	- if you really want the author removed them I can edit the theme code, it will need to be reedited every time it updates (which is every week)
 
 - welcome page deleted, any changes to home page?
+	- made the background of the quote image lighter, is that light enough/too light?
