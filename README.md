@@ -147,7 +147,6 @@ Next call:
 current call:
 - for home page, not welcome page
 - make black background less dark in photos
-- make text not have quotes around it 
 
 
 - start putting the powerpoint into the site first quarter of the course, break it up so it is less overwhelming
