@@ -196,7 +196,7 @@ To Do:
 - add some images to the first section of the slides
 	- upload to google drive by tomorrow @ 3, email him about it when done
 	- save it according to his standards (my version) 
-
+	- try to have a picture on every other slide at least, more if possible
 - figure out survey so people can figure out elements, find a plugin, add totals up so people can get the breakdown
 
 - when he does the voiceover, look at timing of course, decide where breaks in the powerpoint should be
