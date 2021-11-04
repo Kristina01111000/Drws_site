@@ -195,6 +195,7 @@ To Do:
 - make widget about the powerpoint course above score card widget on right watch  dr w's lecture on the four elements
 - add some images to the first section of the slides
 	- upload to google drive by tomorrow @ 3, email him about it when done
+	- save it according to his standards (my version) 
 
 - figure out survey so people can figure out elements, find a plugin, add totals up so people can get the breakdown
 
