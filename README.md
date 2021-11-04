@@ -187,4 +187,10 @@ To Do:
 	- try air image without the black box
 	- get background from bigstock and put quote on top
 	- make earth image text bigger
+	- set this page to home page
 - set categories to air, fire, water, earth
+
+- send email about 4 element powerpoint course
+- put password stuff at bottom menu
+- make widget about the powerpoint course above score card widget on right watch  dr w's lecture on the four elements
+- add some images to the first section of the slides
