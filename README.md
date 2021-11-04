@@ -12,7 +12,7 @@ everything to do with dr w's wordpress site
  
   Hours worked september 17 to  october 16: 5 hour 20 min -> recieved
   
-  Hours worked october 17 to November 16:  4 hour 30 min
+  Hours worked october 17 to November 16:  4 hour 45 min
 
  
 plugins im using on site:
@@ -164,3 +164,5 @@ Next call:
 -added first lesson to 4 element course 
 	- i think we need a voice over for it
 	- is 25 slides too long for the first lesson?
+	
+- I am going on a trip from saturday to wednesday, do you want to have a call next week?
