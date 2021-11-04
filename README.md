@@ -169,3 +169,22 @@ Next call:
 
 - do you want the homepage to be what the redirect is set to?
 - archive settings good? categories, unlisting , should I attach the articles(posts) to the home page?
+
+To Do:
+- monthly topics are archived as a lesson in a course
+	- they can be deleted after a while if he wants (only go back for 3 months)
+	- he wants to reuse them each year (unlist them for next year)
+
+- corners are posts 
+	- no comments allowed on corner posts
+
+- see if 'published' can be changed on post page
+- make a GrowingHolisticallyStaff account for publishing
+
+- home page
+	- straighten out the boxes
+	- switch sides of earth and water
+	- try air image without the black box
+	- get background from bigstock and put quote on top
+	- make earth image text bigger
+- set categories to air, fire, water, earth
