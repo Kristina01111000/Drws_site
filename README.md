@@ -166,3 +166,6 @@ Next call:
 	- is 25 slides too long for the first lesson?
 	
 - I am going on a trip from saturday to wednesday, do you want to have a call next week?
+
+- do you want the homepage to be what the redirect is set to?
+- archive settings good? categories, unlisting , should I attach the articles(posts) to the home page?
