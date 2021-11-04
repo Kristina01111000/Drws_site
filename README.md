@@ -160,3 +160,7 @@ Next call:
 
 - welcome page deleted, any changes to home page?
 	- made the background of the quote image lighter, is that light enough/too light?
+
+-added first lesson to 4 element course 
+	- i think we need a voice over for it
+	- is 25 slides too long for the first lesson?
