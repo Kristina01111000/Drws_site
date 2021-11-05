@@ -190,7 +190,6 @@ To Do:
 	- set this page to home page
 - set categories to air, fire, water, earth
 
-- put password stuff at bottom menu
 - make widget about the powerpoint course above score card widget on right watch  dr w's lecture on the four elements
 - add some images to the first section of the slides
 	- upload to google drive by tomorrow @ 3, email him about it when done
