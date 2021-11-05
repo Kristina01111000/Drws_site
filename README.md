@@ -12,7 +12,7 @@ everything to do with dr w's wordpress site
  
   Hours worked september 17 to  october 16: 5 hour 20 min -> recieved
   
-  Hours worked october 17 to November 16:  6 hour 45 min
+  Hours worked october 17 to November 16:  6 hour 55 min
 
  
 plugins im using on site:
@@ -190,7 +190,6 @@ To Do:
 	- set this page to home page
 - set categories to air, fire, water, earth
 
-- send email about 4 element powerpoint course
 - put password stuff at bottom menu
 - make widget about the powerpoint course above score card widget on right watch  dr w's lecture on the four elements
 - add some images to the first section of the slides
