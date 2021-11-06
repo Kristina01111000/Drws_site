@@ -191,6 +191,7 @@ To Do:
 - set categories to air, fire, water, earth
 - check images that i put in bigstockphot for powerpoint
 - make widget about the powerpoint course above score card widget on right watch  dr w's lecture on the four elements
+	- make sure all the rightside menu links are correct
 - add some images to the first section of the slides
 	- upload to google drive by tomorrow @ 3, email him about it when done
 	- save it according to his standards (my version) 
