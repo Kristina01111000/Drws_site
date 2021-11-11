@@ -212,3 +212,4 @@ For Next week:
 - straighten up home page, set img sizes is easiest
 - transaction is not working for growing holistically
 - check non administrator account access to back end wp site
+- see what shows up in credit card statement when you buy stuff
