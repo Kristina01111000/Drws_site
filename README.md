@@ -12,7 +12,7 @@ everything to do with dr w's wordpress site
  
   Hours worked september 17 to  october 16: 5 hour 20 min -> recieved
   
-  Hours worked october 17 to November 16:  6 hour 55 min
+  Hours worked october 17 to November 16:  7 hour 05 min
 
  
 plugins im using on site:
@@ -199,3 +199,14 @@ To Do:
 - figure out survey so people can figure out elements, find a plugin, add totals up so people can get the breakdown
 
 - when he does the voiceover, look at timing of course, decide where breaks in the powerpoint should be
+
+
+This call:
+	 - widget for 4 element course, need image
+	 - talk about current intro slide images, and voiceover
+	 - 4 element paypal thing? what happened?
+
+For Next week:
+- fix green background in score card widget, rightside menu widget, and promo page top menu widget -> not in other widgets? what?
+- survey options
+- straighten up home page, set img sizes is easiest
