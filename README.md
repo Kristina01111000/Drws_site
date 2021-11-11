@@ -210,3 +210,5 @@ For Next week:
 - fix green background in score card widget, rightside menu widget, and promo page top menu widget -> not in other widgets? what?
 - survey options
 - straighten up home page, set img sizes is easiest
+- transaction is not working for growing holistically
+- check non administrator account access to back end wp site
