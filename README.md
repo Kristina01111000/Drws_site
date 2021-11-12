@@ -214,3 +214,5 @@ For Next week:
 - check non administrator account access to back end wp site
 - see what shows up in credit card statement when you buy stuff
 - make quiz for intro
+
+- he is going to try to do the voiceover this week
