@@ -207,7 +207,6 @@ This call:
 	 - 4 element paypal thing? what happened?
 
 For Next week:
-- fix green background in score card widget, rightside menu widget, and promo page top menu widget -> not in other widgets? what?
 - survey options
 - straighten up home page, set img sizes is easiest
 - transaction is not working for growing holistically
@@ -216,3 +215,8 @@ For Next week:
 - make quiz for intro
 
 - he is going to try to do the voiceover this week
+
+
+Next call:
+	- update to peepso includes a new sidebar menu, useful for modbile, does he want it on desktop (in gecko customizer)
+	- the green background issue was caused by the update, easily fixable
