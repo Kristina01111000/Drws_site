@@ -221,4 +221,5 @@ Next call:
 
 	- update to peepso includes a new sidebar menu, useful for modbile, does he want it on desktop (in gecko customizer)
 	- the green background issue was caused by the update, easily fixable
-	- we'll need to accept that peepso updates sometimes cause issues and check it after every update
+		- we'll need to accept that peepso updates sometimes cause issues and check it everywhere after every update, 
+		- most of the problems seem to be little, some were big like the login issue
