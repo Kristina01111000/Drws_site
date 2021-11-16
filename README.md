@@ -12,7 +12,7 @@ everything to do with dr w's wordpress site
  
   Hours worked september 17 to  october 16: 5 hour 20 min -> recieved
   
-  Hours worked october 17 to November 16:  7 hour 45 min
+  Hours worked october 17 to November 16:  7 hour 50 min
 
  
 plugins im using on site:
@@ -224,7 +224,8 @@ Next call:
 		- we'll need to accept that peepso updates sometimes cause issues and check it everywhere after every update, 
 		- most of the problems seem to be little, some were big like the login issue
 	list of survey options/questions
-		- want all of the 80 questions in list?
+		- want all of the 80 questions in list? maybe it should be shorter
 		- do you have a list of the q's separated into element groups?
-		- maybe hubspot for wordpress plugin? other ones i've found are quite expensive
-		- i will be trying the quiz option for a class first, might not work b/c they are not graded, they are split into categories
+		- maybe hubspot for wordpress plugin? it's free, other ones i've found are quite expensive
+		- i will be trying the quiz option for a learndash class first, might not work b/c they are not graded, they are split into categories
+		
