@@ -226,3 +226,5 @@ Next call:
 	list of survey options/questions
 		- want all of the 80 questions in list?
 		- do you have a list of the q's separated into element groups?
+		- maybe hubspot for wordpress plugin? other ones i've found are quite expensive
+		- i will be trying the quiz option for a class first, might not work b/c they are not graded, they are split into categories
