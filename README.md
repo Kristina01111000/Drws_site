@@ -227,5 +227,6 @@ Next call:
 		- want all of the 80 questions in list? maybe it should be shorter
 		- do you have a list of the q's separated into element groups?
 		- maybe hubspot for wordpress plugin? it's free, other ones i've found are quite expensive
+		- or maybe quiz and survey master, they have a free version, see what is best
 		- i will be trying the quiz option for a learndash class first, might not work b/c they are not graded, they are split into categories
 		
