@@ -219,7 +219,10 @@ For Next week:
 
 Next call:
 
-	- update to peepso includes a new sidebar menu, useful for modbile, does he want it on desktop (in gecko customizer)
+	- update to peepso includes a new sidebar menu, useful for mobile, does he want it on desktop? (in gecko customizer)
 	- the green background issue was caused by the update, easily fixable
 		- we'll need to accept that peepso updates sometimes cause issues and check it everywhere after every update, 
 		- most of the problems seem to be little, some were big like the login issue
+	list of survey options/questions
+		- want all of the 80 questions in list?
+		- do you have a list of the q's separated into element groups?
