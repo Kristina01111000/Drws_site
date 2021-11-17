@@ -229,4 +229,4 @@ Next call:
 		- maybe hubspot for wordpress plugin? it's free, other ones i've found are quite expensive
 		- or maybe quiz and survey master, they have a free version, see what is best
 		- i will be trying the quiz option for a learndash class first, might not work b/c they are not graded, they are split into categories
-		
+	- did the paypal issue get fixed?	
