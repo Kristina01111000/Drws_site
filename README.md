@@ -14,7 +14,7 @@ everything to do with dr w's wordpress site
   
   Hours worked october 17 to November 16:  7 hour 50 min
 
-Hours worked November 17 to December 16: 20 min
+Hours worked November 17 to December 16: 1 hour 10 min
  
 plugins im using on site:
 
@@ -226,10 +226,15 @@ Next call:
 		- or maybe quiz and survey master, they have a free version, see what is best
 		- i will be trying the quiz option for a learndash class first, might not work b/c they are not graded, they are split into categories
 	--------- rank list 1 to 5 for each question
-	- did the paypal issue with the other site get fixed?	
-	- i made the corners not be outlinedon the home page, do you like how that looks? I think it looks better
 	- the audio sounds good and is a good length, i'll separate the rest of the class into sections that are around the same size and put them in the google drive
-	- Do you have a set number of questions you want for quizzes? I've been putting what feels right when I make them
-	- quiz for intro section (put direct link here)
-		- made the questions, do you like that style? (different amounts of potential answers, different styles of questions)
 	- i think i fixed other users getting to wordpress dashboard, I will try to brute force my way in today to see if i fixed it
+	
+	- make boxes on home page even when they are smaller
+	- switch nutrition and practical corners on home page
+	- connect the 4 element course to widget
+	- capitalize element names in quizzes + questions
+	- put about 6-8 questions in quizzes
+	- add an easy logout button on page (rightside widget)
+	- what is up with paypal
+	
+	next meeting on the 2nd
