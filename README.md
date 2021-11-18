@@ -235,6 +235,6 @@ Next call:
 	- capitalize element names in quizzes + questions
 	- put about 6-8 questions in quizzes
 	- add an easy logout button on page (rightside widget)
-	- what is up with paypal
+	- what is up with paypal? it's not connecting to the site, says merchant can't process payments
 	
 	next meeting on the 2nd
