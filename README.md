@@ -233,8 +233,9 @@ Next call:
 	- switch nutrition and practical corners on home page
 	- connect the 4 element course to widget
 	- capitalize element names in quizzes + questions
-	- put about 6-8 questions in quizzes
-	- add an easy logout button on page (rightside widget)
+	- put about 6-8 questions in quizzes most of the time
+	- add an easy logout button on page (rightside widget)(hard now)
 	- what is up with paypal? it's not connecting to the site, says merchant can't process payments
 	
-	next meeting on the 2nd
+	
+next meeting on the 2nd
