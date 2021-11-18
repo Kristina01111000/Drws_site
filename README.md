@@ -235,3 +235,4 @@ Next call:
 	- the audio sounds pretty good, i'll separate the rest of the class into sections that are around the same size
 	- how many questions do you want for quizzes, currently i have 5
 	- quiz for intro section (put direct link here)
+		- made the questions, do you like that style? (different amounts of potential answers, different styles of questions)
