@@ -14,7 +14,7 @@ everything to do with dr w's wordpress site
   
   Hours worked october 17 to November 16:  7 hour 50 min
 
-Hours worked November 17 to December 16: 10 min
+Hours worked November 17 to December 16: 20 min
  
 plugins im using on site:
 
@@ -218,6 +218,7 @@ For Next week:
 Next call:
 
 	- update to peepso includes a new sidebar menu, useful for mobile, does he want it on desktop? (in gecko customizer)
+		- im going to use it to revamp the mobile site (it's sooo much better than the original one)
 	- the green background issue was caused by the update, easily fixable
 		- we'll need to accept that peepso updates sometimes cause issues and check it everywhere after every update, 
 		- most of the problems seem to be little, some were big like the login issue
