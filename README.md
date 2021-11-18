@@ -208,12 +208,9 @@ This call:
 	 - 4 element paypal thing? what happened?
 
 For Next week:
-- survey options
-- straighten up home page, set img sizes is easiest
 - transaction is not working for growing holistically
 - check non administrator account access to back end wp site
 - see what shows up in credit card statement when you buy stuff
-- make quiz for intro
 
 - he is going to try to do the voiceover this week
 
@@ -230,9 +227,10 @@ Next call:
 		- maybe hubspot for wordpress plugin? it's free, other ones i've found are quite expensive
 		- or maybe quiz and survey master, they have a free version, see what is best
 		- i will be trying the quiz option for a learndash class first, might not work b/c they are not graded, they are split into categories
-	- did the paypal issue get fixed?	
-	- i made the corners not be outlined, do you like how that looks? I think it looks better
-	- the audio sounds pretty good, i'll separate the rest of the class into sections that are around the same size
-	- how many questions do you want for quizzes, currently i have 5
+	- did the paypal issue with the other site get fixed?	
+	- i made the corners not be outlinedon the home page, do you like how that looks? I think it looks better
+	- the audio sounds good and is a good length, i'll separate the rest of the class into sections that are around the same size and put them in the google drive
+	- Do you have a set number of questions you want for quizzes? I've been putting what feels right when I make them
 	- quiz for intro section (put direct link here)
 		- made the questions, do you like that style? (different amounts of potential answers, different styles of questions)
+	- i think i fixed other users getting to wordpress dashboard, I will try to brute force my way in today to see if i fixed it
