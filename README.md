@@ -230,3 +230,4 @@ Next call:
 		- or maybe quiz and survey master, they have a free version, see what is best
 		- i will be trying the quiz option for a learndash class first, might not work b/c they are not graded, they are split into categories
 	- did the paypal issue get fixed?	
+	- i made the corners not be outlined, do you like how that looks? I think it looks better
