@@ -233,3 +233,4 @@ Next call:
 	- did the paypal issue get fixed?	
 	- i made the corners not be outlined, do you like how that looks? I think it looks better
 	- the audio sounds pretty good, i'll separate the rest of the class into sections
+	- how many questions do you want for quizzes, currently i have 5
