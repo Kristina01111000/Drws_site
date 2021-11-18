@@ -146,28 +146,7 @@ Next call:
 - used photo editor for flavenoids picture, font = fresh
 
 current call:
-
-
-- start putting the powerpoint into the site first quarter of the course, break it up so it is less overwhelming
-	- break it up in the way that seems best
-	- try to get ~ 10 slides per lesson
-	- should he do voice over? probably
 	
-Next call:
-
-- removed dates from posts in settings, all or nothing way to do it
-- no way to remove the author from the post, switched it to dr w, 
-	- if you really want the author removed them I can edit the theme code, it will need to be reedited every time it updates (which is every week)
-
-- welcome page deleted, any changes to home page?
-	- made the background of the quote image lighter, is that light enough/too light?
-
--added first lesson to 4 element course 
-	- i think we need a voice over for it
-	- is 25 slides too long for the first lesson?
-	
-- I am going on a trip from saturday to wednesday, do you want to have a call next week?
-
 - do you want the homepage to be what the redirect is set to?
 - archive settings good? categories, unlisting , should I attach the articles(posts) to the home page?
 
