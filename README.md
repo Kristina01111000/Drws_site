@@ -232,3 +232,4 @@ Next call:
 		- i will be trying the quiz option for a learndash class first, might not work b/c they are not graded, they are split into categories
 	- did the paypal issue get fixed?	
 	- i made the corners not be outlined, do you like how that looks? I think it looks better
+	- the audio sounds pretty good, i'll separate the rest of the class into sections
