@@ -219,15 +219,13 @@ Next call:
 
 	- update to peepso includes a new sidebar menu, useful for mobile, does he want it on desktop? (in gecko customizer)
 		- im going to use it to revamp the mobile site (it's sooo much better than the original one)
-	- the green background issue was caused by the update, easily fixable
-		- we'll need to accept that peepso updates sometimes cause issues and check it everywhere after every update, 
-		- most of the problems seem to be little, some were big like the login issue
 	list of survey options/questions
-		- want all of the 80 questions in list? maybe it should be shorter
-		- do you have a list of the q's separated into element groups?
+		- want all of the 80 questions in list? maybe it should be shorter -> put all 80 in
+		- do you have a list of the q's separated into element groups? no-> separate it out manually (goes fire air water earth in the survey list)
 		- maybe hubspot for wordpress plugin? it's free, other ones i've found are quite expensive
 		- or maybe quiz and survey master, they have a free version, see what is best
 		- i will be trying the quiz option for a learndash class first, might not work b/c they are not graded, they are split into categories
+	--------- rank list 1 to 5 for each question
 	- did the paypal issue with the other site get fixed?	
 	- i made the corners not be outlinedon the home page, do you like how that looks? I think it looks better
 	- the audio sounds good and is a good length, i'll separate the rest of the class into sections that are around the same size and put them in the google drive
