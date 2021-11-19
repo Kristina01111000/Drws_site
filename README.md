@@ -14,7 +14,7 @@ everything to do with dr w's wordpress site
   
   Hours worked october 17 to November 16:  7 hour 50 min
 
-Hours worked November 17 to December 16: 1 hour 10 min
+Hours worked November 17 to December 16: 1 hour 30 min
  
 plugins im using on site:
 
@@ -67,7 +67,7 @@ Notes:
 		- sale page for redirect from weekly topic?
 	
 - .customclass is the class name to add a border around a group
-
+- capitalize the element names everywhere
 
 - wants some posts that visible always, some that are unlisted that he uses other sources
 	- meta tags: don'treuse, taken from another source, copied, drwwritten, 
