@@ -196,8 +196,6 @@ For Next week:
 
 Next call:
 
-	- update to peepso includes a new sidebar menu, useful for mobile, does he want it on desktop? (in gecko customizer)
-		- im going to use it to revamp the mobile site (it's sooo much better than the original one)
 	list of survey options/questions
 		- want all of the 80 questions in list? maybe it should be shorter -> put all 80 in
 		- do you have a list of the q's separated into element groups? no-> separate it out manually (goes fire air water earth in the survey list)
@@ -205,16 +203,19 @@ Next call:
 		- or maybe quiz and survey master, they have a free version, see what is best
 		- i will be trying the quiz option for a learndash class first, might not work b/c they are not graded, they are split into categories
 	--------- rank list 1 to 5 for each question
-	- the audio sounds good and is a good length, i'll separate the rest of the class into sections that are around the same size and put them in the google drive
-	- i think i fixed other users getting to wordpress dashboard, I will try to brute force my way in today to see if i fixed it
+		- i think i fixed other users getting to wordpress dashboard, I will try to brute force my way in today to see if i fixed it
 	
-	- make boxes on home page match even when they are smaller
+	- make boxes on home page match even when they are smaller -> they get off course when the screen is small
 	- switch nutrition and practical corners on home page
 	- connect the 4 element course to widget, not menu
-	- capitalize element names in quizzes + questions ()Water, Fire, Earth, Air)
+	- capitalize element names in quizzes + questions (Water, Fire, Earth, Air)
 	- put about 6-8 questions in quizzes most of the time
 	- add an easy logout button on page (rightside widget)(hard now)
 	- what is up with paypal? it's not connecting to the site, says merchant can't process payments
+	- do the mobile side bar (new)
+	- do survey (try the quiz first, if not try one of the other options)
+	- separate the course into sections (about 25 slides each), put it on google drive
+	- make sure that non admins can't get into wp dashboard, (blocked by memberships app)
 	
 	
 next meeting on the 2nd
