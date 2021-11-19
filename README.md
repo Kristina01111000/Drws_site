@@ -208,10 +208,10 @@ Next call:
 	- the audio sounds good and is a good length, i'll separate the rest of the class into sections that are around the same size and put them in the google drive
 	- i think i fixed other users getting to wordpress dashboard, I will try to brute force my way in today to see if i fixed it
 	
-	- make boxes on home page even when they are smaller
+	- make boxes on home page match even when they are smaller
 	- switch nutrition and practical corners on home page
-	- connect the 4 element course to widget
-	- capitalize element names in quizzes + questions
+	- connect the 4 element course to widget, not menu
+	- capitalize element names in quizzes + questions ()Water, Fire, Earth, Air)
 	- put about 6-8 questions in quizzes most of the time
 	- add an easy logout button on page (rightside widget)(hard now)
 	- what is up with paypal? it's not connecting to the site, says merchant can't process payments
