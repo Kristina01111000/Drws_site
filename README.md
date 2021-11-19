@@ -206,10 +206,8 @@ Next call:
 		- i think i fixed other users getting to wordpress dashboard, I will try to brute force my way in today to see if i fixed it
 	
 	- make boxes on home page match even when they are smaller -> they get off course when the screen is small
-	- connect the 4 element course to widget, not menu
 	- capitalize element names in quizzes + questions (Water, Fire, Earth, Air)
 	- put about 6-8 questions in quizzes most of the time
-	- add an easy logout button on page (rightside widget)(hard now)
 	- what is up with paypal? it's not connecting to the site, says merchant can't process payments
 	- do the mobile side bar (new)
 	- do survey (try the quiz first, if not try one of the other options)
