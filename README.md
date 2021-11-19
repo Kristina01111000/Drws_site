@@ -212,6 +212,5 @@ Next call:
 	- do survey (try the quiz first, if not try one of the other options)
 	- separate the course into sections (about 25 slides each), put it on google drive
 	- make sure that non admins can't get into wp dashboard, (blocked by memberships app)
-	- switch login redirect to home page
 	
 next meeting on the 2nd
