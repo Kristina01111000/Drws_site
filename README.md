@@ -206,7 +206,6 @@ Next call:
 		- i think i fixed other users getting to wordpress dashboard, I will try to brute force my way in today to see if i fixed it
 	
 	- make boxes on home page match even when they are smaller -> they get off course when the screen is small
-	- switch nutrition and practical corners on home page
 	- connect the 4 element course to widget, not menu
 	- capitalize element names in quizzes + questions (Water, Fire, Earth, Air)
 	- put about 6-8 questions in quizzes most of the time
