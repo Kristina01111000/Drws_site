@@ -181,17 +181,9 @@ To Do:
 - when he does the voiceover, look at timing of course, decide where breaks in the powerpoint should be
 
 
-This call:
-	 - widget for 4 element course, need image
-	 - talk about current intro slide images, and voiceover
-	 - 4 element paypal thing? what happened?
 
 For Next week:
-- transaction is not working for growing holistically
-- check non administrator account access to back end wp site
 - see what shows up in credit card statement when you buy stuff
-
-- he is going to try to do the voiceover this week
 
 
 Next call:
@@ -214,3 +206,6 @@ Next call:
 	- make sure that non admins can't get into wp dashboard, (blocked by memberships app)
 	
 next meeting on the 2nd
+for next call:
+	- pay pal issue solved?
+	- does the widget for 4 element course need an image?
