@@ -203,4 +203,4 @@ next meeting on the 2nd
 for next call:
 	- pay pal issue solved?
 	- does the widget for 4 element course need an image?
-	- 
+	- make google doc with tasks for both of us
