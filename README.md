@@ -14,7 +14,7 @@ everything to do with dr w's wordpress site
   
   Hours worked october 17 to November 16:  7 hour 50 min
 
-Hours worked November 17 to December 16: 1 hour 30 min
+Hours worked November 17 to December 16: 1 hour 50 min
  
 plugins im using on site:
 
@@ -203,4 +203,6 @@ next meeting on the 2nd
 for next call:
 	- pay pal issue solved?
 	- does the widget for 4 element course need an image?
-	- make google doc with tasks for both of us
+
+
+- shared google doc with tasks for both of us, made it visible to anyone so he can add stephen, videographer etc
