@@ -106,11 +106,7 @@ To Do:
 - at payment, say you will not be charged again after 4 months, "this learning program ends in four months, and your monthly payments will stop after your fourth month"
 - put down included with membership under courses, monthly and 4 month??
 
-3 things caused the problem:
-wrong login link, pmp, not peepso
-cache issue, needed to opt out of caching for peepso shortcodes
-nonce check was also an issue with caching
--server speed made it worse b/c if it took too long it wouldnt go through instead of showing the crash
+
 
 
 
@@ -119,14 +115,7 @@ To Do:
 
 - add easier logout to page (header?)
 
-- check the new membership process - kinda screwy right now, he can login without paying, weird, make some new users, they can't join a membership level
-	 - I found that it worked when I tried it with a different account (already made)
-	 	- select the membership level
-	 	- then press select
-	 	- then click to add the discount code 
-	 	- then click apply
-	- for a new account: try with other email account
-		- does it let you pick a membership level?
+
 
 Next call:
 - home page:
@@ -148,7 +137,6 @@ Next call:
 
 current call:
 	
-- do you want the homepage to be what the redirect is set to?
 - archive settings good? categories, unlisting , should I attach the articles(posts) to the home page?
 
 To Do:
@@ -156,19 +144,6 @@ To Do:
 	- they can be deleted after a while if he wants (only go back for 3 months)
 	- he wants to reuse them each year (unlist them for next year)
 
-- corners are posts 
-	- no comments allowed on corner posts
-
-- see if 'published' can be changed on post page
-- make a GrowingHolisticallyStaff account for publishing
-
-- home page
-	- straighten out the boxes
-	- switch sides of earth and water
-	- try air image without the black box
-	- get background from bigstock and put quote on top
-	- make earth image text bigger
-	- set this page to home page
 - set categories to air, fire, water, earth
 - check images that i put in bigstockphot for powerpoint
 - make widget about the powerpoint course above score card widget on right watch  dr w's lecture on the four elements
