@@ -190,6 +190,7 @@ Next call:
 		- or maybe quiz and survey master, they have a free version, see what is best
 		- i will be trying the quiz option for a learndash class first, might not work b/c they are not graded, they are split into categories
 	--------- rank list 1 to 5 for each question
+		- likert scale for questions in survey
 	
 	- put about 6-8 questions in quizzes most of the time
 	- separate the course into sections (about 25 slides each), put it on google drive
