@@ -14,7 +14,7 @@ everything to do with dr w's wordpress site
   
   Hours worked october 17 to November 16:  7 hour 50 min
 
-Hours worked November 17 to December 16: 1 hour 50 min
+Hours worked November 17 to December 16: 2 hour 10 min
  
 plugins im using on site:
 
@@ -32,6 +32,7 @@ plugins im using on site:
 - code snippets -> remove it if he wants the image there, remove it still?
 - autoptimization (not css, messed it up really bad)
 - w3 total cache
+- layout grid block
 
 https://www.ssllabs.com/ssltest
 
