@@ -182,10 +182,8 @@ for next call:
 
 - Send invoice for oct 17 to nov 16
 - Figure out if site ground optimizer is better than autooptimize
-- Switch monthly topic to january -> the power of spices instead on month
 - After next peepso update: add new mobile sidebar -> make sure the scroll works better
-- Switch footer menu to monthly topics
 - For earth picture in homepage make text bigger
-- Home page air  change elbow room power to the chi power of air
+- Home page air change elbow room power to the chi power of air
 - Homepage pictures put little articles lower on the page, link to them, if its long put a read more
 - Put something cute to indicate which element it is maybe “this months earth article, this months  chi building article, this months nutrition article, this months 4 element philosophy article(if there is one)” talk about it next week to see if we like this 
