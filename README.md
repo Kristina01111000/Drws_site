@@ -14,7 +14,7 @@ everything to do with dr w's wordpress site
   
   Hours worked october 17 to November 16:  7 hour 50 min
 
-Hours worked November 17 to December 16: 4 hour 10 min
+Hours worked November 17 to December 16: 4 hour 15 min
  
 plugins im using on site:
 
@@ -181,17 +181,10 @@ for next call:
 
 
 - Send invoice for oct 17 to nov 16
-- Put sections of 4 elements course in google drive & link to dr w
-- Think about breakdown of the course from slide 94 to the end and upload with decision
-- Make quizzes for the after lessons are added
 - Figure out if site ground optimizer is better than autooptimize
 - Switch monthly topic to january -> the power of spices instead on month
 - After next peepso update: add new mobile sidebar -> make sure the scroll works better
 - Switch footer menu to monthly topics
-- Change 4 element course title to “discovering the power of nature’s four elements”
-- Change widget for 4 elements course to “check out Dr w’s “discovering the power of nature’s four elements””
-- Going to make 4 elements course part of the 4 month course, 
-- Remove the 4 elements course from the site, it is part of the learning program
 - For earth picture in homepage make text bigger
 - Home page air  change elbow room power to the chi power of air
 - Homepage pictures put little articles lower on the page, link to them, if its long put a read more
