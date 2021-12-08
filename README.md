@@ -14,7 +14,7 @@ everything to do with dr w's wordpress site
   
   Hours worked october 17 to November 16:  7 hour 50 min
 
-Hours worked November 17 to December 16: 4 hour 25 min
+Hours worked November 17 to December 16: 5 hour 05 min
  
 plugins im using on site:
 
