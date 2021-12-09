@@ -14,7 +14,7 @@ everything to do with dr w's wordpress site
   
   Hours worked october 17 to November 16:  7 hour 50 min
 
-Hours worked November 17 to December 16: 5 hour 05 min
+Hours worked November 17 to December 16: 5 hour 55 min
  
 plugins im using on site:
 
@@ -189,4 +189,18 @@ Next meeting notes (12/9/21)
 - It feels like the flavonoid one should be its own monthly topic, aren’t the home page topics supposed to be quick bites?
 - Peepso just updated today, will add the mobile sidebar by next week
 - I think site ground optimizer is better than autooptimize, it also does some of the same stuff as really simple ssl, will change to it
-
+to do:
+- Send invoice for oct 17 to nov 16
+- Make quizzes for the 4 month course after lessons are added
+- Figure out if site ground optimizer is better than autooptimize -> looks like it
+- add new mobile sidebar -> make sure the scroll works better
+- Make links on the homepage visible, they look like text
+- Make title of course bold if possible
+- For articles always have picture wrapped by text
+- See if one topic can be removed from the learndash course catalog
+- Put a temporary video onto youtube and put it into introduction lesson just to see what it looks like
+- Try putting the course content for january into the intro page so the lesson so it doesn’t have the one topic thing show up on the main page
+- Change the monthly topic name to “the power of spices”
+- Add a read more partway through flavenoids article
+- Squish flavonoids article to a couple paragraphs, will recycle whole article for a monthly topic in the future
+- Add logo to footer, make it link to the home page
