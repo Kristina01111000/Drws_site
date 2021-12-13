@@ -14,7 +14,7 @@ everything to do with dr w's wordpress site
   
   Hours worked october 17 to November 16:  7 hour 50 min
 
-Hours worked November 17 to December 16: 5 hour 55 min
+Hours worked November 17 to December 16: 6 hour 00 min
  
 plugins im using on site:
 
@@ -201,6 +201,4 @@ to do:
 - Put a temporary video onto youtube and put it into introduction lesson just to see what it looks like
 - Try putting the course content for january into the intro page so the lesson so it doesn’t have the one topic thing show up on the main page
 - Change the monthly topic name to “the power of spices”
-- Add a read more partway through flavenoids article
-- Squish flavonoids article to a couple paragraphs, will recycle whole article for a monthly topic in the future
 - Add logo to footer, make it link to the home page
