@@ -183,9 +183,6 @@ for next call:
 - Send invoice for oct 17 to nov 16
 
 Next meeting notes (12/9/21)
-- Confirm footer links
-- For monthly topic - where am I supposed to put “ the power of spices” instead ?
-- Home page text, like the jump
 - It feels like the flavonoid one should be its own monthly topic, aren’t the home page topics supposed to be quick bites?
 - Peepso just updated today, will add the mobile sidebar by next week
 - I think site ground optimizer is better than autooptimize, it also does some of the same stuff as really simple ssl, will change to it
