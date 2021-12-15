@@ -180,18 +180,11 @@ for next call:
 - shared google doc with tasks for both of us, made it visible to anyone so he can add stephen, videographer etc
 
 
-- Send invoice for oct 17 to nov 16
-
 to do:
-- Send invoice for oct 17 to nov 16
 - Make quizzes for the 4 month course after lessons are added
 - add new mobile sidebar -> make sure the scroll works better
-- Make links on the homepage visible, they look like text
 - Make title of course bold if possible
 - For articles always have picture wrapped by text
-- See if one topic can be removed from the learndash course catalog
-- Put a temporary video onto youtube and put it into introduction lesson just to see what it looks like
-- Try putting the course content for january into the intro page so the lesson so it doesn’t have the one topic thing show up on the main page
 - Change the monthly topic name to “the power of spices”
 - Add logo to footer, make it link to the home page
 
