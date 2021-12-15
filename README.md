@@ -198,3 +198,4 @@ to do:
 
 for tomorrow:
 - do site ground optimizer
+- logo on footer
