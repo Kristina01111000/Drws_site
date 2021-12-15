@@ -200,3 +200,4 @@ for tomorrow:
 - do site ground optimizer
 - logo on footer
 - mobile sidebar
+- make hot links more visible
