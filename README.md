@@ -196,7 +196,6 @@ to do:
 - Add logo to footer, make it link to the home page
 
 for tomorrow:
-- logo on footer
 - mobile sidebar - in notes
 - put a temp video on youtube, put it in the course intro to see if it removes the one topic from showing
-- change teh spices name to "the power of spices"
+
