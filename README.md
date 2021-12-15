@@ -202,3 +202,4 @@ for tomorrow:
 - mobile sidebar
 - make hot links more visible
 - put a temp video on youtube, put it in the course intro to see if it removes the one topic from showing
+- change teh spices name to "the power of spices"
