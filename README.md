@@ -195,3 +195,6 @@ to do:
 - Try putting the course content for january into the intro page so the lesson so it doesn’t have the one topic thing show up on the main page
 - Change the monthly topic name to “the power of spices”
 - Add logo to footer, make it link to the home page
+
+for tomorrow:
+- do site ground optimizer
