@@ -12,9 +12,9 @@ everything to do with dr w's wordpress site
  
   Hours worked september 17 to  october 16: 5 hour 20 min -> recieved
   
-  Hours worked october 17 to November 16:  7 hour 50 min
+  Hours worked october 17 to November 16:  7 hour 50 min -> sent
 
-Hours worked November 17 to December 16: 6 hour 40 min
+Hours worked November 17 to December 31: 6 hour 40 min
  
 plugins im using on site:
 
