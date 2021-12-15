@@ -185,7 +185,6 @@ for next call:
 to do:
 - Send invoice for oct 17 to nov 16
 - Make quizzes for the 4 month course after lessons are added
-- Figure out if site ground optimizer is better than autooptimize -> looks like it
 - add new mobile sidebar -> make sure the scroll works better
 - Make links on the homepage visible, they look like text
 - Make title of course bold if possible
@@ -197,9 +196,8 @@ to do:
 - Add logo to footer, make it link to the home page
 
 for tomorrow:
-- do site ground optimizer
 - logo on footer
-- mobile sidebar
+- mobile sidebar - in notes
 - make hot links more visible
 - put a temp video on youtube, put it in the course intro to see if it removes the one topic from showing
 - change teh spices name to "the power of spices"
