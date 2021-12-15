@@ -183,12 +183,7 @@ for next call:
 to do:
 - Make quizzes for the 4 month course after lessons are added
 - add new mobile sidebar -> make sure the scroll works better
-- Make title of course bold if possible
 - For articles always have picture wrapped by text
-- Change the monthly topic name to “the power of spices”
-- Add logo to footer, make it link to the home page
 
 for tomorrow:
 - mobile sidebar - in notes
-- put a temp video on youtube, put it in the course intro to see if it removes the one topic from showing
-
