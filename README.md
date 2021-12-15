@@ -184,6 +184,5 @@ to do:
 - Make quizzes for the 4 month course after lessons are added
 - add new mobile sidebar -> make sure the scroll works better
 - For articles always have picture wrapped by text
-
-for tomorrow:
 - mobile sidebar - in notes
+- update plugin list
