@@ -201,3 +201,4 @@ for tomorrow:
 - logo on footer
 - mobile sidebar
 - make hot links more visible
+- put a temp video on youtube, put it in the course intro to see if it removes the one topic from showing
