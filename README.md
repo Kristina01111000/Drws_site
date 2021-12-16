@@ -14,7 +14,7 @@ everything to do with dr w's wordpress site
   
   Hours worked october 17 to November 16:  7 hour 50 min -> sent
 
-Hours worked November 17 to December 31: 6 hour 40 min
+Hours worked November 17 to December 31: 7 hour 40 min
  
 plugins im using on site:
 
@@ -186,3 +186,5 @@ to do:
 - For articles always have picture wrapped by text
 - mobile sidebar - in notes
 - update plugin list
+
+Next meeting on 28th, email him on 27th if i haven't heard form him
