@@ -188,3 +188,24 @@ to do:
 - update plugin list
 
 Next meeting on 28th, email him on 27th if i haven't heard form him
+
+Make quizzes for the 4 month course after lessons are added
+finish mobile sidebar -> latest update fixed scroll problem
+For articles always have picture wrapped by text
+Going to make 4 elements course part of the 4 month course, 
+Remove the 4 elements course from the site, it is part of the learning program
+Saved the intro quiz for now, might use the questions  for the 4 month learning program quizzes
+For widget documentary make the title not hot, just word Documentary
+ Make word documentary be bold
+Look into colors for hot links so they look better -> leave it red for now
+Make the hot part of the links smaller, so they stick out more, so “they tap into ” is hot , not the whole widget “click here” part be hot
+Make the hot part bold
+Check that the redirect from login goes to the home page
+See why dr w is being sent to the promo page when clicking on logo while logged in, when clicking on the link that says home page he gets sent to the promo page, even the url sends him to the promo page -> resetting the redirect fixed it fixed it
+Make the hotlinks in articles from home page open in different window
+Try to put the logo underneath the line, if not remove it
+Put the course content into topics for 4 month learning program
+Remove the word introduction from the top of the course content
+4 element course spacing when window is small fix it
+Check on other account how the course content that we don’t have access to yet looks
+Email him on the 27th if i haven’t heard from him
