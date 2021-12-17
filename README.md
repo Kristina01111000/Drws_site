@@ -209,3 +209,6 @@ Remove the word introduction from the top of the course content
 4 element course spacing when window is small fix it
 Check on other account how the course content that we don’t have access to yet looks
 Email him on the 27th if i haven’t heard from him
+
+
+Mangaer of youtube now also
