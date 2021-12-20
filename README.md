@@ -210,5 +210,5 @@ Remove the word introduction from the top of the course content
 Check on other account how the course content that we don’t have access to yet looks
 Email him on the 27th if i haven’t heard from him
 
-
+promo page video logo shows
 Mangaer of youtube now also
