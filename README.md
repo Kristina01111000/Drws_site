@@ -187,7 +187,6 @@ to do:
 - mobile sidebar - in notes
 - update plugin list
 
-Next meeting on 28th, email him on 27th if i haven't heard form him
 
 Make quizzes for the 4 month course after lessons are added
 finish mobile sidebar -> latest update fixed scroll problem
@@ -209,6 +208,7 @@ Remove the word introduction from the top of the course content
 4 element course spacing when window is small fix it
 Check on other account how the course content that we don’t have access to yet looks
 Email him on the 27th if i haven’t heard from him
+sent email on 28th
 
 promo page video logo shows
 Mangaer of youtube now also
