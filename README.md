@@ -204,7 +204,7 @@ to do:
 - 4 element course spacing when window is small fix it
 - Check on other account how the course content that we don’t have access to yet looks
 - Email him on the 27th if i haven’t heard from him
-- sent email on 28th
+- sent email on 28th -> no response, assuming no meeting tomorrow
 
 promo page video logo shows
 Mangaer of youtube now also
