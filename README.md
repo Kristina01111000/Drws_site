@@ -14,7 +14,7 @@ everything to do with dr w's wordpress site
   
   Hours worked october 17 to November 16:  7 hour 50 min -> recieved
 
-Hours worked November 17 to December 31: 7 hour 45 min
+Hours worked November 17 to December 31: 7 hour 50 min
  
 plugins im using on site:
 
@@ -208,3 +208,5 @@ to do:
 
 promo page video logo shows
 Mangaer of youtube now also
+
+- if theme number and peepso number don't match it looks like an error message gets sent to my email
