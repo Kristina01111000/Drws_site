@@ -204,7 +204,7 @@ to do:
 - 4 element course spacing when window is small fix it
 - Check on other account how the course content that we don’t have access to yet looks
 - make promo page video smaller on desktop
-- 
+- remind him about ein
 
 promo page video logo shows
 Mangaer of youtube now also
