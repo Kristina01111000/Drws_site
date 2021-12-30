@@ -198,6 +198,7 @@ to do:
 - Check that the redirect from login goes to the home page
 - See why dr w is being sent to the promo page when clicking on logo while logged in, when clicking on the link that says home page he gets sent to the promo page, even the url sends him to the promo page -> resetting the redirect fixed it fixed it
 
+- scorecard done
 - Try to put the logo underneath the line, if not remove it
 - Put the course content into topics for 4 month learning program
 - Remove the word introduction from the top of the course content
