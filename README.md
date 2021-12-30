@@ -203,7 +203,8 @@ to do:
 - Remove the word introduction from the top of the course content
 - 4 element course spacing when window is small fix it
 - Check on other account how the course content that we don’t have access to yet looks
-
+- make promo page video smaller on desktop
+- 
 
 promo page video logo shows
 Mangaer of youtube now also
