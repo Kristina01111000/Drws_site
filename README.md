@@ -2,19 +2,21 @@
 everything to do with dr w's wordpress site
 
 
- Hours worked 16 may to 16 june: 16 ->  recieved
+Hours worked 16 may to 16 june: 16 ->  recieved
  
- Hours worked  june 17 to july 16: 12 -> recieved
+Hours worked  june 17 to july 16: 12 -> recieved
  
- Hours worked july 17 to august 16: 8 hours 30 min -> recieved
+Hours worked july 17 to august 16: 8 hours 30 min -> recieved
  
- Hours worked august 17 to september 16: 7 hour 20 min -> recieved 
+Hours worked august 17 to september 16: 7 hour 20 min -> recieved 
  
-  Hours worked september 17 to  october 16: 5 hour 20 min -> recieved
+Hours worked september 17 to  october 16: 5 hour 20 min -> recieved
   
-  Hours worked october 17 to November 16:  7 hour 50 min -> recieved
+Hours worked october 17 to November 16:  7 hour 50 min -> recieved
 
 Hours worked November 17 to December 31: 8 hour 45 min
+
+Hours worked January: 
  
 plugins im using on site:
 
