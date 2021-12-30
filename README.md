@@ -211,6 +211,6 @@ to do:
 
 promo page video logo shows
 promo page video thumbnail update
-Mangaer of youtube now also
+Manager of youtube now also -> can change/add etc videos and everything
 
 - if theme number and peepso number don't match it looks like an error message gets sent to my email
