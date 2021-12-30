@@ -14,7 +14,7 @@ everything to do with dr w's wordpress site
   
   Hours worked october 17 to November 16:  7 hour 50 min -> recieved
 
-Hours worked November 17 to December 31: 7 hour 50 min
+Hours worked November 17 to December 31: 8 hour 45 min
  
 plugins im using on site:
 
@@ -203,8 +203,7 @@ to do:
 - Remove the word introduction from the top of the course content
 - 4 element course spacing when window is small fix it
 - Check on other account how the course content that we don’t have access to yet looks
-- Email him on the 27th if i haven’t heard from him
-- sent email on 28th -> no response, assuming no meeting tomorrow
+
 
 promo page video logo shows
 Mangaer of youtube now also
