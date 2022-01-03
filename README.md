@@ -77,6 +77,10 @@ Notes:
 	- all posts should have comments turned off -> for now
 		- comments need to be removed manually if they are turned off after comments have been added
 
+
+-using pixlr for basic photo edits
+	- yellow image for philosophers corner
+- used photo editor for flavenoids picture, font = fresh
 To Do:
 
 - ssl not working in safari, silk browsers
@@ -101,23 +105,7 @@ To Do:
 - at payment, say you will not be charged again after 4 months, "this learning program ends in four months, and your monthly payments will stop after your fourth month"
 - put down included with membership under courses, monthly and 4 month??
 
-Next call:
-- home page:
-	- archive system for the home page articles -> i think making them posts would be the best bet
-		- have not linked the articles yet b/c waiting on archive system
 
-- the powerpoint course is really long, how should i separate it?
-	- do you have the rights to the photos in it? -> they're good, 
-	- intro slide 1 to 27 -> how to separate intro slides?
-	- why slide 28 - 35?
-	- chakras 36 - 44
-	- definitely needs a voice over or to be reorganized if we want it on the site
-	- try separating it into 2-3 courses, 
-
-
--using pixlr for basic photo edits
-	- yellow image for philosophers corner
-- used photo editor for flavenoids picture, font = fresh
 
 current call:
 	
@@ -127,16 +115,7 @@ To Do:
 - monthly topics are archived as a lesson in a course
 	- they can be deleted after a while if he wants (only go back for 3 months)
 	- he wants to reuse them each year (unlist them for next year)
-
 - set categories to air, fire, water, earth
-- check images that i put in bigstockphot for powerpoint
-- make widget about the powerpoint course above score card widget on right watch  dr w's lecture on the four elements
-	- make sure all the rightside menu links are correct
-- figure out survey so people can figure out elements, find a plugin, add totals up so people can get the breakdown
-
-
-
-For Next week:
 - see what shows up in credit card statement when you buy stuff
 
 
@@ -154,15 +133,6 @@ Next call:
 	- put about 6-8 questions in quizzes most of the time
 	- separate the course into sections (about 25 slides each), put it on google drive
 	- make sure that non admins can't get into wp dashboard, (blocked by memberships app)
-	
-next meeting on the 2nd
-for next call:
-	- pay pal issue solved?
-	- does the widget for 4 element course need an image?
-
-
-- shared google doc with tasks for both of us, made it visible to anyone so he can add stephen, videographer etc
-
 
 to do:
 - Make quizzes for the 4 month course after lessons are added
@@ -170,27 +140,18 @@ to do:
 - For articles always have picture wrapped by text
 - mobile sidebar - in notes
 - update plugin list
-- bold the hotlinks in widgets
-
 - Make quizzes for the 4 month course after lessons are added
 - finish mobile sidebar -> latest update fixed scroll problem
 - For articles always have picture wrapped by text
 
 
 
-
-
-
 - Remove the word introduction from the top of the course content
 - Check on other account how the course content that we don’t have access to yet looks
-- remind him about ein
-- 
-
+- remind him about ein -> paypal
 
 
 promo page video logo shows
 promo page video thumbnail update
 Manager of youtube now also -> can change/add etc videos and everything
 
-- if theme number and peepso number don't match it looks like an error message gets sent to my email
-	- actually from the other site, stephen is fixing it
