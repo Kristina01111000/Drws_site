@@ -214,3 +214,4 @@ promo page video thumbnail update
 Manager of youtube now also -> can change/add etc videos and everything
 
 - if theme number and peepso number don't match it looks like an error message gets sent to my email
+	- actually from the other site, stephen is fixing it
