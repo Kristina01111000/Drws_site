@@ -188,7 +188,7 @@ to do:
 - For articles always have picture wrapped by text
 - mobile sidebar - in notes
 - update plugin list
-
+- bold the hotlinks in widgets
 
 - Make quizzes for the 4 month course after lessons are added
 - finish mobile sidebar -> latest update fixed scroll problem
