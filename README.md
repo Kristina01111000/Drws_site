@@ -66,8 +66,7 @@ Notes:
 	- second promo page
 	- community activity
 		- does peepso change the pages numbers when new updates are made?
-	- Need:
-		- sale page for redirect from weekly topic?
+
 	
 - .customclass is the class name to add a border around a group
 - capitalize the element names everywhere
@@ -88,14 +87,8 @@ To Do:
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
-- fix cellphone view of menus
-- does he want articles in monthly course? or as articles? 
 - emails every week? multiple times a week?
-- excess pages deleted, check every month or so
 - add cancel course early section to page and get prior month free
-- stop users from accessing wordpress login/logout page
-- write out directions for downloading googledoc
-- add pdf of scorecard directions
 - see if users who don't join in with email confirmation can automatically be deleted after a week
 
 
@@ -107,17 +100,6 @@ To Do:
 - make them use paypal when checking out, shows up as credit card possible
 - at payment, say you will not be charged again after 4 months, "this learning program ends in four months, and your monthly payments will stop after your fourth month"
 - put down included with membership under courses, monthly and 4 month??
-
-
-
-
-
-To Do:
-
-
-- add easier logout to page (header?)
-
-
 
 Next call:
 - home page:
