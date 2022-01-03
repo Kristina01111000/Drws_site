@@ -205,6 +205,14 @@ to do:
 - 4 element course spacing when window is small fix it
 - Check on other account how the course content that we don’t have access to yet looks
 - remind him about ein
+- 
+Widget hotlinks to change:
+
+- Documentary
+- Score card
+- monthly topics 1
+- Monthly topics 2
+
 
 promo page video logo shows
 promo page video thumbnail update
