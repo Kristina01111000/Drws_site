@@ -50,3 +50,7 @@ title of all pages
     padding: 10px;
     border: 1px solid #ccc;
 }
+// added padding to youtube videos
+.wp-block-embed-youtube {
+    padding: 5% ;  
+}
