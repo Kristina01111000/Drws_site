@@ -16,7 +16,7 @@ Hours worked october 17 to November 16:  7 hour 50 min -> recieved
 
 Hours worked November 17 to December 31: 8 hour 45 min
 
-Hours worked January: 30 min
+Hours worked January: 40 min
  
 plugins im using on site:
 
@@ -193,16 +193,13 @@ to do:
 - Make quizzes for the 4 month course after lessons are added
 - finish mobile sidebar -> latest update fixed scroll problem
 - For articles always have picture wrapped by text
-- For widget documentary make the title not hot, just word Documentary
--  Make word documentary be bold
-- Make the hot part of the links smaller, so they stick out more, so “they tap into ” is hot , not the whole widget “click here” part be hot
-- Make the hot part bold
 
 
-- Try to put the logo underneath the line, if not remove it -> remove it. it looks bad
-- Put the course content into topics for 4 month learning program
+
+
+
+
 - Remove the word introduction from the top of the course content
-- 4 element course spacing when window is small fix it
 - Check on other account how the course content that we don’t have access to yet looks
 - remind him about ein
 - 
