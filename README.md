@@ -208,9 +208,8 @@ to do:
 - 
 Widget hotlinks to change:
 
-- Documentary
+
 - Score card
-- monthly topics 1
 - Monthly topics 2
 
 
