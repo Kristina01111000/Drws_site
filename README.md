@@ -151,7 +151,7 @@ to do:
 - remind him about ein -> paypal
 
 
-promo page video logo shows
-promo page video thumbnail update
+promo page video thumbnail update? maybe
+
 Manager of youtube now also -> can change/add etc videos and everything
 
