@@ -16,7 +16,7 @@ Hours worked october 17 to November 16:  7 hour 50 min -> recieved
 
 Hours worked November 17 to December 31: 8 hour 45 min
 
-Hours worked January: 40 min
+Hours worked January: 45 min
  
 plugins im using on site:
 
@@ -138,10 +138,8 @@ to do:
 - Make quizzes for the 4 month course after lessons are added
 - add new mobile sidebar -> make sure the scroll works better
 - For articles always have picture wrapped by text
-- mobile sidebar - in notes
 - update plugin list
 - Make quizzes for the 4 month course after lessons are added
-- finish mobile sidebar -> latest update fixed scroll problem
 - For articles always have picture wrapped by text
 
 
@@ -149,6 +147,7 @@ to do:
 - Remove the word introduction from the top of the course content
 - Check on other account how the course content that we don’t have access to yet looks
 - remind him about ein -> paypal
+- left widgets not showing up? on mobile
 
 
 promo page video thumbnail update? maybe
