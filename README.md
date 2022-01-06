@@ -16,7 +16,7 @@ Hours worked october 17 to November 16:  7 hour 50 min -> recieved
 
 Hours worked November 17 to December 31: 8 hour 45 min
 
-Hours worked January: 1 hour 50 min
+Hours worked January: 1 hour 55 min
  
 plugins im using on site:
 
@@ -149,6 +149,7 @@ to do:
 - remind him about ein -> paypal
 - left widgets not showing up? on mobile
 
+- sent report in about redirect issue and updates
 
 promo page video thumbnail update? maybe
 
