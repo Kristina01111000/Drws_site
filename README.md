@@ -150,7 +150,7 @@ to do:
 - left widgets not showing up? on mobile
 
 - sent report in about redirect issue and updates
-
+- disabled browser cache on w3 to see if it fixes redirect issue, wait until the next peepso update to see if it fixed it
 promo page video thumbnail update? maybe
 
 Manager of youtube now also -> can change/add etc videos and everything
