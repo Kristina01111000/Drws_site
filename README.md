@@ -153,7 +153,7 @@ to do:
 - disabled browser cache on w3 to see if it fixes redirect issue, wait until the next peepso update to see if it fixed it
 	- also check browser speed change, 
 	- waiting on next peepso update to see if it fixes it
-	- -> probably will be on wednesday
+	- -> probably will be on wednesday, never caused an issue for me, only him
 
 
 Manager of youtube now also -> can change/add etc videos and everything
