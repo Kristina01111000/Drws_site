@@ -16,7 +16,7 @@ Hours worked october 17 to November 16:  7 hour 50 min -> recieved
 
 Hours worked November 17 to December 31: 8 hour 45 min
 
-Hours worked January: 1 hour 55 min
+Hours worked January: 2 hour 00 min
  
 plugins im using on site:
 
@@ -154,6 +154,7 @@ to do:
 	- also check browser speed change, 
 	- waiting on next peepso update to see if it fixes it
 	- -> probably will be on wednesday, never caused an issue for me, only him
+	- update did not cause an issue for me, waiting to see if it did for him
 
 
 Manager of youtube now also -> can change/add etc videos and everything
