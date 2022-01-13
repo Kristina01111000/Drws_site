@@ -136,11 +136,8 @@ Next call:
 
 to do:
 - Make quizzes for the 4 month course after lessons are added
-- add new mobile sidebar -> make sure the scroll works better
 - For articles always have picture wrapped by text
 - update plugin list
-- Make quizzes for the 4 month course after lessons are added
-- For articles always have picture wrapped by text
 
 
 
@@ -159,4 +156,4 @@ to do:
 
 Manager of youtube now also -> can change/add etc videos and everything
 
-email about phone call tomorrow
+
