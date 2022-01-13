@@ -155,7 +155,7 @@ to do:
 	- waiting on next peepso update to see if it fixes it
 	- -> probably will be on wednesday, never caused an issue for me, only him
 	- update did not cause an issue for me, waiting to see if it did for him
-
+- report to peepso people, that disabling the browser cache fixed the issue!!
 
 Manager of youtube now also -> can change/add etc videos and everything
 
