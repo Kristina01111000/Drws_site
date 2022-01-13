@@ -158,3 +158,4 @@ to do:
 
 Manager of youtube now also -> can change/add etc videos and everything
 
+email about phone call tomorrow
