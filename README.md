@@ -141,12 +141,9 @@ to do:
 - remind him about the ein until he gets it
 - get m to try out the site with the passcode
 - check size fo promo video
-
-
 - Remove the word introduction from the top of the course content
 - Check on other account how the course content that we don’t have access to yet looks
-- remind him about ein -> paypal
-- left widgets not showing up? on mobile
+
 
 - disabled browser cache on w3 to  fix redirect issue after updates
 - reported to peepso people, disabling the browser cache fixed the issue!!
