@@ -83,11 +83,7 @@ Notes:
 - used photo editor for flavenoids picture, font = fresh
 To Do:
 
-- ssl not working in safari, silk browsers
-	- certificate using old ip address, needs to be deleted from that server and it will use inmotion 
-	- waiting on passwords/ usernames etc. 
-	- he is taking the lead on this
-	- work around? remove growing from syracuse, get new one
+- ssl not working in apple browsers, old computers
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
@@ -106,10 +102,6 @@ To Do:
 - put down included with membership under courses, monthly and 4 month??
 
 
-
-current call:
-	
-- archive settings good? categories, unlisting , should I attach the articles(posts) to the home page?
 
 To Do:
 - monthly topics are archived as a lesson in a course
