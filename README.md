@@ -131,8 +131,6 @@ Next call:
 		- likert scale for questions in survey
 	
 	- put about 6-8 questions in quizzes most of the time
-	- separate the course into sections (about 25 slides each), put it on google drive
-	- make sure that non admins can't get into wp dashboard, (blocked by memberships app)
 
 to do:
 - Make quizzes for the 4 month course after lessons are added
