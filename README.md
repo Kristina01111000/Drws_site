@@ -139,7 +139,7 @@ to do:
 - For articles always have picture wrapped by text
 - update plugin list
 - remind him about the ein until he gets it
-- 
+- get m to try out the site with the passcode
 
 
 
