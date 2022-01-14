@@ -140,7 +140,7 @@ to do:
 - update plugin list
 - remind him about the ein until he gets it
 - get m to try out the site with the passcode
-
+- check size fo promo video
 
 
 - Remove the word introduction from the top of the course content
