@@ -138,6 +138,8 @@ to do:
 - Make quizzes for the 4 month course after lessons are added
 - For articles always have picture wrapped by text
 - update plugin list
+- remind him about the ein until he gets it
+- 
 
 
 
