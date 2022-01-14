@@ -146,13 +146,8 @@ to do:
 - remind him about ein -> paypal
 - left widgets not showing up? on mobile
 
-- sent report in about redirect issue and updates
-- disabled browser cache on w3 to see if it fixes redirect issue, wait until the next peepso update to see if it fixed it
-	- also check browser speed change, 
-	- waiting on next peepso update to see if it fixes it
-	- -> probably will be on wednesday, never caused an issue for me, only him
-	- update did not cause an issue for me, waiting to see if it did for him
-- report to peepso people, that disabling the browser cache fixed the issue!!
+- disabled browser cache on w3 to  fix redirect issue after updates
+- reported to peepso people, disabling the browser cache fixed the issue!!
 
 Manager of youtube now also -> can change/add etc videos and everything
 
