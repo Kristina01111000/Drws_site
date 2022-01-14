@@ -144,6 +144,7 @@ to do:
 - Remove the word introduction from the top of the course content
 - make a staff account, remove administrator account if needed
 - Check on other account how the course content that we don’t have access to yet looks
+- module ->  lesson, 4 -> four (for elements, not month)
 
 
 - disabled browser cache on w3 to  fix redirect issue after updates
