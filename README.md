@@ -145,6 +145,4 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 - explain member page listing, also the sort preferences
 - talk him through the members page search options
-- removed administrator from membership page view -> not working emeail peepso tomorrow to see why it isn't working
-	- clearing the cache does not fix the problem
-	- see if it fixes itself over night
+- opened ticket with peepso to see about hiding member on members page
