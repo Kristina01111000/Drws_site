@@ -146,5 +146,6 @@ Manager of youtube now also -> can change/add etc videos and everything
 - explain member page listing, also the sort preferences
 - talk him through the members page search options
 - opened ticket with peepso to see about hiding member on members page
+	- they need peepso admin info
 
 - send invoice tomorrow after meeting
