@@ -136,10 +136,6 @@ to do:
 - module ->  lesson, 4 -> four (for elements, not month)
 - check text color settings, he wnts "say what you think" to be a different color
 
-- 
-- disabled browser cache on w3 to  fix redirect issue after updates
-	- reported to peepso people, disabling the browser cache fixed the issue!!
-	- make sure that it still works next time also, he said it was still fast engouh
 
 Manager of youtube now also -> can change/add etc videos and everything
 
