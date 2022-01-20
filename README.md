@@ -135,7 +135,7 @@ to do:
 - Check on other account how the course content that we don’t have access to yet looks
 - module ->  lesson, 4 -> four (for elements, not month)
 - check text color settings, he wnts "say what you think" to be a different color
-- make member blocks smaller if possible
+
 - 
 - disabled browser cache on w3 to  fix redirect issue after updates
 	- reported to peepso people, disabling the browser cache fixed the issue!!
