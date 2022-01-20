@@ -124,11 +124,13 @@ Next call:
 	
 	- put about 6-8 questions in quizzes most of the time
 
-to do:
+to do in future:
 - Make quizzes for the 4 month course after lessons are added
 - For articles always have picture wrapped by text
 - update plugin list
 - remind him about the ein until he gets it
+
+to do now:
 - get m to try out the site with the passcode
 - make a staff account, remove administrator account if needed
 - Check on other account how the course content that we don’t have access to yet looks
