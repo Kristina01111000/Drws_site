@@ -141,5 +141,6 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 - opened ticket with peepso to see about hiding member on members page
 	- they need peepso admin info
+	- added private credentials
 
 - send invoice tomorrow after meeting
