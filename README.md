@@ -145,3 +145,4 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 - send invoice tomorrow after meeting
 - set up staging site for peepso fix
+- 	use wp-staging
