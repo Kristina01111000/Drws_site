@@ -147,3 +147,4 @@ Manager of youtube now also -> can change/add etc videos and everything
 - set up staging site for peepso fix
 	- use wp-staging
 	- make a backup first
+	- (they don't wamt to break the site)
