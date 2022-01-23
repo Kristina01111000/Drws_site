@@ -144,3 +144,4 @@ Manager of youtube now also -> can change/add etc videos and everything
 	- added private credentials
 
 - send invoice tomorrow after meeting
+- set up staging site for peepso fix
