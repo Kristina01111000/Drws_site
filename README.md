@@ -150,3 +150,4 @@ Manager of youtube now also -> can change/add etc videos and everything
 	- use wp-staging
 	- make a backup first before downloading it -> on desktop
 	- (they don't wamt to break the site)
+	- after peepso is done. go to wp-staging, settings,  disable option "Disable admin authorization"
