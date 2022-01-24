@@ -14,7 +14,7 @@ Hours worked september 17 to  october 16: 5 hour 20 min -> recieved
   
 Hours worked october 17 to November 16:  7 hour 50 min -> recieved
 
-Hours worked November 17 to December 31: 8 hour 45 min
+Hours worked November 17 to December 31: 8 hour 50 min
 
 Hours worked January: 3 hour 20 min
  
@@ -147,5 +147,5 @@ Manager of youtube now also -> can change/add etc videos and everything
 - send invoice tomorrow after meeting
 - set up staging site for peepso fix
 	- use wp-staging
-	- make a backup first
+	- make a backup first before downloading it
 	- (they don't wamt to break the site)
