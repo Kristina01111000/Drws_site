@@ -16,7 +16,7 @@ Hours worked october 17 to November 16:  7 hour 50 min -> recieved
 
 Hours worked November 17 to December 31: 8 hour 50 min
 
-Hours worked January: 3 hour 50 min
+Hours worked January: 4 hour 00 min
  
 plugins im using on site:
 
@@ -145,5 +145,3 @@ Manager of youtube now also -> can change/add etc videos and everything
 	- it worked the whole time, administrators see everything.  Non administrators don't see it if hidded
 
 - send invoice tomorrow after meeting
-- set up staging site for peepso fix
-	- nobody can hide from administrators, but they can hide from each other
