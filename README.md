@@ -152,3 +152,4 @@ Manager of youtube now also -> can change/add etc videos and everything
 	- (they don't wamt to break the site)
 	- after peepso is done. go to wp-staging, settings,  disable option "Disable admin authorization"
 - remember to delete the staging site
+- they got it working in the staging site on their end, but not on mine(picture proof)
