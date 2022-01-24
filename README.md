@@ -142,6 +142,6 @@ to do now:
 Manager of youtube now also -> can change/add etc videos and everything
 
 - opened ticket with peepso to see about hiding member on members page
-	- it worked the whole time, administrators see everything.  Non administrators don't see it if hidded
+	- it worked the whole time, administrators just see everything.  Non administrators don't see it if hidden
 
-- send invoice tomorrow after meeting
+- send invoice tomorrow 
