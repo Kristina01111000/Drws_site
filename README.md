@@ -142,8 +142,7 @@ to do now:
 Manager of youtube now also -> can change/add etc videos and everything
 
 - opened ticket with peepso to see about hiding member on members page
-	- they need peepso admin info
-	- added private credentials
+	- it worked the whole time, administrators see everything.  Non administrators don't see it if hidded
 
 - send invoice tomorrow after meeting
 - set up staging site for peepso fix
