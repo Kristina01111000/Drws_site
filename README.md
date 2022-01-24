@@ -147,5 +147,5 @@ Manager of youtube now also -> can change/add etc videos and everything
 - send invoice tomorrow after meeting
 - set up staging site for peepso fix
 	- use wp-staging
-	- make a backup first before downloading it
+	- make a backup first before downloading it -> on desktop
 	- (they don't wamt to break the site)
