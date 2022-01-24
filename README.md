@@ -16,7 +16,7 @@ Hours worked october 17 to November 16:  7 hour 50 min -> recieved
 
 Hours worked November 17 to December 31: 8 hour 50 min
 
-Hours worked January: 3 hour 35 min
+Hours worked January: 3 hour 50 min
  
 plugins im using on site:
 
@@ -151,5 +151,6 @@ Manager of youtube now also -> can change/add etc videos and everything
 	- make a backup first before downloading it -> on desktop
 	- (they don't wamt to break the site)
 	- after peepso is done. go to wp-staging, settings,  disable option "Disable admin authorization"
+	- peepso said that administrators see hidden people, but others can't
 - remember to delete the staging site
 - they got it working in the staging site on their end, but not on mine(picture proof)
