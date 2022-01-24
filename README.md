@@ -146,10 +146,4 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 - send invoice tomorrow after meeting
 - set up staging site for peepso fix
-	- use wp-staging
-	- make a backup first before downloading it -> on desktop
-	- (they don't wamt to break the site)
-	- after peepso is done. go to wp-staging, settings,  disable option "Disable admin authorization"
-	- peepso said that administrators see hidden people, but others can't
-- remember to delete the staging site
-- they got it working in the staging site on their end, but not on mine(picture proof)
+	- nobody can hide from administrators, but they can hide from each other
