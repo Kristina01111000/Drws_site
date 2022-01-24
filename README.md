@@ -36,6 +36,7 @@ plugins im using on site:
 - autoptimization (not css, messed it up really bad)
 - w3 total cache
 - layout grid block
+- wp-staging
 
 https://www.ssllabs.com/ssltest
 
