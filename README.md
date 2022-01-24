@@ -24,6 +24,7 @@ plugins im using on site:
 	- updated included installer, easy to add new plugins
 	- autoupdates need to be enabled every time they are updated
 	- auto updates only work for main peepso plugin, not the additional ones
+	- license code only works for a year, check every january 22
 - learndash 
 - paid memberships pro
 - real simple ssl 
