@@ -147,3 +147,4 @@ Manager of youtube now also -> can change/add etc videos and everything
 - issues with M logging in to the site
 - fixed template email
 - is documentary the first thing you want people to see? 
+- see if I can automatically add new members to courses
