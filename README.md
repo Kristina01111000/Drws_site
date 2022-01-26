@@ -145,3 +145,4 @@ Manager of youtube now also -> can change/add etc videos and everything
 	- it worked the whole time, administrators just see everything.  Non administrators don't see it if hidden
 
 - issues with M logging in to the site
+- fixed template email
