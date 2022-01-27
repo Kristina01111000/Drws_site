@@ -110,8 +110,9 @@ To Do:
 - set categories to air, fire, water, earth
 - see what shows up in credit card statement when you buy stuff
 
+Survey stuff:
 
-	list of survey options/questions
+	list of survey options/questions:
 		- want all of the 80 questions in list? maybe it should be shorter -> put all 80 in
 		- do you have a list of the q's separated into element groups? no-> separate it out manually (goes fire air water earth in the survey list)
 		- maybe hubspot for wordpress plugin? it's free, other ones i've found are quite expensive
