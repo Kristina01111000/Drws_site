@@ -16,7 +16,7 @@ Hours worked october 17 to November 16:  7 hour 50 min -> recieved
 
 Hours worked November 17 to December 31: 8 hour 50 min -> sent
 
-Hours worked January: 4 hour 10 min
+Hours worked January: 4 hour 15 min
  
 plugins im using on site:
 
@@ -136,7 +136,6 @@ to do now:
 - Check on other account how the course content that we don’t have access to yet looks
 - module ->  lesson, 4 -> four (for elements, not month)
 - check text color settings, he wants "say what you think" to be a different color
-- add staff account, different if spaces allowed
 
 
 Manager of youtube now also -> can change/add etc videos and everything
