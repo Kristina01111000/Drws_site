@@ -111,8 +111,6 @@ To Do:
 - see what shows up in credit card statement when you buy stuff
 
 
-Next call:
-
 	list of survey options/questions
 		- want all of the 80 questions in list? maybe it should be shorter -> put all 80 in
 		- do you have a list of the q's separated into element groups? no-> separate it out manually (goes fire air water earth in the survey list)
@@ -121,7 +119,6 @@ Next call:
 		- i will be trying the quiz option for a learndash class first, might not work b/c they are not graded, they are split into categories
 	--------- rank list 1 to 5 for each question
 		- likert scale for questions in survey
-	
 	- put about 6-8 questions in quizzes most of the time
 
 to do in future:
