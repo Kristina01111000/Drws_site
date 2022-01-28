@@ -145,3 +145,4 @@ Manager of youtube now also -> can change/add etc videos and everything
 - fixed template email
 - is documentary the first thing you want people to see? 
 - see if I can automatically add new members to courses
+- make more widgets for promo page
