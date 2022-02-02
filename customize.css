@@ -27,10 +27,11 @@ title of all pages
 .gc-header{
 	 background-image: url(https://growingholistically.com/wp-content/uploads/2021/05/newyellowtile.jpeg);
 }
-// side bar background + centered text
+// side bar background + centered text + text size
 .gc-widget--sidebar{
 	background-image: url(https://growingholistically.com/wp-content/uploads/2021/05/tilegreen.jpeg);
 	text-align: center;
+	font-size: 19px;
 }
 // set button background to tile
 .wp-block-button {
