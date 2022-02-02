@@ -150,7 +150,6 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 - Change the module chat to lesson chat
 - Color issue in forms, text boxes are too similar to background color, to pale green, or creamy color
-- See if i can automatically enroll people when they join
 - Think about colors to see if it can look less old fashioned, think about modern colors
 - Switch the video in course to growing holistically channel
 
