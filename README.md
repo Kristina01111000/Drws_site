@@ -153,6 +153,5 @@ Manager of youtube now also -> can change/add etc videos and everything
 - See if i can automatically enroll people when they join
 - Think about colors to see if it can look less old fashioned, think about modern colors
 - Switch the video in course to growing holistically channel
-- Put join here and login in first widget on promo page, make text bigger, remove the dashes
 - Put personal +professional growth to nutrition in one anchor
 
