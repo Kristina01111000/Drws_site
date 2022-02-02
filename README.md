@@ -149,3 +149,18 @@ Manager of youtube now also -> can change/add etc videos and everything
 - see if I can automatically add new members to courses
 - make more widgets for promo page
 - send invoice next wednesday (9th)
+
+
+
+
+Add additional login in here button to mobile top right
+Change the module chat to lesson chat
+Color issue in forms, text boxes are too similar to background color, to pale green, or creamy color
+See if i can automatically enroll people when they join
+Think about colors to see if it can look less old fashioned, think about modern colors
+For widget: the four element story text bigger, leave “the” the same size 
+Switch the video in course to growing holistically channel
+Put join here and login in first widget on promo page, make text bigger, remove the dashes
+Make widget font bigger across the whole site
+Put personal +professional growth to nutrition in one anchor
+
