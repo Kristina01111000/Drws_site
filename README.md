@@ -14,9 +14,11 @@ Hours worked september 17 to  october 16: 5 hour 20 min -> recieved
   
 Hours worked october 17 to November 16:  7 hour 50 min -> recieved
 
-Hours worked November 17 to December 31: 8 hour 50 min -> sent
+Hours worked November 17 to December 31: 8 hour 50 min -> recieved
 
 Hours worked January: 5 hour 30 min
+
+Hours worked February: 
  
 plugins im using on site:
 
@@ -146,3 +148,4 @@ Manager of youtube now also -> can change/add etc videos and everything
 - is documentary the first thing you want people to see? 
 - see if I can automatically add new members to courses
 - make more widgets for promo page
+- send invoice next wednesday (9th)
