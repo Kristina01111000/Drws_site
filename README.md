@@ -148,7 +148,7 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 
 
-- Change the module chat to lesson chat
+- ask about lesson chats, still want them? if yes we should have a master list of chats that people can go to to chat, won't be able to block them out to just people who have taken that lesson already
 - Color issue in forms, text boxes are too similar to background color, to pale green, or creamy color
 - Think about colors to see if it can look less old fashioned, think about modern colors
 - Switch the video in course to growing holistically channel
