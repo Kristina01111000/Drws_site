@@ -18,7 +18,7 @@ Hours worked November 17 to December 31: 8 hour 50 min -> recieved
 
 Hours worked January: 5 hour 30 min
 
-Hours worked February: 10 min
+Hours worked February: 40 min
  
 plugins im using on site:
 
@@ -148,7 +148,6 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 
 
-- Add additional login in here button to mobile top right
 - Change the module chat to lesson chat
 - Color issue in forms, text boxes are too similar to background color, to pale green, or creamy color
 - See if i can automatically enroll people when they join
