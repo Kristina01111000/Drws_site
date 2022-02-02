@@ -143,11 +143,6 @@ Manager of youtube now also -> can change/add etc videos and everything
 - opened ticket with peepso to see about hiding member on members page
 	- it worked the whole time, administrators just see everything.  Non administrators don't see it if hidden
 
-- issues with M logging in to the site
-- fixed template email
-- is documentary the first thing you want people to see? 
-- see if I can automatically add new members to courses
-- make more widgets for promo page
 - send invoice next wednesday (9th)
 
 
