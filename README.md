@@ -18,7 +18,7 @@ Hours worked November 17 to December 31: 8 hour 50 min -> recieved
 
 Hours worked January: 5 hour 30 min
 
-Hours worked February: 
+Hours worked February: 10 min
  
 plugins im using on site:
 
@@ -153,9 +153,7 @@ Manager of youtube now also -> can change/add etc videos and everything
 - Color issue in forms, text boxes are too similar to background color, to pale green, or creamy color
 - See if i can automatically enroll people when they join
 - Think about colors to see if it can look less old fashioned, think about modern colors
-- For widget: the four element story text bigger, leave “the” the same size 
 - Switch the video in course to growing holistically channel
 - Put join here and login in first widget on promo page, make text bigger, remove the dashes
-- Make widget font bigger across the whole site
 - Put personal +professional growth to nutrition in one anchor
 
