@@ -155,17 +155,17 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 
 
-Remove documentary from the course, put into course material? See if there is a folder or something that can be added as not part of course
-Show my mom the video, ask a few other people about it
-Make a quiz for nerves, muscles,blood, bones  ~ 10 questions, may delete some
-Change module word to lesson add title into page
-Make administrator get alerted when people make comments -> admin dr w account
-Come up with a prompt for the chat page, not too long
-Change leave a reply to leave a comment on the module chat page -> if i can’t change it then turn it to white
-Make master list of course chats, put at bottom of course paragraph
-Make chats for other people that sound good, 2 to 3 people
-Look for image line break flourish for promo page
-Think about the line breaks
-Switch the promo page left menus to 1, with 4-5 links
-Add sentence about learning program on home page, make link hot, under line it
-Send email to dr w about group pictures, paypal, think about text on promo page, 
+- Remove documentary from the course, put into course material? See if there is a folder or something that can be added as not part of course
+- Show my mom the video, ask a few other people about it
+- Make a quiz for nerves, muscles,blood, bones  ~ 10 questions, may delete some
+- Change module word to lesson add title into page
+- Make administrator get alerted when people make comments -> admin dr w account
+- Come up with a prompt for the chat page, not too long
+- Change leave a reply to leave a comment on the module chat page -> if i can’t change it then turn it to white
+- Make master list of course chats, put at bottom of course paragraph
+- Make chats for other people that sound good, 2 to 3 people
+- Look for image line break flourish for promo page
+- Think about the line breaks
+- Switch the promo page left menus to 1, with 4-5 links
+- Add sentence about learning program on home page, make link hot, under line it
+
