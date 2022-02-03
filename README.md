@@ -168,4 +168,4 @@ Manager of youtube now also -> can change/add etc videos and everything
 	- Think about the line breaks
 - Switch the promo page left menus to 1, with 4-5 links
 - Add sentence about learning program on home page, make link hot, under line it
-
+- make sure the login widget is showing in mobile view
