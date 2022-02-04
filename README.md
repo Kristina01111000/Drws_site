@@ -159,7 +159,7 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 
 
-- Remove documentary from the course, put into course material? See if there is a folder or something that can be added as not part of course
+
 - Show my mom the video, ask a few other people about it
 - Make a quiz for nerves, muscles,blood, bones  ~ 10 questions, may delete some
 - Make administrator get alerted when people make comments -> admin dr w account
