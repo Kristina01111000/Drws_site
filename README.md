@@ -18,7 +18,7 @@ Hours worked November 17 to December 31: 8 hour 50 min -> recieved
 
 Hours worked January: 5 hour 30 min
 
-Hours worked February: 2 hours 20 min
+Hours worked February: 2 hours 35 min
  
 plugins im using on site:
 
@@ -158,7 +158,6 @@ Manager of youtube now also -> can change/add etc videos and everything
 - Remove documentary from the course, put into course material? See if there is a folder or something that can be added as not part of course
 - Show my mom the video, ask a few other people about it
 - Make a quiz for nerves, muscles,blood, bones  ~ 10 questions, may delete some
-- Change module word to lesson, all 8, add title of lesson onto page
 - Make administrator get alerted when people make comments -> admin dr w account
 - Come up with a prompt for the chat page, not too long
 - Change leave a reply to leave a comment on the module chat page -> if i can’t change it then turn it to white
