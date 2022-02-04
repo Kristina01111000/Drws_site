@@ -169,3 +169,4 @@ Manager of youtube now also -> can change/add etc videos and everything
 	- Think about the line breaks
 - Switch the promo page left menus to 1, with 4-5 links
 - make sure the login widget is showing in mobile view
+- make sure the widgets are right in mobile view
