@@ -18,7 +18,7 @@ Hours worked November 17 to December 31: 8 hour 50 min -> recieved
 
 Hours worked January: 5 hour 30 min
 
-Hours worked February: 3 hours 20 min
+Hours worked February: 3 hours 25 min
  
 plugins im using on site:
 
@@ -164,5 +164,4 @@ Manager of youtube now also -> can change/add etc videos and everything
 - Make administrator get alerted when people make comments -> admin dr w account
 - Look for image line break flourish for promo page
 	- Think about the line breaks
-- Switch the promo page left menus to 1, with 4-5 links
 - figure out menu on mobile issue -> login and see how it goes
