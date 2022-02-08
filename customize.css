@@ -55,3 +55,14 @@ title of all pages
 .wp-block-embed-youtube {
     padding: 5% ;  
 }
+
+// added login button to mobile, not desktop promo page
+#mobile-view-only{
+	display: none;
+}
+
+@media screen and (max-width: 978px){
+#mobile-view-only{
+	display: block;
+	}
+}
