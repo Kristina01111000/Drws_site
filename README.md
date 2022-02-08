@@ -18,7 +18,7 @@ Hours worked November 17 to December 31: 8 hour 50 min -> recieved
 
 Hours worked January: 5 hour 30 min
 
-Hours worked February: 3 hours 10 min
+Hours worked February: 3 hours 20 min
  
 plugins im using on site:
 
@@ -152,7 +152,6 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 
 
-- ask about lesson chats, still want them? if yes we should have a master list of chats that people can go to to chat, won't be able to block them out to just people who have taken that lesson already
 - Color issue in forms, text boxes are too similar to background color, to pale green, or creamy color
 - Think about colors to see if it can look less old fashioned, think about modern colors
 - Switch the video in course to growing holistically channel
@@ -163,7 +162,6 @@ Manager of youtube now also -> can change/add etc videos and everything
 - Show my mom the video, ask a few other people about it
 - Make a quiz for nerves, muscles,blood, bones  ~ 10 questions, may delete some
 - Make administrator get alerted when people make comments -> admin dr w account
-- Make master list of course chats, put at bottom of course paragraph
 - Look for image line break flourish for promo page
 	- Think about the line breaks
 - Switch the promo page left menus to 1, with 4-5 links
