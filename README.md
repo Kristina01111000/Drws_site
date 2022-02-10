@@ -161,3 +161,15 @@ Manager of youtube now also -> can change/add etc videos and everything
 - Show my mom the video, ask a few other people about it, have them make comments?
 - Make administrator get alerted when people make comments -> switch to admin dr w account
 - figure out menu on mobile issue -> login and see how it goes
+- Show my mom the video, ask a few other people about it
+- Make administrator get alerted when people make comments -> switch admin dr w account
+- Make chats for other people that sound good, 2 to 3 people
+- Look for image line break flourish for promo page?
+- Think about the line breaks ?
+- Switch link red to more red as a test
+- Remove lines from promo page menus
+- Promo page padding between video top and bottom of space ⅓ to ½ less space, whatever looks better
+- On comment page, try to remove the ‘# at’
+- On course chat page make just lesson 1 hot, not the titles
+- In quiz capitalize element names, put elements in order in quiz answers
+- Peepso username same or not, allowable 
