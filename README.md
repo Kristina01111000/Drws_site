@@ -18,7 +18,7 @@ Hours worked November 17 to December 31: 8 hour 50 min -> recieved
 
 Hours worked January: 5 hour 30 min
 
-Hours worked February: 4 hours 50 min
+Hours worked February: 5 hours 05 min
  
 plugins im using on site:
 
@@ -166,6 +166,5 @@ Manager of youtube now also -> can change/add etc videos and everything
 - Make chats for other people that sound good, 2 to 3 people
 - Switch link red to more red as a test
 - Promo page padding between video top and bottom of space ⅓ to ½ less space, whatever looks better
-- On course chat page make just lesson 1 hot, not the titles
 - In quiz capitalize element names, put elements in order in quiz answers
 - Peepso username same or not, allowable 
