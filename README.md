@@ -167,4 +167,3 @@ Manager of youtube now also -> can change/add etc videos and everything
 - Switch link red to more red as a test
 - Promo page padding between video top and bottom of space ⅓ to ½ less space, whatever looks better
 - In quiz capitalize element names, put elements in order in quiz answers
-- Peepso username same or not, allowable 
