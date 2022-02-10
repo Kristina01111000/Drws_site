@@ -18,7 +18,7 @@ Hours worked November 17 to December 31: 8 hour 50 min -> recieved
 
 Hours worked January: 5 hour 30 min
 
-Hours worked February: 3 hours 55 min
+Hours worked February: 4 hours 05 min
  
 plugins im using on site:
 
@@ -155,7 +155,6 @@ Manager of youtube now also -> can change/add etc videos and everything
 - Color issue in forms, text boxes are too similar to background color, to pale green, or creamy color
 - Think about colors to see if it can look less old fashioned, think about modern colors
 - Switch the video in course to growing holistically channel
-
 
 
 
