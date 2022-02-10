@@ -159,7 +159,5 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 
 - Show my mom the video, ask a few other people about it
-- Make administrator get alerted when people make comments -> admin dr w account
-- Look for image line break flourish for promo page
-	- Think about the line breaks
+- Make administrator get alerted when people make comments -> switch to admin dr w account
 - figure out menu on mobile issue -> login and see how it goes
