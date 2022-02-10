@@ -18,7 +18,7 @@ Hours worked November 17 to December 31: 8 hour 50 min -> recieved
 
 Hours worked January: 5 hour 30 min
 
-Hours worked February: 4 hours 05 min
+Hours worked February: 4 hours 50 min
  
 plugins im using on site:
 
