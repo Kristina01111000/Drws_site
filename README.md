@@ -165,7 +165,6 @@ Manager of youtube now also -> can change/add etc videos and everything
 - Make administrator get alerted when people make comments -> switch admin dr w account
 - Make chats for other people that sound good, 2 to 3 people
 - Switch link red to more red as a test
-- Remove lines from promo page menus
 - Promo page padding between video top and bottom of space ⅓ to ½ less space, whatever looks better
 - On comment page, try to remove the ‘# at’
 - On course chat page make just lesson 1 hot, not the titles
