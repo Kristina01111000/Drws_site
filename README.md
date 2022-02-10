@@ -18,7 +18,7 @@ Hours worked November 17 to December 31: 8 hour 50 min -> recieved
 
 Hours worked January: 5 hour 30 min
 
-Hours worked February: 3 hours 25 min
+Hours worked February: 3 hours 55 min
  
 plugins im using on site:
 
@@ -160,7 +160,6 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 
 - Show my mom the video, ask a few other people about it
-- Make a quiz for nerves, muscles,blood, bones  ~ 10 questions, may delete some
 - Make administrator get alerted when people make comments -> admin dr w account
 - Look for image line break flourish for promo page
 	- Think about the line breaks
