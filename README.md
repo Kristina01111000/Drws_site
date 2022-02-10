@@ -164,6 +164,5 @@ Manager of youtube now also -> can change/add etc videos and everything
 - Show my mom the video, ask a few other people about it
 - Make administrator get alerted when people make comments -> switch admin dr w account
 - Make chats for other people that sound good, 2 to 3 people
-- Switch link red to more red as a test
 - Promo page padding between video top and bottom of space ⅓ to ½ less space, whatever looks better
 - In quiz capitalize element names, put elements in order in quiz answers
