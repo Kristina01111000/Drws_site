@@ -147,15 +147,11 @@ Manager of youtube now also -> can change/add etc videos and everything
 - opened ticket with peepso to see about hiding member on members page
 	- it worked the whole time, administrators just see everything.  Non administrators don't see it if hidden
 
-- send invoice next wednesday (9th)
-
 
 
 
 - Color issue in forms, text boxes are too similar to background color, to pale green, or creamy color
-- Think about colors to see if it can look less old fashioned, think about modern colors
 - Switch the video in course to growing holistically channel
-
 
 
 - Show my mom the video, ask a few other people about it, have them make comments?
