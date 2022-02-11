@@ -18,7 +18,7 @@ Hours worked November 17 to December 31: 8 hour 50 min -> recieved
 
 Hours worked January: 5 hour 30 min -> sent
 
-Hours worked February: 5 hours 05 min
+Hours worked February: 5 hours 10 min
  
 plugins im using on site:
 
@@ -164,4 +164,3 @@ Manager of youtube now also -> can change/add etc videos and everything
 - Show my mom the video, ask a few other people about it
 - Make administrator get alerted when people make comments -> switch admin dr w account
 - Make chats for other people that sound good, 2 to 3 people
-- In quiz capitalize element names, put elements in order in quiz answers
