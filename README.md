@@ -18,7 +18,7 @@ Hours worked November 17 to December 31: 8 hour 50 min -> recieved
 
 Hours worked January: 5 hour 30 min -> sent
 
-Hours worked February: 5 hours 10 min
+Hours worked February: 5 hours 15 min
  
 plugins im using on site:
 
@@ -158,5 +158,7 @@ Manager of youtube now also -> can change/add etc videos and everything
 - Make administrator get alerted when people make comments -> switch to admin dr w account
 - figure out menu on mobile issue -> login and see how it goes
 - Show my mom the video, ask a few other people about it
-- Make administrator get alerted when people make comments -> switch admin dr w account
 - Make chats for other people that sound good, 2 to 3 people
+
+
+for admin email change "Settings"=>"General"=>"E-Mail Adress".
