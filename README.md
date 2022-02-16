@@ -156,7 +156,7 @@ Manager of youtube now also -> can change/add etc videos and everything
 - figure out menu on mobile issue -> login and see how it goes
 - Show my mom the video, ask a few other people about it
 - Make chats for other people that sound good, 2 to 3 people
-
+- Update on lessons? I 1 done? How is 2 coming?
 
 for admin email change "Settings"=>"General"=>"E-Mail Adress".
 change it back when he doesn't want comment emails
