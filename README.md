@@ -135,8 +135,7 @@ to do in future:
 - remind him about the ein until he gets it
 
 to do now:
-- get m to try out the site with the passcode
-- make a staff account, remove administrator account if needed
+
 - Check on other account how the course content that we don’t have access to yet looks
 - module ->  lesson, 4 -> four (for elements, not month)
 - check text color settings, he wants "say what you think" to be a different color
