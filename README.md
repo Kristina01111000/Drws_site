@@ -161,3 +161,5 @@ Manager of youtube now also -> can change/add etc videos and everything
 for admin email change "Settings"=>"General"=>"E-Mail Adress".
 - change it back when he doesn't want comment emails
 - told him to forward me any alerts
+
+- confirmation on documentary links in course intro paragraph
