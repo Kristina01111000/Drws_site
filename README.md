@@ -155,7 +155,6 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 
 - Show my mom the video, ask a few other people about it, have them make comments?
-- Make administrator get alerted when people make comments -> switch to admin dr w account
 - figure out menu on mobile issue -> login and see how it goes
 - Show my mom the video, ask a few other people about it
 - Make chats for other people that sound good, 2 to 3 people
