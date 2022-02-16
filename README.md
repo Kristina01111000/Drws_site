@@ -136,7 +136,6 @@ to do in future:
 
 to do now:
 
-- Check on other account how the course content that we don’t have access to yet looks
 - module ->  lesson, 4 -> four (for elements, not month)
 - check text color settings, he wants "say what you think" to be a different color
 
