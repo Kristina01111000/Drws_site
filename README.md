@@ -159,4 +159,5 @@ Manager of youtube now also -> can change/add etc videos and everything
 - Update on lessons? I 1 done? How is 2 coming?
 
 for admin email change "Settings"=>"General"=>"E-Mail Adress".
-change it back when he doesn't want comment emails
+- change it back when he doesn't want comment emails
+- told him to forward me any alerts
