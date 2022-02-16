@@ -149,7 +149,7 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 
 - Color issue in forms, text boxes are too similar to background color, to pale green, or creamy color
-- Switch the video in course to growing holistically channel
+- Switch the video in course, all of them to growing holistically channel
 - hide lessons so they can't be seen by users until available
 
 - Show my mom the video, ask a few other people about it, have them make comments?
