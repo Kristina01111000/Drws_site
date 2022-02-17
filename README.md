@@ -157,14 +157,9 @@ Manager of youtube now also -> can change/add etc videos and everything
 - Make chats for other people that sound good, 2 to 3 people
 
 for admin email change "Settings"=>"General"=>"E-Mail Adress".
-- change it back when he doesn't want comment emails
-- told him to forward me any alerts
 
-- confirmation on documentary links in course intro paragraph
 - Fix logout button taking you to wordpress page
 
-
-Fix logout button taking you to wordpress page
 Come up with options for link color for next week
 See if font size of widget size can change based on widget size, so words don’t separate based on lines
 He didn’t get the admin email, try resending it to him, figure out why it won’t change -> worked for his gmail address, not earthlink
