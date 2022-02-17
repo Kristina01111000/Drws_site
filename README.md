@@ -18,7 +18,7 @@ Hours worked November 17 to December 31: 8 hour 50 min -> recieved
 
 Hours worked January: 5 hour 30 min -> sent
 
-Hours worked February: 5 hours 15 min
+Hours worked February: 5 hours 45 min
  
 plugins im using on site:
 
@@ -154,9 +154,7 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 - Show my mom the video, ask a few other people about it, have them make comments?
 - figure out menu on mobile issue -> login and see how it goes
-- Show my mom the video, ask a few other people about it
 - Make chats for other people that sound good, 2 to 3 people
-- Update on lessons? I 1 done? How is 2 coming?
 
 for admin email change "Settings"=>"General"=>"E-Mail Adress".
 - change it back when he doesn't want comment emails
