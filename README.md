@@ -168,5 +168,5 @@ Fix logout button taking you to wordpress page
 Come up with options for link color for next week
 See if font size of widget size can change based on widget size, so words don’t separate based on lines
 He didn’t get the admin email, try resending it to him, figure out why it won’t change -> worked for his gmail address, not earthlink
-Switch the administrator email back to mine, forward him comments
-Switch the documentary link to growing holistically channel
+
+
