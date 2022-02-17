@@ -163,3 +163,4 @@ for admin email change "Settings"=>"General"=>"E-Mail Adress".
 - told him to forward me any alerts
 
 - confirmation on documentary links in course intro paragraph
+- Fix logout button taking you to wordpress page
