@@ -74,7 +74,7 @@ Notes:
 		- does peepso change the pages numbers when new updates are made?
 - make sure to use peepso login and log out, not pmp login and logout
 - forward comment emails to him
-	
+- all youtube videos need to be on the matching youtube page
 - .customclass is the class name to add a border around a group
 - capitalize the element names everywhere
 
