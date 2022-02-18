@@ -157,7 +157,7 @@ Manager of youtube now also -> can change/add etc videos and everything
 - figure out menu on mobile issue -> login and see how it goes, what should be the main menu? make a new one?
 - Make chats for other people that sound good, 2 to 3 people
 
-for admin email change "Settings"=>"General"=>"E-Mail Adress".
+for admin email change "Settings"=>"General"=>"E-Mail Address". set to mine now, hopefully he fixes the other sites email address thing
 
 Come up with options for link color for next week
 See if font size of widget size can change based on widget size, so words don’t separate based on lines
