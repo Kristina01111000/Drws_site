@@ -72,7 +72,7 @@ Notes:
 	- second promo page
 	- community activity
 		- does peepso change the pages numbers when new updates are made?
-
+- make sure to use peepso login and log out, not pmp login and logout
 	
 - .customclass is the class name to add a border around a group
 - capitalize the element names everywhere
