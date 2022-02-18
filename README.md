@@ -162,4 +162,5 @@ Come up with options for link color for next week
 See if font size of widget size can change based on widget size, so words don’t separate based on lines
 He didn’t get the admin email, try resending it to him, figure out why it won’t change -> worked for his gmail address, not earthlink
 
+- does he want the logout redirect to go to promo page?
 
