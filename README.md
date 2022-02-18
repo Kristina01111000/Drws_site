@@ -153,14 +153,13 @@ Manager of youtube now also -> can change/add etc videos and everything
 - hide lessons so they can't be seen by users until available
 
 - Show my mom the video, ask a few other people about it, have them make comments?
-- figure out menu on mobile issue -> login and see how it goes
+- figure out menu on mobile issue -> login and see how it goes, what should be the main menu? make a new one?
 - Make chats for other people that sound good, 2 to 3 people
 
 for admin email change "Settings"=>"General"=>"E-Mail Adress".
 
 Come up with options for link color for next week
 See if font size of widget size can change based on widget size, so words don’t separate based on lines
-He didn’t get the admin email, try resending it to him, figure out why it won’t change -> worked for his gmail address, not earthlink
 
 - does he want the logout redirect to go to promo page?
 
