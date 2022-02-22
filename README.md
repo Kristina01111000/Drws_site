@@ -16,7 +16,7 @@ Hours worked october 17 to November 16:  7 hour 50 min -> recieved
 
 Hours worked November 17 to December 31: 8 hour 50 min -> recieved
 
-Hours worked January: 5 hour 30 min -> sent
+Hours worked January: 5 hour 30 min -> received
 
 Hours worked February: 6 hours 00 min
  
