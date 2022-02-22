@@ -174,3 +174,4 @@ See if font size of widget size can change based on widget size, so words don’
 
 - does he want the logout redirect to go to promo page or to documentary, scorecard etc?
 
+- double check that emails are going out
