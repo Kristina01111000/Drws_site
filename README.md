@@ -18,7 +18,7 @@ Hours worked November 17 to December 31: 8 hour 50 min -> recieved
 
 Hours worked January: 5 hour 30 min -> received
 
-Hours worked February: 6 hours 00 min
+Hours worked February: 6 hours 05 min
  
 plugins im using on site:
 
@@ -172,5 +172,5 @@ Come up with options for link color for next week
 See if font size of widget size can change based on widget size, so words don’t separate based on lines
 - Change widget size minimums instead, easier, so that documentary and downloaded don’t get cut in half
 
-- does he want the logout redirect to go to promo page?
+- does he want the logout redirect to go to promo page or to documentary, scorecard etc?
 
