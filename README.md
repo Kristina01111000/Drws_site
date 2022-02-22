@@ -160,6 +160,16 @@ Manager of youtube now also -> can change/add etc videos and everything
 for admin email change "Settings"=>"General"=>"E-Mail Address". set to mine now, hopefully he fixes the other sites email address thing
 
 Come up with options for link color for next week
+	whole rainbow for a try:
+	- red
+	- orange
+	- yellow
+	- green
+	- blue
+	- purple
+	- black?
+	- grey
+	
 See if font size of widget size can change based on widget size, so words don’t separate based on lines
 
 - does he want the logout redirect to go to promo page?
