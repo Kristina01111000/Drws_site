@@ -169,8 +169,7 @@ Come up with options for link color for next week
 	- black?
 	- grey
 	
-See if font size of widget size can change based on widget size, so words don’t separate based on lines
-- Change widget size minimums instead, easier, so that documentary and downloaded don’t get cut in half
+- changed sidebar size to 200 px, fixes split word problem
 
 - does he want the logout redirect to go to promo page or to documentary, scorecard etc?
 
