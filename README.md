@@ -18,7 +18,7 @@ Hours worked November 17 to December 31: 8 hour 50 min -> recieved
 
 Hours worked January: 5 hour 30 min -> received
 
-Hours worked February: 6 hours 10 min
+Hours worked February: 6 hours 20 min
  
 plugins im using on site:
 
@@ -158,16 +158,6 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 for admin email change "Settings"=>"General"=>"E-Mail Address". set to mine now, hopefully he fixes the other sites email address thing
 
-Come up with options for link color for next week
-	whole rainbow for a try:
-	- red
-	- orange
-	- yellow
-	- green
-	- blue
-	- purple
-	- black?
-	- grey
 	
 - changed sidebar size to 200 px, fixes split word problem
 
