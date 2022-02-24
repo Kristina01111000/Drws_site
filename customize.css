@@ -71,3 +71,7 @@ title of all pages
 .comment-meta{
 	display: none;
 }
+// link underline
+a {
+    text-decoration: underline;
+}
