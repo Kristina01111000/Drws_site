@@ -18,7 +18,7 @@ Hours worked November 17 to December 31: 8 hour 50 min -> recieved
 
 Hours worked January: 5 hour 30 min -> received
 
-Hours worked February: 6 hours 20 min
+Hours worked February: 6 hours 30 min
  
 plugins im using on site:
 
@@ -164,3 +164,5 @@ for admin email change "Settings"=>"General"=>"E-Mail Address". set to mine now,
 - does he want the logout redirect to go to promo page or to documentary, scorecard etc?
 
 - double check that emails are going out
+
+- changed header to look more modern, both sidebars and header with texture makes site look older
