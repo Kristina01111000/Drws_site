@@ -151,3 +151,5 @@ Manager of youtube now also -> can change/add etc videos and everything
 - does he want the logout redirect to go to promo page or to documentary, scorecard etc?
 - double check that emails are going out
 - changed header to look more modern, both sidebars and header with texture makes site look older
+- fix underline in header
+- switch to april
