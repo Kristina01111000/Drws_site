@@ -55,39 +55,38 @@ TO do in future:
 
 Notes:
 
-- with gecko theme in editor main background photo is set in theme -> body settings
-	- need to put separate background pictures into additional css
-	- figure out how to make pictures scroll -> change to scroll
-		- normal pictures can just be put in using image in page builder
-- in peepso logo height has to be in px, not %
-- non-members cannot get access to courses, can view the headings 
- 	- fixed it in learndash settings, still can't figure out peepso setting
-- pages allowed to nonmembers:
-	- promo
-	- login
-	- registration
-	- scorecard
-	- patients
-	- documentary page
-	- second promo page
-	- community activity
-		- does peepso change the pages numbers when new updates are made?
-- make sure to use peepso login and log out, not pmp login and logout
-- forward comment emails to him
-- all youtube videos need to be on the matching youtube page
-- .customclass is the class name to add a border around a group
-- capitalize the element names everywhere
-
-- wants some posts that visible always, some that are unlisted that he uses other sources
-	- meta tags: don'treuse, taken from another source, copied, drwwritten, 
-	- put in categories instead, unlist the ones from other sources, put them in unlisted category
-	- all posts should have comments turned off -> for now
-		- comments need to be removed manually if they are turned off after comments have been added
-
-
--using pixlr for basic photo edits
-	- yellow image for philosophers corner
-- used photo editor for flavenoids picture, font = fresh
+	- with gecko theme in editor main background photo is set in theme -> body settings
+		- need to put separate background pictures into additional css
+		- figure out how to make pictures scroll -> change to scroll
+			- normal pictures can just be put in using image in page builder
+	- in peepso logo height has to be in px, not %
+	- non-members cannot get access to courses, can view the headings 
+		- fixed it in learndash settings, still can't figure out peepso setting
+	- pages allowed to nonmembers:
+		- promo
+		- login
+		- registration
+		- scorecard
+		- patients
+		- documentary page
+		- second promo page
+		- community activity
+			- does peepso change the pages numbers when new updates are made?
+	- make sure to use peepso login and log out, not pmp login and logout
+	- forward comment emails to him
+	- all youtube videos need to be on the matching youtube page
+	- .customclass is the class name to add a border around a group
+	- capitalize the element names everywhere
+	- wants some posts that visible always, some that are unlisted that he uses other sources
+		- meta tags: don'treuse, taken from another source, copied, drwwritten, 
+		- put in categories instead, unlist the ones from other sources, put them in unlisted category
+		- all posts should have comments turned off -> for now
+			- comments need to be removed manually if they are turned off after comments have been added
+	-using pixlr for basic photo edits
+		- yellow image for philosophers corner
+	- used photo editor for flavenoids picture, font = fresh
+	- for admin email change "Settings"=>"General"=>"E-Mail Address". set to mine now, hopefully he fixes the other sites email address thing
+	
 To Do:
 
 - ssl not working in apple browsers, old computers
@@ -153,13 +152,9 @@ Manager of youtube now also -> can change/add etc videos and everything
 - figure out menu on mobile issue -> login and see how it goes, what should be the main menu? make a new one?
 - Make chats for other people that sound good, 2 to 3 people
 
-for admin email change "Settings"=>"General"=>"E-Mail Address". set to mine now, hopefully he fixes the other sites email address thing
 
 	
 - changed sidebar size to 200 px, fixes split word problem
-
 - does he want the logout redirect to go to promo page or to documentary, scorecard etc?
-
 - double check that emails are going out
-
 - changed header to look more modern, both sidebars and header with texture makes site look older
