@@ -155,3 +155,4 @@ Manager of youtube now also -> can change/add etc videos and everything
 - switch to april
 - add header to specified widgets
 - add widget
+- add logout page
