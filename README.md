@@ -147,10 +147,8 @@ Manager of youtube now also -> can change/add etc videos and everything
 - figure out menu on mobile issue -> login and see how it goes, what should be the main menu? make a new one?
 - Make chats for other people that sound good, 2 to 3 people
 
-
 	
 - double check that emails are going out
 
-- add logout page -> what else should be on it
-- Push off until april, switch months now
+-  logout page -> what else should be on it
 - Make font bigger in the course, make the one size smaller than the rest
