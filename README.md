@@ -148,7 +148,9 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 	
 - double check that emails are going out
-- switch to april
-- add underline to specified widget links
 - add widget
-- add logout page
+- add logout page -> Make a new page for logouts, login, link to scorecard, a see you next time thing large font fun script
+- Push off until april, switch months now
+- Fix links, remove from header, add to course
+- Make font bigger in the course, make the one size smaller than the rest
+- Promo page widget add different widget to dr w section, about dr w, in an oval shape below the left side menu 
