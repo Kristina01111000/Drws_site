@@ -150,7 +150,7 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 	
 - double check that emails are going out
-- add widget
-- add logout page -> Make a new page for logouts, login, link to scorecard, a see you next time thing large font fun script
+
+- add logout page -> what else should be on it
 - Push off until april, switch months now
 - Make font bigger in the course, make the one size smaller than the rest
