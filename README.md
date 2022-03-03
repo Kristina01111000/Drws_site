@@ -149,3 +149,7 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 	
 - double check that emails are going out
+Make edges of logout picture slightly rounded like widgets
+Make font bigger in the course, make the one size smaller than the rest
+Make promo page widgets have larger text by two, make dr w widget bigger than those
+
