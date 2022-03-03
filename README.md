@@ -13,7 +13,7 @@ Hours worked January: 5 hour 30 min -> received
 
 Hours worked February: 7 hours 15 min
 
-Hours worked March: 25 min
+Hours worked March: 1 hour 10 min
  
 plugins im using on site:
 
@@ -149,5 +149,3 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 	
 - double check that emails are going out
-
--  logout page -> what else should be on it, image of practice?
