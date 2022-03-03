@@ -150,5 +150,4 @@ Manager of youtube now also -> can change/add etc videos and everything
 	
 - double check that emails are going out
 
--  logout page -> what else should be on it
-- Make font bigger in the course, make the one size smaller than the rest
+-  logout page -> what else should be on it, image of practice?
