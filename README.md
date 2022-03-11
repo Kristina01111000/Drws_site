@@ -81,6 +81,7 @@ Notes:
 		- yellow image for philosophers corner
 	- used photo editor for flavenoids picture, font = fresh
 	- for admin email change "Settings"=>"General"=>"E-Mail Address". set to mine now, hopefully he fixes the other sites email address thing
+	- nothing on site can be hidden from administrators
 	
 To Do:
 
@@ -133,12 +134,6 @@ to do now:
 
 
 Manager of youtube now also -> can change/add etc videos and everything
-
-- opened ticket with peepso to see about hiding member on members page
-	- it worked the whole time, administrators just see everything.  Non administrators don't see it if hidden
-
-
-
 
 - Color issue in forms, text boxes are too similar to background color, to pale green, or creamy color
 - hide lessons so they can't be seen by users until available?
