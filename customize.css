@@ -75,3 +75,8 @@ title of all pages
 .entry-content a {
     text-decoration: underline;
 }
+
+// rounds matching to widget, for img mainly
+.rounded {
+	border-radius: 15px;
+}
