@@ -144,10 +144,7 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 	
 - double check that emails are going out
-- Make edges of logout picture slightly rounded like widgets
 - Make font bigger in the course, make the one size smaller than the rest
 - Make promo page widgets have larger text by two, make dr w widget bigger than those
-
-- Round corners of homepage pictures -> match to widget rounding
 - Home page remove documentary and scorecard widget, add another with link to brief videos, make scorecard widget that says download your scorecard
 - Switch the link on top of home page to a button 
