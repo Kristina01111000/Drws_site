@@ -139,7 +139,6 @@ Manager of youtube now also -> can change/add etc videos and everything
 - hide lessons so they can't be seen by users until available?
 
 - Show my mom the video, ask a few other people about it, have them make comments?
-- figure out menu on mobile issue -> login and see how it goes, what should be the main menu? make a new one?
 - Make chats for other people that sound good, 2 to 3 people
 
 	
