@@ -13,7 +13,7 @@ Hours worked January: 5 hour 30 min -> received
 
 Hours worked February: 7 hours 15 min
 
-Hours worked March: 1 hour 20 min
+Hours worked March: 2 hour 20 min
  
 plugins im using on site:
 
@@ -146,5 +146,4 @@ Manager of youtube now also -> can change/add etc videos and everything
 - Make font bigger in the course, make the one size smaller than the rest
 - Make promo page widgets have larger text by two, make dr w widget bigger than those
 - Home page remove documentary and scorecard widget, add another with link to brief videos, make scorecard widget that says download your scorecard
-- Switch the link on top of home page to a button -> added it, it looks weird, don't like it
-
+- see about his avatar 
