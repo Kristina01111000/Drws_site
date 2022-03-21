@@ -147,3 +147,10 @@ Manager of youtube now also -> can change/add etc videos and everything
 - Make promo page widgets have larger text by two, make dr w widget bigger than those
 - Home page remove documentary and scorecard widget, add another with link to brief videos, make scorecard widget that says download your scorecard
 
+Make button on frontpage have same background as the header
+Try background being the dark green in the logo with white font
+See if i can edit the font size of the login page login section
+Figure out why rounded class didn’t work on promo page pictures
+make text on promo page login widget bigger
+Smaller scorecard widget everywhere except promo page
+Add a contact page
