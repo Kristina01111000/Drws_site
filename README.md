@@ -89,6 +89,7 @@ Notes:
 	- used photo editor for flavenoids picture, font = fresh
 	- for admin email change "Settings"=>"General"=>"E-Mail Address". set to mine now, hopefully he fixes the other sites email address thing
 	- nothing on site can be hidden from administrators
+	- current font sizes chould continue on through the site
 	
 To Do:
 
