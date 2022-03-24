@@ -155,6 +155,8 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 
 - Add a contact page
 - check on his avatar
+- ein done?
+- also ssl fixed?
 
 
 
