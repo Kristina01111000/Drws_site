@@ -20,7 +20,7 @@ Hours worked January: 5 hour 30 min -> received
 
 Hours worked February: 7 hours 15 min -> sent
 
-Hours worked March: 2 hour 35 min
+Hours worked March: 3 hour 35 min
  
 plugins im using on site:
 
@@ -136,7 +136,6 @@ to do in future:
 
 to do now:
 
-- module ->  lesson, 4 -> four (for elements, not month)
 - check text color settings, he wants "say what you think" to be a different color
 
 
@@ -150,10 +149,8 @@ Manager of youtube now also -> can change/add etc videos and everything
 
 	
 - double check that emails are going out
-- Make promo page widgets have larger text by two, make dr w widget bigger than those
-- Home page remove documentary and scorecard widget, add another with link to brief videos, make scorecard widget that says download your scorecard
 
-Figure out why rounded class didn’t work on promo page pictures
+Figure out why rounded class didn’t work on promo page pictures -> only on promo page
 
 - Add a contact page
 
