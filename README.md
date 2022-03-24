@@ -154,6 +154,7 @@ Manager of youtube now also -> can change/add etc videos and everything
 Figure out why rounded class didn’t work on promo page pictures -> only on promo page
 
 - Add a contact page
+- check on his avatar
 
 
 
