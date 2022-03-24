@@ -80,3 +80,11 @@ title of all pages
 .rounded {
 	border-radius: 15px;
 }
+
+// increase font size in login menu(12) and dr w menu(13) both widgets
+#nav_menu-13 {
+	font-size:24px;
+}
+#nav_menu-12 {
+	font-size:24px;
+}
