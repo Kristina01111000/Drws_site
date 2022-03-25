@@ -158,5 +158,5 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 - ein done?
 - also ssl fixed?
 
-
+- logo on videos?
 
