@@ -1,5 +1,5 @@
 # Drws_site
-everything to do with dr w's wordpress site
+everything to do with drws site
 
 
 Hours worked 16 may to 16 june: 16 ->  recieved 
@@ -158,5 +158,5 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 - ein done?
 - also ssl fixed?
 
-- logo on videos?
+- pick templates for site
 
