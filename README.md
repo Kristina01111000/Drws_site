@@ -159,4 +159,4 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 - also ssl fixed?
 
 - pick templates for site
-
+- different to do list for other iste?
