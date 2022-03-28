@@ -162,3 +162,4 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 - different to do list for other iste?
 - set up about questions
 - get list of pages, contact info, color scheme>, ask about logo
+- get into backend of site to set up wp
