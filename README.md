@@ -90,6 +90,7 @@ Notes:
 	- for admin email change "Settings"=>"General"=>"E-Mail Address". set to mine now, hopefully he fixes the other sites email address thing
 	- nothing on site can be hidden from administrators
 	- current font sizes chould continue on through the site
+	- Manager of youtube now also -> can change/add etc videos and everything
 	
 To Do:
 
@@ -140,7 +141,6 @@ to do now:
 - check text color settings, he wants "say what you think" to be a different color
 
 
-Manager of youtube now also -> can change/add etc videos and everything
 
 - Color issue in forms, text boxes are too similar to background color, to pale green, or creamy color
 - hide lessons so they can't be seen by users until available?
@@ -160,3 +160,4 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 
 - pick templates for site
 - different to do list for other iste?
+- set up about questions
