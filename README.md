@@ -161,3 +161,4 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 - pick templates for site
 - different to do list for other iste?
 - set up about questions
+- get list of pages, contact info, color scheme>, ask about logo
