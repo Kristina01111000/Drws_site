@@ -154,7 +154,6 @@ to do now:
 Figure out why rounded class didn’t work on promo page pictures -> only on promo page
 
 - check that contact page works
-- check on his avatar
 - ein done?
 - also ssl fixed?
 
