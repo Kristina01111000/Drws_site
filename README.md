@@ -41,6 +41,7 @@ plugins im using on site:
 - w3 total cache
 - layout grid block
 - wp-staging -> deactivate when not in use
+- wp-forms -> contact page
 
 https://www.ssllabs.com/ssltest
 
