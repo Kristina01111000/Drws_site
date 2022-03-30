@@ -157,6 +157,7 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 - check that contact page works
 - ein done?
 - also ssl fixed?
+- look on pages every so often, wrong link on the personal page
 
 - pick templates for site
 - different to do list for other iste?
