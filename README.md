@@ -20,7 +20,7 @@ Hours worked January: 5 hour 30 min -> received
 
 Hours worked February: 7 hours 15 min -> sent
 
-Hours worked March: 3 hour 35 min
+Hours worked March: 3 hour 45 min
  
 plugins im using on site:
 
@@ -153,7 +153,7 @@ to do now:
 
 Figure out why rounded class didn’t work on promo page pictures -> only on promo page
 
-- Add a contact page
+- check that contact page works
 - check on his avatar
 - ein done?
 - also ssl fixed?
