@@ -135,22 +135,15 @@ to do in future:
 - Make quizzes for the 4 month course after lessons are added
 - For articles always have picture wrapped by text
 - update plugin list
-- remind him about the ein until he gets it
 
 to do now:
 
 - check text color settings, he wants "say what you think" to be a different color
-
-
-
 - Color issue in forms, text boxes are too similar to background color, to pale green, or creamy color
 - hide lessons so they can't be seen by users until available?
 
 - Show my mom the video, ask a few other people about it, have them make comments?
 - Make chats for other people that sound good, 2 to 3 people
-
-	
-- double check that emails are going out
 
 Figure out why rounded class didn’t work on promo page pictures -> only on promo page
 
