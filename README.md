@@ -159,6 +159,7 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 - also ssl fixed? for me yes, checking for him
 - look on pages every so often, wrong link on the personal page
 - make lesson 2 quiz
+- add ghstaff llink to contact form
 - no meeting next week
 
 
