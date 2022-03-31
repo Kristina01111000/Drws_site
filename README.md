@@ -154,7 +154,7 @@ to do now:
 
 Figure out why rounded class didn’t work on promo page pictures -> only on promo page
 
-- check that contact page works
+- check that contact page works -> it gets sent to administrator email 
 - ein done?
 - also ssl fixed?
 - look on pages every so often, wrong link on the personal page
