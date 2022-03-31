@@ -20,7 +20,7 @@ Hours worked January: 5 hour 30 min -> received
 
 Hours worked February: 7 hours 15 min -> sent
 
-Hours worked March: 3 hour 45 min
+Hours worked March: 3 hour 50 min
  
 plugins im using on site:
 
@@ -154,7 +154,7 @@ to do now:
 
 Figure out why rounded class didn’t work on promo page pictures -> only on promo page
 
-- check that contact page works -> it gets sent to administrator email 
+- check that contact page works -> it gets sent to administrator email, image + frowarded email to him
 - ein done?
 - also ssl fixed?
 - look on pages every so often, wrong link on the personal page
