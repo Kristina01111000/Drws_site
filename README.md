@@ -158,6 +158,9 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 - ein done?
 - also ssl fixed?
 - look on pages every so often, wrong link on the personal page
+- make lesson 2 quiz
+- no meeting next week
+
 
 - pick templates for site
 - different to do list for other iste?
