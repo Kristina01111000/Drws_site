@@ -181,4 +181,6 @@ ohter site issue:
 	- renaming the weird folder above the themes folder doesn't do anything
 	- right now the site looks ok except for the appointments page
 	- switched to 2019 model of site
-	- will try to downgrade to a previous version of wp
+	- will try to downgrade to a previous version of wp -> didn't work, still a fatal error
+	- neither parent or child theme are working, both put a few error messages on the screen and don't show anything else
+	- put one of the wordpress automatic themes up for the site
