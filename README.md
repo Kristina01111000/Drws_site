@@ -22,7 +22,7 @@ Hours worked February: 7 hours 15 min -> recieved
 
 Hours worked March: 4 hour 30 min
 
-Hours worked April: 5 min
+Hours worked April: 15 min
  
 plugins im using on site:
 
@@ -164,6 +164,9 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 - get list of pages, contact info, color scheme>, ask about logo
 - get into backend of site to set up wp
 
-- check out univ. chir. site to see if the theme is fixed
-- use ftp to see if disabling plugins, theme fixes the issue
-- looks like the theme is the issue, not the plugins, switch to 2022 theme
+
+ohter site issue:
+
+	- check out univ. chir. site to see if the theme is fixed
+	- use ftp to see if disabling plugins, theme fixes the issue
+	- looks like the theme is the issue, not the plugins, switch to 2022 theme
