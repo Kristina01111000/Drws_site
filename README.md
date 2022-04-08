@@ -174,3 +174,4 @@ ohter site issue:
 	- he wants a copy of the site made before changing things
 	- deleted 2011 theme from file manager, so that works
 	- made a copy of the site in the folder, can't put new plugins in, so i can't do it that way
+	- manually changing name of theme makes a fatal error which puts a white screen on the page
