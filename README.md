@@ -170,3 +170,5 @@ ohter site issue:
 	- check out univ. chir. site to see if the theme is fixed
 	- use ftp to see if disabling plugins, theme fixes the issue
 	- looks like the theme is the issue, not the plugins, switch to 2022 theme
+	- changed names of widget and plugin folders in theme, was able to gt into wordpress backend
+	- he wants a copy of the site made before changing things
