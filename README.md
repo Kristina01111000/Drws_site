@@ -177,3 +177,4 @@ ohter site issue:
 	- manually changing name of theme makes a fatal error which puts a white screen on the page
 	- copy of one warning message "Warning: Declaration of TFuse_Walker_Category_Checklist::start_lvl(&$output, $depth, $args) should be compatible with Walker::start_lvl(&$output, $depth = 0, $args = Array) in /home/customer/www/syracusenaturalhealing.com/public_html/wp-content/themes/medica-parent/theme_config/widgets/TFuse_Widget_Selected_Categories.php on line 6"
 	- changing name of widget folder in parent theme removes the top lines of site error message
+	- can't change any pages, the error message pops up when i try to edit the page
