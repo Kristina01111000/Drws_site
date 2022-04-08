@@ -179,3 +179,4 @@ ohter site issue:
 	- changing name of widget folder in parent theme removes the top lines of site error message
 	- can't change any pages, the error message pops up when i try to edit the page
 	- renaming the weird folder above the themes folder doesn't do anything
+	- right now the site looks ok except for the appointments page
