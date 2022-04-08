@@ -165,3 +165,4 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 - get into backend of site to set up wp
 
 - check out univ. chir. site to see if the theme is fixed
+- use ftp to see if disabling plugins, theme fixes the issue
