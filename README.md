@@ -22,7 +22,7 @@ Hours worked February: 7 hours 15 min -> recieved
 
 Hours worked March: 4 hour 30 min
 
-Hours worked April: 15 min
+Hours worked April: 45 min
  
 plugins im using on site:
 
@@ -173,3 +173,4 @@ ohter site issue:
 	- changed names of widget and plugin folders in theme, was able to gt into wordpress backend
 	- he wants a copy of the site made before changing things
 	- deleted 2011 theme from file manager, so that works
+	- made a copy of the site in the folder, can't put new plugins in, so i can't do it that way
