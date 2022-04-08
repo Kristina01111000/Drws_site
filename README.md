@@ -180,3 +180,5 @@ ohter site issue:
 	- can't change any pages, the error message pops up when i try to edit the page
 	- renaming the weird folder above the themes folder doesn't do anything
 	- right now the site looks ok except for the appointments page
+	- switched to 2019 model of site
+	- will try to downgrade to a previous version of wp
