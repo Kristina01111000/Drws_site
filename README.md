@@ -22,7 +22,7 @@ Hours worked February: 7 hours 15 min -> recieved
 
 Hours worked March: 4 hour 30 min
 
-Hours worked April: 4 hour 25 min
+Hours worked April: 5 hour 25 min
  
 plugins im using on site:
 
@@ -155,14 +155,10 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 - look on pages every so often, wrong link on the personal page
 - make lesson 2 quiz
 - add ghstaff llink to contact form -> links to page, have it start a chat instead?
-- no meeting next week
 
 
-- pick templates for site
-- different to do list for other iste?
-- set up about questions
-- get list of pages, contact info, color scheme>, ask about logo
-- get into backend of site to set up wp
+
+- look for likert scale plugins, he wants it for site, get prices
 
 
 
