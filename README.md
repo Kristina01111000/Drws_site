@@ -158,7 +158,7 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 
 
 
-- look for likert scale plugins, he wants it for site, get prices
+- look for likert scale plugins, he wants it for site, get prices, try to get singular likert scale plugin, not a grouping of it and other stuff
 
 
 
