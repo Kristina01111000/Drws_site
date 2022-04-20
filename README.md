@@ -161,6 +161,6 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 - look for likert scale plugins, he wants it for site, get prices, try to get singular likert scale plugin, not a grouping of it and other stuff
 - probably wp forms pro is best
 - about 200 dollars
-- not sure if the results can be published to the user
+- not sure if the results can be published to the user, talk to the people about it
 
 
