@@ -22,7 +22,7 @@ Hours worked February: 7 hours 15 min -> recieved
 
 Hours worked March: 4 hour 30 min
 
-Hours worked April: 6 hour 40 min
+Hours worked April: 7 hour 00 min
  
 plugins im using on site:
 
@@ -159,6 +159,8 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 
 
 - look for likert scale plugins, he wants it for site, get prices, try to get singular likert scale plugin, not a grouping of it and other stuff
-
+- probably wp forms pro is best
+- about 200 dollars
+- not sure if the results can be published to the user
 
 
