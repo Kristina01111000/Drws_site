@@ -163,4 +163,4 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 - about 200 dollars
 - not sure if the results can be published to the user, talk to the people about it
 
-
+Likert scale best option: wp forms pro, i'm not sure if you can publish the results to the user though, I am emailed tech support for the plugin about it and am waiting on the response
