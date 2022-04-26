@@ -151,10 +151,8 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 
 - check that contact page works -> it gets sent to administrator email, image + frowarded email to him
 - ein done? nope
-- also ssl fixed? for me yes, checking for him
 - look on pages every so often, wrong link on the personal page
 - make lesson 2 quiz
-- add ghstaff llink to contact form -> links to page, have it start a chat instead?
 
 
 
