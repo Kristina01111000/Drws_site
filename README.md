@@ -22,7 +22,7 @@ Hours worked February: 7 hours 15 min -> recieved
 
 Hours worked March: 5 hour 30 min -> sent
 
-Hours worked April: 10 hour 35 min
+Hours worked April: 10 hour 40 min
  
 plugins im using on site:
 
@@ -167,5 +167,5 @@ most of them don't allow users to see the results
 
 
 Search for psychological profile tests?
-Look at other sites that can host a quiz like that
+Look at other sites that can host a quiz like that? try to find one that doesn't look cheapo/ like a scam
 Change month to may
