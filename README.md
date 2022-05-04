@@ -24,7 +24,7 @@ Hours worked March: 5 hour 30 min -> sent
 
 Hours worked April: 11 hour 40 min
 
-Hours worked May: 1 hour 0 min
+Hours worked May: 1 hour 30 min
  
 plugins im using on site:
 
@@ -168,6 +168,6 @@ Likert scale best option: wp forms pro, i'm not sure if you can publish the resu
 most of them don't allow users to see the results
 
 
-Search for psychological profile tests?
+Search for psychological profile tests? uquiz? maybe?
 Look at other sites that can host a quiz like that? try to find one that doesn't look cheapo/ like a scam
 Change month to may
