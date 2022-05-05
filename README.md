@@ -24,7 +24,7 @@ Hours worked March: 5 hour 30 min -> sent
 
 Hours worked April: 11 hour 40 min
 
-Hours worked May: 2 hour 40 min
+Hours worked May: 2 hour 45 min
  
 plugins im using on site:
 
@@ -162,7 +162,7 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 Likert scale best option: wp forms pro, i'm not sure if you can publish the results to the user though, I am emailed tech support for the plugin about it and am waiting on the response -> wpforms does not allow users to see the results :( look for other options
 
 most of them don't allow users to see the results
-
+-> need to tryuquiz to see if it works
 
 Search for psychological profile tests? uquiz? maybe? 123formbuilder maybe?
 Look at other sites that can host a quiz like that? try to find one that doesn't look cheapo/ like a scam
