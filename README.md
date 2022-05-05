@@ -171,3 +171,4 @@ most of them don't allow users to see the results
 Search for psychological profile tests? uquiz? maybe? 123formbuilder maybe?
 Look at other sites that can host a quiz like that? try to find one that doesn't look cheapo/ like a scam
 
+- fix score card button (only one, not two)
