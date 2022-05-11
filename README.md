@@ -154,7 +154,7 @@ Figure out why rounded class didn’t work on promo page pictures -> only on pro
 - check that contact page works -> it gets sent to administrator email, image + frowarded email to him
 - ein done? nope
 - look on pages every so often, wrong link on the personal page
-- make lesson 2 quiz
+- make lesson 2 quiz -> where are the lesson videos stored
 
 
 - look for likert scale plugins, he wants it for site, get prices, try to get singular likert scale plugin, not a grouping of it and other stuff
@@ -167,3 +167,5 @@ most of them don't allow users to see the results
 Search for psychological profile tests? uquiz? maybe? 123formbuilder maybe?
 Look at other sites that can host a quiz like that? try to find one that doesn't look cheapo/ like a scam
 and that people will want to use
+
+phone call tomorrow
