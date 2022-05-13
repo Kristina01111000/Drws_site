@@ -24,7 +24,7 @@ Hours worked March: 5 hour 30 min -> sent
 
 Hours worked April: 11 hour 40 min
 
-Hours worked May: 4 hour 40 min
+Hours worked May: 5 hour 00 min
  
 plugins im using on site:
 
@@ -168,5 +168,5 @@ Search for psychological profile tests? uquiz? maybe? 123formbuilder maybe?
 Look at other sites that can host a quiz like that? try to find one that doesn't look cheapo/ like a scam
 and that people will want to use
 
-quiz update
+quiz update -> probably not going to find exactly what he wants, seperate into 4 quizzes, or make situational quiz that has diff responses for each element
 he is having trouble with youtube channel again
