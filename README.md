@@ -170,3 +170,5 @@ and that people will want to use
 
 quiz update -> probably not going to find exactly what he wants, seperate into 4 quizzes, or make situational quiz that has diff responses for each element
 he is having trouble with youtube channel again
+
+look into learndash class/course in email
