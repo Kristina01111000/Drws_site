@@ -20,9 +20,9 @@ Hours worked January: 5 hour 30 min -> received
 
 Hours worked February: 7 hours 15 min -> recieved
 
-Hours worked March: 5 hour 30 min -> sent
+Hours worked March: 5 hour 30 min -> recieved
 
-Hours worked April: 11 hour 40 min
+Hours worked April: 12 hour 40 min -> sent
 
 Hours worked May: 5 hour 45 min
  
