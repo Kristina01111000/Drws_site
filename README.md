@@ -24,7 +24,7 @@ Hours worked March: 5 hour 30 min -> recieved
 
 Hours worked April: 12 hour 40 min -> sent
 
-Hours worked May: 5 hour 45 min
+Hours worked May: 6 hour 00 min
  
 plugins im using on site:
 
