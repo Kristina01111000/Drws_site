@@ -24,7 +24,7 @@ Hours worked March: 5 hour 30 min -> sent
 
 Hours worked April: 11 hour 40 min
 
-Hours worked May: 5 hour 35 min
+Hours worked May: 5 hour 45 min
  
 plugins im using on site:
 
@@ -172,3 +172,4 @@ quiz update -> probably not going to find exactly what he wants, seperate into 4
 he is having trouble with youtube channel again
 
 look into learndash class/course in email
+look at potential quiz site he found, don't think it will allow multiple likert scales
