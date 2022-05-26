@@ -164,14 +164,9 @@ Likert scale best option: wp forms pro, i'm not sure if you can publish the resu
 most of them don't allow users to see the results
 -> need to tryuquiz to see if it works
 
-Search for psychological profile tests? uquiz? maybe? 123formbuilder maybe?
-Look at other sites that can host a quiz like that? try to find one that doesn't look cheapo/ like a scam
-and that people will want to use
-
-quiz update -> probably not going to find exactly what he wants, seperate into 4 quizzes, or make situational quiz that has diff responses for each element
-he is having trouble with youtube channel again
 
 
 Try the 14 day free trial to get the quiz working the way he wants, start it on monday, get answer by thursday
 See if I can change the color of the download button
 Look at the youtube channel for links
+He really wants the quiz
