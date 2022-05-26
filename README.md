@@ -24,7 +24,7 @@ Hours worked March: 5 hour 30 min -> recieved
 
 Hours worked April: 12 hour 40 min -> sent
 
-Hours worked May: 6 hour 35 min
+Hours worked May: 7 hour 55 min
  
 plugins im using on site:
 
@@ -171,5 +171,7 @@ and that people will want to use
 quiz update -> probably not going to find exactly what he wants, seperate into 4 quizzes, or make situational quiz that has diff responses for each element
 he is having trouble with youtube channel again
 
-look into learndash class/course in email
-look at potential quiz site he found, don't think it will allow multiple likert scales
+
+Try the 14 day free trial to get the quiz working the way he wants, start it on monday, get answer by thursday
+See if I can change the color of the download button
+Look at the youtube channel for links
