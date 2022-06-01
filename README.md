@@ -158,12 +158,11 @@ to do now:
 - make lesson 2 quiz -> where are the lesson videos stored
 
 
-- look for likert scale plugins, he wants it for site, get prices, try to get singular likert scale plugin, not a grouping of it and other stuff
 
 Likert scale best option: wp forms pro, wpforms does not allow users to see the results :( look for other options
 
 most of them don't allow users to see the results
--> need to tryuquiz to see if it works -> same issue as teh othet ones :(
+-> need to tryuquiz to see if it works -> same issue as teh other ones :(
 
 
 
