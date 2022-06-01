@@ -170,3 +170,4 @@ most of them don't allow users to see the results
 See if I can change the color of the download button
 Look at the youtube channel for links
 He really wants the quiz -> see if he will split it into a quiz for each element
+- casual people will quit taking a quiz part way through
