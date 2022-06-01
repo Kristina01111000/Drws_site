@@ -163,7 +163,7 @@ to do now:
 Likert scale best option: wp forms pro, wpforms does not allow users to see the results :( look for other options
 
 most of them don't allow users to see the results
--> need to tryuquiz to see if it works
+-> need to tryuquiz to see if it works -> same issue as teh othet ones :(
 
 
 
