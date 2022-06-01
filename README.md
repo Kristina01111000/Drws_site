@@ -149,7 +149,6 @@ to do now:
 - Show my mom the video, ask a few other people about it, have them make comments?
 - Make chats for other people that sound good, 2 to 3 people
 
-Figure out why rounded class didn’t work on promo page pictures -> only on promo page
 
 - check that contact page works -> it gets sent to administrator email, image + frowarded email to him
 - ein done? nope
