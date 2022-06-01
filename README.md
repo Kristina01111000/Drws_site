@@ -26,7 +26,7 @@ Hours worked April: 12 hour 40 min -> sent
 
 Hours worked May: 8 hour 20 min
 
-Hours worked June: 20 min
+Hours worked June: 50 min
  
 plugins im using on site:
 
@@ -167,7 +167,6 @@ most of them don't allow users to see the results
 
 
 
-Try the 14 day free trial to get the quiz working the way he wants, start it on monday, get answer by thursday
 See if I can change the color of the download button
 Look at the youtube channel for links
 He really wants the quiz
