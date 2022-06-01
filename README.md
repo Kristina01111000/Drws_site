@@ -160,7 +160,7 @@ to do now:
 
 - look for likert scale plugins, he wants it for site, get prices, try to get singular likert scale plugin, not a grouping of it and other stuff
 
-Likert scale best option: wp forms pro, i'm not sure if you can publish the results to the user though, I am emailed tech support for the plugin about it and am waiting on the response -> wpforms does not allow users to see the results :( look for other options
+Likert scale best option: wp forms pro, wpforms does not allow users to see the results :( look for other options
 
 most of them don't allow users to see the results
 -> need to tryuquiz to see if it works
