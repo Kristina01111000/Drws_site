@@ -22,7 +22,7 @@ Hours worked February: 7 hours 15 min -> recieved
 
 Hours worked March: 5 hour 30 min -> recieved
 
-Hours worked April: 12 hour 40 min -> sent
+Hours worked April: 12 hour 40 min -> recieved
 
 Hours worked May: 8 hour 20 min
 
