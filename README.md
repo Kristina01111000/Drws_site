@@ -171,3 +171,4 @@ Look at the youtube channel for links
 He really wants the quiz -> see if he will split it into a quiz for each element
 - casual people will quit taking a quiz part way through
 noon meeting go over why quiz that long is bad idea
+he still wants the quiz
