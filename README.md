@@ -173,3 +173,4 @@ He really wants the quiz -> see if he will split it into a quiz for each element
 noon meeting go over why quiz that long is bad idea
 he still wants the quiz
 deleted startquestion account
+- the video on the promo page was deleted from the youtube account
