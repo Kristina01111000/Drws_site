@@ -168,9 +168,10 @@ most of them don't allow users to see the results
 
 See if I can change the color of the download button
 Look at the youtube channel for links
+changed to july
 He really wants the quiz -> see if he will split it into a quiz for each element
 - casual people will quit taking a quiz part way through
-noon meeting go over why quiz that long is bad idea
+
 he still wants the quiz
 deleted startquestion account
 - the video on the promo page was deleted from the youtube account -> no response yet
