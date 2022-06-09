@@ -26,7 +26,7 @@ Hours worked April: 12 hour 40 min -> recieved
 
 Hours worked May: 8 hour 20 min
 
-Hours worked June: 3 hour 50 min
+Hours worked June: 3 hour 55 min
  
 plugins im using on site:
 
@@ -174,3 +174,4 @@ he still wants the quiz
 
 - Crop out black from about dr w on promo page, also make a second one that has part of his torso cropped
 - Look at the youtube channel for links -> not there, deleted? he is working on it
+- is there a contact form on the site?
