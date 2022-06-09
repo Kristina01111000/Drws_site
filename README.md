@@ -26,7 +26,7 @@ Hours worked April: 12 hour 40 min -> recieved
 
 Hours worked May: 8 hour 20 min
 
-Hours worked June: 2 hour 50 min
+Hours worked June: 3 hour 50 min
  
 plugins im using on site:
 
@@ -175,3 +175,6 @@ He really wants the quiz -> see if he will split it into a quiz for each element
 he still wants the quiz
 deleted startquestion account
 - the video on the promo page was deleted from the youtube account -> no response yet
+
+Crop out black from about dr w on promo page, also make a second one that has part of his torso cropped
+Look at the youtube channel for links -> not there, deleted?
