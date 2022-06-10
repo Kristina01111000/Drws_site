@@ -173,4 +173,4 @@ Look at the youtube channel for links
 he still wants the quiz
 
 - Look at the youtube channel for links -> not there, deleted? he is working on it
-- is there a contact form on the site?
+- is there a contact form on the site? -> wp forms is on the site, but i don't have it set up or anything
