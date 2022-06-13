@@ -110,7 +110,7 @@ To Do:
 
 - make them use paypal when checking out, shows up as credit card possible
 - at payment, say you will not be charged again after 4 months, "this learning program ends in four months, and your monthly payments will stop after your fourth month"
-- monthly topics are archived as a lesson in a course
+- monthly topics are archived as a lesson in a course -> he if going to reuse them
 	- they can be deleted after a while if he wants (only go back for 3 months)
 	- he wants to reuse them each year (unlist them for next year)
 - set categories to air, fire, water, earth
