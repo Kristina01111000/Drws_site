@@ -110,10 +110,6 @@ To Do:
 
 - make them use paypal when checking out, shows up as credit card possible
 - at payment, say you will not be charged again after 4 months, "this learning program ends in four months, and your monthly payments will stop after your fourth month"
-
-
-
-To Do:
 - monthly topics are archived as a lesson in a course
 	- they can be deleted after a while if he wants (only go back for 3 months)
 	- he wants to reuse them each year (unlist them for next year)
@@ -132,10 +128,6 @@ Survey stuff:
 		- likert scale for questions in survey
 	- put about 6-8 questions in quizzes most of the time
 
-to do in future:
-- Make quizzes for the 4 month course after lessons are added
-- For articles always have picture wrapped by text
-- update plugin list
 
 to do now:
 
@@ -148,10 +140,6 @@ to do now:
 
 
 - check that contact page works -> it gets sent to administrator email, image + frowarded email to him
-- ein done? nope
-- look on pages every so often, wrong link on the personal page
-- make lesson 2 quiz -> where are the lesson videos stored
-
 
 
 Likert scale best option: wp forms pro, wpforms does not allow users to see the results :( look for other options
