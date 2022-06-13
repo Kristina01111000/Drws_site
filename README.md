@@ -31,10 +31,6 @@ Hours worked June: 4 hour 15 min
 plugins im using on site:
 
 - peepso
-	- updated included installer, easy to add new plugins
-	- autoupdates need to be enabled every time they are updated
-	- auto updates only work for main peepso plugin, not the additional ones
-	- license code only works for a year, check every january 22
 - learndash 
 - paid memberships pro
 - real simple ssl 
@@ -81,7 +77,7 @@ Notes:
 		- second promo page
 		- community activity
 			- does peepso change the pages numbers when new updates are made?
-	- make sure to use peepso login and log out, not pmp login and logout
+	- **make sure to use peepso login and log out, not pmp login and logout**
 	- forward comment emails to him
 	- all youtube videos need to be on the matching youtube page
 	- .customclass is the class name to add a border around a group
@@ -101,7 +97,6 @@ Notes:
 	
 To Do:
 
-- ssl not working in apple browsers, old computers
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
