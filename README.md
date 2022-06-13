@@ -26,7 +26,7 @@ Hours worked April: 12 hour 40 min -> recieved
 
 Hours worked May: 8 hour 20 min
 
-Hours worked June: 4 hour 15 min
+Hours worked June: 4 hour 20 min
  
 plugins im using on site:
 
@@ -157,3 +157,5 @@ he still wants the quiz
 
 - Look at the youtube channel for links -> not there, deleted? he is working on it
 - is there a contact form on the site? -> wp forms is on the site, but i don't have it set up or anything
+
+- send invoice
