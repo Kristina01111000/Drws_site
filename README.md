@@ -160,4 +160,5 @@ he still wants the quiz
 
 - send invoice -> next week
 - call next week, not this week
-- ask him about the site linked in his book -> 4elementyoga.com does not exist, link to 4elifestyle instead, growing instead?
+- ask him about the site linked in his book -> 4elementyoga.com does not exist, link to 4elifestyle instead, growing instead? 
+- I don't think having a site specifically for just yoga is a good idea
