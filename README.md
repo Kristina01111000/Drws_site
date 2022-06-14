@@ -115,6 +115,7 @@ To Do:
 	- he wants to reuse them each year (unlist them for next year)
 - set categories to air, fire, water, earth
 - see what shows up in credit card statement when you buy stuff
+- put about 6-8 questions in quizzes most of the time
 
 Survey stuff:
 
@@ -126,7 +127,11 @@ Survey stuff:
 		- i will be trying the quiz option for a learndash class first, might not work b/c they are not graded, they are split into categories
 	--------- rank list 1 to 5 for each question
 		- likert scale for questions in survey
-	- put about 6-8 questions in quizzes most of the time
+		- wpforms pro does not work the way he wants
+		- tryuquiz does not work
+		- he is taking care of the quiz
+		- 
+	
 
 
 to do now:
@@ -142,18 +147,9 @@ to do now:
 - check that contact page works -> it gets sent to administrator email, image + frowarded email to him
 
 
-Likert scale best option: wp forms pro, wpforms does not allow users to see the results :( look for other options
-
-most of them don't allow users to see the results
--> need to tryuquiz to see if it works -> same issue as teh other ones :(
-
-
-
 See if I can change the color of the download button
 
 
-
-he still wants the quiz :( told him he can take care of it
 
 - Look at the youtube channel for links -> not there, deleted? he is working on it -> still not there
 - is there a contact form on the site? -> wp forms is on the site, but i don't have it set up or anything, does he want a contact form for it?
