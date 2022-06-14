@@ -155,8 +155,9 @@ Look at the youtube channel for links
 
 he still wants the quiz
 
-- Look at the youtube channel for links -> not there, deleted? he is working on it
-- is there a contact form on the site? -> wp forms is on the site, but i don't have it set up or anything
+- Look at the youtube channel for links -> not there, deleted? he is working on it -> still not there
+- is there a contact form on the site? -> wp forms is on the site, but i don't have it set up or anything, does he want a contact form for it?
 
 - send invoice -> next week
 - call next week, not this week
+- ask him about the site linked in his book
