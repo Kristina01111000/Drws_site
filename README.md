@@ -150,10 +150,10 @@ most of them don't allow users to see the results
 
 
 See if I can change the color of the download button
-Look at the youtube channel for links
 
 
-he still wants the quiz
+
+he still wants the quiz :( told him he can take care of it
 
 - Look at the youtube channel for links -> not there, deleted? he is working on it -> still not there
 - is there a contact form on the site? -> wp forms is on the site, but i don't have it set up or anything, does he want a contact form for it?
