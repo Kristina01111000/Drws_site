@@ -158,3 +158,4 @@ See if I can change the color of the download button
 - call next week, not this week
 - ask him about the site linked in his book -> 4elementyoga.com does not exist, link to 4elifestyle instead, growing instead? 
 - I don't think having a site specifically for just yoga is a good idea -> you already have so many sites, you don't want people who want to learn to have to go to 10 different sites
+- auto updates for peepso still don't work
