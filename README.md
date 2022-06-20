@@ -26,11 +26,11 @@ Hours worked April: 12 hour 40 min -> recieved
 
 Hours worked May: 8 hour 20 min
 
-Hours worked June: 4 hour 20 min
+Hours worked June: 4 hour 25 min
  
 plugins im using on site:
 
-- peepso
+- peepso -> auto updates still not working
 - learndash 
 - paid memberships pro
 - real simple ssl 
