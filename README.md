@@ -26,7 +26,7 @@ Hours worked April: 12 hour 40 min -> recieved
 
 Hours worked May: 8 hour 20 min
 
-Hours worked June: 5 hour 30 min
+Hours worked June: 5 hour 40 min
  
 plugins im using on site:
 
@@ -152,7 +152,7 @@ See if I can change the color of the download button
 - Look at the youtube channel for links -> not there, deleted? he is working on it -> still not there
 - is there a contact form on the site? -> wp forms is on the site, but i don't have it set up or anything, does he want a contact form for it?
 
-- send invoice -> next monday
+- send invoice -> tomorrow after call
 - ask him about the site linked in his book -> 4elementyoga.com does not exist, link to 4elifestyle instead, growing instead? 
 - I don't think having a site specifically for just yoga is a good idea -> you already have so many sites, you don't want people who want to learn to have to go to 10 different sites
 - make sure to do list is up to date for next meeting
