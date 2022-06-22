@@ -26,7 +26,7 @@ Hours worked April: 12 hour 40 min -> recieved
 
 Hours worked May: 8 hour 20 min
 
-Hours worked June: 4 hour 30 min
+Hours worked June: 5 hour 30 min
  
 plugins im using on site:
 
@@ -146,9 +146,7 @@ to do now:
 
 - check that contact page works -> it gets sent to administrator email, image + frowarded email to him
 
-
 See if I can change the color of the download button
-
 
 
 - Look at the youtube channel for links -> not there, deleted? he is working on it -> still not there
