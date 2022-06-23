@@ -26,7 +26,7 @@ Hours worked April: 12 hour 40 min -> recieved
 
 Hours worked May: 8 hour 20 min
 
-Hours worked June: 5 hour 40 min
+Hours worked June: 5 hour 45 min
  
 plugins im using on site:
 
@@ -158,3 +158,4 @@ See if I can change the color of the download button
 - make sure to do list is up to date for next meeting
 - look at the alt text on the images -> avoid lawsuits, I think we're in the clear images are used for window dressing
 - check login attempts 
+- he needs to make a sendinblueacct for other site
