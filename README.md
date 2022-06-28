@@ -156,3 +156,14 @@ See if I can change the color of the download button
 - I don't think having a site specifically for just yoga is a good idea -> you already have so many sites, you don't want people who want to learn to have to go to 10 different sites
 - look at the alt text on the images -> avoid lawsuits, I think we're in the clear images are used for window dressing
 - check login attempts 
+
+
+Remove black from promo page dr w picture, make it bigger
+Look at the youtube channel for links, will be back soon
+Make it free?
+Make underlines on frontpage buttons go away 
+In the buttons have some highlight colors
+Fix bottom button
+Deactivated charging stuff, he’s offering it for free for now
+Check site for other spots where we say there's a charge
+Remove facebook from fire activity
