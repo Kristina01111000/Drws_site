@@ -26,7 +26,7 @@ Hours worked April: 12 hour 40 min -> recieved
 
 Hours worked May: 8 hour 20 min -> sent
 
-Hours worked June: 7 hour 10 min
+Hours worked June: 7 hour 40 min
  
 plugins im using on site:
 
@@ -157,10 +157,6 @@ See if I can change the color of the download button
 - look at the alt text on the images -> avoid lawsuits, I think we're in the clear images are used for window dressing
 - check login attempts 
 
-
-Remove black from promo page dr w picture, make it bigger
 Look at the youtube channel for links, will be back soon
-In the buttons have some highlight colors
-Fix bottom button
 Check site for other spots where we say there's a charge
-Remove facebook from fire activity
+
