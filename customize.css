@@ -97,3 +97,7 @@ body .wp-block-columns .wp-block-column {
 #nav_menu-12 {
 	font-size:24px;
 }
+// removes underline from buttons
+.wp-block-button__link	{ 
+	text-decoration: none;
+	}
