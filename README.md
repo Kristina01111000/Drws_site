@@ -160,10 +160,8 @@ See if I can change the color of the download button
 
 Remove black from promo page dr w picture, make it bigger
 Look at the youtube channel for links, will be back soon
-Make it free?
 Make underlines on frontpage buttons go away 
 In the buttons have some highlight colors
 Fix bottom button
-Deactivated charging stuff, he’s offering it for free for now
 Check site for other spots where we say there's a charge
 Remove facebook from fire activity
