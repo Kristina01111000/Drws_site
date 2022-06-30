@@ -160,7 +160,6 @@ Look at the youtube channel for links, will be back soon
 Check site for other spots where we say there's a charge
 
 - add a hover color to buttons
-- vertically center buttons (1st in particular)
 - DR W pic promo soften or round edges
 - link bottom button on promo page
 - add button at top that says "its free to join today"
