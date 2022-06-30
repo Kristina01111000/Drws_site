@@ -164,3 +164,4 @@ Check site for other spots where we say there's a charge
 - DR W pic promo soften or round edges
 - link bottom button on promo page
 - add button at top that says "its free to join today"
+- he's having issues with the scorecard again
