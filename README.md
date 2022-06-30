@@ -26,7 +26,7 @@ Hours worked April: 12 hour 40 min -> recieved
 
 Hours worked May: 8 hour 20 min -> sent
 
-Hours worked June: 8 hour 15 min
+Hours worked June: 8 hour 45 min
  
 plugins im using on site:
 
@@ -149,7 +149,6 @@ to do now:
 See if I can change the color of the download button
 
 
-- Look at the youtube channel for links -> not there, deleted? he is working on it -> still not there
 - is there a contact form on the site? -> wp forms is on the site, but i don't have it set up or anything, does he want a contact form for it?
 
 - ask him about the site linked in his book -> 4elementyoga.com does not exist, link to 4elifestyle instead, growing instead? 
@@ -160,3 +159,8 @@ See if I can change the color of the download button
 Look at the youtube channel for links, will be back soon
 Check site for other spots where we say there's a charge
 
+- add a hover color to buttons
+- vertically center buttons (1st in particular)
+- DR W pic promo soften or round edges
+- link bottom button on promo page
+- add button at top that says "its free to join today"
