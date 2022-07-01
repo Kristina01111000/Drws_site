@@ -166,4 +166,4 @@ Check site for other spots where we say there's a charge
 - add button at top that says "its free to join today"
 - add section with link to how to use google docs?
 he is still annoyed with how it works on mobile
-fix mobile view on buttons -> wierd issue, leaving it for now
+fix mobile view on buttons -> wierd issue, leaving it for now, css not working the way it should
