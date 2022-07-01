@@ -26,7 +26,7 @@ Hours worked April: 12 hour 40 min -> recieved
 
 Hours worked May: 8 hour 20 min -> sent
 
-Hours worked June: 8 hour 45 min
+Hours worked June: 8 hour 50 min
  
 plugins im using on site:
 
@@ -162,4 +162,4 @@ Check site for other spots where we say there's a charge
 - add a hover color to buttons
 - DR W pic promo soften or round edges
 - add button at top that says "its free to join today"
-- he's having issues with the scorecard again
+- he's having issues with the scorecard again -> maybe fixed it by changing directions on site
