@@ -27,6 +27,8 @@ Hours worked April: 12 hour 40 min -> recieved
 Hours worked May: 8 hour 20 min -> sent
 
 Hours worked June: 8 hour 50 min
+
+Hours worked July: 1 hour
  
 plugins im using on site:
 
@@ -168,4 +170,4 @@ Check site for other spots where we say there's a charge
 i will add a button on smaller screens that says try our free scorecard.
 I will look into the smaller screen issue. it worked correctly on my phone.
 mobile download directions
-fix mobile view on buttons
+fix mobile view on buttons -> wierd issue, leaving it for now
