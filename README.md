@@ -164,10 +164,6 @@ Check site for other spots where we say there's a charge
 - add a hover color to buttons
 - DR W pic promo soften or round edges
 - add button at top that says "its free to join today"
-- he's having issues with the scorecard again -> maybe fixed it by changing directions on site
-- see if issue with scorecard was fixed by directions
 
-i will add a button on smaller screens that says try our free scorecard.
-I will look into the smaller screen issue. it worked correctly on my phone.
 he is still annoyed with how it works on mobile
 fix mobile view on buttons -> wierd issue, leaving it for now
