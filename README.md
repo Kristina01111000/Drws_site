@@ -169,5 +169,5 @@ Check site for other spots where we say there's a charge
 
 i will add a button on smaller screens that says try our free scorecard.
 I will look into the smaller screen issue. it worked correctly on my phone.
-mobile download directions
+he is still annoyed with how it works on mobile
 fix mobile view on buttons -> wierd issue, leaving it for now
