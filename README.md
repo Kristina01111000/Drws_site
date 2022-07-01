@@ -164,3 +164,8 @@ Check site for other spots where we say there's a charge
 - add button at top that says "its free to join today"
 - he's having issues with the scorecard again -> maybe fixed it by changing directions on site
 - see if issue with scorecard was fixed by directions
+
+i will add a button on smaller screens that says try our free scorecard.
+Any edits you make on the sheet are going to stay there unless you make an unlinked copy of the sheet. 
+I will remove any edits that are on the master sheet. I will also add a small column in the area you indicated.
+I will look into the smaller screen issue. it worked correctly on my phone.
