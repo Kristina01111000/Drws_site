@@ -169,3 +169,4 @@ he is still annoyed with how it works on mobile -> check again after dinner, oth
 fix mobile view on buttons -> wierd issue, leaving it for now, css not working the way it should
 - he messed up the columns on the spreadsheet -> fixed it
 - think of things for beta testers to think about -> four so far
+- make a document for them?
