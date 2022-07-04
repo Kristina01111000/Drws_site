@@ -28,7 +28,7 @@ Hours worked May: 8 hour 20 min -> sent
 
 Hours worked June: 8 hour 50 min
 
-Hours worked July: 1 hour
+Hours worked July: 1 hour 10 min
  
 plugins im using on site:
 
@@ -168,4 +168,4 @@ Check site for other spots where we say there's a charge
 he is still annoyed with how it works on mobile -> check again after dinner, otherwise wait til next week
 fix mobile view on buttons -> wierd issue, leaving it for now, css not working the way it should
 - he messed up the columns on the spreadsheet -> fixed it
-- think of things for beta testers to think about
+- think of things for beta testers to think about -> four so far
