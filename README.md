@@ -168,4 +168,6 @@ Check site for other spots where we say there's a charge
 he is still annoyed with how it works on mobile -> check again after dinner, otherwise wait til next week
 fix mobile view on buttons -> wierd issue, leaving it for now, css not working the way it should
 - think of things for beta testers to think about -> four so far, putting them in the to do list google doc
-- figure out why buttons on promo page aren't going away when full screen  
+- figure out why buttons on promo page aren't going away when full screen 
+- 	make a new class to see if that works, the button css class still works, something with the screensize class is the issue
+- 	maybe the new update messed with how that works? 
