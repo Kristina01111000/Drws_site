@@ -24,7 +24,7 @@ Hours worked March: 5 hour 30 min -> recieved
 
 Hours worked April: 12 hour 40 min -> recieved
 
-Hours worked May: 8 hour 20 min -> sent
+Hours worked May: 8 hour 20 min -> recieved
 
 Hours worked June: 8 hour 50 min
 
@@ -171,3 +171,4 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 - figure out why buttons on promo page aren't going away when full screen 
 - 	make a new class to see if that works, the button css class still works, something with the screensize class is the issue
 - 	maybe the new update messed with how that works? 
+- still doesn't automatically update :(
