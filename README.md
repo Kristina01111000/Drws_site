@@ -171,4 +171,5 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 - figure out why buttons on promo page aren't going away when full screen 
 - 	make a new class to see if that works, the button css class still works, something with the screensize class is the issue
 - 	maybe the new update messed with how that works? 
+- 	get confirmation on the button text then manually put the css class in the button
 - still doesn't automatically update :(
