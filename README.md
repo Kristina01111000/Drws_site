@@ -172,4 +172,5 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 - 	make a new class to see if that works, the button css class still works, something with the screensize class is the issue
 - 	maybe the new update messed with how that works? 
 - 	get confirmation on the button text then manually put the css class in the button
+- 	still there, 
 - still doesn't automatically update :(
