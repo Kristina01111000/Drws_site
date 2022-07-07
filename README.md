@@ -173,4 +173,5 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 - 	maybe the new update messed with how that works? 
 - 	get confirmation on the button text then manually put the css class in the button
 - 	still there, that fix did not work update him tomorrow
+- he likes the sorecard button in the middle
 - still doesn't automatically update :(
