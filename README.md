@@ -28,7 +28,7 @@ Hours worked May: 8 hour 20 min -> recieved
 
 Hours worked June: 8 hour 50 min
 
-Hours worked July: 2 hour 30 min
+Hours worked July: 2 hour 40 min
  
 plugins im using on site:
 
@@ -175,7 +175,7 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 - 	still there, that fix did not work update him tomorrow
 - he likes the sorecard button in the middle
 - still doesn't automatically update :(
-- Scorecard sentence 4 element directions yearly scorecard is weekly, tell people that in a way that makes sense , the scorecard they print out is a daily one -> add a weekly spreadsheet, and tell them to copy paste it into yearly?
+- Scorecard sentence 4 element directions yearly scorecard is weekly, tell people that in a way that makes sense , the scorecard they print out is a daily one -> add a weekly spreadsheet, and tell them to copy paste it into yearly?will need to go through weeks and add a column for months with more time, switch addition to the weekday it ends and begins etc
 - Switch yearly scorecard to weekly, switch weekly to daily everywhere
 - Concert next wednesday, hes advertising then
 - Add tiny habits section on why it works scorecard page, into read more section
