@@ -175,3 +175,11 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 - 	still there, that fix did not work update him tomorrow
 - he likes the sorecard button in the middle
 - still doesn't automatically update :(
+Scorecard sentence 4 element directions yearly scorecard is weekly, tell people that in a way that makes sense , the scorecard they print out is a daily one
+Switch yearly scorecard to weekly, switch weekly to daily everywhere
+Figure out 4e scorecard  how to section so it sounds better
+Concert next wednesday, hes advertising then
+Add tiny habits section on why it works scorecard page, into read more section
+Leave scorecard on promo page, hide the login button for only mobile
+Make sure it is ‘your ‘ scorecard instead of our
+Make button text green brighter, maybe change background color
