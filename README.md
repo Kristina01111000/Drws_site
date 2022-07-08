@@ -28,7 +28,7 @@ Hours worked May: 8 hour 20 min -> recieved
 
 Hours worked June: 8 hour 50 min
 
-Hours worked July: 2 hour 40 min
+Hours worked July: 2 hour 45 min
  
 plugins im using on site:
 
@@ -173,8 +173,8 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 - 	maybe the new update messed with how that works? 
 - 	get confirmation on the button text then manually put the css class in the button
 - 	still there, that fix did not work update him tomorrow
-- he likes the sorecard button in the middle
-- still doesn't automatically update :(
+- he likes the scorecard button in the middle
+- still doesn't automatically update :(, is it a problem with peepso?
 
 - Switch yearly scorecard to weekly, switch weekly to daily everywhere
 - Concert next wednesday, hes advertising then
