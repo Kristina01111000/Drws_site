@@ -182,3 +182,4 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 - Leave scorecard on promo page, hide the login button for only mobile
 - Make sure it is ‘your ‘ scorecard instead of our
 - Make button text green brighter, maybe change background color
+- need this done by wednesday mid day so its set for his ad
