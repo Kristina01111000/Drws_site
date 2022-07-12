@@ -178,7 +178,7 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 
 - Switch yearly scorecard to weekly, switch weekly to daily everywhere
 - Concert next wednesday, hes advertising then
-- Add tiny habits section on why it works scorecard page, into read more section
+- Add tiny habits section on why it works scorecard page, into read more section -> not a seperate page
 - Leave scorecard on promo page, hide the login button for only mobile
 - Make sure it is ‘your ‘ scorecard instead of our
 - Make button text green brighter, maybe change background color
