@@ -185,4 +185,4 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 
 - i have the most recent scorecard copy on the site as of 7/12, he will probably update it again
 - able to make new accounts
-- check opacity of hover on header, it looks bad, current header color with 50% opacity:rgba(252, 249, 121, 0.5882)
+- check opacity of hover on header, it looks bad, current header color with 50% opacity:rgba(252, 249, 121, 0.5882) changed it to: rgb(255,255,153)
