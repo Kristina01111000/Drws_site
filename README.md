@@ -187,3 +187,4 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 - able to make new accounts
 - check opacity of hover on header, it looks bad, current header color with 50% opacity:rgba(252, 249, 121, 0.5882) changed it to: rgb(255,255,153)
 - videos i need are not on the youtubed channel
+- his beta tester is starting soon
