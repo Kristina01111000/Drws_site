@@ -179,8 +179,6 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 - Concert today, hes advertising then
 - Add tiny habits section on why it works scorecard page, into read more section -> not a seperate page
 - Leave scorecard on promo page, hide the login button for only mobile
-- Make sure it is ‘your ‘ scorecard instead of our
-- Make button text green brighter, maybe change background color
 - need this done by wednesday mid day so its set for his ad
 
 - i have the most recent scorecard copy on the site as of 7/12, he will probably update it again
