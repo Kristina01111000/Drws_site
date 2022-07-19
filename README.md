@@ -141,8 +141,6 @@ to do now:
 - check text color settings, he wants "say what you think" to be a different color
 - Color issue in forms, text boxes are too similar to background color, to pale green, or creamy color
 - hide lessons so they can't be seen by users until available?
-
-- Show my mom the video, ask a few other people about it, have them make comments?
 - Make chats for other people that sound good, 2 to 3 people
 
 
@@ -160,7 +158,6 @@ See if I can change the color of the download button
 
 - add a hover color to buttons
 - DR W pic promo soften or round edges
-- add button at top that says "its free to join today"
 he is still annoyed with how it works on mobile -> check again after dinner, otherwise wait til next week
 fix mobile view on buttons -> wierd issue, leaving it for now, css not working the way it should
 - think of things for beta testers to think about -> four so far, putting them in the to do list google doc
