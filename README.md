@@ -158,9 +158,6 @@ See if I can change the color of the download button
 - look at the alt text on the images -> avoid lawsuits, I think we're in the clear images are used for window dressing
 - check login attempts 
 
-Look at the youtube channel for links, will be back soon
-Check site for other spots where we say there's a charge
-
 - add a hover color to buttons
 - DR W pic promo soften or round edges
 - add button at top that says "its free to join today"
