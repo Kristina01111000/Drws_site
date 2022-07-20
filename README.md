@@ -171,8 +171,7 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 - Add tiny habits section on why it works scorecard page, into read more section -> not a seperate page
 
 
-- i have the most recent scorecard copy on the site as of 7/12, he will probably update it again
-- able to make new accounts
+- i have the most recent scorecard copy on the site as of 7/12, he will probably update it again, so far none
 - videos i need are not on the youtubed channel
 - his beta tester is starting soon
 - rethink header buttons on site, put the 3 into one benefits section, talk about 4eyoga in one -> link to youtube channel, then classes
