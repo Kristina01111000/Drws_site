@@ -28,7 +28,7 @@ Hours worked May: 8 hour 20 min -> recieved
 
 Hours worked June: 8 hour 50 min
 
-Hours worked July: 4 hour 20 min
+Hours worked July: 5 hour 20 min
  
 plugins im using on site:
 
@@ -172,11 +172,10 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 
 
 - i have the most recent scorecard copy on the site as of 7/12, he will probably update it again, so far none
-- videos i need are not on the youtubed channel
+
 - his beta tester is starting soon
-- rethink header buttons on site, put the 3 into one benefits section, talk about 4eyoga in one -> link to youtube channel, then classes
-- With the tabs the way they are they are being given equal footing as the actual classes, which i dont think is what you want, i could be wrong
-- get confirmation on button color
+
+
 
 
 Look at the youtube channel for links, module 1 and 2 are there
