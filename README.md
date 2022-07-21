@@ -183,7 +183,6 @@ Switch the tab order
 
 Scorecard stuff
 Remove the four element score card widget from the scorecard page
-Make ‘Access the scorecard here’ hot put in an anchor
 Think about the shorter activities descriptions, make another page for long versions, 
 Pull out one sentence explanations for each link to another page with long versions
 Put a bullet point for each activity try it
