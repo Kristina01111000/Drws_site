@@ -64,7 +64,7 @@ body .wp-block-columns .wp-block-column {
     padding: 5% 10%;  
 }
 
-// added login button to mobile, not desktop promo page
+// added login button to mobile, not desktop promo page -> not in use anymore
 #mobile-view-only{
 	display: none;
 }
