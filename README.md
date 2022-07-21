@@ -171,9 +171,7 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 - Add tiny habits section on why it works scorecard page, into read more section -> not a seperate page
 
 
-- i have the most recent scorecard copy on the site as of 7/12, he will probably update it again, so far none
-
-- his beta tester is starting soon
+- his beta tester has not started, why?
 
 
 
