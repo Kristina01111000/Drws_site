@@ -177,3 +177,21 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 - rethink header buttons on site, put the 3 into one benefits section, talk about 4eyoga in one -> link to youtube channel, then classes
 - With the tabs the way they are they are being given equal footing as the actual classes, which i dont think is what you want, i could be wrong
 - get confirmation on button color
+
+
+Look at the youtube channel for links, module 1 and 2 are there
+Put the four header tabs into a drop down menu titled “Holistic Topics”-working title
+Switch the tab order
+
+
+Scorecard stuff
+Remove the four element score card widget from the scorecard page
+Make ‘Access the scorecard here’ hot put in an anchor
+Think about the shorter activities descriptions, make another page for long versions, 
+Pull out one sentence explanations for each link to another page with long versions
+Put a bullet point for each activity try it
+
+Score card:
+Remove jan to june on scorecard, then put the change on the master copy of the scorecard
+Look at it on phone, maximize usefulness on phone
+Move the comments in column b into column a, look at this on the copy first
