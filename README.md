@@ -28,7 +28,7 @@ Hours worked May: 8 hour 20 min -> recieved
 
 Hours worked June: 8 hour 50 min
 
-Hours worked July: 5 hour 20 min
+Hours worked July: 5 hour 30 min
  
 plugins im using on site:
 
@@ -176,9 +176,9 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 
 
 
-Look at the youtube channel for links, module 1 and 2 are there
-Put the four header tabs into a drop down menu titled “Holistic Topics”-working title
-Switch the tab order
+- Look at the youtube channel for links, module 1 and 2 are there -> they cannot be embeded into the site, other youtube videos can be, so is there a settings problem with them?
+- Put the four header tabs into a drop down menu titled “Holistic Topics”-working title
+- Switch the tab order
 
 
 Scorecard stuff
