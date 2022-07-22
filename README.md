@@ -182,12 +182,12 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 
 
 Scorecard stuff
-Remove the four element score card widget from the scorecard page
-Think about the shorter activities descriptions, make another page for long versions, 
-Pull out one sentence explanations for each link to another page with long versions
-Put a bullet point for each activity try it
+- Remove the four element score card widget from the scorecard page
+- Think about the shorter activities descriptions, make another page for long versions, 
+- Pull out one sentence explanations for each link to another page with long versions
+- Put a bullet point for each activity try it
 
 Score card:
-Remove jan to june on scorecard, then put the change on the master copy of the scorecard
-Look at it on phone, maximize usefulness on phone
-Move the comments in column b into column a, look at this on the copy first
+- Remove jan to june on scorecard, then put the change on the master copy of the scorecard
+- Look at it on phone, maximize usefulness on phone
+- Move the comments in column b into column a, look at this on the copy first
