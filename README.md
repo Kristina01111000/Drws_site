@@ -171,7 +171,7 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 - Add tiny habits section on why it works scorecard page, into read more section -> not a seperate page
 
 
-- his beta tester has not started, why?
+- his beta tester has logged in, waiting on the review
 
 
 
