@@ -184,7 +184,7 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 Scorecard stuff
 - Remove the four element score card widget from the scorecard page -> hide it
 - Think about the shorter activities descriptions, make another page for long versions, 
-- Pull out one sentence explanations for each link to another page with long versions
+- Pull out one sentence explanations for each link to another page with long versions, figure out how to link it in a way that sound good
 - Put a bullet point for each activity try it
 
 Score card:
