@@ -191,3 +191,4 @@ Score card:
 - Remove jan to june on scorecard, then put the change on the master copy of the scorecard
 - Look at it on phone, maximize usefulness on phone
 - Move the comments in column b into column a, look at this on the copy first
+- should i start keeping a list of things he wants for the app? that the google doc can't do?
