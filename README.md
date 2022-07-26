@@ -169,3 +169,4 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 Score card:
 - move changes from copy to the master
 - should i start keeping a list of things he wants for the app? that the google doc can't do?
+	- go to current date when you open app
