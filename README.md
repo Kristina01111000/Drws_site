@@ -132,7 +132,7 @@ Survey stuff:
 		- wpforms pro does not work the way he wants
 		- tryuquiz does not work
 		- he is taking care of the quiz
-		- 
+		-
 	
 
 
@@ -142,12 +142,6 @@ to do now:
 - Color issue in forms, text boxes are too similar to background color, to pale green, or creamy color
 - hide lessons so they can't be seen by users until available?
 - Make chats for other people that sound good, 2 to 3 people
-
-
-- check that contact page works -> it gets sent to administrator email, image + frowarded email to him
-
-See if I can change the color of the download button
-
 
 - is there a contact form on the site? -> wp forms is on the site, but i don't have it set up or anything, does he want a contact form for it?
 
