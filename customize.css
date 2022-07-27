@@ -101,3 +101,7 @@ body .wp-block-columns .wp-block-column {
 .wp-block-button__link	{ 
 	text-decoration: none;
 	}
+// doesn't work, trying to get buttons to change color when hovered on
+	.wp-block-button__link:hover{
+		color: #0000FF;
+	}
