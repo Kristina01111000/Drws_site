@@ -164,7 +164,7 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 - his beta tester has logged in, waiting on the review
 
 
-- Look at the youtube channel for links, module 1 and 2 are there -> they cannot be embeded into the site, other youtube videos can be, so is there a settings problem with them? waiting on email response for this
+- Look at the youtube channel for links, module 1 and 2 are there -> they cannot be embeded into the site, other youtube videos can be, so is there a settings problem with them? waiting on email response for this, ask tomorrow, important!
 
 Score card:
 - move changes from copy to the master
