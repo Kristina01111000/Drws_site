@@ -166,16 +166,7 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 
 - Look at the youtube channel for links, module 1 and 2 are there -> they cannot be embeded into the site, other youtube videos can be, so is there a settings problem with them? waiting on email response for this, ask tomorrow, important!
 
-Score card:
-- move changes from copy to the master
-- should i start keeping a list of things he wants for the app? that the google doc can't do?
-	- go to current date when you open app
 
-
-Make a copy of sheet for 2023
-Remove up to august for the months
-Move all notes to column a 
-Make all columns smaller so cell phone is better, but still useable
 Change july topic to august topic
 
 On scorecard page
