@@ -170,3 +170,17 @@ Score card:
 - move changes from copy to the master
 - should i start keeping a list of things he wants for the app? that the google doc can't do?
 	- go to current date when you open app
+
+
+Make a copy of sheet for 2023
+Remove up to august for the months
+Move all notes to column a 
+Make all columns smaller so cell phone is better, but still useable
+Change july topic to august topic
+
+On scorecard page
+See if links have to be underlined all or nothing, or if links on scorecard page can be underlined, use inline text decoration, make it stand out on the page
+Try a button?
+Add memo for yoga from note on scorecard
+
+See if there is a way to see how many people downloaded the scorecard, use google for site analytics
