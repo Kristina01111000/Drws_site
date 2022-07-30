@@ -147,7 +147,7 @@ to do now:
 
 - ask him about the site linked in his book -> 4elementyoga.com does not exist, link to 4elifestyle instead, growing instead? 
 - I don't think having a site specifically for just yoga is a good idea -> you already have so many sites, you don't want people who want to learn to have to go to 10 different sites
-- look at the alt text on the images -> avoid lawsuits, I think we're in the clear images are used for window dressing
+- look at the alt text on the images -> avoid lawsuits, I think we're in the clear images are used for window dressing, check on free web tester
 - check login attempts 
 
 - add a hover color to buttons -> the css isn;t working for some reason :( could it be a problem with the customize page in general?
