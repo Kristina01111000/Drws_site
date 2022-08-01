@@ -153,10 +153,6 @@ to do now:
 - check login attempts 
 
 - add a hover color to buttons -> the css isn;t working for some reason :( could it be a problem with the customize page in general?
-- DR W pic promo soften or round edges
-he is still annoyed with how it works on mobile -> check again after dinner, otherwise wait til next week
-fix mobile view on buttons -> wierd issue, leaving it for now, css not working the way it should
-- think of things for beta testers to think about -> four so far, putting them in the to do list google doc
 
 - still doesn't automatically update :(, is it a problem with peepso?
 
