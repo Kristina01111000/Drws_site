@@ -171,3 +171,19 @@ Try a button?
 Add memo for yoga from note on scorecard
 
 See if there is a way to see how many people downloaded the scorecard, use google for site analytics
+
+
+---- After meeting with Donovan, I’m thinking this:
+
+Removing all mention of costs to the program. Just that it is Free.
+
+People might respond better to a 30 day program; "Dr. W's 30 day program will help you jumpstart your holistic journey.”
+
+We’re going to allow people to move from one Learning Program class to the next without waiting two weeks; why put things in the way for them to learn more if they are ready to watch the next class?
+
+We need link to our Youtube channel very present on home page and perhaps the promo page.
+Perhaps in Youtube descriptions of each Quick Minute videos we’ll put in”Join up and get access to Dr. W’s free 30 day Holistic Learning Program.”
+
+He felt that the Home page was a bit overwhelming to a first time person. Maybe put August’s Topic: on the top right and move the current right sided widget to below the left side’s 4E Story widget.
+
+---- Any thoughts?
