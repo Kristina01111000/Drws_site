@@ -30,7 +30,7 @@ Hours worked June: 8 hour 50 min -> recieved
 
 Hours worked July: 7 hour 20 min
 
-Hours worked August: 25 min
+Hours worked August: 35 min
  
 plugins im using on site:
 
@@ -177,5 +177,10 @@ We need link to our Youtube channel very present on home page and perhaps the pr
 Perhaps in Youtube descriptions of each Quick Minute videos we’ll put in”Join up and get access to Dr. W’s free 30 day Holistic Learning Program.”
 
 He felt that the Home page was a bit overwhelming to a first time person. Maybe put August’s Topic: on the top right and move the current right sided widget to below the left side’s 4E Story widget.
+
+-> Added score card to header, removed “have you downloaded your score card” widget
+-> Added documentary to header under holistic growth, waiting on ok to remove that widget, its removal will help make the home page/ whole site look less crowded
+-> Add a widget that links to the youtube channel?
+
 
 ---- Any thoughts?
