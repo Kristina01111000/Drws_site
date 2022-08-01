@@ -179,7 +179,7 @@ Perhaps in Youtube descriptions of each Quick Minute videos we’ll put in”Joi
 He felt that the Home page was a bit overwhelming to a first time person. Maybe put August’s Topic: on the top right and move the current right sided widget to below the left side’s 4E Story widget.
 
 -> Added score card to header, removed “have you downloaded your score card” widget
--> Added documentary to header under holistic growth, waiting on ok to remove that widget, its removal will help make the home page/ whole site look less crowded
+-> Added documentary to header under holistic growth, made that widget only visible on the promo page
 -> Add a widget that links to the youtube channel?
 
 
