@@ -169,8 +169,6 @@ See if there is a way to see how many people downloaded the scorecard, use googl
 
 ---- After meeting with Donovan, I’m thinking this:
 
-Removing all mention of costs to the program. Just that it is Free.
-
 People might respond better to a 30 day program; "Dr. W's 30 day program will help you jumpstart your holistic journey.”
 
 We’re going to allow people to move from one Learning Program class to the next without waiting two weeks; why put things in the way for them to learn more if they are ready to watch the next class?
