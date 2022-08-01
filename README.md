@@ -161,10 +161,6 @@ fix mobile view on buttons -> wierd issue, leaving it for now, css not working t
 - Add tiny habits section on why it works scorecard page, into read more section -> not a seperate page
 
 
-- his beta tester has logged in, waiting on the review
-
-change july topic to august topic
-
 On scorecard page
 See if links have to be underlined all or nothing, or if links on scorecard page can be underlined, use inline text decoration, make it stand out on the page
 Try a button?
