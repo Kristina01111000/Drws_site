@@ -30,7 +30,7 @@ Hours worked June: 8 hour 50 min -> recieved
 
 Hours worked July: 7 hour 20 min
 
-Hours worked August: 35 min
+Hours worked August: 55 min
  
 plugins im using on site:
 
@@ -171,16 +171,15 @@ See if there is a way to see how many people downloaded the scorecard, use googl
 
 People might respond better to a 30 day program; "Dr. W's 30 day program will help you jumpstart your holistic journey.”
 
-We’re going to allow people to move from one Learning Program class to the next without waiting two weeks; why put things in the way for them to learn more if they are ready to watch the next class?
 
 We need link to our Youtube channel very present on home page and perhaps the promo page.
 Perhaps in Youtube descriptions of each Quick Minute videos we’ll put in”Join up and get access to Dr. W’s free 30 day Holistic Learning Program.”
 
-He felt that the Home page was a bit overwhelming to a first time person. Maybe put August’s Topic: on the top right and move the current right sided widget to below the left side’s 4E Story widget.
+He felt that the Home page was a bit overwhelming to a first time person. Maybe put August’s Topic: on the top right and move the current right sided widget to below the left side’s 4E Story widget. -> i made different changes
 
 -> Added score card to header, removed “have you downloaded your score card” widget
 -> Added documentary to header under holistic growth, made that widget only visible on the promo page
 -> Add a widget that links to the youtube channel?
-
+- fix weeks away from learning program
 
 ---- Any thoughts?
