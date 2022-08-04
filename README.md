@@ -182,3 +182,4 @@ He felt that the Home page was a bit overwhelming to a first time person. Maybe 
 - fix weeks away from learning program
 
 ---- Any thoughts?
+30 day challenge stuff
