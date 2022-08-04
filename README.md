@@ -162,9 +162,8 @@ to do now:
 On scorecard page
 See if links have to be underlined all or nothing, or if links on scorecard page can be underlined, use inline text decoration, make it stand out on the page
 Try a button?
-Add memo for yoga from note on scorecard
 
-See if there is a way to see how many people downloaded the scorecard, use google for site analytics
+See if there is a way to see how many people downloaded the scorecard, use google for site analytics - he needs a google workspace account for this
 
 
 ---- After meeting with Donovan, I’m thinking this:
