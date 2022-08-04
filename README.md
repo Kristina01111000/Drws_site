@@ -183,3 +183,12 @@ He felt that the Home page was a bit overwhelming to a first time person. Maybe 
 
 ---- Any thoughts?
 30 day challenge stuff
+Button on promo page, leave roll out program in it? Change to our program is free to join
+Make quizzes optional, see if we can add some sort of reward for people who finish it
+Can we have people sign up to get an email once a day and other people once a week, different groups, email lists, starting at different times, chronological order when they join, everyday, every week , have them choose that, through peepso or learndash, or through a mailing thing, maybe constant contact, see if at allows chronological emails when you sign up
+https://www.constantcontact.com/blog/automated-welcome-series/ 15 emails every 2 days, look at core vs plus
+Promo page button switch ‘join our 30 day challenge’
+On the new page that clicks through that button say download our scorecard for the 30 day challenge, use our scorecard for 30 days, have link open in a new page
+We will email you every other day with a link to a quick minute on youtube
+Put an image of the score card in so they can see it, on this page include the short lists of activities, with one paragraph of how to use it
+Make a new google doc that is only for 30 days with each day being a new column and have it add up at the end
