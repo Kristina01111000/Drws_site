@@ -30,7 +30,7 @@ Hours worked June: 8 hour 50 min -> recieved
 
 Hours worked July: 7 hour 20 min
 
-Hours worked August: 1 hour 55 min
+Hours worked August: 2 hour 15 min
  
 plugins im using on site:
 
@@ -183,6 +183,7 @@ He felt that the Home page was a bit overwhelming to a first time person. Maybe 
 
 ---- Any thoughts?
 30 day challenge stuff on a new page, add a new button when ready
+- worked on the 30 dy spread sheet, sent it to him
 
 - Make quizzes optional, see if we can add some sort of reward for people who finish it
 - Can we have people sign up to get an email once a day and other people once a week, different groups, email lists, starting at different times, chronological order when they join, everyday, every week , have them choose that, through peepso or learndash, or through a mailing thing, maybe constant contact, see if at allows chronological emails when you sign up
