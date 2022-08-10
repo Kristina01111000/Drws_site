@@ -192,4 +192,3 @@ He felt that the Home page was a bit overwhelming to a first time person. Maybe 
 - On the new page that clicks through that button say download our scorecard for the 30 day challenge, use our scorecard for 30 days, have link open in a new page
 - We will email you every other day with a link to a quick minute on youtube
 - Put an image of the score card in so they can see it, on this page include the short lists of activities, with one paragraph of how to use it
-- Make a new google doc that is only for 30 days with each day being a new column and have it add up at the end
