@@ -214,3 +214,4 @@ completely changing promo page
 - remove the time requirement from lessons, check that it is gone
 - double check videso is lessons
 - text for lessons? from the promo page?
+- clean up the promo page when this part is done
