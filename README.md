@@ -212,4 +212,5 @@ completely changing promo page
 - THINK ABOUT 4 corners page, is it necessary 
 
 - remove the time requirement from lessons, check that it is gone
-- 
+- double check videso is lessons
+- text for lessons? from the promo page?
