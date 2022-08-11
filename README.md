@@ -209,5 +209,7 @@ completely changing promo page
 - Change four month learning program to Dr W’s Learning Program
 - Change Dr W’s monthly topics to monthly topics 
 - Link 30 day challenge instead of four element scorecard
-T- HINK ABOUT 4 corners page, is it necessary 
+- THINK ABOUT 4 corners page, is it necessary 
 
+- remove the time requirement from lessons, check that it is gone
+- 
