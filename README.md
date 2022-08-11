@@ -30,7 +30,7 @@ Hours worked June: 8 hour 50 min -> recieved
 
 Hours worked July: 7 hour 20 min
 
-Hours worked August: 2 hour 40 min
+Hours worked August: 4 hour 0 min
  
 plugins im using on site:
 
@@ -192,3 +192,4 @@ He felt that the Home page was a bit overwhelming to a first time person. Maybe 
 
 - We will email you every other day with a link to a quick minute on youtube
 - Put an image of the score card in so they can see it, on this page include the short lists of activities, with one paragraph of how to use it
+completely changing promo page
