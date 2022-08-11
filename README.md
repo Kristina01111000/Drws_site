@@ -195,19 +195,19 @@ He felt that the Home page was a bit overwhelming to a first time person. Maybe 
 completely changing promo page
 
 
-Figure how to add him to google analytics
-Add links to the resource page for articles
-See if i can stop myself from counting in google analytics
-See if i can set up analytics for syracuse natural healing and 4 element institute if he can be the owner of it if i can;t make him the owner the talk him through setting it up next week
-THINK ABOUT: moving the text for the dropdown menu into the dropdown pages 
-THINK ABOUT moving the part above practical benefits into the first lesson
-THINK ABOUT fixing promo page into more about 30 day challenge
-30 day challenge what makes it interesting is how we include the four elements into it 
-Work on 30 day challenge page, figure out how to put the 4 elements into it
-Stick with challenge, remove corners page? Focus 
-Make the learning program part of the challenge? Can be taken all in one day
-Change four month learning program to Dr W’s Learning Program
-Change Dr W’s monthly topics to monthly topics 
-Link 30 day challenge instead of four element scorecard
-THINK ABOUT 4 corners page, is it necessary 
-Remove bottom promo page widgets
+- Figure how to add him to google analytics
+- Add links to the resource page for articles
+- See if i can stop myself from counting in google analytics
+- See if i can set up analytics for syracuse natural healing and 4 element institute if he can be the owner of it if i can;t make him the owner the talk him through setting it up next week
+- THINK ABOUT: moving the text for the dropdown menu into the dropdown pages 
+- THINK ABOUT moving the part above practical benefits into the first lesson
+- THINK ABOUT fixing promo page into more about 30 day challenge
+- 30 day challenge what makes it interesting is how we include the four elements into it 
+- Work on 30 day challenge page, figure out how to put the 4 elements into it
+- Stick with challenge, remove corners page? Focus 
+- Make the learning program part of the challenge? Can be taken all in one day
+- Change four month learning program to Dr W’s Learning Program
+- Change Dr W’s monthly topics to monthly topics 
+- Link 30 day challenge instead of four element scorecard
+T- HINK ABOUT 4 corners page, is it necessary 
+- Remove bottom promo page widgets
