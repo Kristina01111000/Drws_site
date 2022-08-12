@@ -206,9 +206,8 @@ completely changing promo page
 - Work on 30 day challenge page, figure out how to put the 4 elements into it
 - Stick with challenge, remove corners page? Focus 
 - Make the learning program part of the challenge? Can be taken all in one day
-- Change Dr W’s monthly topics to monthly topics 
 - Link 30 day challenge instead of four element scorecard
-- THINK ABOUT 4 corners page, is it necessary 
+- THINK ABOUT 4 corners page, is it necessary ?
 
 - double check videso is lessons
 - text for lessons? from the promo page?
