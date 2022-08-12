@@ -30,7 +30,7 @@ Hours worked June: 8 hour 50 min -> recieved
 
 Hours worked July: 7 hour 20 min
 
-Hours worked August: 4 hour 05 min
+Hours worked August: 4 hour 10 min
  
 plugins im using on site:
 
@@ -211,7 +211,6 @@ completely changing promo page
 - Link 30 day challenge instead of four element scorecard
 - THINK ABOUT 4 corners page, is it necessary 
 
-- remove the time requirement from lessons, check that it is gone
 - double check videso is lessons
 - text for lessons? from the promo page?
 - clean up the promo page when this part is done
