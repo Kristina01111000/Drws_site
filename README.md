@@ -30,7 +30,7 @@ Hours worked June: 8 hour 50 min -> recieved
 
 Hours worked July: 7 hour 20 min
 
-Hours worked August: 4 hour 10 min
+Hours worked August: 4 hour 15 min
  
 plugins im using on site:
 
@@ -195,8 +195,7 @@ He felt that the Home page was a bit overwhelming to a first time person. Maybe 
 completely changing promo page
 
 
-- Figure how to add him to google analytics
-- Add links to the resource page for articles
+- Figure how to add him to google analytics5
 - See if i can stop myself from counting in google analytics
 - See if i can set up analytics for syracuse natural healing and 4 element institute if he can be the owner of it if i can;t make him the owner the talk him through setting it up next week
 - THINK ABOUT: moving the text for the dropdown menu into the dropdown pages 
