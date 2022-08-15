@@ -211,3 +211,5 @@ completely changing promo page
 - double check videso is lessons
 - text for lessons? from the promo page? -> in my email, a lot of changes
 - clean up the promo page when this part is done
+- go section by section to change it, 
+- change the outdoor, nutrition, + other 2 pages first
