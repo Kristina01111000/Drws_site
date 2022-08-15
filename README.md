@@ -208,9 +208,10 @@ completely changing promo page
 - Link 30 day challenge instead of four element scorecard
 - THINK ABOUT 4 corners page, is it necessary ? maybe remove pictures, put the topics in the monthly topics section?
 
-- double check videso is lessons
-- text for lessons? from the promo page? -> in my email, a lot of changes
-- clean up the promo page when this part is done
+- double check videso in lessons
+- text for lessons maybe? side pages? from the promo page? 
+
 - go section by section to change it, 
 - change the outdoor, nutrition, + other 2 pages first
-- top of promo page done
+- top of promo page done -> from email
+- clean up the promo page when this part is done
