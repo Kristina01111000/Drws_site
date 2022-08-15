@@ -209,5 +209,5 @@ completely changing promo page
 - THINK ABOUT 4 corners page, is it necessary ? maybe remove pictures, put the topics in the monthly topics section?
 
 - double check videso is lessons
-- text for lessons? from the promo page?
+- text for lessons? from the promo page? -> in my email, a lot of changes
 - clean up the promo page when this part is done
