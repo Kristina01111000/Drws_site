@@ -30,7 +30,7 @@ Hours worked June: 8 hour 50 min -> recieved
 
 Hours worked July: 7 hour 20 min
 
-Hours worked August: 4 hour 15 min
+Hours worked August: 4 hour 20 min
  
 plugins im using on site:
 
@@ -213,3 +213,4 @@ completely changing promo page
 - clean up the promo page when this part is done
 - go section by section to change it, 
 - change the outdoor, nutrition, + other 2 pages first
+- top of promo page done
