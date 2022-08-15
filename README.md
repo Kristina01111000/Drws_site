@@ -214,4 +214,4 @@ completely changing promo page
 - go section by section to change it, 
 - change the outdoor, nutrition, + other 2 pages first
 - top of promo page done -> from email
-- clean up the promo page when this part is done
+- clean up the promo page when this part is done -> part way done
