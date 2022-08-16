@@ -80,6 +80,7 @@ Notes:
 		- documentary page
 		- second promo page
 		- community activity
+		- join 30 day challenge page
 			- does peepso change the pages numbers when new updates are made?
 	- **make sure to use peepso login and log out, not pmp login and logout**
 	- forward comment emails to him
