@@ -215,3 +215,5 @@ completely changing promo page
 - change the outdoor, nutrition, + other 2 pages first
 - top of promo page done -> from email
 - clean up the promo page when this part is done -> part way done
+
+- still getting emails from 4elelife
