@@ -30,7 +30,7 @@ Hours worked June: 8 hour 50 min -> recieved
 
 Hours worked July: 7 hour 20 min
 
-Hours worked August: 4 hour 25 min
+Hours worked August: 4 hour 30 min
  
 plugins im using on site:
 
@@ -220,5 +220,6 @@ completely changing promo page
 - still getting emails from 4elelife, also comment checking requests
 - nutrition page done
 - personal growth needs work, which text do you want on it?
-- body awareness done, 
-- does he still want seperators now that the page is smaller
+- body awareness done
+- does he still want seperators now that the page is smaller?
+- fixed the promo page
