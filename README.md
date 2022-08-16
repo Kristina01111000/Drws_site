@@ -212,8 +212,10 @@ completely changing promo page
 - text for lessons maybe? side pages? from the promo page? 
 
 - go section by section to change it, 
-- change the outdoor, nutrition, + other 2 pages first
+- change the outdoor,  + other 2 pages first
 - top of promo page done -> from email
 - clean up the promo page when this part is done -> part way done
 
 - still getting emails from 4elelife, also comment checking requests
+- nutrition page done
+- personal growth needs work, which text do you want on it?
