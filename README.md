@@ -219,3 +219,5 @@ completely changing promo page
 - still getting emails from 4elelife, also comment checking requests
 - nutrition page done
 - personal growth needs work, which text do you want on it?
+- body awareness done, 
+- does he still want seperators now that the page is smaller
