@@ -223,3 +223,4 @@ completely changing promo page
 - body awareness done
 - does he still want seperators now that the page is smaller?
 - fixed the promo page
+- need to figure out the wordage of the challenge page to get people to sign up
