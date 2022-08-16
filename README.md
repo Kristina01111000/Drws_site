@@ -216,4 +216,4 @@ completely changing promo page
 - top of promo page done -> from email
 - clean up the promo page when this part is done -> part way done
 
-- still getting emails from 4elelife
+- still getting emails from 4elelife, also comment checking requests
