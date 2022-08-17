@@ -218,5 +218,5 @@ completely changing promo page
 - body awareness done
 - does he still want seperators now that the page is smaller?
 - need to figure out the wordage of the challenge page to get people to sign up
-- need to set up email, constant contact account + plugin
+- need to set up email, constant contact account + plugin, needs to be bought
 - should add asection with 30 day challenge content on promo page
