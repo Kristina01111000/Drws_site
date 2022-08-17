@@ -208,6 +208,9 @@ completely changing promo page
 - double check videso in lessons
 - text for lessons maybe? side pages? from the promo page? 
 --------------------------------------------------------
+30 day challenge potential sentences:
+****paragraph about why using the score card will help you live a more holistic life**** I'm not sure what parts to take from the intro on the scorecard page, it all seems useful ---- what makes our holistic program interesting is how we include the four elements into it---- our 30 day challenge is built upon each of the four elements---- as you move through the 30 day challenge you will learn
+--------------------------------------------------------
 - top of promo page done -> from email
 - still getting emails from 4elelife, also comment checking requests
 - nutrition page done
