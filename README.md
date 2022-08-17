@@ -209,16 +209,11 @@ completely changing promo page
 - double check videso in lessons
 - text for lessons maybe? side pages? from the promo page? 
 
-- go section by section to change it, 
-- change the outdoor,  + other 2 pages first
 - top of promo page done -> from email
-- clean up the promo page when this part is done -> part way done
-
 - still getting emails from 4elelife, also comment checking requests
 - nutrition page done
 - personal growth needs work, which text do you want on it?
 - body awareness done
 - does he still want seperators now that the page is smaller?
-- fixed the promo page
 - need to figure out the wordage of the challenge page to get people to sign up
 - need to set up email
