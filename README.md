@@ -207,7 +207,7 @@ completely changing promo page
 
 - double check videso in lessons
 - text for lessons maybe? side pages? from the promo page? 
-
+--------------------------------------------------------
 - top of promo page done -> from email
 - still getting emails from 4elelife, also comment checking requests
 - nutrition page done
@@ -216,3 +216,4 @@ completely changing promo page
 - does he still want seperators now that the page is smaller?
 - need to figure out the wordage of the challenge page to get people to sign up
 - need to set up email
+- should add asection with 30 day challenge content on promo page
