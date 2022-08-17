@@ -202,7 +202,6 @@ completely changing promo page
 - THINK ABOUT moving the part above practical benefits into the first lesson
 - 30 day challenge what makes it interesting is how we include the four elements into it 
 - Work on 30 day challenge page, figure out how to put the 4 elements into it
-- Stick with challenge, remove corners page? Focus 
 - Make the learning program part of the challenge? Can be taken all in one day
 - THINK ABOUT 4 corners page, is it necessary ? maybe remove pictures, put the topics in the monthly topics section?
 
