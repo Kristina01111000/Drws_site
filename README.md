@@ -30,7 +30,7 @@ Hours worked June: 8 hour 50 min -> recieved
 
 Hours worked July: 7 hour 20 min
 
-Hours worked August: 4 hour 30 min
+Hours worked August: 4 hour 35 min
  
 plugins im using on site:
 
@@ -204,8 +204,6 @@ completely changing promo page
 - Work on 30 day challenge page, figure out how to put the 4 elements into it
 - Make the learning program part of the challenge? Can be taken all in one day
 - THINK ABOUT 4 corners page, is it necessary ? maybe remove pictures, put the topics in the monthly topics section?
-
-- double check videso in lessons
 - text for lessons maybe? side pages? from the promo page? 
 --------------------------------------------------------
 30 day challenge potential sentences:
@@ -220,3 +218,4 @@ completely changing promo page
 - need to figure out the wordage of the challenge page to get people to sign up
 - need to set up email, constant contact account + plugin, needs to be bought
 - should add asection with 30 day challenge content on promo page
+- promo video on youtube on top of promo page?
