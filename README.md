@@ -197,8 +197,6 @@ completely changing promo page
 
 
 - Figure how to add him to google analytics5
-- See if i can stop myself from counting in google analytics
-- See if i can set up analytics for syracuse natural healing and 4 element institute if he can be the owner of it if i can;t make him the owner the talk him through setting it up next week
 - THINK ABOUT moving the part above practical benefits into the first lesson
 - 30 day challenge what makes it interesting is how we include the four elements into it 
 - Work on 30 day challenge page, figure out how to put the 4 elements into it
