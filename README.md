@@ -30,7 +30,7 @@ Hours worked June: 8 hour 50 min -> recieved
 
 Hours worked July: 7 hour 20 min
 
-Hours worked August: 4 hour 35 min
+Hours worked August: 4 hour 45 min
  
 plugins im using on site:
 
@@ -217,3 +217,4 @@ completely changing promo page
 - need to set up email, constant contact account + plugin, needs to be bought
 - should add asection with 30 day challenge content on promo page
 - promo video on youtube on top of promo page?
+- set up analytics for other sites if he is admin for growing
