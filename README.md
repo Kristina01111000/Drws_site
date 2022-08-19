@@ -217,7 +217,6 @@ completely changing promo page
 Add spaces between bullet points on promo page bullets
 Change it to septembers topic
 For topic pages make first letter be capitalized, remove italics, nutrition already done
-Add intro video to the promo page
  analytics add him as an admin for other sites
 Fix spacing and sizing of video
 See if i can embed the arrow in practical benefits into the bullet list
