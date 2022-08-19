@@ -220,4 +220,3 @@ For topic pages make first letter be capitalized, remove italics, nutrition alre
  analytics add him as an admin for other sites
 Fix spacing and sizing of video
 See if i can embed the arrow in practical benefits into the bullet list
-Move button to just above words from dr w
