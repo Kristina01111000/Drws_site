@@ -207,14 +207,8 @@ completely changing promo page
 30 day challenge potential sentences:
 ****paragraph about why using the score card will help you live a more holistic life**** I'm not sure what parts to take from the intro on the scorecard page, it all seems useful ---- what makes our holistic program interesting is how we include the four elements into it---- our 30 day challenge is built upon each of the four elements---- as you move through the 30 day challenge you will learn
 --------------------------------------------------------
-- top of promo page done -> from email
-- still getting emails from 4elelife, also comment checking requests
-- nutrition page done
-- personal growth needs work, which text do you want on it?
-- body awareness done
-- does he still want seperators now that the page is smaller?
+
 - need to figure out the wordage of the challenge page to get people to sign up
 - need to set up email, constant contact account + plugin, needs to be bought
-- should add asection with 30 day challenge content on promo page
-- promo video on youtube on top of promo page?
+- should fix section with 30 day challenge content on promo page
 - set up analytics for other sites if he is admin for growing
