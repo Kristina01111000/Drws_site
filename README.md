@@ -212,3 +212,13 @@ completely changing promo page
 - need to set up email, constant contact account + plugin, needs to be bought
 - should fix section with 30 day challenge content on promo page
 - set up analytics for other sites if he is admin for growing
+
+
+Add spaces between bullet points on promo page bullets
+Change it to septembers topic
+For topic pages make first letter be capitalized, remove italics, nutrition already done
+Add intro video to the promo page
+Add analytics to other sites and add him as an admin
+Fix spacing and sizing of video
+See if i can embed the arrow in practical benefits into the bullet list
+Move button to just above words from dr w
