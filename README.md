@@ -42,7 +42,7 @@ plugins im using on site:
 - aksimet
 - total upkeep
 - widget context 
-- code snippets -> remove it if he wants the image there, remove it still?
+- code snippets -> needed for google analytics
 - autoptimization (not css, messed it up really bad)
 - w3 total cache
 - layout grid block
