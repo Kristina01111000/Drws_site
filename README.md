@@ -43,8 +43,8 @@ plugins im using on site:
 - total upkeep
 - widget context 
 - code snippets -> needed for google analytics
-- autoptimization (not css, messed it up really bad)
-- w3 total cache
+- autoptimization (not css, messed it up really bad) - not using it anymore
+- w3 total cache - not anymore
 - layout grid block
 - wp-staging -> deactivate when not in use
 - wp-forms -> contact page
