@@ -30,7 +30,7 @@ Hours worked June: 8 hour 50 min -> recieved
 
 Hours worked July: 7 hour 20 min
 
-Hours worked August: 6 hour 30 min
+Hours worked August: 6 hour 45 min
  
 plugins im using on site:
 
@@ -218,7 +218,7 @@ Add spaces between bullet points on promo page bullets
 Change it to septembers topic
 For topic pages make first letter be capitalized, remove italics, nutrition already done
 Add intro video to the promo page
-Add analytics to other sites and add him as an admin
+ analytics add him as an admin for other sites
 Fix spacing and sizing of video
 See if i can embed the arrow in practical benefits into the bullet list
 Move button to just above words from dr w
