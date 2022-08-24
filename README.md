@@ -198,7 +198,6 @@ completely changing promo page
 - THINK ABOUT moving the part above practical benefits into the first lesson
 - 30 day challenge what makes it interesting is how we include the four elements into it 
 - Work on 30 day challenge page, figure out how to put the 4 elements into it
-- Make the learning program part of the challenge? Can be taken all in one day
 - THINK ABOUT 4 corners page, is it necessary ? maybe remove pictures, put the topics in the monthly topics section?
 - text for lessons maybe? side pages? from the promo page? 
 --------------------------------------------------------
@@ -206,7 +205,6 @@ completely changing promo page
 ****paragraph about why using the score card will help you live a more holistic life**** I'm not sure what parts to take from the intro on the scorecard page, it all seems useful ---- what makes our holistic program interesting is how we include the four elements into it---- our 30 day challenge is built upon each of the four elements---- as you move through the 30 day challenge you will learn
 --------------------------------------------------------
 
-- need to figure out the wordage of the challenge page to get people to sign up
 - need to set up email, constant contact account + plugin, needs to be bought
 - set up analytics for other sites if he is admin for growing
 
