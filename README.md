@@ -215,3 +215,4 @@ still gettign emails for 4elifestyle
 talk about the page redirect, should it go to the 30 day challenge?
 Make joining part of the 30 day challenge? or just have them join mailing list?
 
+rethink the whole site? do we need teh great outdoors section>?
