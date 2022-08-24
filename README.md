@@ -214,3 +214,5 @@ For topic pages make first letter be capitalized, remove italics, nutrition alre
  analytics add him as an admin for other sites
 
 still gettign emails for 4elifestyle
+talk about the page redirect, should it go to the 30 day challenge
+
