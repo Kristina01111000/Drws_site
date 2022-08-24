@@ -208,12 +208,11 @@ completely changing promo page
 
 - need to figure out the wordage of the challenge page to get people to sign up
 - need to set up email, constant contact account + plugin, needs to be bought
-- should fix section with 30 day challenge content on promo page
 - set up analytics for other sites if he is admin for growing
 
 
 
 For topic pages make first letter be capitalized, remove italics, nutrition already done
  analytics add him as an admin for other sites
-Fix spacing and sizing of video
+
 still gettign emails for 4elifestyle
