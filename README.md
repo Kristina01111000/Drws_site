@@ -216,5 +216,4 @@ completely changing promo page
 For topic pages make first letter be capitalized, remove italics, nutrition already done
  analytics add him as an admin for other sites
 Fix spacing and sizing of video
-See if i can embed the arrow in practical benefits into the bullet list
 still gettign emails for 4elifestyle
