@@ -212,7 +212,7 @@ completely changing promo page
 - set up analytics for other sites if he is admin for growing
 
 
-Add spaces between bullet points on promo page bullets
+
 For topic pages make first letter be capitalized, remove italics, nutrition already done
  analytics add him as an admin for other sites
 Fix spacing and sizing of video
