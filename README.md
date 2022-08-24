@@ -209,9 +209,7 @@ completely changing promo page
 - set up analytics for other sites if he is admin for growing
 
 
-
-For topic pages make first letter be capitalized, remove italics, nutrition already done
- analytics add him as an admin for other sites
+ analytics add him as an admin for other sites -> check
 
 still gettign emails for 4elifestyle
 talk about the page redirect, should it go to the 30 day challenge
