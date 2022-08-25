@@ -206,16 +206,12 @@ completely changing promo page
 --------------------------------------------------------
 
 - need to set up email, constant contact account + plugin, needs to be bought
-- set up analytics for other sites if he is admin for growing
-
 
  analytics add him as an admin for other sites -> check
 
 still gettign emails for 4elifestyle
 talk about the page redirect, should it go to the 30 day challenge?
 Make joining part of the 30 day challenge? or just have them join mailing list?
-
-rethink the whole site? do we need teh great outdoors section>?
 
 
 He got the final proof of his book to a printer!
