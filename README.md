@@ -211,7 +211,7 @@ completely changing promo page
 
 still gettign emails for 4elifestyle
 talk about the page redirect, should it go to the 30 day challenge?
-Make joining part of the 30 day challenge? or just have them join mailing list?
+- Make joining part of the 30 day challenge? or just have them join mailing list? Need this cleared up to finish site
 
 
 He got the final proof of his book to a printer!
