@@ -105,11 +105,6 @@ To Do:
 - change default user image
 	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
 	- explains how to do it, need to figure out the default images we want
-- emails every week? multiple times a week?
-- add cancel course early section to page and get prior month free
-- see if users who don't join in with email confirmation can automatically be deleted after a week
-
-
 
 To Do:
 
@@ -133,7 +128,6 @@ Survey stuff:
 		- wpforms pro does not work the way he wants
 		- tryuquiz does not work
 		- he is taking care of the quiz
-		-
 	
 
 
@@ -146,8 +140,7 @@ to do now:
 
 - is there a contact form on the site? -> wp forms is on the site, but i don't have it set up or anything, does he want a contact form for it?
 
-- ask him about the site linked in his book -> 4elementyoga.com does not exist, link to 4elifestyle instead, growing instead? 
-- I don't think having a site specifically for just yoga is a good idea -> you already have so many sites, you don't want people who want to learn to have to go to 10 different sites
+
 - look at the alt text on the images -> avoid lawsuits, I think we're in the clear images are used for window dressing, check on free web tester
 - check login attempts 
 
