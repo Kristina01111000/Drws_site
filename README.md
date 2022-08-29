@@ -84,7 +84,6 @@ Notes:
 			- does peepso change the pages numbers when new updates are made?
 	- **make sure to use peepso login and log out, not pmp login and logout**
 	- forward comment emails to him
-	- all youtube videos need to be on the matching youtube page
 	- .customclass is the class name to add a border around a group
 	- capitalize the element names everywhere
 	- wants some posts that visible always, some that are unlisted that he uses other sources
@@ -144,16 +143,7 @@ to do now:
 - look at the alt text on the images -> avoid lawsuits, I think we're in the clear images are used for window dressing, check on free web tester
 - check login attempts 
 
-- add a hover color to buttons -> the css isn;t working for some reason :( could it be a problem with the customize page in general?
-
-- still doesn't automatically update :(, is it a problem with peepso?
-
-- Add tiny habits section on why it works scorecard page, into read more section -> not a seperate page
-
-
-On scorecard page
-See if links have to be underlined all or nothing, or if links on scorecard page can be underlined, use inline text decoration, make it stand out on the page
-Try a button?
+- Add tiny habits section on why it works scorecard page, into read more section -> not a seperate page?
 
 See if there is a way to see how many people downloaded the scorecard, use google for site analytics - he needs a google workspace account for this
 
