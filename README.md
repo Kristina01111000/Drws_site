@@ -221,3 +221,6 @@ Have the join page be just about the challenge and have a drop down menu page to
 Add a monthly total for each element 
 Put the daily totals at the bottom of the element, not the top
 He will send me the page for join
+
+add to to do list:
+still getting emails as admin for four element lifestyle
