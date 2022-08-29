@@ -208,4 +208,7 @@ add to to do list:
 still getting emails as admin for four element lifestyle
 
 
-scorecard edits needed
+scorecard edits needed:
+- Add a monthly total for each element 
+- Put the daily totals at the bottom of the element, not the top
+- make more clear?
