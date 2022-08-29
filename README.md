@@ -223,3 +223,6 @@ He will send me the page for join
 
 add to to do list:
 still getting emails as admin for four element lifestyle
+
+
+scorecard edits needed
