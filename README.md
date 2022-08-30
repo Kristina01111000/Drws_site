@@ -206,7 +206,7 @@ He will send me the page for join
 
 add to to do list:
 still getting emails as admin for four element lifestyle
-
+- is he sending me text for the join page?
 
 scorecard edits needed:
 - Add a monthly total for each element 
