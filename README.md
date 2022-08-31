@@ -150,19 +150,10 @@ See if there is a way to see how many people downloaded the scorecard, use googl
 
 
 ---- After meeting with Donovan, I’m thinking this:
-
-People might respond better to a 30 day program; "Dr. W's 30 day program will help you jumpstart your holistic journey.”
-
-
 We need link to our Youtube channel very present on home page and perhaps the promo page.
 Perhaps in Youtube descriptions of each Quick Minute videos we’ll put in”Join up and get access to Dr. W’s free 30 day Holistic Learning Program.”
-
-He felt that the Home page was a bit overwhelming to a first time person. Maybe put August’s Topic: on the top right and move the current right sided widget to below the left side’s 4E Story widget. -> i made different changes
-
 -> Added documentary to header under holistic growth, made that widget only visible on the promo page
 -> Add a widget that links to the youtube channel?
-
-
 ---- Any thoughts?
 
 
