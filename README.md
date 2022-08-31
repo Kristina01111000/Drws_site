@@ -28,9 +28,9 @@ Hours worked May: 8 hour 20 min -> recieved
 
 Hours worked June: 8 hour 50 min -> recieved
 
-Hours worked July: 7 hour 20 min -> need to go to bank to deposit it
+Hours worked July: 7 hour 20 min -> recieved
 
-Hours worked August: 8 hour 45 min
+Hours worked August: 9 hour 10 min
  
 plugins im using on site:
 
