@@ -213,9 +213,9 @@ scorecard edits needed:
 - Add a monthly total for each element 
 - Put the daily totals at the bottom of the element, not the top
 - make more clear?
+- made yearly not available to users
 
-
-the link to the scorecard brought him to the weekly version of it; it was hard for him to get to the daily one. Let’s get rid of the weekly one altogether, along with the monthly 2023s at the bottom. At the bottom perhaps we can have additional daily (31 day) ones so that they have easy access to ones for the following months.
+along with the monthly 2023s at the bottom. At the bottom perhaps we can have additional daily (31 day) ones so that they have easy access to ones for the following months.
 
 When you can, move the Daily totals to the bottom of each element.
 Instead of Challenge Totals, shouldn’t they be Monthly totals; Can therealso be a place for Totals for all elements (combined) for each day at the bottom of each day’s column and for all elements combined below at ~ AH53?
