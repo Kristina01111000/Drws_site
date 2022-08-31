@@ -203,11 +203,10 @@ Look into how to sell the file of his ebook + format the illustrations
 Have the join page be just about the challenge and have a drop down menu page to explain the scorecard + how to use it + link, make a screenshot of the scorecard with some numbers and put it on the page + make it link to it, email list/ youtube channel, 
 Add a monthly total for each element 
 Put the daily totals at the bottom of the element, not the top
-He will send me the page for join
+
 
 add to to do list:
 still getting emails as admin for four element lifestyle
-- is he sending me text for the join page?
 
 
  and for all elements combined below at ~ AH53?
