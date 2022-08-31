@@ -216,4 +216,4 @@ scorecard edits needed:
 
 along with the monthly 2023s at the bottom. At the bottom perhaps we can have additional daily (31 day) ones so that they have easy access to ones for the following months.
 
-Instead of Challenge Totals, shouldn’t they be Monthly totals; Can therealso be a place for Totals for all elements (combined) for each day at the bottom of each day’s column and for all elements combined below at ~ AH53?
+ and for all elements combined below at ~ AH53?
