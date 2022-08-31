@@ -201,7 +201,7 @@ talk about the page redirect, should it go to the 30 day challenge?
 He got the final proof of his book to a printer!
 Look into how to sell the file of his ebook + format the illustrations
 Have the join page be just about the challenge and have a drop down menu page to explain the scorecard + how to use it + link, make a screenshot of the scorecard with some numbers and put it on the page + make it link to it, email list/ youtube channel, 
-Add a monthly total for each element 
+
 Put the daily totals at the bottom of the element, not the top
 
 
@@ -209,4 +209,3 @@ add to to do list:
 still getting emails as admin for four element lifestyle
 
 
- and for all elements combined below at ~ AH53?
