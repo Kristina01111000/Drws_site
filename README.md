@@ -159,13 +159,11 @@ Perhaps in Youtube descriptions of each Quick Minute videos we’ll put in”Joi
 
 He felt that the Home page was a bit overwhelming to a first time person. Maybe put August’s Topic: on the top right and move the current right sided widget to below the left side’s 4E Story widget. -> i made different changes
 
--> Added score card to header, removed “have you downloaded your score card” widget
 -> Added documentary to header under holistic growth, made that widget only visible on the promo page
 -> Add a widget that links to the youtube channel?
-- fix weeks away from learning program
+
 
 ---- Any thoughts?
-30 day challenge stuff is on a new page /join, add a new button when ready
 
 
 - Make quizzes optional, see if we can add some sort of reward for people who finish it
@@ -202,10 +200,7 @@ He got the final proof of his book to a printer!
 Look into how to sell the file of his ebook + format the illustrations
 Have the join page be just about the challenge and have a drop down menu page to explain the scorecard + how to use it + link, make a screenshot of the scorecard with some numbers and put it on the page + make it link to it, email list/ youtube channel, 
 
-Put the daily totals at the bottom of the element, not the top
 
 
-add to to do list:
-still getting emails as admin for four element lifestyle
 
 
