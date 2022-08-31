@@ -209,11 +209,5 @@ add to to do list:
 still getting emails as admin for four element lifestyle
 - is he sending me text for the join page?
 
-scorecard edits needed:
-- Add a monthly total for each element 
-- make more clear?
-- made yearly not available to users
-
-along with the monthly 2023s at the bottom. At the bottom perhaps we can have additional daily (31 day) ones so that they have easy access to ones for the following months.
 
  and for all elements combined below at ~ AH53?
