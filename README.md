@@ -99,6 +99,7 @@ Notes:
 	- current font sizes chould continue on through the site
 	- Manager of youtube now also -> can change/add etc videos and everything
 	- yearly scorecard ink: https://docs.google.com/spreadsheets/d/1IxK22ihszAVXQgxLD9di-MhoP3kERT8SlfXiGddOmhc/edit
+	- check names of lessons on promo page when new youtube video is dropped
 	
 To Do:
 
