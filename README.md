@@ -195,6 +195,7 @@ Look into how to sell the file of his ebook + format the illustrations
 Have the join page be just about the challenge and have a drop down menu page to explain the scorecard + how to use it + link, make a screenshot of the scorecard with some numbers and put it on the page + make it link to it, email list/ youtube channel, 
 
 
-
+- make quiz for lesson 2
+- make quiz for lesson 3
 
 
