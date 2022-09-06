@@ -32,7 +32,7 @@ Hours worked July: 7 hour 20 min -> recieved
 
 Hours worked August: 9 hour 10 min
 
-Hours worked September: 1 hour 50 minutes
+Hours worked September: 2 hour 0 minutes
  
 plugins im using on site:
 
@@ -201,7 +201,7 @@ Have the join page be just about the challenge and have a drop down menu page to
 	
 look at emails for edits to site
 - dropdown menu list
-- scorecard how/why
+- scorecard how/why -> made page, need to link it
 - join here
 - gh shortlist
 - gh anchors
