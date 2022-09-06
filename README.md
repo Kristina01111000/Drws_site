@@ -198,5 +198,13 @@ Have the join page be just about the challenge and have a drop down menu page to
 - make quiz for lesson 2
 - make quiz for lesson 3 -> make sure to be careful with this one ;(
 	- try for 8 questions each
+	
+look at emails for edits to site
+- dropdown menu list
+- scorecard how/why
+- join here
+- gh shortlist
+- gh anchors
+- routines doc
 
 
