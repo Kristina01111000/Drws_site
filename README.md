@@ -201,7 +201,7 @@ Have the join page be just about the challenge and have a drop down menu page to
 	
 look at emails for edits to site
 - dropdown menu list
-- scorecard how/why -> made page, need to link it
+- scorecard how/why -> make page for longer activities, link to it on shorter page, + menu
 - join here
 - gh shortlist
 - gh anchors
