@@ -32,7 +32,7 @@ Hours worked July: 7 hour 20 min -> recieved
 
 Hours worked August: 9 hour 10 min
 
-Hours worked September: 2 hour 45 minutes
+Hours worked September: 2 hour 55 minutes
  
 plugins im using on site:
 
@@ -192,7 +192,7 @@ talk about the page redirect, should it go to the 30 day challenge?
 
 He got the final proof of his book to a printer!
 Look into how to sell the file of his ebook + format the illustrations
-Have the join page be just about the challenge and have a drop down menu page to explain the scorecard + how to use it + link, make a screenshot of the scorecard with some numbers and put it on the page + make it link to it, email list/ youtube channel, 
+
 
 
 - make quiz for lesson 2
@@ -201,5 +201,5 @@ Have the join page be just about the challenge and have a drop down menu page to
 	
 look at emails for edits to site
 
-make join page changes
+
 
