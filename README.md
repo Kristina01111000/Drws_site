@@ -32,7 +32,7 @@ Hours worked July: 7 hour 20 min -> recieved
 
 Hours worked August: 9 hour 10 min
 
-Hours worked September: 2 hour 10 minutes
+Hours worked September: 2 hour 20 minutes
  
 plugins im using on site:
 
@@ -209,4 +209,5 @@ look at emails for edits to site
 how and why -> 4 e scorecard
 switch promo page url to /holistic-30-day-challenge
 make join page changes
-
+add form to join page
+make new secondray page for signing up
