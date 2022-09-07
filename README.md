@@ -32,7 +32,7 @@ Hours worked July: 7 hour 20 min -> recieved
 
 Hours worked August: 9 hour 10 min
 
-Hours worked September: 2 hour 25 minutes
+Hours worked September: 2 hour 35 minutes
  
 plugins im using on site:
 
@@ -200,12 +200,11 @@ Have the join page be just about the challenge and have a drop down menu page to
 	- try for 8 questions each
 	
 look at emails for edits to site
-- dropdown menu list -> fix names, he changed them
+
 - scorecard how/why -> make page for longer activities, link to it on shorter page, + menu
 - join here
 - gh shortlist
 - gh anchors
 - routines doc
-how and why -> 4 e scorecard
 switch promo page url to /holistic-30-day-challenge
 make join page changes
