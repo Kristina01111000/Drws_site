@@ -199,7 +199,9 @@ Look into how to sell the file of his ebook + format the illustrations
 - make quiz for lesson 3 -> make sure to be careful with this one ;(
 	- try for 8 questions each
 	
-look at emails for edits to site
+look at emails for edits to site -> mostly doen
+made words from dr w page
+
 
 
 
