@@ -209,5 +209,4 @@ look at emails for edits to site
 how and why -> 4 e scorecard
 switch promo page url to /holistic-30-day-challenge
 make join page changes
-add form to join page
 make new secondray page for signing up
