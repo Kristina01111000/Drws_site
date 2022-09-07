@@ -200,7 +200,6 @@ Have the join page be just about the challenge and have a drop down menu page to
 	- try for 8 questions each
 	
 look at emails for edits to site
-- routines doc
-switch promo page url to /holistic-30-day-challenge
+
 make join page changes
 
