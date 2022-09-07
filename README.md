@@ -200,9 +200,6 @@ Have the join page be just about the challenge and have a drop down menu page to
 	- try for 8 questions each
 	
 look at emails for edits to site
-
-- scorecard how/why -> make page for longer activities, link to it on shorter page, + menu
-- join here
 - gh shortlist
 - gh anchors
 - routines doc
