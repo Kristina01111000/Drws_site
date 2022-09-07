@@ -32,7 +32,7 @@ Hours worked July: 7 hour 20 min -> recieved
 
 Hours worked August: 9 hour 10 min
 
-Hours worked September: 2 hour 40 minutes
+Hours worked September: 2 hour 45 minutes
  
 plugins im using on site:
 
@@ -200,8 +200,7 @@ Have the join page be just about the challenge and have a drop down menu page to
 	- try for 8 questions each
 	
 look at emails for edits to site
-- gh anchors
 - routines doc
 switch promo page url to /holistic-30-day-challenge
 make join page changes
-add anchors to the extended activities page
+
