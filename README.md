@@ -206,5 +206,7 @@ look at emails for edits to site
 - gh shortlist
 - gh anchors
 - routines doc
-
+how and why -> 4 e scorecard
+switch promo page url to /holistic-30-day-challenge
+make join page changes
 
