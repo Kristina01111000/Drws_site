@@ -204,3 +204,4 @@ look at emails for edits to site
 - routines doc
 switch promo page url to /holistic-30-day-challenge
 make join page changes
+add anchors to the extended activities page
