@@ -203,5 +203,12 @@ look at emails for edits to site -> mostly doen
 made words from dr w page
 
 
+Switch click here to join widget to the join here page
+On join here page add a half a space to the bullets
+Add new dropdown pages to the exceptions for non-users
+Add a link to the scorecard, add the hand drawn one to the link 
+In activities more detail page, add half spacing between the links
+Make the download links bold
+Add links to scorecard page on all of them
 
 
