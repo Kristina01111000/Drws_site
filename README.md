@@ -177,9 +177,6 @@ completely changing promo page
 - THINK ABOUT 4 corners page, is it necessary ? maybe remove pictures, put the topics in the monthly topics section?
 - text for lessons maybe? side pages? from the promo page? 
 --------------------------------------------------------
-30 day challenge potential sentences:
-****paragraph about why using the score card will help you live a more holistic life**** I'm not sure what parts to take from the intro on the scorecard page, it all seems useful ---- what makes our holistic program interesting is how we include the four elements into it---- our 30 day challenge is built upon each of the four elements---- as you move through the 30 day challenge you will learn
---------------------------------------------------------
 
 - need to set up email, constant contact account + plugin, needs to be bought
 
