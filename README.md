@@ -171,9 +171,6 @@ completely changing promo page
 
 
 - Figure how to add him to google analytics5
-- THINK ABOUT moving the part above practical benefits into the first lesson
-- 30 day challenge what makes it interesting is how we include the four elements into it 
-- Work on 30 day challenge page, figure out how to put the 4 elements into it
 - THINK ABOUT 4 corners page, is it necessary ? maybe remove pictures, put the topics in the monthly topics section?
 - text for lessons maybe? side pages? from the promo page? 
 --------------------------------------------------------
