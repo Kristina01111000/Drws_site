@@ -62,7 +62,7 @@ https://web.dev/measure/:
 TO do in future:
 	- Come up with a prompt for the chat page for all lessons, not too long
 	- Make chats for other people that sound good, 2 to 3 people
-	- make quizzes for each lesson 
+	- make quizzes for each lesson need to do lesson 2 and 3
 
 Notes:
 
