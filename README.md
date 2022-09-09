@@ -102,12 +102,7 @@ Notes:
 	- Manager of youtube now also -> can change/add etc videos and everything
 	- yearly scorecard ink: https://docs.google.com/spreadsheets/d/1IxK22ihszAVXQgxLD9di-MhoP3kERT8SlfXiGddOmhc/edit
 	- check names of lessons on promo page when new youtube video is dropped
-	
-To Do:
 
-- change default user image
-	-https://www.peepso.com/documentation/assets-overrides-customizing-peepso-images/ 
-	- explains how to do it, need to figure out the default images we want
 
 To Do:
 
