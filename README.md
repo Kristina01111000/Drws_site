@@ -110,7 +110,6 @@ To Do:
 - monthly topics are archived as a lesson in a course -> he if going to reuse them
 	- they can be deleted after a while if he wants (only go back for 3 months)
 	- he wants to reuse them each year (unlist them for next year)
-- set categories to air, fire, water, earth
 - put about 6-8 questions in quizzes most of the time
 
 Survey stuff:
@@ -133,16 +132,13 @@ to do now:
 
 - check text color settings, he wants "say what you think" to be a different color
 - Color issue in forms, text boxes are too similar to background color, to pale green, or creamy color
-- hide lessons so they can't be seen by users until available?
 - Make chats for other people that sound good, 2 to 3 people
 
 - is there a contact form on the site? -> wp forms is on the site, but i don't have it set up or anything, does he want a contact form for it?
 
-
 - look at the alt text on the images -> avoid lawsuits, I think we're in the clear images are used for window dressing, check on free web tester
 - check login attempts 
 
-- Add tiny habits section on why it works scorecard page, into read more section -> not a seperate page?
 
 See if there is a way to see how many people downloaded the scorecard, use google for site analytics - he needs a google workspace account for this
 
