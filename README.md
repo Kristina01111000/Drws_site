@@ -199,3 +199,4 @@ Add links to scorecard page on all of them
 scorecard link:
 https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit#gid=1517792507
 He is making more changes to the scorecard
+check that 4 e scorecard is only editable by us
