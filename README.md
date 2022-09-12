@@ -32,7 +32,7 @@ Hours worked July: 7 hour 20 min -> recieved
 
 Hours worked August: 9 hour 10 min
 
-Hours worked September: 4 hour 05 minutes
+Hours worked September: 4 hour 10 minutes
  
 plugins im using on site:
 
