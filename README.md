@@ -32,7 +32,7 @@ Hours worked July: 7 hour 20 min -> recieved
 
 Hours worked August: 9 hour 10 min
 
-Hours worked September: 4 hour 15 minutes
+Hours worked September: 4 hour 20 minutes
  
 plugins im using on site:
 
@@ -200,3 +200,4 @@ scorecard link:
 https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit#gid=1517792507
 He is making more changes to the scorecard
 check that 4 e scorecard is only editable by us
+Finalize scorecard page
