@@ -188,13 +188,11 @@ look at emails for edits to site -> mostly doen
 made words from dr w page
 
 
-Switch click here to join widget to the join here page
-On join here page add a half a space to the bullets
-Add new dropdown pages to the exceptions for non-users
-Add a link to the scorecard, add the hand drawn one to the link 
-In activities more detail page, add half spacing between the links
-Make the download links bold
-Add links to scorecard page on all of them
+- Switch click here to join widget to the join here page
+- On join here page add a half a space to the bullets
+- In activities more detail page, add half spacing between the links
+- Make the download links bold
+- Add links to scorecard page on all of them
 
 scorecard link:
 https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit#gid=1517792507
