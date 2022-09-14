@@ -184,10 +184,6 @@ Look into how to sell the file of his ebook + format the illustrations
 - make quiz for lesson 3 -> make sure to be careful with this one ;(
 	- try for 8 questions each
 	
-look at emails for edits to site -> mostly doen
-made words from dr w page
-
-
 
 scorecard link:
 https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit#gid=1517792507
