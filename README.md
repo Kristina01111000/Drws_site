@@ -32,7 +32,7 @@ Hours worked July: 7 hour 20 min -> recieved
 
 Hours worked August: 9 hour 10 min
 
-Hours worked September: 4 hour 20 minutes
+Hours worked September: 4 hour 40 minutes
  
 plugins im using on site:
 
@@ -188,10 +188,6 @@ look at emails for edits to site -> mostly doen
 made words from dr w page
 
 
-- Switch click here to join widget to the join here page
-- On join here page add a half a space to the bullets
-- Make the download links bold
-- Add links to scorecard page on all of them
 
 scorecard link:
 https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit#gid=1517792507
