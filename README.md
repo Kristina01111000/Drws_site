@@ -206,3 +206,4 @@ Finalize scorecard page
 - Put 31 days in the months not hte first one on scorecard, he’s going to put tips in
 - On scorecard get rid of lines after 70
 - figure out how to sell his ebook on his site
+- send him my invoice
