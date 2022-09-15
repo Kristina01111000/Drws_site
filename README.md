@@ -188,8 +188,7 @@ Look into how to sell the file of his ebook + format the illustrations
 scorecard link:
 https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit#gid=1517792507
 He is making more changes to the scorecard
-check that 4 e scorecard is only editable by us
-Finalize scorecard page
+Finalize scorecard page - nearly there
 
 
 
