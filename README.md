@@ -190,3 +190,17 @@ https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROX
 He is making more changes to the scorecard
 check that 4 e scorecard is only editable by us
 Finalize scorecard page
+
+
+
+On the two scorecard pages add buttons that link them to scorecard page, anchor it to the actual download section
+Add an anchor on the scorecard page that skips down the four paragraphs in 4 element scorecard first paragraph, everywhere include the anchor link where it says 4 element scorecard
+Make some questions about the chair exercise for the quiz, remove the have you tried it from the quiz
+What part of the foot is involved in the chair exercise is a good question heel, toes, ball
+Nutrition videos will be up soon
+Make quiz for the 3rd lesson
+Change chat link to ‘share your thoughts about this lesson here’ no exclamation point, change that for every lesson
+Make the monthly topics be articles, delete the course, put article in a page
+Try making a new homepage for the site, think about what should be on it, scorecard, monthly topics, course, youtube channel
+Finish changing dr w story to about dr w
+Put 31 days in the months not hte first one on scorecard, he’s going to put tips in
