@@ -204,3 +204,4 @@ Finalize scorecard page
 - Try making a new homepage for the site, think about what should be on it, scorecard, monthly topics, course, youtube channel
 - Finish changing dr w story to about dr w
 - Put 31 days in the months not hte first one on scorecard, he’s going to put tips in
+- On scorecard get rid of lines after 70
