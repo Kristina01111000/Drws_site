@@ -32,7 +32,7 @@ Hours worked July: 7 hour 20 min -> recieved
 
 Hours worked August: 9 hour 10 min
 
-Hours worked September: 4 hour 45 minutes
+Hours worked September: 5 hour 5 minutes
  
 plugins im using on site:
 
@@ -147,7 +147,7 @@ See if there is a way to see how many people downloaded the scorecard, use googl
 We need link to our Youtube channel very present on home page and perhaps the promo page.
 Perhaps in Youtube descriptions of each Quick Minute videos we’ll put in”Join up and get access to Dr. W’s free 30 day Holistic Learning Program.”
 -> Added documentary to header under holistic growth, made that widget only visible on the promo page
--> Add a widget that links to the youtube channel?
+
 ---- Any thoughts?
 
 
@@ -180,7 +180,7 @@ Look into how to sell the file of his ebook + format the illustrations
 
 
 
-- make quiz for lesson 2
+
 - make quiz for lesson 3 -> make sure to be careful with this one ;(
 	- try for 8 questions each
 	
