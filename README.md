@@ -32,7 +32,7 @@ Hours worked July: 7 hour 20 min -> recieved
 
 Hours worked August: 9 hour 10 min
 
-Hours worked September: 6 hour 20 minutes
+Hours worked September: 6 hour 30 minutes
  
 plugins im using on site:
 
@@ -205,3 +205,4 @@ Finalize scorecard page
 - Finish changing dr w story to about dr w
 - Put 31 days in the months not hte first one on scorecard, he’s going to put tips in
 - On scorecard get rid of lines after 70
+- figure out how to sell his ebook on his site
