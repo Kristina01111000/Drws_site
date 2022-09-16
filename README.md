@@ -178,13 +178,6 @@ talk about the page redirect, should it go to the 30 day challenge?
 He got the final proof of his book to a printer!
 Look into how to sell the file of his ebook + format the illustrations
 
-
-
-
-- make quiz for lesson 3 -> make sure to be careful with this one ;(
-	- try for 8 questions each
-	
-
 scorecard link:
 https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit#gid=1517792507
 He is making more changes to the scorecard
