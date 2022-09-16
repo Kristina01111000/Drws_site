@@ -32,7 +32,7 @@ Hours worked July: 7 hour 20 min -> recieved
 
 Hours worked August: 9 hour 10 min
 
-Hours worked September: 6 hour 35 minutes
+Hours worked September: 6 hour 45 minutes
  
 plugins im using on site:
 
@@ -196,11 +196,13 @@ Finalize scorecard page - nearly there
 - Add an anchor on the scorecard page that skips down the four paragraphs in 4 element scorecard first paragraph, everywhere include the anchor link where it says 4 element scorecard
 - Make some questions about the chair exercise for the quiz, remove the have you tried it from the quiz
 - What part of the foot is involved in the chair exercise is a good question heel, toes, ball
-- Nutrition videos will be up soon
 - Make quiz for the 3rd lesson
+- Make quiz for the 4th lesson
+- Make quiz for the 5th lesson
 - Change chat link to ‘share your thoughts about this lesson here’ no exclamation point, change that for every lesson
 - Try making a new homepage for the site, think about what should be on it, scorecard, monthly topics, course, youtube channel
 - Put 31 days in the months not hte first one on scorecard, he’s going to put tips in
 - On scorecard get rid of lines after 70
 - figure out how to sell his ebook on his site
 - send him my invoice
+- make sure lesson chat links go to correct chat
