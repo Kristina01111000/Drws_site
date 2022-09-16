@@ -195,7 +195,6 @@ Finalize scorecard page - nearly there
 - On the two scorecard pages add buttons that link them to scorecard page, anchor it to the actual download section
 - Add an anchor on the scorecard page that skips down the four paragraphs in 4 element scorecard first paragraph, everywhere include the anchor link where it says 4 element scorecard
 - Make some questions about the chair exercise for the quiz
-- What part of the foot is involved in the chair exercise is a good question heel, toes, ball
 - Make quiz for the 3rd lesson
 - Make quiz for the 4th lesson
 - Make quiz for the 5th lesson
