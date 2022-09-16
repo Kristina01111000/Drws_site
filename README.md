@@ -201,7 +201,6 @@ Finalize scorecard page - nearly there
 - Change chat link to ‘share your thoughts about this lesson here’ no exclamation point, change that for every lesson
 - Make the monthly topics be articles, delete the course, put article in a page
 - Try making a new homepage for the site, think about what should be on it, scorecard, monthly topics, course, youtube channel
-- Finish changing dr w story to about dr w
 - Put 31 days in the months not hte first one on scorecard, he’s going to put tips in
 - On scorecard get rid of lines after 70
 - figure out how to sell his ebook on his site
