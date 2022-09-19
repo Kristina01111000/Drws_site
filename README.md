@@ -197,6 +197,8 @@ Finalize scorecard page - nearly there
 	- link to the monthly topic (maybe include picture, maybe not)
 	- section about scorecard
 	- link to youtube channel playlist for quick minutes
+	- make sure to save the current homepage as a draft
+	- also switch to the new one once he confirms it
 - Put 31 days in the months not hte first one on scorecard, he’s going to put tips in
 - On scorecard get rid of lines after 70
 - figure out how to sell his ebook on his site
