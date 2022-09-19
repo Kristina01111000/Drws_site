@@ -190,6 +190,7 @@ Finalize scorecard page - nearly there
 - Make quiz for the 3rd lesson
 - Make quiz for the 4th lesson
 - Make quiz for the 5th lesson
+- figure out if there are nine lessons now, if so, change it to nine everywhere on the site
 - Change chat link to ‘share your thoughts about this lesson here’ no exclamation point, change that for every lesson
 - Try making a new homepage for the site, think about what should be on it, scorecard, monthly topics, course, youtube channel
 - Put 31 days in the months not hte first one on scorecard, he’s going to put tips in
