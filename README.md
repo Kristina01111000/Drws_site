@@ -184,8 +184,6 @@ He is making more changes to the scorecard
 Finalize scorecard page - nearly there
 
 
-
-- On the two scorecard pages add buttons that link them to scorecard page, anchor it to the actual download section
 - Make some questions about the chair exercise for the quiz
 - Make quiz for the 3rd lesson
 - Make quiz for the 4th lesson
