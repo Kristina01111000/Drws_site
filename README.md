@@ -200,3 +200,4 @@ Finalize scorecard page - nearly there
 - make sure lesson chat links go to correct chat -> need to switch yoga part 1 and the others beyond it, also add a ninth chat
 - ask him why he wants a second scorecard explanation page
 - go through the pages and delete the old/extra ones
+- go through links and make sure they only open a new tab when appropriate
