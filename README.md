@@ -202,7 +202,6 @@ Finalize scorecard page - nearly there
 - On scorecard get rid of lines after 70
 - figure out how to sell his ebook on his site
 - send him my invoice
-- make sure lesson chat links go to correct chat -> need to switch yoga part 1 and the others beyond it, also add a ninth chat
 - ask him why he wants a second scorecard explanation page
 - go through the pages and delete the old/extra ones
 - go through links and make sure they only open a new tab when appropriate
