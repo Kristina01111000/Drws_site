@@ -193,6 +193,10 @@ Finalize scorecard page - nearly there
 - figure out if there are nine lessons now, if so, change it to nine everywhere on the site
 - Change chat link to ‘share your thoughts about this lesson here’ no exclamation point, change that for every lesson
 - Try making a new homepage for the site, think about what should be on it, scorecard, monthly topics, course, youtube channel
+	- put a section about course
+	- link to the monthly topic (maybe include picture, maybe not)
+	- section about scorecard
+	- link to youtube channel playlist for quick minutes
 - Put 31 days in the months not hte first one on scorecard, he’s going to put tips in
 - On scorecard get rid of lines after 70
 - figure out how to sell his ebook on his site
