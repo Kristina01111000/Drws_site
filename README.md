@@ -190,7 +190,7 @@ Finalize scorecard page - nearly there
 - Make quiz for the 3rd lesson
 - Make quiz for the 4th lesson
 - Make quiz for the 5th lesson
-- figure out if there are nine lessons now, if so, change it to nine everywhere on the site
+- figure out if there are nine lessons now, if so, change it to nine everywhere on the site, and add a ninth chat for the summary
 - Try making a new homepage for the site, think about what should be on it, scorecard, monthly topics, course, youtube channel
 	- put a section about course
 	- link to the monthly topic (maybe include picture, maybe not)
