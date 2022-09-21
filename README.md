@@ -197,7 +197,6 @@ Finalize scorecard page - nearly there
 	- make sure to save the current homepage as a draft
 	- also switch to the new one once he confirms it
 - Put 31 days in the months not the first one on scorecard, he’s going to put tips in
-- On scorecard get rid of lines after 70
 - figure out how to sell his ebook on his site
 - send him my invoice
 - ask him why he wants a second scorecard explanation page
