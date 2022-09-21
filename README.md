@@ -184,7 +184,7 @@ He is making more changes to the scorecard
 Finalize scorecard page - nearly there
 
 
-- Make some questions about the chair exercise for the quiz
+
 - get confirmation on quiz for the 3rd lesson
 - Make quiz for the 4th lesson
 - Make quiz for the 5th lesson
