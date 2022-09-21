@@ -32,7 +32,7 @@ Hours worked July: 7 hour 20 min -> recieved
 
 Hours worked August: 9 hour 10 min
 
-Hours worked September: 7 hour 35 minutes
+Hours worked September: 8 hour 00 minutes
  
 plugins im using on site:
 
@@ -185,7 +185,7 @@ Finalize scorecard page - nearly there
 
 
 - Make some questions about the chair exercise for the quiz
-- Make quiz for the 3rd lesson
+- get confirmation on quiz for the 3rd lesson
 - Make quiz for the 4th lesson
 - Make quiz for the 5th lesson
 - figure out if there are nine lessons now, if so, change it to nine everywhere on the site, and add a ninth chat for the summary
