@@ -188,7 +188,6 @@ Finalize scorecard page - nearly there
 - get confirmation on quiz for the 3rd lesson
 - get confirmation on quiz for the 4th lesson
 - Make quiz for the 5th lesson
-- figure out if there are nine lessons now, if so, change it to nine everywhere on the site, and add a ninth chat for the summary
 - Try making a new homepage for the site
 	- make sure to save the current homepage as a draft
 	-  switch to the new one once he confirms it
