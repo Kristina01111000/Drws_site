@@ -189,8 +189,7 @@ Finalize scorecard page - nearly there
 - get confirmation on quiz for the 4th lesson
 - Make quiz for the 5th lesson
 - Try making a new homepage for the site
-	- make sure to save the current homepage as a draft
-	-  switch to the new one once he confirms it
+	- he is going to work on it
 - Put 31 days in the months not the first one on scorecard, he’s going to put tips in
 - figure out how to sell his ebook on his site
 - send him my invoice
