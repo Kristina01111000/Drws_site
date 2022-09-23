@@ -201,3 +201,6 @@ Fill in the days of the week in the monthly calendar for the scorecard months
 Change it to date in column 3 row 1 for the monthly one
 Remove mentions of the number of lessons from promo page and homepage
 Add a section about checking back every so often to see if there are new lessons
+
+
+- need to buy constant contact
