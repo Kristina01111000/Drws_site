@@ -30,7 +30,7 @@ Hours worked June: 8 hour 50 min -> recieved
 
 Hours worked July: 7 hour 20 min -> recieved
 
-Hours worked August: 9 hour 15 min
+Hours worked August: 9 hour 15 min -> sent
 
 Hours worked September: 9 hour 45 minutes
  
@@ -192,7 +192,6 @@ Finalize scorecard page - nearly there
 	- he is going to work on it
 - Put 31 days in the months not the first one on scorecard, he’s going to put tips in
 - figure out how to sell his ebook on his site
-- send him my invoice
 - go through the pages and delete the old/extra ones
 - go through links and make sure they only open a new tab when appropriate
 
