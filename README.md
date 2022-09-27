@@ -203,4 +203,4 @@ After finalizing scorecard :
 
 
 
-- need to buy constant contact
+- need to buy constant contact -> then set up the emails for the 30 day challenge
