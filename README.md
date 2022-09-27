@@ -127,12 +127,7 @@ Survey stuff:
 
 to do now:
 
-- check text color settings, he wants "say what you think" to be a different color
-- Color issue in forms, text boxes are too similar to background color, to pale green, or creamy color
 - Make chats for other people that sound good, 2 to 3 people
-
-- is there a contact form on the site? -> wp forms is on the site, but i don't have it set up or anything, does he want a contact form for it?
-
 - look at the alt text on the images -> avoid lawsuits, I think we're in the clear images are used for window dressing, check on free web tester
 - check login attempts 
 
