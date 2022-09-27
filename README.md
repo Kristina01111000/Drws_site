@@ -181,8 +181,10 @@ Look into how to sell the file of his ebook + format the illustrations
 scorecard link:
 https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit#gid=1517792507
 He is making more changes to the scorecard
-Finalize scorecard page - nearly there
 
+
+After finalizing scorecard :
+- Put 31 days in the months not the first one on scorecard, he’s going to put tips in
 
 
 - get confirmation on quiz for the 3rd lesson
@@ -190,7 +192,6 @@ Finalize scorecard page - nearly there
 - Make quiz for the 5th lesson
 - Try making a new homepage for the site
 	- he is going to work on it
-- Put 31 days in the months not the first one on scorecard, he’s going to put tips in
 - figure out how to sell his ebook on his site
 - go through the pages and delete the old/extra ones
 - go through links and make sure they only open a new tab when appropriate
