@@ -134,15 +134,6 @@ to do now:
 
 See if there is a way to see how many people downloaded the scorecard, use google for site analytics - he needs a google workspace account for this
 
-
----- After meeting with Donovan, I’m thinking this:
-We need link to our Youtube channel very present on home page and perhaps the promo page.
-Perhaps in Youtube descriptions of each Quick Minute videos we’ll put in”Join up and get access to Dr. W’s free 30 day Holistic Learning Program.”
--> Added documentary to header under holistic growth, made that widget only visible on the promo page
-
----- Any thoughts?
-
-
 - Make quizzes optional, see if we can add some sort of reward for people who finish it
 - Can we have people sign up to get an email once a day and other people once a week, different groups, email lists, starting at different times, chronological order when they join, everyday, every week , have them choose that, through peepso or learndash, or through a mailing thing, maybe constant contact, see if at allows chronological emails when you sign up
 - https://www.constantcontact.com/blog/automated-welcome-series/ 15 emails every 2 days, look at core vs plus
