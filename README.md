@@ -103,6 +103,7 @@ Notes:
 	- yearly scorecard ink: https://docs.google.com/spreadsheets/d/1IxK22ihszAVXQgxLD9di-MhoP3kERT8SlfXiGddOmhc/edit
 	- check names of lessons on promo page when new youtube video is dropped
 	- Monthly topics will be articles now, not a class
+	- page redirect completely turned off, might be that way now for sure
 
 
 To Do:
