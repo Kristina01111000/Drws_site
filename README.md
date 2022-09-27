@@ -102,14 +102,11 @@ Notes:
 	- Manager of youtube now also -> can change/add etc videos and everything
 	- yearly scorecard ink: https://docs.google.com/spreadsheets/d/1IxK22ihszAVXQgxLD9di-MhoP3kERT8SlfXiGddOmhc/edit
 	- check names of lessons on promo page when new youtube video is dropped
+	- Monthly topics will be articles now, not a class
 
 
 To Do:
 
-
-- monthly topics are archived as a lesson in a course -> he if going to reuse them
-	- they can be deleted after a while if he wants (only go back for 3 months)
-	- he wants to reuse them each year (unlist them for next year)
 - put about 6-8 questions in quizzes most of the time
 
 Survey stuff:
