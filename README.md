@@ -32,7 +32,7 @@ Hours worked July: 7 hour 20 min -> recieved
 
 Hours worked August: 9 hour 15 min -> sent
 
-Hours worked September: 9 hour 50 minutes
+Hours worked September: 10 hour 10 minutes
  
 plugins im using on site:
 
@@ -173,7 +173,7 @@ After finalizing scorecard :
 - Add a section about checking back every so often to see if there are new lessons
 - get confirmation on quiz for the 3rd lesson
 - get confirmation on quiz for the 4th lesson
-- Make quiz for the 5th lesson
+- get confirmation on quiz for the 5th lesson
 - Try making a new homepage for the site
 	- he is going to work on it
 - figure out how to sell his ebook on his site
