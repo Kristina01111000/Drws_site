@@ -32,7 +32,7 @@ Hours worked July: 7 hour 20 min -> recieved
 
 Hours worked August: 9 hour 15 min -> sent
 
-Hours worked September: 10 hour 20 minutes
+Hours worked September: 10 hour 25 minutes
  
 plugins im using on site:
 
@@ -181,3 +181,5 @@ After finalizing scorecard :
 - go through links and make sure they only open a new tab when appropriate
 - need to buy constant contact -> then set up the emails for the 30 day challenge
 - make sure later quizzes can be done without having done earlier quizzes
+
+- go over fourisimo club stuff
