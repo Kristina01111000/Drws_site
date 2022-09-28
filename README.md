@@ -166,9 +166,11 @@ After finalizing scorecard :
 - Put 31 days in the months not the first one on scorecard, he’s going to put tips in
 - Fill in the days of the week in the monthly calendar for the scorecard months
 - Change it to date in column 3 row 1 for the monthly one
-- Remove mentions of the number of lessons from promo page and homepage
-- Add a section about checking back every so often to see if there are new lessons
 
+
+
+
+- Add a section about checking back every so often to see if there are new lessons
 - get confirmation on quiz for the 3rd lesson
 - get confirmation on quiz for the 4th lesson
 - Make quiz for the 5th lesson
@@ -177,9 +179,4 @@ After finalizing scorecard :
 - figure out how to sell his ebook on his site
 - go through the pages and delete the old/extra ones
 - go through links and make sure they only open a new tab when appropriate
-
-
-
-
-
 - need to buy constant contact -> then set up the emails for the 30 day challenge
