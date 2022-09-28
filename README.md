@@ -32,7 +32,7 @@ Hours worked July: 7 hour 20 min -> recieved
 
 Hours worked August: 9 hour 15 min -> sent
 
-Hours worked September: 10 hour 25 minutes
+Hours worked September: 10 hour 30 minutes
  
 plugins im using on site:
 
@@ -183,3 +183,4 @@ After finalizing scorecard :
 - make sure later quizzes can be done without having done earlier quizzes
 
 - go over fourisimo club stuff
+- need constant contact for that also
