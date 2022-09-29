@@ -32,7 +32,7 @@ Hours worked July: 7 hour 20 min -> recieved
 
 Hours worked August: 9 hour 15 min -> sent
 
-Hours worked September: 10 hour 30 minutes
+Hours worked September: 10 hour 35 minutes
  
 plugins im using on site:
 
@@ -166,6 +166,7 @@ After finalizing scorecard :
 - Put 31 days in the months not the first one on scorecard, he’s going to put tips in
 - Fill in the days of the week in the monthly calendar for the scorecard months
 - Change it to date in column 3 row 1 for the monthly one
+- put the months in the other tabs
 
 
 
