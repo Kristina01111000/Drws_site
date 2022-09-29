@@ -185,3 +185,10 @@ After finalizing scorecard :
 
 - go over fourisimo club stuff
 - need constant contact for that also
+
+
+Change glad you're here to the redirect after logging in
+Promo page is the url for growing holistically
+Get rid of 4 corners page, draft it
+Look at youtube urls, have some go to the channel
+Fix spacing under youtube video, have same amount of space below as is on top now
