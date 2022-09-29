@@ -175,20 +175,17 @@ After finalizing scorecard :
 - get confirmation on quiz for the 3rd lesson
 - get confirmation on quiz for the 4th lesson
 - get confirmation on quiz for the 5th lesson
-- Try making a new homepage for the site
-	- he is going to work on it
 - figure out how to sell his ebook on his site -> put a link in to do list
 - go through the pages and delete the old/extra ones
 - go through links and make sure they only open a new tab when appropriate
 - need to buy constant contact -> then set up the emails for the 30 day challenge
-- make sure later quizzes can be done without having done earlier quizzes
 
 - go over fourisimo club stuff
 - need constant contact for that also
 
 
-Change glad you're here to the redirect after logging in
-Promo page is the url for growing holistically
-Get rid of 4 corners page, draft it
-Look at youtube urls, have some go to the channel
-Fix spacing under youtube video, have same amount of space below as is on top now
+- Change glad you're here to the redirect after logging in
+- Promo page is the url for growing holistically
+- Get rid of 4 corners page, draft it
+- Look at youtube urls, have some go to the channel
+- Fix spacing under youtube video, have same amount of space below as is on top now
