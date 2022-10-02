@@ -189,3 +189,4 @@ After finalizing scorecard :
 - Fix spacing under youtube video, have same amount of space below as is on top now
 - check email for changes he wants
 On the Profile page: Can you put non-binary as a gender; can you make birthdate optional, and not public; Can you make all other public defaults listed as such changed to for members only, and that even able to be changed by user?
+- might need to email peepso for that
