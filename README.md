@@ -190,3 +190,4 @@ After finalizing scorecard :
 - check email for changes he wants
 On the Profile page: Can you put non-binary as a gender; can you make birthdate optional, and not public; Can you make all other public defaults listed as such changed to for members only, and that even able to be changed by user?
 - might need to email peepso for that
+- need final check for the score card
