@@ -189,7 +189,7 @@ After finalizing scorecard :
 - Get rid of 4 corners page, draft it
 - Look at youtube urls, have some go to the channel
 - Fix spacing under youtube video, have same amount of space below as is on top now
-- check email for changes he wants
-On the Profile page:  and not public; Can you make all other public defaults listed as such changed to for members only, and that even able to be changed by user?
-- might need to email peepso for that
+
+
+
 - need final check for the score card
