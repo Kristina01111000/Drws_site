@@ -106,6 +106,7 @@ Notes:
 	- check names of lessons on promo page when new youtube video is dropped
 	- Monthly topics will be articles now, not a class
 	- page redirect completely turned off, might be that way now for sure
+	- four corners page is a draft now
 
 
 To Do:
@@ -185,8 +186,6 @@ After finalizing scorecard :
 - need constant contact for that also
 
 
-
-- Get rid of 4 corners page, draft it
 - Look at youtube urls, have some go to the channel
 - Fix spacing under youtube video, have same amount of space below as is on top now
 
