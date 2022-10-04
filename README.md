@@ -34,7 +34,7 @@ Hours worked August: 9 hour 15 min -> recieved
 
 Hours worked September: 11 hour 15 minutes
 
-Hours worked October: 25 min
+Hours worked October: 30 min
  
 plugins im using on site:
 
@@ -185,3 +185,4 @@ After finalizing scorecard :
 
 - need final check for the score card
 - see if he wants other changes to the profile page
+- make sure he gest how to edit quizzes, title in particular
