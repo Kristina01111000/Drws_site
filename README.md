@@ -192,3 +192,4 @@ After finalizing scorecard :
 
 
 - need final check for the score card
+- see if he wants other changes to the profile page
