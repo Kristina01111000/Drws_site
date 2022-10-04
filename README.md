@@ -178,7 +178,7 @@ After finalizing scorecard :
 - need constant contact for that also
 
 
-- Look at youtube urls, have some go to the channel
+- Look at youtube urls, have some go to the channel, others go to quick minutes
 - Fix spacing under youtube video, have same amount of space below as is on top now
 
 
