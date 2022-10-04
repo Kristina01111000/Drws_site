@@ -109,10 +109,6 @@ Notes:
 	- four corners page is a draft now
 
 
-To Do:
-
-- put about 6-8 questions in quizzes most of the time
-
 Survey stuff:
 
 	list of survey options/questions:
@@ -153,9 +149,6 @@ See if there is a way to see how many people downloaded the scorecard, use googl
  analytics add him as an admin for other sites -> check
 
 still gettign emails for 4elifestyle
-talk about the page redirect, should it go to the 30 day challenge?
-- Make joining part of the 30 day challenge? or just have them join mailing list? Need this cleared up to finish site
-
 
 He got the final proof of his book to a printer!
 Look into how to sell the file of his ebook + format the illustrations
