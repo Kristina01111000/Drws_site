@@ -180,7 +180,6 @@ After finalizing scorecard :
 - get confirmation on quiz for the 5th lesson
 - figure out how to sell his ebook on his site -> put a link in to do list
 - go through the pages and delete the old/extra ones
-- go through links and make sure they only open a new tab when appropriate
 - need to buy constant contact -> then set up the emails for the 30 day challenge
 
 - need constant contact for that also
