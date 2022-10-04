@@ -181,8 +181,6 @@ After finalizing scorecard :
 - Look at youtube urls, have some go to the channel, others go to quick minutes
 - Fix spacing under youtube video, have same amount of space below as is on top now
 - Look into how to format an ebook
-- On promo page fix first button for 30 day challenge, not showing up under video  -> removed the css that makes it show up only on small screens, but its still not working correctly
-
 
 
 - need final check for the score card
