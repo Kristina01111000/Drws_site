@@ -184,8 +184,6 @@ After finalizing scorecard :
 
 
 - need final check for the score card
-- see if he wants other changes to the profile page
-- make sure he gest how to edit quizzes, title in particular, he seems to get it
 
 
 Feedback from client
