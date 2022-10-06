@@ -186,3 +186,18 @@ After finalizing scorecard :
 - need final check for the score card
 - see if he wants other changes to the profile page
 - make sure he gest how to edit quizzes, title in particular, he seems to get it
+
+
+Feedback from client
+Order of elements question is unclear 
+Add a question with a bunch of answers that match up to the elements
+Try it in quiz 1 first to see if it is good
+See how to see all member data from peepso at one time
+Will be emailed other questions for quizzes
+Try his ebook on my cell phone, how does the formatting work
+
+
+4 e institute
+https://growingholistically.com/the-four-element-scorecard/
+From 4 element scorecard page, delete everything below the first 3  paragraphs
+Then add a section that says “Try the four element scorecard as part of the Dr. Walsdorf’s 30 day holistic challenge on growingholistically.com ”
