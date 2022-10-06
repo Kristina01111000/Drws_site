@@ -148,15 +148,9 @@ See if there is a way to see how many people downloaded the scorecard, use googl
 
  analytics add him as an admin for other sites -> check
 
-still gettign emails for 4elifestyle
-
-He got the final proof of his book to a printer!
-Look into how to sell the file of his ebook + format the illustrations
-
 scorecard link:
 https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit#gid=1517792507
 He is making more changes to the scorecard
-
 
 After finalizing scorecard :
 - Put 31 days in the months not the first one on scorecard, he’s going to put tips in
@@ -171,17 +165,8 @@ After finalizing scorecard :
 - get confirmation on quiz for the 3rd lesson
 - get confirmation on quiz for the 4th lesson
 - get confirmation on quiz for the 5th lesson
-- figure out how to sell his ebook on his site -> put a link in to do list
 - go through the pages and delete the old/extra ones
 - need to buy constant contact -> then set up the emails for the 30 day challenge
-
-- need constant contact for that also
-
-
-- Look at youtube urls, have some go to the channel, others go to quick minutes
-- Fix spacing under youtube video, have same amount of space below as is on top now
-- Look into how to format an ebook
-
 
 - need final check for the score card
 
