@@ -170,8 +170,4 @@ Feedback from client
 - Will be emailed other questions for quizzes
 - Try his ebook on my cell phone, how does the formatting work
 - he wants 10 questions per quiz
-
-4 e institute
-https://growingholistically.com/the-four-element-scorecard/
-From 4 element scorecard page, delete everything below the first 3  paragraphs
-Then add a section that says “Try the four element scorecard as part of the Dr. Walsdorf’s 30 day holistic challenge on growingholistically.com ”
+	- quizzes that have 10 questions: # 1,
