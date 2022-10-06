@@ -166,12 +166,13 @@ After finalizing scorecard :
 
 
 Feedback from client
-Order of elements question is unclear 
-Add a question with a bunch of answers that match up to the elements
-Try it in quiz 1 first to see if it is good
-See how to see all member data from peepso at one time
-Will be emailed other questions for quizzes
-Try his ebook on my cell phone, how does the formatting work
+- Order of elements question is unclear 
+- Add a question with a bunch of answers that match up to the elements
+- Try it in quiz 1 first to see if it is good
+
+- See how to see all member data from peepso at one time
+- Will be emailed other questions for quizzes
+- Try his ebook on my cell phone, how does the formatting work
 
 
 4 e institute
