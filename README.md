@@ -137,11 +137,7 @@ See if there is a way to see how many people downloaded the scorecard, use googl
 - Can we have people sign up to get an email once a day and other people once a week, different groups, email lists, starting at different times, chronological order when they join, everyday, every week , have them choose that, through peepso or learndash, or through a mailing thing, maybe constant contact, see if at allows chronological emails when you sign up
 - https://www.constantcontact.com/blog/automated-welcome-series/ 15 emails every 2 days, look at core vs plus
 - We will email you every other day with a link to a quick minute on youtube
-- Put an image of the score card in so they can see it, on this page include the short lists of activities, with one paragraph of how to use it
 
-- Figure how to add him to google analytics5
-- THINK ABOUT 4 corners page, is it necessary ? maybe remove pictures, put the topics in the monthly topics section?
-- text for lessons maybe? side pages? from the promo page? 
 --------------------------------------------------------
 
 - need to set up email, constant contact account + plugin, needs to be bought
