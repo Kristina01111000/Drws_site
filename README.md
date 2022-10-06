@@ -158,13 +158,7 @@ After finalizing scorecard :
 - Change it to date in column 3 row 1 for the monthly one
 - put the months in the other tabs
 
-
-
-
 - Add a section about checking back every so often to see if there are new lessons
-- get confirmation on quiz for the 3rd lesson
-- get confirmation on quiz for the 4th lesson
-- get confirmation on quiz for the 5th lesson
 - go through the pages and delete the old/extra ones
 - need to buy constant contact -> then set up the emails for the 30 day challenge
 
