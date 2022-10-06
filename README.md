@@ -173,7 +173,7 @@ Feedback from client
 - See how to see all member data from peepso at one time
 - Will be emailed other questions for quizzes
 - Try his ebook on my cell phone, how does the formatting work
-
+- he wants 10 questions per quiz
 
 4 e institute
 https://growingholistically.com/the-four-element-scorecard/
