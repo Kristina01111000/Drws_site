@@ -171,3 +171,6 @@ Feedback from client
 - Try his ebook on my cell phone, how does the formatting work
 - he wants 10 questions per quiz
 	- quizzes that have 10 questions: # 1,
+
+
+- he wants to make access to the scorecard easier
