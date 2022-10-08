@@ -174,3 +174,5 @@ Feedback from client
 
 
 - he wants to make access to the scorecard easier
+	- added a new scorecard widget
+	- added link to scorecard page to registration email
