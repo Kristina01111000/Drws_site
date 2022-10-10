@@ -34,7 +34,7 @@ Hours worked August: 9 hour 15 min -> recieved
 
 Hours worked September: 11 hour 15 minutes
 
-Hours worked October: 1 hour 55 min
+Hours worked October: 2 hour 5 min
  
 plugins im using on site:
 
@@ -172,7 +172,7 @@ Feedback from client
 - he wants 10 questions per quiz
 	- quizzes that have 10 questions: # 1,
 
-- he is having an issue with the link to the scorecard on membership signup page
+- he is having an issue with the link to the scorecard on membership signup page -> chrome and safari only, he needs to clear cookies, maybe turn off sitegroudn?
 
 - he wants to make access to the scorecard easier
 	- added a new scorecard widget
