@@ -172,7 +172,7 @@ Feedback from client
 - he wants 10 questions per quiz
 	- quizzes that have 10 questions: # 1,
 
-- he is having an issue with the link to the scorecard on membership signup page -> chrome and safari only, he needs to clear cookies, maybe turn off sitegroudn? clearing cookies didn't work
+- he is having an issue with the link to the scorecard on membership signup page -> chrome and safari only, he needs to clear cookies, maybe turn off sitegroudn? clearing cookies didn't work, try to fix the issue one more thime, then try peepso 
 
 - he wants to make access to the scorecard easier
 	- added a new scorecard widget
