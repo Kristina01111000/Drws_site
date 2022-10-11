@@ -179,4 +179,4 @@ Feedback from client
 	- this will be partially fixed by the constant contact email chain
 
 
-maybe check ssl? it looks like it doesn't work in chrome
+maybe check ssl? it looks like it doesn't work in chrome -> server test says its ok, grade: a
