@@ -177,3 +177,6 @@ Feedback from client
 	- added a new scorecard widget
 	- added link to scorecard page to registration email
 	- this will be partially fixed by the constant contact email chain
+
+
+maybe check ssl? it looks like it doesn't work in chrome
