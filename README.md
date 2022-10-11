@@ -166,7 +166,7 @@ Feedback from client
 - Add a question with a bunch of answers that match up to the elements
 - Try it in quiz 1 first to see if it is good
 
-- See how to see all member data from peepso at one time -> is it even possible?
+- See how to see all member data from peepso at one time -> is it even possible? -> look under users, or under manage 
 - Will be emailed other questions for quizzes
 - Try his ebook on my cell phone, how does the formatting work
 - he wants 10 questions per quiz
