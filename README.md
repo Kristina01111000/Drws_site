@@ -167,7 +167,6 @@ Feedback from client
 
 - See how to see all member data from peepso at one time -> is it even possible? -> look under users, or under manage 
 - Will be emailed other questions for quizzes
-- Try his ebook on my cell phone, how does the formatting work
 - he wants 10 questions per quiz
 	- quizzes that have 10 questions: # 1,
 
