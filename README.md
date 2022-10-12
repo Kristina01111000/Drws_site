@@ -34,7 +34,7 @@ Hours worked August: 9 hour 15 min -> recieved
 
 Hours worked September: 11 hour 15 minutes
 
-Hours worked October: 3 hour 5 min
+Hours worked October: 3 hour 10 min
  
 plugins im using on site:
 
@@ -161,7 +161,7 @@ After finalizing scorecard :
 
 
 Feedback from client
-- Order of elements question is unclear 
+
 - Add a question with a bunch of answers that match up to the elements
 - Try it in quiz 1 first to see if it is good
 
