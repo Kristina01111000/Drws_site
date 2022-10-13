@@ -34,7 +34,7 @@ Hours worked August: 9 hour 15 min -> recieved
 
 Hours worked September: 11 hour 15 minutes
 
-Hours worked October: 4 hour 40 min
+Hours worked October: 4 hour 45 min
  
 plugins im using on site:
 
@@ -189,4 +189,4 @@ Update on promo page video
 Ccholistic1! For constant contact hwalsdorf@earth
 Get the constant contact stuf fset up
 Constant contact email for him
-Fourissimo club email
+Fourissimo club email + page editing
