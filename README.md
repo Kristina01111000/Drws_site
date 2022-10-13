@@ -139,9 +139,6 @@ See if there is a way to see how many people downloaded the scorecard, use googl
 - We will email you every other day with a link to a quick minute on youtube
 
 --------------------------------------------------------
-
-- need to set up email, constant contact account + plugin, needs to be bought
-
  analytics add him as an admin for other sites -> check
 
 scorecard link:
@@ -166,7 +163,7 @@ Feedback from client
 - Try it in quiz 1 first to see if it is good
 
 - See how to see all member data from peepso at one time -> is it even possible? -> look under users, or under manage 
-- Will be emailed other questions for quizzes
+- Will be emailed other questions for quizzes from ben
 - he wants 10 questions per quiz
 	- quizzes that have 10 questions: # 1,
 
@@ -181,3 +178,15 @@ still waiting on them, update him didn't have a pmp shortcode on the registratio
 
 
 maybe check ssl? it looks like it doesn't work in chrome -> server test says its ok, grade: a
+
+
+Get a book on amazon with pictures and see what it like, do they give options, if so get epub look at the options they offer
+Look at the button under the video on promo page, is has weird spacing
+See if i can edit the shortcode[pmpro_confirmation] to get rid of the multiple thank yous
+Delete any of the users/members that don’t belong
+Check links on promo page
+Update on promo page video
+Ccholistic1! For constant contact hwalsdorf@earth
+Get the constant contact stuf fset up
+Constant contact email for him
+Fourissimo club email
