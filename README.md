@@ -34,7 +34,7 @@ Hours worked August: 9 hour 15 min -> recieved
 
 Hours worked September: 11 hour 15 minutes
 
-Hours worked October: 4 hour 50 min
+Hours worked October: 4 hour 55 min
  
 plugins im using on site:
 
@@ -180,13 +180,14 @@ still waiting on them, update him didn't have a pmp shortcode on the registratio
 maybe check ssl? it looks like it doesn't work in chrome -> server test says its ok, grade: a
 
 
-Get a book on amazon with pictures and see what it like, do they give options, if so get epub look at the options they offer
-Look at the button under the video on promo page, is has weird spacing
-See if i can edit the shortcode[pmpro_confirmation] to get rid of the multiple thank yous
-Delete any of the users/members that don’t belong
-Check links on promo page
-Update on promo page video
-Ccholistic1! For constant contact hwalsdorf@earth
-Get the constant contact stuf fset up
-Constant contact email for him
-Fourissimo club email + page editing
+- Get a book on amazon with pictures and see what it like, do they give options, if so get epub look at the options they offer
+- Look at the button under the video on promo page, is has weird spacing
+- See if i can edit the shortcode[pmpro_confirmation] to get rid of the multiple thank yous
+- Delete any of the users/members that don’t belong
+- Check links on promo page
+- Update on promo page video
+- Ccholistic1! For constant contact hwalsdorf@earth
+- Get the constant contact stuf fset up
+- Constant contact email for him
+- Fourissimo club email + page editing
+- check on bens account confirmation
