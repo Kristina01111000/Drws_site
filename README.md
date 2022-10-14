@@ -197,3 +197,4 @@ site premise is giving users skills and information so they can liv a healthier 
 the first thing we want users to do is try the "30 Day challenge"
 when they join the challenge we will use the automated email series to keep them on track with the challenge
 the emails will be everyother day for the 30 days, and will include links to videos on the youtube channel as well as brief advice snippets 
+- he wants me to be on the call :(
