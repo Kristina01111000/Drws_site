@@ -34,7 +34,7 @@ Hours worked August: 9 hour 15 min -> recieved
 
 Hours worked September: 11 hour 15 minutes
 
-Hours worked October: 4 hour 55 min
+Hours worked October: 5 hour 0 min
  
 plugins im using on site:
 
@@ -188,7 +188,6 @@ maybe check ssl? it looks like it doesn't work in chrome -> server test says its
 - Update on promo page video
 - Ccholistic1! For constant contact hwalsdorf@earth
 - Get the constant contact stuf fset up
-- Constant contact email for him
 - Fourissimo club email + page editing
 - check on bens account confirmation
 
