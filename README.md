@@ -34,7 +34,7 @@ Hours worked August: 9 hour 15 min -> recieved
 
 Hours worked September: 11 hour 15 minutes
 
-Hours worked October: 5 hour 5 min
+Hours worked October: 5 hour 10 min
  
 plugins im using on site:
 
@@ -187,7 +187,7 @@ maybe check ssl? it looks like it doesn't work in chrome -> server test says its
 - Get the constant contact stuf fset up
 - Fourissimo club email + page editing
 - check on bens account confirmation
-
+- make sure he understands why we need a google doc
 
 for constant contact call:
 site premise is giving users skills and information so they can liv a healthier life
