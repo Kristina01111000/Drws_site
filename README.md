@@ -181,7 +181,6 @@ maybe check ssl? it looks like it doesn't work in chrome -> server test says its
 
 
 - Get a book on amazon with pictures and see what it like, do they give options, if so get epub look at the options they offer, small places,big difference is that the words on the page change when the screen is flipped, pictures kind of move with them, if the picture is on a wierd place on the page is makes the text go to the next page.
-- See if i can edit the shortcode[pmpro_confirmation] to get rid of the multiple thank yous
 - Update on promo page video
 - Ccholistic1! For constant contact hwalsdorf@earth
 - Get the constant contact stuf fset up
