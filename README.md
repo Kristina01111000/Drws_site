@@ -164,8 +164,12 @@ Feedback from client
 
 - See how to see all member data from peepso at one time -> is it even possible? -> look under users, or under manage 
 - Will be emailed other questions for quizzes from ben
+
+
 - he wants 10 questions per quiz
 	- quizzes that have 10 questions: # 1,
+	- Quizzes than need 10 questions: # 2, # 3, # 4, # 5,
+	- Quizzes than need a lesson to be dropped first: # 6, and up 
 
 - he is having an issue with the link to the scorecard on membership signup page -> chrome and safari only, he needs to clear cookies, maybe turn off sitegroudn? clearing cookies didn't work, try to fix the issue one more time, then try peepso, didn't work for me in chrome, started  aa ticket with peepso
 still waiting on them, update him, didn't have a pmp shortcode on the registration page
