@@ -168,13 +168,8 @@ Feedback from client
 	- quizzes that have 10 questions: # 1,
 
 - he is having an issue with the link to the scorecard on membership signup page -> chrome and safari only, he needs to clear cookies, maybe turn off sitegroudn? clearing cookies didn't work, try to fix the issue one more time, then try peepso, didn't work for me in chrome, started  aa ticket with peepso
-still waiting on them, update him didn't have a pmp shortcode on the registration page
+still waiting on them, update him, didn't have a pmp shortcode on the registration page
 
-
-- he wants to make access to the scorecard easier
-	- added a new scorecard widget
-	- added link to scorecard page to registration email
-	- this will be partially fixed by the constant contact email chain
 
 
 maybe check ssl? it looks like it doesn't work in chrome -> server test says its ok, grade: a
