@@ -181,9 +181,9 @@ maybe check ssl? it looks like it doesn't work in chrome -> server test says its
 
 
 - Get a book on amazon with pictures and see what it like, do they give options, if so get epub look at the options they offer, small places,big difference is that the words on the page change when the screen is flipped, pictures kind of move with them, if the picture is on a wierd place on the page is makes the text go to the next page.
-- Update on promo page video
+
 - Ccholistic1! For constant contact hwalsdorf@earth
-- Get the constant contact stuf fset up
+- Get the constant contact stuff set up
 - Fourissimo club email + page editing
 - check on bens account confirmation
 - make sure he understands why we need a google doc
