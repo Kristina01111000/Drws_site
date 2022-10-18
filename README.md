@@ -180,7 +180,7 @@ still waiting on them, update him didn't have a pmp shortcode on the registratio
 maybe check ssl? it looks like it doesn't work in chrome -> server test says its ok, grade: a
 
 
-- Get a book on amazon with pictures and see what it like, do they give options, if so get epub look at the options they offer
+- Get a book on amazon with pictures and see what it like, do they give options, if so get epub look at the options they offer, small places,big difference is that the words on the page change when the screen is flipped
 - See if i can edit the shortcode[pmpro_confirmation] to get rid of the multiple thank yous
 - Update on promo page video
 - Ccholistic1! For constant contact hwalsdorf@earth
