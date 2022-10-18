@@ -34,7 +34,7 @@ Hours worked August: 9 hour 15 min -> recieved
 
 Hours worked September: 11 hour 15 minutes
 
-Hours worked October: 5 hour 15 min
+Hours worked October: 5 hour 20 min
  
 plugins im using on site:
 
@@ -184,7 +184,7 @@ maybe check ssl? it looks like it doesn't work in chrome -> server test says its
 
 - Ccholistic1! For constant contact hwalsdorf@earth
 - Get the constant contact stuff set up
-- Fourissimo club email + page editing
+- Fourissimo club email + page editing -> need to make contact form for it
 - check on bens account confirmation
 - make sure he understands why we need a google doc
 
