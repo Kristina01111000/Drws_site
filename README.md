@@ -34,7 +34,7 @@ Hours worked August: 9 hour 15 min -> recieved
 
 Hours worked September: 11 hour 15 minutes
 
-Hours worked October: 5 hour 30 min
+Hours worked October: 5 hour 40 min
  
 plugins im using on site:
 
@@ -157,9 +157,6 @@ After finalizing scorecard :
 
 
 Feedback from client
-
-- Add a question with a bunch of answers that match up to the elements is this possible in peepso
-- Try it in quiz 2 or 3 first to see if it is good
 
 - See how to see all member data from peepso at one time -> is it even possible? -> look under users, or under manage -> nope, can look at learn dash stuff though
 - Will be emailed other questions for quizzes from ben
