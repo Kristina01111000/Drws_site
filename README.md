@@ -176,14 +176,10 @@ still waiting on them, update him, didn't have a pmp shortcode on the registrati
 
 
 
-maybe check ssl? it looks like it doesn't work in chrome -> server test says its ok, grade: a
-
-
 - Get a book on amazon with pictures and see what it like, do they give options, if so get epub look at the options they offer, small places,big difference is that the words on the page change when the screen is flipped, pictures kind of move with them, if the picture is on a wierd place on the page is makes the text go to the next page.
 
 - Ccholistic1! For constant contact hwalsdorf@earth
 - Get the constant contact stuff set up
-- Fourissimo club email + page editing -> need to make contact form for it -> need to attach contact form to his email
 - check on bens account confirmation
 - make sure he understands why we need a google doc
 
