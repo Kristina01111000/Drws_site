@@ -34,7 +34,7 @@ Hours worked August: 9 hour 15 min -> recieved
 
 Hours worked September: 11 hour 15 minutes
 
-Hours worked October: 5 hour 40 min
+Hours worked October: 5 hour 45 min
  
 plugins im using on site:
 
@@ -185,5 +185,6 @@ the first thing we want users to do is try the "30 Day challenge"
 when they join the challenge we will use the automated email series to keep them on track with the challenge
 the emails will be everyother day for the 30 days, and will include links to videos on the youtube channel as well as brief advice snippets 
 - he wants me to be on the call :(
+- figure out what form is best
 
 still getting emails from 4elifestyle
