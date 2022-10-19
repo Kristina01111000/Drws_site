@@ -186,6 +186,6 @@ when they join the challenge we will use the automated email series to keep them
 the emails will be everyother day for the 30 days, and will include links to videos on the youtube channel as well as brief advice snippets 
 - he wants me to be on the call :(
 - figure out what form is best, 
-- try connecting wp forms to constant contact
+- try connecting wp forms to constant contact -> it should work, it is possible, need to go into settings of wp forms
 
 still getting emails from 4elifestyle
