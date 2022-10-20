@@ -190,3 +190,13 @@ the emails will be everyother day for the 30 days, and will include links to vid
 - try connecting wp forms to constant contact -> it should work, it is possible, need to go into settings of wp forms
 
 still getting emails from 4elifestyle
+
+See if fourissimo form can have an attachment added
+Try to stylize the form
+Remove email list option from fourissimo club sign up
+Promo page login button different color to stand out? Maybe leave it the way it is
+Add matching questions to other quizzes for 1 point
+Write welcome to 30 day challenge and also a second one, b/c most of them will be very similar, link to specific quick minutes, think of mini quotes
+Look in bigstock for quotes, embed it into email
+Make a google doc for emails
+
