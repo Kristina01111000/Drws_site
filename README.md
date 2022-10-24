@@ -34,7 +34,7 @@ Hours worked August: 9 hour 15 min -> recieved
 
 Hours worked September: 11 hour 15 minutes
 
-Hours worked October: 6 hour 55 min
+Hours worked October: 7 hour 0 min
  
 plugins im using on site:
 
@@ -198,8 +198,8 @@ still getting emails from 4elifestyle
 - Add matching questions to other quizzes for 1 point
 - Write welcome to 30 day challenge and also a second one, b/c most of them will be very similar, link to specific quick minutes, think of mini quotes
 - Look in bigstock for quotes, embed it into email
-- 
-- 
+- copy second email for all but first and last
+- pick the quick minutes that are linked to
 - 
 - google doc for emails:https://docs.google.com/document/d/1Nc_WVsgZKdhpWaHZyDn81rw4y02Dlj2wB-O-q9ZnJXs/edit?usp=sharing
 
