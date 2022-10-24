@@ -202,4 +202,4 @@ still getting emails from 4elifestyle
 - pick the quick minutes that are linked to
 - 
 - google doc for emails:https://docs.google.com/document/d/1Nc_WVsgZKdhpWaHZyDn81rw4y02Dlj2wB-O-q9ZnJXs/edit?usp=sharing
-
+- send invoice
