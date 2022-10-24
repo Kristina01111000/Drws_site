@@ -195,7 +195,7 @@ still getting emails from 4elifestyle
 - Try to stylize the form
 - Remove email list option from fourissimo club sign up
 - Promo page login button different color to stand out? Maybe leave it the way it is
-- Add matching questions to other quizzes for 1 point
+- Add matching questions to other quizzes for 1 point only, thats what he wants it to be
 - Write welcome to 30 day challenge and also a second one, b/c most of them will be very similar, link to specific quick minutes, think of mini quotes
 - Look in bigstock for quotes, embed it into email, try the one on the corners page and the pumpkin one
 - copy second email for all but first and last
