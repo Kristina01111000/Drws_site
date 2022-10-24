@@ -32,7 +32,7 @@ Hours worked July: 7 hour 20 min -> recieved
 
 Hours worked August: 9 hour 15 min -> recieved
 
-Hours worked September: 11 hour 15 minutes
+Hours worked September: 11 hour 15 minutes -> sent
 
 Hours worked October: 7 hour 0 min
  
@@ -202,4 +202,4 @@ still getting emails from 4elifestyle
 - pick the quick minutes that are linked to
 - 
 - google doc for emails:https://docs.google.com/document/d/1Nc_WVsgZKdhpWaHZyDn81rw4y02Dlj2wB-O-q9ZnJXs/edit?usp=sharing
-- send invoice
+
