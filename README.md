@@ -176,9 +176,7 @@ still waiting on them, update him, didn't have a pmp shortcode on the registrati
 
 - Ccholistic1! For constant contact hwalsdorf@earth
 - Get the constant contact stuff set up
-- check on bens account confirmation -> looks like it worked
-- make sure he understands why we need a google doc
-- fourissimo club page
+
 
 for constant contact call:
 site premise is giving users skills and information so they can liv a healthier life
