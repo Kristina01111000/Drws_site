@@ -34,7 +34,7 @@ Hours worked August: 9 hour 15 min -> recieved
 
 Hours worked September: 11 hour 15 minutes -> sent
 
-Hours worked October: 7 hour 0 min
+Hours worked October: 7 hour 5 min
  
 plugins im using on site:
 
@@ -191,9 +191,6 @@ the emails will be everyother day for the 30 days, and will include links to vid
 
 still getting emails from 4elifestyle
 
-- See if fourissimo form can have an attachment added
-- Try to stylize the form
-- Remove email list option from fourissimo club sign up
 - Promo page login button different color to stand out? Maybe leave it the way it is
 - Add matching questions to other quizzes for 1 point only, thats what he wants it to be
 - Write welcome and final to 30 day challenge and also a second and third one, b/c most of them will be very similar, link to specific quick minutes, think of mini quotes
