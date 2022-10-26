@@ -34,7 +34,7 @@ Hours worked August: 9 hour 15 min -> recieved
 
 Hours worked September: 11 hour 15 minutes -> sent
 
-Hours worked October: 7 hour 20 min
+Hours worked October: 7 hour 25 min
  
 plugins im using on site:
 
@@ -191,9 +191,9 @@ still getting emails from 4elifestyle
 
 - Promo page login button different color to stand out? Maybe leave it the way it is
 - Add matching questions to other quizzes for 1 point only, thats what he wants it to be
-- Write welcome and final to 30 day challenge and also a second and third one, b/c most of them will be very similar, link to specific quick minutes, think of mini quotes
+- Write welcome and final to 30 day challenge and also a second and third one, b/c most of them will be very similar, link to specific quick minutes,
 - copy second email for all but first and last
 - pick the quick minutes that each are linked to, put in a greeting 4 different ones, add a quote at the ?bottom?
-- 
+
 - google doc for emails:https://docs.google.com/document/d/1Nc_WVsgZKdhpWaHZyDn81rw4y02Dlj2wB-O-q9ZnJXs/edit?usp=sharing
 
