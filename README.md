@@ -211,4 +211,5 @@ still getting emails from 4elifestyle
 - See if it looks good to have an image in the email, to see if they separate the email s
 - Work on the emails
 - Add a link to the documentary in the first couple emails
-- Add have you watched in other emails too
+- Add have you watched the lessons in other emails too
+- email him if he doesn't send me the pdf of the book by monday
