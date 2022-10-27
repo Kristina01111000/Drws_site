@@ -199,17 +199,16 @@ still getting emails from 4elifestyle
 
 
 
-Leave fourissimo form without attachment 
-Look into putting an essay attachment lesson for fourissimo club 
-Put the fourissimo club into the lesson dropdown
-Make a fourissimo club group
-Make a pdf of the chapter about the beatles
-Get a pdf from dr w for the fourissimo page
-Check color of 30 day challenge sheet on mobile 
-Make the months for the scorecard, do all the completed stuff, tip
-Try get to 10 questions for each quiz, if i can’t he will get it started, prompt him to go through them after they are up
-They have to have joined to have gotten the email
-See if it looks good to have an image in the email, to see if they separate the email s
-Work on the emails
-Add a link to the documentary in the first couple emails
-Add have you watched in other emails too
+- Leave fourissimo form without attachment 
+- Look into putting an essay attachment lesson for fourissimo club 
+- Put the fourissimo club into the lesson dropdown
+- Make a fourissimo club group
+- Get a pdf from dr w for the fourissimo page
+- Check color of 30 day challenge sheet on mobile 
+- Make the months for the scorecard, do all the completed stuff, tip
+- Try get to 10 questions for each quiz, if i can’t he will get it started, prompt him to go through them after they are up
+- They have to have joined to have gotten the email
+- See if it looks good to have an image in the email, to see if they separate the email s
+- Work on the emails
+- Add a link to the documentary in the first couple emails
+- Add have you watched in other emails too
