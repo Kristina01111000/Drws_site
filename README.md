@@ -202,7 +202,7 @@ still getting emails from 4elifestyle
 - Leave fourissimo form without attachment 
 - Look into putting an essay attachment lesson for fourissimo club 
 - Put the fourissimo club into the lesson dropdown
-- Make a fourissimo club group
+- Make a fourissimo club group, link to it from the page
 - Get a pdf from dr w for the fourissimo page
 - Check color of 30 day challenge sheet on mobile 
 - Make the months for the scorecard, do all the completed stuff, tip
