@@ -212,7 +212,6 @@ still getting emails from 4elifestyle
 - Work on the emails
 - Add a link to the documentary in the first couple emails
 - Add have you watched the lessons in other emails too
-- email him if he doesn't send me the pdf of the book by monday
 
 
 - changed the copy text on the google doc back to red so people can see it
