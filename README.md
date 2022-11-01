@@ -35,6 +35,8 @@ Hours worked August: 9 hour 15 min -> recieved
 Hours worked September: 11 hour 15 minutes -> sent
 
 Hours worked October: 8 hour 45 min
+
+Hour worked November: 15 min
  
 plugins im using on site:
 
@@ -213,3 +215,6 @@ still getting emails from 4elifestyle
 - Add a link to the documentary in the first couple emails
 - Add have you watched the lessons in other emails too
 - email him if he doesn't send me the pdf of the book by monday
+
+
+- changed the copy text on the google doc back to red so people can see it
