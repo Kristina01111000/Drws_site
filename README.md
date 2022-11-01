@@ -215,3 +215,7 @@ still getting emails from 4elifestyle
 
 
 - changed the copy text on the google doc back to red so people can see it
+For tomorrow:
+- finish scorecard
+- finish emails
+- set up constant contact so the first emails go through to our emails
