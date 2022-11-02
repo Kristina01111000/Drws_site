@@ -209,9 +209,7 @@ still getting emails from 4elifestyle
 - Try get to 10 questions for each quiz, if i can’t he will get it started, prompt him to go through them after they are up, ben might send some potential questions, but dont wait for them
 - They have to have joined to have gotten the email
 - See if it looks good to have an image in the email, to see if they separate the email s
-- Work on the emails
-- Add a link to the documentary in the first couple emails
-- Add have you watched the lessons in other emails too
+
 
 
 - changed the copy text on the google doc back to red so people can see it
