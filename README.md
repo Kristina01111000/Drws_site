@@ -201,7 +201,7 @@ still getting emails from 4elifestyle
 
 
 
-- Look into putting an essay attachment lesson for fourissimo club 
+- Look into putting an essay attachment lesson for fourissimo club -> new plugin from peepso
 - Put the fourissimo club into the lesson dropdown
 - Make a fourissimo club group, link to it from the page
 - Get a pdf from dr w for the fourissimo page
