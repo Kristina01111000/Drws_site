@@ -36,7 +36,7 @@ Hours worked September: 11 hour 15 minutes -> sent
 
 Hours worked October: 8 hour 45 min
 
-Hour worked November: 45 min
+Hour worked November: 1 hour 0 min
  
 plugins im using on site:
 
@@ -214,5 +214,4 @@ still getting emails from 4elifestyle
 
 - changed the copy text on the google doc back to red so people can see it
 For tomorrow:
-- finish scorecard
 - set up constant contact so the first emails go through to our emails
