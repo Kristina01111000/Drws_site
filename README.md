@@ -208,3 +208,4 @@ For next meeting:
 - Set up a different campaign in cc for his current patients in office
 - Get emails from him for the other campaign, remind him on monday if he doesn’t get edits back to me
 - Switch email address at bottom of the email campaigns to growingholisticallystaff@gmail.com, create a new email
+- pick out the template that works best
