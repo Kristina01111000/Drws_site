@@ -207,18 +207,16 @@ still getting emails from 4elifestyle
 - See if it looks good to have an image in the email, to see if they separate the email s
 
 
-- changed the copy text on the google doc back to red so people can see it
-For tomorrow:
-- set up constant contact so the first emails go through to our emails
+For next meeting:
 
-Write a review in fourissimo club for the heel strike fixing plantar fasciitis
-Fix the title of the download on fourissimo page, tell him how to fix it
-For groups get new pictures, add a scorecard picture for scorecard group
-For google doc see if ‘make a copy’ can be put up when they try to request access
-Look into file upload plugin for fourissimo page
-Put logo in the emails make them look better, 
-Buy constant contact when all the emails are set
-If he gets a tiktok add it to the emails
-Set up a different campaign in cc for his current patients in office
-Get emails from him for the other campaign, remind him on monday if he doesn’t get edits back to me
-Switch email address at bottom of the email campaigns to growingholisticallystaff@gmail.com, create a new email
+- Write a review in fourissimo club for the heel strike fixing plantar fasciitis
+- Fix the title of the download on fourissimo page, tell him how to fix it
+- For groups get new pictures, add a scorecard picture for scorecard group
+- For google doc see if ‘make a copy’ can be put up when they try to request access
+- Look into file upload plugin for fourissimo page
+- Put logo in the emails make them look better, 
+- Buy constant contact when all the emails are set
+- If he gets a tiktok add it to the emails
+- Set up a different campaign in cc for his current patients in office
+- Get emails from him for the other campaign, remind him on monday if he doesn’t get edits back to me
+- Switch email address at bottom of the email campaigns to growingholisticallystaff@gmail.com, create a new email
