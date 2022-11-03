@@ -187,25 +187,13 @@ when they join the challenge we will use the automated email series to keep them
 the emails will be everyother day for the 30 days, and will include links to videos on the youtube channel as well as brief advice snippets 
 - he wants me to be on the call :(
 - figure out what form is best, 
-- try connecting wp forms to constant contact -> it should work, it is possible, need to go into settings of wp forms
 
 still getting emails from 4elifestyle
 
-- Promo page login button different color to stand out? Maybe leave it the way it is
 - Add matching questions to other quizzes for 1 point only, thats what he wants it to be
-- Write welcome and final to 30 day challenge and also a second and third one, b/c most of them will be very similar, link to specific quick minutes,
-- copy second email for all but first and last
-
 - google doc for emails:https://docs.google.com/document/d/1Nc_WVsgZKdhpWaHZyDn81rw4y02Dlj2wB-O-q9ZnJXs/edit?usp=sharing
-
-
-
 - Look into putting an essay attachment lesson for fourissimo club -> new plugin from peepso
-
 - Try get to 10 questions for each quiz, if i can’t he will get it started, prompt him to go through them after they are up, ben might send some potential questions, but dont wait for them
-- They have to have joined to have gotten the email
-- See if it looks good to have an image in the email, to see if they separate the email s
-
 
 For next meeting:
 
