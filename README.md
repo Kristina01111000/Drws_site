@@ -210,3 +210,4 @@ For next meeting:
 - Switch email address at bottom of the email campaigns to growingholisticallystaff@gmail.com, create a new email
 - pick out the template that works best
 - figure out if template colors can be changed, or if that is it
+- try multiple templates and send them to him
