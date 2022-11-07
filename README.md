@@ -36,7 +36,7 @@ Hours worked September: 11 hour 15 minutes -> sent
 
 Hours worked October: 8 hour 45 min
 
-Hour worked November: 2 hour 0 min
+Hour worked November: 2 hour 15 min
  
 plugins im using on site:
 
@@ -211,3 +211,4 @@ For next meeting:
 - pick out the template that works best
 - figure out if template colors can be changed, or if that is it
 - try multiple templates and send them to him
+	- sent him one waiting on feedback
