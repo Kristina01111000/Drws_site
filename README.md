@@ -212,3 +212,7 @@ For next meeting:
 - figure out if template colors can be changed, or if that is it
 - try multiple templates and send them to him
 	- sent him one waiting on feedback
+
+See if i can change button outline in emails
+He likes the black and white background email
+Put the links in 
