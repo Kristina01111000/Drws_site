@@ -209,7 +209,7 @@ For next meeting:
 - Switch email address at bottom of the email campaigns to growingholisticallystaff@gmail.com, create a new email
 
 
-See if i can change button outline in emails
+See if i can change button outline in emails, color sticks out too much, if not change the color of the button o it doesn't stand out
 He likes the black and white background email
 Put the links in 
 
