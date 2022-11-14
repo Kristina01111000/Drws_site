@@ -211,3 +211,5 @@ For next meeting:
 See if i can change button outline in emails
 He likes the black and white background email
 Put the links in 
+
+still getting emails from 4elifestlye
