@@ -150,14 +150,11 @@ He is making more changes to the scorecard
 
 - go through the pages and delete the old/extra ones
 
-- need final check for the score card
-
 
 Feedback from client
 
 - See how to see all member data from peepso at one time -> is it even possible? -> look under users, or under manage -> nope, can look at learn dash stuff though
 - Will be emailed other questions for quizzes from ben
-
 
 - he wants 10 questions per quiz
 	- quizzes that have 10 questions: # 1,
@@ -167,17 +164,8 @@ Feedback from client
 - he is having an issue with the link to the scorecard on membership signup page -> chrome and safari only, he needs to clear cookies, maybe turn off sitegroudn? clearing cookies didn't work, try to fix the issue one more time, then try peepso, didn't work for me in chrome, started  aa ticket with peepso
 still waiting on them, update him, didn't have a pmp shortcode on the registration page
 
-
-
-- Get a book on amazon with pictures and see what it like, do they give options, if so get epub look at the options they offer, small places,big difference is that the words on the page change when the screen is flipped, pictures kind of move with them, if the picture is on a wierd place on the page is makes the text go to the next page.
-
 - Ccholistic1! For constant contact hwalsdorf@earth
 - Get the constant contact stuff set up
-
-
-
-
-still getting emails from 4elifestyle
 
 - Add matching questions to other quizzes for 1 point only, thats what he wants it to be
 - google doc for emails:https://docs.google.com/document/d/1Nc_WVsgZKdhpWaHZyDn81rw4y02Dlj2wB-O-q9ZnJXs/edit?usp=sharing
