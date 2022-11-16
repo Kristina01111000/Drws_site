@@ -36,7 +36,7 @@ Hours worked September: 11 hour 15 minutes -> recieved
 
 Hours worked October: 8 hour 45 min
 
-Hour worked November: 3 hour 5 min
+Hour worked November: 3 hour 25 min
  
 plugins im using on site:
 
@@ -209,7 +209,6 @@ For next meeting:
 - Switch email address at bottom of the email campaigns to growingholisticallystaff@gmail.com, create a new email
 
 
-See if i can change button outline in emails, color sticks out too much, if not change the color of the button o it doesn't stand out
 He likes the black and white background email
 Put the links in 
 
