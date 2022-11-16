@@ -203,10 +203,8 @@ For next meeting:
 - For google doc see if ‘make a copy’ can be put up when they try to request access
 - Look into file upload plugin for fourissimo page
 - If he gets a tiktok add it to the emails
-- Set up a different campaign in cc for his current patients in office -> wait on list from him
-	- Get emails from him for the other campaign, remind him on monday if he doesn’t get edits back to me
-	- check the one he sent to me, and edit it
-- Switch email address at bottom of the email campaigns to growingholisticallystaff@gmail.com, create a new email
+- Set up a different campaign in cc for his current patients in office -> waiting on list from him
+	- get feedback on the template
 
 
 Put the links in 
