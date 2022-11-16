@@ -201,7 +201,7 @@ For next meeting:
 - Fix the title of the download on fourissimo page, tell him how to fix it
 - For groups get new pictures, add a scorecard picture for scorecard group
 - For google doc see if ‘make a copy’ can be put up when they try to request access
-- Look into file upload plugin for fourissimo page
+- Look into file upload plugin for fourissimo page -> new plugin from peepso
 - If he gets a tiktok add it to the emails
 - Set up a different campaign in cc for his current patients in office -> waiting on list from him
 	- get feedback on the template
