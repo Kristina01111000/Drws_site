@@ -209,8 +209,7 @@ For next meeting:
 - Switch email address at bottom of the email campaigns to growingholisticallystaff@gmail.com, create a new email
 
 
-He likes the black and white background email
 Put the links in 
 
 still getting emails from 4elifestlye
-finish setting up emails
+
