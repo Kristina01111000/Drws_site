@@ -214,3 +214,4 @@ He likes the black and white background email
 Put the links in 
 
 still getting emails from 4elifestlye
+finish setting up emails
