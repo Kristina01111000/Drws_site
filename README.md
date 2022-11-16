@@ -182,9 +182,9 @@ For next meeting:
 - If he gets a tiktok add it to the emails
 - Set up a different campaign in cc for his current patients in office -> waiting on list from him
 	- get feedback on the template
-- need him to finalize teh emails in the email chain 
+- need him to finalize the emails in the email chain 
 
-Put the links in 
+Put the links in the 30 day email, right now just ***'s
 
 still getting emails from 4elifestlye
 
