@@ -198,7 +198,7 @@ still getting emails from 4elifestyle
 For next meeting:
 
 - Write a review in fourissimo club for the heel strike fixing plantar fasciitis
-- Fix the title of the download on fourissimo page, tell him how to fix it
+- Fix the title of the download on fourissimo page, tell him how to fix it -> what?
 - For groups get new pictures, add a scorecard picture for scorecard group
 - For google doc see if ‘make a copy’ can be put up when they try to request access
 - Look into file upload plugin for fourissimo page -> new plugin from peepso
