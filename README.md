@@ -191,3 +191,4 @@ finished first chain email
 
 look at to do list
 - remind him to do emails on saturday if he hasn't
+- he is considering just using an email for his patients
