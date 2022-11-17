@@ -190,3 +190,4 @@ still getting emails from 4elifestlye
 finished first chain email
 
 look at to do list
+- remind him to do emails on saturday if he hasn't
