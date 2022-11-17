@@ -36,7 +36,7 @@ Hours worked September: 11 hour 15 minutes -> recieved
 
 Hours worked October: 8 hour 45 min
 
-Hour worked November: 3 hour 35 min
+Hour worked November: 4 hour 15 min
  
 plugins im using on site:
 
@@ -189,3 +189,4 @@ Put the links in the 30 day email, right now just ***'s
 still getting emails from 4elifestlye
 finished first chain email
 
+look at to do list
