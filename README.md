@@ -187,8 +187,8 @@ For next meeting:
 Put the links in the 30 day email, right now just ***'s
 
 still getting emails from 4elifestlye
-finished first chain email
+
 
 look at to do list
-- remind him to do emails on saturday if he hasn't
+- emails not critical,  waiting until the new year to send them
 - he is considering just using an email for his patients
