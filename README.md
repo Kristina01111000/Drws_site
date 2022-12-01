@@ -192,5 +192,5 @@ still getting emails from 4elifestlye
 
 look at to do list
 - he is considering just using an email for his patients
-
+- send october invoice
 
