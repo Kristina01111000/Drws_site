@@ -38,6 +38,7 @@ Hours worked October: 8 hour 45 min
 
 Hour worked November: 4 hour 15 min
  
+Hours worked December:  35 min
 plugins im using on site:
 
 - peepso -> auto updates still not working
