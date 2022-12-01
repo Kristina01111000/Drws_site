@@ -194,3 +194,4 @@ look at to do list
 - he is considering just using an email for his patients
 - send october invoice
 
+- think about video for youtube homepage, 30 day challenge adjacent
