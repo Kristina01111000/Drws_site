@@ -190,7 +190,6 @@ still getting emails from 4elifestlye
 
 
 look at to do list
-- emails not critical,  waiting until the new year to send them
 - he is considering just using an email for his patients
-- check email google doc
-- see if voice is good enough for the call tomorrow
+
+
