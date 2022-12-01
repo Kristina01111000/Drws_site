@@ -34,7 +34,7 @@ Hours worked August: 9 hour 15 min -> recieved
 
 Hours worked September: 11 hour 15 minutes -> recieved
 
-Hours worked October: 8 hour 45 min
+Hours worked October: 8 hour 45 min -> sent
 
 Hour worked November: 4 hour 15 min
  
