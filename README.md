@@ -192,6 +192,5 @@ still getting emails from 4elifestlye
 
 look at to do list
 - he is considering just using an email for his patients
-- send october invoice
-
-- think about video for youtube homepage, 30 day challenge adjacent
+- think about video for youtube homepage, 30 day challenge adjacent -> sent
+- rethink the welcome email that gets sent when they sign up for the site
