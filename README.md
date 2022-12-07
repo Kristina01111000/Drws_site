@@ -36,9 +36,10 @@ Hours worked September: 11 hour 15 minutes -> recieved
 
 Hours worked October: 8 hour 45 min -> sent
 
-Hour worked November: 4 hour 15 min
+Hour worked November: 4 hour 15 min -> sent
  
 Hours worked December:  35 min
+
 plugins im using on site:
 
 - peepso -> auto updates still not working
