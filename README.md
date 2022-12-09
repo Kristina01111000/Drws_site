@@ -206,3 +206,5 @@ look at to do list
 - See if they have a file limit for size in emails
 - plan is to send out emails starting on week of jan 2nd
 - need to make email for his current patients
+- he needs to edit the email chain emails
+- he is going to make a new video for the emails about 30 day challenge
