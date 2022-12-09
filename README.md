@@ -199,12 +199,11 @@ look at to do list
 
 
 - Make a list of the people who aren’t verified, see if peepso will do it automatically
-- Fix the menu on right side
 - Figure out where to put reviews, and where to get them
 - Put the 4 scorecard video on the page on the site
 - Check if constant contact can send audio
 - See if they have a file limit for size in emails
 - plan is to send out emails starting on week of jan 2nd
-- need to make email for his current patients
+- need to make email for his current patients, and get the list
 - he needs to edit the email chain emails
 - he is going to make a new video for the emails about 30 day challenge
