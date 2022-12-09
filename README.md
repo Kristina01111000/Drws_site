@@ -38,7 +38,7 @@ Hours worked October: 8 hour 45 min -> sent
 
 Hour worked November: 4 hour 15 min -> sent
  
-Hours worked December: 1 hour 10 min
+Hours worked December: 1 hour 15 min
 
 plugins im using on site:
 
@@ -197,10 +197,10 @@ look at to do list
 - rethink the welcome email that gets sent when they sign up for the site
 
 
-set up to do list
-Make a list of the people who aren’t verified, see if peepso will do it automatically
-Fix the menu on right side
-Figure out where to put reviews, and where to get them
-Put the 4 scorecard video on the page on the site
-Check if constant contact can send audio
-See if they have a file limit for size in emails
+
+- Make a list of the people who aren’t verified, see if peepso will do it automatically
+- Fix the menu on right side
+- Figure out where to put reviews, and where to get them
+- Put the 4 scorecard video on the page on the site
+- Check if constant contact can send audio
+- See if they have a file limit for size in emails
