@@ -204,3 +204,5 @@ look at to do list
 - Put the 4 scorecard video on the page on the site
 - Check if constant contact can send audio
 - See if they have a file limit for size in emails
+- plan is to send out emails starting on week of jan 2nd
+- need to make email for his current patients
