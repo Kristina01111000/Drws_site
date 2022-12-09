@@ -217,3 +217,4 @@ Steph Kenific
 - on promo page in a new section, under neath arrow?
 - make another page for reviews?
 - take screen grabs for him to review, don't add the section yet
+- do add the page, just dont link to it anywhere
