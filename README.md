@@ -207,3 +207,8 @@ look at to do list
 - need to make email for his current patients, and get the list
 - he needs to edit the email chain emails
 - he is going to make a new video for the emails about 30 day challenge
+
+Review to put in:
+The 30 Day Wellness Challenge got me thinking every day about what healthy habits I could be engaging in to take care of myself. I took away some great ideas about how to slow down and mentally reorient myself to find inner calm and wellness. It was really worthwhile to reflect after each day and to challenge myself to do better for the next one!
+
+Steph Kenific
