@@ -34,11 +34,11 @@ Hours worked August: 9 hour 15 min -> recieved
 
 Hours worked September: 11 hour 15 minutes -> recieved
 
-Hours worked October: 8 hour 45 min -> sent
+Hours worked October: 8 hour 45 min -> recieved
 
-Hour worked November: 4 hour 15 min -> sent
+Hour worked November: 4 hour 15 min -> recieved
  
-Hours worked December: 1 hour 15 min
+Hours worked December: 1 hour 20 min
 
 plugins im using on site:
 
