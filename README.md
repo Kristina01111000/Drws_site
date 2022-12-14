@@ -38,7 +38,7 @@ Hours worked October: 8 hour 45 min -> recieved
 
 Hour worked November: 4 hour 15 min -> recieved
  
-Hours worked December: 1 hour 20 min
+Hours worked December: 1 hour 30 min
 
 plugins im using on site:
 
@@ -212,3 +212,4 @@ look at to do list
 - make another page for reviews?
 - take screen grabs for him to review, don't add the section yet
 - do add the page, just dont link to it anywhere
+- go over quiz questions
