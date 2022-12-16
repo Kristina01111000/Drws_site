@@ -210,7 +210,6 @@ look at to do list
 
 
 - make another page for reviews?
-- take screen grabs for him to review, don't add the section yet
-- do add the page, just dont link to it anywhere
+- add a page for reviews, just dont link to it anywhere
 - go over quiz questions
 - see if he has looked at the emails tomorrow
