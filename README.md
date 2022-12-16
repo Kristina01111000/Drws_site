@@ -182,17 +182,10 @@ For next meeting:
 - For google doc see if ‘make a copy’ can be put up when they try to request access
 - Look into file upload plugin for fourissimo page -> new plugin from peepso
 
-Put the links in the 30 day email, right now just ***'s
-
 still getting emails from 4elifestlye
 
 
-look at to do list
-- he is considering just using an email for his patients
-- think about video for youtube homepage, 30 day challenge adjacent -> sent
 - rethink the welcome email that gets sent when they sign up for the site
-
-
 
 - Make a list of the people who aren’t verified, see if peepso will do it automatically
 - Check if constant contact can send audio
@@ -200,10 +193,9 @@ look at to do list
 - plan is to send out emails starting on week of jan 2nd
 - need to make email for his current patients, and get the list
 - he needs to edit the email chain emails
-- he is going to make a new video for the emails about 30 day challenge
+- he is going to make a new video eventually for the emails about 30 day challenge
 
 
 - make another page for reviews?
 - add a page for reviews, just dont link to it anywhere
 - go over quiz questions
-- see if he has looked at the emails tomorrow
