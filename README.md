@@ -199,8 +199,6 @@ look at to do list
 
 
 - Make a list of the people who aren’t verified, see if peepso will do it automatically
-- Figure out where to put reviews, and where to get them
-- Put the 4 scorecard video on the page on the site
 - Check if constant contact can send audio
 - See if they have a file limit for size in emails
 - plan is to send out emails starting on week of jan 2nd
