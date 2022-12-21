@@ -116,7 +116,6 @@ Survey stuff:
 to do now:
 
 - Make chats for other people that sound good, 2 to 3 people
-- look at the alt text on the images -> avoid lawsuits, I think we're in the clear images are used for window dressing, check on free web tester
 - check login attempts 
 
 
@@ -131,16 +130,10 @@ See if there is a way to see how many people downloaded the scorecard, use googl
 
 scorecard link:
 https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit#gid=1517792507
-He is making more changes to the scorecard
 
 
-- go through the pages and delete the old/extra ones
-
-
-Feedback from client
 
 - See how to see all member data from peepso at one time -> is it even possible? -> look under users, or under manage -> nope, can look at learn dash stuff though
-- Will be emailed other questions for quizzes from ben
 
 - he wants 10 questions per quiz
 	- quizzes that have 10 questions: # 1,
