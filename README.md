@@ -199,3 +199,9 @@ still getting emails from 4elifestlye
 - make another page for reviews?
 - add a page for reviews, just dont link to it anywhere
 
+THings im waiting for from dr w:
+- go over quiz questions
+- emails for email chain
+- emails for current clients
+- current client list
+- 
