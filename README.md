@@ -191,9 +191,6 @@ still getting emails from 4elifestlye
 - Check if constant contact can send audio
 - See if they have a file limit for size in emails
 - plan is to send out emails starting on week of jan 2nd
-- need to make email for his current patients, and get the list
-- he needs to edit the email chain emails
-- he is going to make a new video eventually for the emails about 30 day challenge
 
 
 - make another page for reviews?
@@ -204,4 +201,4 @@ THings im waiting for from dr w:
 - emails for email chain
 - emails for current clients
 - current client list
-- 
+- new video explaining the 30 day challenge
