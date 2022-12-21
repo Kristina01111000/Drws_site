@@ -169,9 +169,9 @@ still getting emails from 4elifestlye
 - add a page for reviews, just dont link to it anywhere
 - check names of lessons on promo page when new youtube video is dropped
 
-THings im waiting for from dr w:
-- go over quiz questions
-- emails for email chain
+Things im waiting for from dr w:
+- go over quiz questions, does he want more?
+- emails for email chain, they're set on my end, i can't make the chain emails til thats done
 - emails for current clients
 - current client list
 - new video explaining the 30 day challenge
