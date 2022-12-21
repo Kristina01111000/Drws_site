@@ -172,6 +172,6 @@ still getting emails from 4elifestlye
 Things im waiting for from dr w:
 - go over quiz questions, does he want more?
 - emails for email chain, they're set on my end, i can't make the chain emails til thats done
-- emails for current clients
-- current client list
-- new video explaining the 30 day challenge
+- email for current clients, partially done
+- current client list, at some point i should get this
+- new video explaining the 30 day challenge - probably not until summer
