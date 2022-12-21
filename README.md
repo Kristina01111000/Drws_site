@@ -121,9 +121,8 @@ to do now:
 
 See if there is a way to see how many people downloaded the scorecard, use google for site analytics - he needs a google workspace account for this
 
-- Can we have people sign up to get an email once a day and other people once a week, different groups, email lists, starting at different times, chronological order when they join, everyday, every week , have them choose that, through peepso or learndash, or through a mailing thing, maybe constant contact, see if at allows chronological emails when you sign up
 - https://www.constantcontact.com/blog/automated-welcome-series/ 15 emails every 2 days, look at core vs plus
-- We will email you every other day with a link to a quick minute on youtube
+- We will email them every other day with a link to a quick minute on youtube
 
 --------------------------------------------------------
  analytics add him as an admin for other sites -> check
@@ -131,24 +130,21 @@ See if there is a way to see how many people downloaded the scorecard, use googl
 scorecard link:
 https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit#gid=1517792507
 
-
-
 - See how to see all member data from peepso at one time -> is it even possible? -> look under users, or under manage -> nope, can look at learn dash stuff though
 
 - he wants 10 questions per quiz
-	- quizzes that have 10 questions: # 1,
+	- Quizzes that have 10 questions: # 1,
 	- Quizzes than need 10 questions: # 2, # 3, # 4, # 5,
 	- Quizzes than need a lesson to be dropped first: # 6, and up 
 
 - he is having an issue with the link to the scorecard on membership signup page -> chrome and safari only, he needs to clear cookies, maybe turn off sitegroudn? clearing cookies didn't work, try to fix the issue one more time, then try peepso, didn't work for me in chrome, started  aa ticket with peepso
-still waiting on them, update him, didn't have a pmp shortcode on the registration page
+still waiting on them, update him, didn't have a [pmp shortcode] on the registration page
 
 - Ccholistic1! For constant contact hwalsdorf@earth
 - Get the constant contact stuff set up
 
 - Add matching questions to other quizzes for 1 point only, thats what he wants it to be
 - google doc for emails:https://docs.google.com/document/d/1Nc_WVsgZKdhpWaHZyDn81rw4y02Dlj2wB-O-q9ZnJXs/edit?usp=sharing
-- Try get to 10 questions for each quiz, if i can’t he will get it started, prompt him to go through them after they are up, ben might send some potential questions, but dont wait for them
 
 - Write a review in fourissimo club for the heel strike fixing plantar fasciitis
 - Fix the title of the download on fourissimo page, tell him how to fix it -> what?
