@@ -171,10 +171,7 @@ still waiting on them, update him, didn't have a pmp shortcode on the registrati
 
 - Add matching questions to other quizzes for 1 point only, thats what he wants it to be
 - google doc for emails:https://docs.google.com/document/d/1Nc_WVsgZKdhpWaHZyDn81rw4y02Dlj2wB-O-q9ZnJXs/edit?usp=sharing
-- Look into putting an essay attachment lesson for fourissimo club -> new plugin from peepso
 - Try get to 10 questions for each quiz, if i can’t he will get it started, prompt him to go through them after they are up, ben might send some potential questions, but dont wait for them
-
-For next meeting:
 
 - Write a review in fourissimo club for the heel strike fixing plantar fasciitis
 - Fix the title of the download on fourissimo page, tell him how to fix it -> what?
@@ -191,9 +188,6 @@ still getting emails from 4elifestlye
 - Check if constant contact can send audio
 - See if they have a file limit for size in emails
 - plan is to send out emails starting on week of jan 2nd
-
-
-- make another page for reviews?
 - add a page for reviews, just dont link to it anywhere
 
 THings im waiting for from dr w:
