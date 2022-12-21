@@ -65,11 +65,6 @@ https://developers.google.com/speed/pagespeed/insights/
 
 https://web.dev/measure/:
 
-TO do in future:
-	- Come up with a prompt for the chat page for all lessons, not too long
-	- Make chats for other people that sound good, 2 to 3 people
-	- make quizzes for each lesson need to do lesson 2 and 3
-
 Notes:
 
 	- with gecko theme in editor main background photo is set in theme -> body settings
@@ -183,7 +178,8 @@ still getting emails from 4elifestlye
 
 
 - rethink the welcome email that gets sent when they sign up for the site
-
+- Come up with a prompt for the chat page for all lessons, not too long
+- Make chats for other people that sound good, 2 to 3 people
 - Make a list of the people who aren’t verified, see if peepso will do it automatically
 - Check if constant contact can send audio
 - See if they have a file limit for size in emails
