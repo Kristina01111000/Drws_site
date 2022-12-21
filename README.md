@@ -75,18 +75,8 @@ Notes:
 	- non-members cannot get access to courses, can view the headings 
 		- fixed it in learndash settings, still can't figure out peepso setting
 	- pages allowed to nonmembers:
-		- promo
-		- login
-		- registration
-		- scorecard
-		- patients
-		- documentary page
-		- second promo page
-		- community activity
-		- join 30 day challenge page
-			- does peepso change the pages numbers when new updates are made?
+		- all of them
 	- **make sure to use peepso login and log out, not pmp login and logout**
-	- forward comment emails to him
 	- .customclass is the class name to add a border around a group
 	- capitalize the element names everywhere
 	- wants some posts that visible always, some that are unlisted that he uses other sources
@@ -99,12 +89,11 @@ Notes:
 	- used photo editor for flavenoids picture, font = fresh
 	- for admin email change "Settings"=>"General"=>"E-Mail Address". set to mine now, hopefully he fixes the other sites email address thing
 	- nothing on site can be hidden from administrators
-	- current font sizes chould continue on through the site
+	- current font sizes should continue on through the site
 	- Manager of youtube now also -> can change/add etc videos and everything
-	- yearly scorecard ink: https://docs.google.com/spreadsheets/d/1IxK22ihszAVXQgxLD9di-MhoP3kERT8SlfXiGddOmhc/edit
-	- check names of lessons on promo page when new youtube video is dropped
+	- yearly scorecard link: https://docs.google.com/spreadsheets/d/1IxK22ihszAVXQgxLD9di-MhoP3kERT8SlfXiGddOmhc/edit
 	- Monthly topics will be articles now, not a class
-	- page redirect completely turned off, might be that way now for sure
+	- page redirect completely turned off
 	- four corners page is a draft now
 
 
@@ -185,6 +174,7 @@ still getting emails from 4elifestlye
 - See if they have a file limit for size in emails
 - plan is to send out emails starting on week of jan 2nd
 - add a page for reviews, just dont link to it anywhere
+- check names of lessons on promo page when new youtube video is dropped
 
 THings im waiting for from dr w:
 - go over quiz questions
