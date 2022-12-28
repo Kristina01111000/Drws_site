@@ -171,3 +171,5 @@ Things im waiting for from dr w:
 - email for current clients, partially done
 - current client list, at some point i should get this
 - new video explaining the 30 day challenge - probably not until summer
+
+add a margin to the review
