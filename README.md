@@ -38,7 +38,7 @@ Hours worked October: 8 hour 45 min -> recieved
 
 Hour worked November: 4 hour 15 min -> recieved
  
-Hours worked December: 2 hour 50 min
+Hours worked December: 3 hour 45 min
 
 plugins im using on site:
 
