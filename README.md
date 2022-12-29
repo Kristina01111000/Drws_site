@@ -38,7 +38,7 @@ Hours worked October: 8 hour 45 min -> recieved
 
 Hour worked November: 4 hour 15 min -> recieved
  
-Hours worked December: 2 hour 35 min
+Hours worked December: 2 hour 50 min
 
 plugins im using on site:
 
@@ -172,4 +172,4 @@ Things im waiting for from dr w:
 - current client list, at some point i should get this
 - new video explaining the 30 day challenge - probably not until summer
 
-add a margin to the review
+add  margin to the custom css page
