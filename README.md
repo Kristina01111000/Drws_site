@@ -174,7 +174,7 @@ Things im waiting for from dr w:
 
 add  margin to the custom css page
 See if campaign monitor will work for audio files the way he wants
-Send email to val in the office to get the email list of current patients say hi val, dr w told me to email you a list of what  we need to get the patients emails 
+
 See how big the file size for campaign monitor is 
 Could he sell his book (hardcover and ebook) on the site?
 Set up woocommerce on the site for his book
