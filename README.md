@@ -172,13 +172,13 @@ Things im waiting for from dr w:
 - current client list, at some point i should get this
 - new video explaining the 30 day challenge - probably not until summer
 
-add  margin to the custom css page
-See if campaign monitor will work for audio files the way he wants
+- add  margin to the custom css page
+- See if campaign monitor will work for audio files the way he wants
 
-See how big the file size for campaign monitor is 
-Could he sell his book (hardcover and ebook) on the site?
-Set up woocommerce on the site for his book
-For book physical;  $17.95 for book, free shipping; ebook: $5.95
-Don’t put the cart in the top corner
-List his book on the front page, add a buy dr w’s book here section on front page
-Blurb on why dr w is doing this for free, where it should be? Dr W is committed to making the world better by helping people connect to the ancient wisdom, so he is making all of his knowledge for free
+- See how big the file size for campaign monitor is 
+- Could he sell his book (hardcover and ebook) on the site?
+- Set up woocommerce on the site for his book
+- For book physical;  $17.95 for book, free shipping; ebook: $5.95
+- Don’t put the cart in the top corner
+- List his book on the front page, add a buy dr w’s book here section on front page
+- Blurb on why dr w is doing this for free, where it should be? Dr W is committed to making the world better by helping people connect to the ancient wisdom, so he is making all of his knowledge for free
