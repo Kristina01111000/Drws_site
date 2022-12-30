@@ -173,7 +173,6 @@ Things im waiting for from dr w:
 - new video explaining the 30 day challenge - probably not until summer
 
 add  margin to the custom css page
-See if first quick minute video is too heavy for the first day
 See if campaign monitor will work for audio files the way he wants
 Send email to val in the office to get the email list of current patients say hi val, dr w told me to email you a list of what  we need to get the patients emails 
 See how big the file size for campaign monitor is 
