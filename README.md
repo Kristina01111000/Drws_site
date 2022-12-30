@@ -181,4 +181,4 @@ Things im waiting for from dr w:
 - For book physical;  $17.95 for book, free shipping; ebook: $5.95
 - Don’t put the cart in the top corner
 - List his book on the front page, add a buy dr w’s book here section on front page
-- Blurb on why dr w is doing this for free, where it should be? Dr W is committed to making the world better by helping people connect to the ancient wisdom, so he is making all of his knowledge for free
+- Blurb on why dr w is doing this for free, where it should be? Dr W is committed to making the world better by helping people connect to the ancient wisdom, so he is making all of his knowledge for free -> he is doing this
