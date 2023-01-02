@@ -40,6 +40,8 @@ Hour worked November: 4 hour 15 min -> recieved
  
 Hours worked December: 3 hour 55 min
 
+Hours worked January 2023: 25 min
+
 plugins im using on site:
 
 - peepso -> auto updates still not working
