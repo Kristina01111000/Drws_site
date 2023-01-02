@@ -184,5 +184,5 @@ Things im waiting for from dr w:
 - Blurb on why dr w is doing this for free, where it should be? Dr W is committed to making the world better by helping people connect to the ancient wisdom, so he is making all of his knowledge for free -> he is doing this
 
 
-- added woocomerce, not activated, need api key for paypal
+- added woocomerce, not activated, need api key for paypal -> make sure what he sent is everything we need
 - check if we need an api for stripe
