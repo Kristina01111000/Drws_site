@@ -189,4 +189,5 @@ Things im waiting for from dr w:
 - added woocomerce, not activated, need api key for paypal -> make sure what he sent is everything we need -> it is not
 - check if we need an api for stripe
 - add the product info for his book, put the image in the listing
+- see if teh blurb can be taken from his website
 - check meeting notes
