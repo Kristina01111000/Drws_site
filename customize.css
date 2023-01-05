@@ -106,3 +106,8 @@ body .wp-block-columns .wp-block-column {
 	.wp-block-button__link:hover{
 		color: #0000FF;
 	}
+
+// changes the side margins 
+.custommargin{
+	margin:1px 10%;
+}
