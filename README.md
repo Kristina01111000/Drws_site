@@ -40,7 +40,7 @@ Hour worked November: 4 hour 15 min -> recieved
  
 Hours worked December: 3 hour 55 min
 
-Hours worked January 2023: 30 min
+Hours worked January 2023: 35 min
 
 plugins im using on site:
 
@@ -188,6 +188,5 @@ Things im waiting for from dr w:
 
 - added woocomerce, not activated, need api key for paypal -> make sure what he sent is everything we need -> it is not
 - check if we need an api for stripe
-- add the product info for his book, put the image in the listing
 - see if teh blurb can be taken from his website
 - check meeting notes
