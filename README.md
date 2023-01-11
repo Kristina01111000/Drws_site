@@ -183,7 +183,7 @@ Things im waiting for from dr w:
 - For book: physical $17.95, free shipping; ebook $5.95
 - Don’t put the cart in the top corner
 - List his book on the front page, add a buy dr w’s book here section on front page
-
+- campaign monisot doesn't do chain emails
 
 
 - added woocomerce, not activated, need api key for paypal -> make sure what he sent is everything we need -> it is not
