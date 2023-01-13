@@ -175,7 +175,6 @@ Things im waiting for from dr w:
 - new video explaining the 30 day challenge - probably not until summer
 
 
-- See if campaign monitor will work for audio files the way he wants
 
 - See how big the file size for campaign monitor is 
 - Could he sell his book (hardcover and ebook) on the site?
@@ -190,13 +189,13 @@ Things im waiting for from dr w:
 - check if we need an api for stripe
 - check meeting notes
 
-See if i can get lines on about dr w page to go ¾ of the way across
-Add it to the homepage
-putting blurb with book links on the homepage (around words from dr w ) 
-Put blurb about book in a widget on home page
-Sell it as epub recommended for highest quality, also have available as a pdf
-List books on their own page under holistic growth 
-100 physical books, email him when it gets down to 20 books left
-Switching to campaign monitor if they allow email chains
+- See if i can get lines on about dr w page to go ¾ of the way across
+- Add it to the homepage
+- putting blurb with book links on the homepage (around words from dr w ) 
+- Put blurb about book in a widget on home page
+- Sell it as epub recommended for highest quality, also have available as a pdf
+- List books on their own page under holistic growth 
+- 100 physical books, email him when it gets down to 20 books left
+- Switching to campaign monitor if they allow email chains
 
-Look for other email providers that have chains + audio
+- Look for other email providers that have chains + audio
