@@ -180,7 +180,7 @@ Things im waiting for from dr w:
 - For book: physical $17.95, free shipping; ebook $5.95
 - Don’t put the cart in the top corner
 - List his book on the front page, add a buy dr w’s book here section on front page
-- campaign monisot doesn't do chain emails
+
 
 
 - added woocomerce, not activated, need api key for paypal -> make sure what he sent is everything we need -> it is not
@@ -188,12 +188,11 @@ Things im waiting for from dr w:
 
 
 - See if i can get lines on about dr w page to go ¾ of the way across
-- Add it to the homepage
 - putting blurb with book links on the homepage (around words from dr w ) 
 - Put blurb about book in a widget on home page
 - Sell it as epub recommended for highest quality, also have available as a pdf
 - List books on their own page under holistic growth 
 - 100 physical books, email him when it gets down to 20 books left
-- Switching to campaign monitor if they allow email chains
+
 
 - Look for other email providers that have chains + audio
