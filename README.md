@@ -171,13 +171,11 @@ Things im waiting for from dr w:
 - go over quiz questions, does he want more?
 - emails for email chain, they're set on my end, i can't make the chain emails til thats done
 - email for current clients, partially done
-- current client list, at some point i should get this
+- current client list, at some point i should get this later -> val is moving to a new job
 - new video explaining the 30 day challenge - probably not until summer
 
 
 
-- See how big the file size for campaign monitor is 
-- Could he sell his book (hardcover and ebook) on the site?
 - connect woocommerce on the site for his book
 - For book: physical $17.95, free shipping; ebook $5.95
 - Don’t put the cart in the top corner
@@ -187,7 +185,7 @@ Things im waiting for from dr w:
 
 - added woocomerce, not activated, need api key for paypal -> make sure what he sent is everything we need -> it is not
 - check if we need an api for stripe
-- check meeting notes
+
 
 - See if i can get lines on about dr w page to go ¾ of the way across
 - Add it to the homepage
