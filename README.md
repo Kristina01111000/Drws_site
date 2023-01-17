@@ -195,4 +195,4 @@ Things im waiting for from dr w:
 - 100 physical books, email him when it gets down to 20 books left
 
 
-- Look for other email providers that have chains + audio
+- Look for other email providers that have chains + audio, i can't find any that have both
