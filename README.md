@@ -192,8 +192,6 @@ TO do:
 - Put blurb about book in a widget on home page
 - Sell it as epub recommended for highest quality, also have available as a pdf
 - List books on their own page under holistic growth 
-- 100 physical books, email him when it gets down to 20 books left
-- list them separatly
 - free shipping in us 
 - no shipping outside us
 
