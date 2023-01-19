@@ -194,6 +194,3 @@ TO do:
 - List books on their own page under holistic growth 
 - free shipping in us 
 - no shipping outside us
-
-
-- Look for other email providers that have chains + audio, i can't find any that have both
