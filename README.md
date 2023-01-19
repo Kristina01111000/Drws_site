@@ -40,7 +40,7 @@ Hour worked November: 4 hour 15 min -> recieved
  
 Hours worked December: 3 hour 55 min
 
-Hours worked January 2023: 1 hour 40 min
+Hours worked January 2023: 1 hour 50 min
 
 plugins im using on site:
 
@@ -196,7 +196,6 @@ TO do:
 - list them separatly
 - free shipping in us 
 - no shipping outside us
-- For book physical;  $17.95 for book, free shipping; ebook: $5.95
 
 
 - Look for other email providers that have chains + audio, i can't find any that have both
