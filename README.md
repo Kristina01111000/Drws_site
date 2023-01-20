@@ -194,3 +194,6 @@ TO do:
 - List books on their own page under holistic growth 
 - free shipping in us 
 - no shipping outside us
+
+- he is going to write a different description
+- he needs to get me the paypal connection data
