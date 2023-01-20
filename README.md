@@ -176,24 +176,27 @@ Things im waiting for from dr w:
 
 
 
-- connect woocommerce on the site for his book
-- For book: physical $17.95, free shipping; ebook $5.95
-- Don’t put the cart in the top corner
-- List his book on the front page, add a buy dr w’s book here section on front page
 
-
-
-- added woocomerce, not activated, need api key for paypal -> make sure what he sent is everything we need -> it is not
 - check if we need an api for stripe
 
 TO do:
 - See if i can get lines on about dr w page to go ¾ of the way across
+
+
+
+
+waiting oon paypal connection:
 - putting blurb with book links on the homepage (around words from dr w ) 
 - Put blurb about book in a widget on home page
 - Sell it as epub recommended for highest quality, also have available as a pdf
 - List books on their own page under holistic growth 
 - free shipping in us 
 - no shipping outside us
-
 - he is going to write a different description
 - he needs to get me the paypal connection data
+- - connect woocommerce on the site for his book
+- For book: physical $17.95, free shipping; ebook $5.95
+- Don’t put the cart in the top corner
+- List his book on the front page, add a buy dr w’s book here section on front page
+- added woocomerce, not activated, need api key for paypal -> make sure what he sent is everything we need -> it is not
+- make another page for just the book listing above the  documentary on the menu
