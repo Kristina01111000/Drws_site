@@ -102,16 +102,16 @@ Notes:
 Survey stuff:
 
 	list of survey options/questions:
-		- want all of the 80 questions in list? maybe it should be shorter -> put all 80 in
-		- do you have a list of the q's separated into element groups? no-> separate it out manually (goes fire air water earth in the survey list)
-		- maybe hubspot for wordpress plugin? it's free, other ones i've found are quite expensive
-		- or maybe quiz and survey master, they have a free version, see what is best
+		- he wants all of the 80 questions in list
+		- do you have a list of the q's separated into element groups? no-> (goes fire air water earth in the survey list)
 		- i will be trying the quiz option for a learndash class first, might not work b/c they are not graded, they are split into categories
 	--------- rank list 1 to 5 for each question
 		- likert scale for questions in survey
-		- wpforms pro does not work the way he wants
+		- wpforms pro does not work
+		- hubspot for wordpress does not work
+		- quiz and survey master does not work
 		- tryuquiz does not work
-		- he is taking care of the quiz
+		- he is taking care of the quiz 
 	
 
 
