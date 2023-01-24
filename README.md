@@ -200,3 +200,4 @@ waiting oon paypal connection:
 - List his book on the front page, add a buy dr w’s book here section on front page
 - added woocomerce, not activated, need api key for paypal -> make sure what he sent is everything we need -> it is not
 - make another page for just the book listing above the  documentary on the menu
+- make sure we want to use constant contact, get the emails set up
