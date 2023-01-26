@@ -40,7 +40,7 @@ Hour worked November: 4 hour 15 min -> recieved
  
 Hours worked December: 3 hour 55 min
 
-Hours worked January 2023: 2 hour 15 min
+Hours worked January 2023: 2 hour 25 min
 
 plugins im using on site:
 
@@ -187,9 +187,9 @@ TO do:
 
 waiting oon paypal connection:
 - putting blurb with book links on the homepage (around words from dr w ) 
-- Put blurb about book in a widget on home page
+- Put blurb about book in a widget on home page: blurb written, waiting for feedback
 - Sell it as epub recommended for highest quality, also have available as a pdf
-- List books on their own page under holistic growth 
+- List book on its own page under holistic growth 
 - free shipping in us 
 - no shipping outside us
 - he is going to write a different description
