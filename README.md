@@ -206,3 +206,6 @@ waiting oon paypal connection:
 - Blurb needs to be short to look good in the widget
 - What  sample chapter should we add to the book listing? Probably chapter 1? Should I take the same excerpt from 4e lifestyle? https://4elementlifestyle.com/dr-ws-book/ introduction, part of chapter one, also include the table of contents, make sure some of the pictures are in the sample, up to page 15 
 new description for the book listing? The current one is the one from 4e lifestyle, take it from the back cover of the book
+- Send me the pdf of the book again
+- Figure out how to connect the app to growing holistically (end of february)
+- Tik tok account added to site soon
