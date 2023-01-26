@@ -201,3 +201,8 @@ waiting oon paypal connection:
 - added woocomerce, not activated, need api key for paypal -> make sure what he sent is everything we need -> it is not
 - make another page for just the book listing above the  documentary on the menu
 - make sure we want to use constant contact, get the emails set up
+- Blurb: Would  you like to improve your life? Learn how to use the four elements to make small lifestyle changes that will add up into huge improvements check out Dr. W’s book Fire, Air, Water, & Earth: Apply Ancient Wisdom to Your Life (title links to book page)
+- Dr. W has a great book on the four elements…
+- Blurb needs to be short to look good in the widget
+- What  sample chapter should we add to the book listing? Probably chapter 1? Should I take the same excerpt from 4e lifestyle? https://4elementlifestyle.com/dr-ws-book/ introduction, part of chapter one, also include the table of contents, make sure some of the pictures are in the sample, up to page 15 
+new description for the book listing? The current one is the one from 4e lifestyle, take it from the back cover of the book
