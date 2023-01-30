@@ -40,7 +40,7 @@ Hour worked November: 4 hour 15 min -> recieved
  
 Hours worked December: 3 hour 55 min
 
-Hours worked January 2023: 3 hour 00 min
+Hours worked January 2023: 3 hour 05 min
 
 plugins im using on site:
 
@@ -205,3 +205,4 @@ new description for the book listing? The current one is the one from 4e lifesty
 - Send me the pdf of the book again
 - Figure out how to connect the app to growing holistically (end of february)
 - Tik tok account added to site soon
+- see if contact page is easily accessible on the site
