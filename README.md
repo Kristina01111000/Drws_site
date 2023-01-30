@@ -161,17 +161,13 @@ still getting emails from 4elifestlye
 - Come up with a prompt for the chat page for all lessons, not too long
 - Make chats for other people that sound good, 2 to 3 people
 - Make a list of the people who aren’t verified, see if peepso will do it automatically
-- Check if constant contact can send audio
-- See if they have a file limit for size in emails
-- plan is to send out emails starting on week of jan 2nd
+
+- plan is to send out emails starting on week of feb 2nd?
 - add a page for reviews, just dont link to it anywhere
 - check names of lessons on promo page when new youtube video is dropped
 
 Things im waiting for from dr w:
-- go over quiz questions, does he want more?
-- emails for email chain, they're set on my end, i can't make the chain emails til thats done
-- email for current clients, partially done
-- current client list, at some point i should get this later -> val is moving to a new job
+- email  list for current clients, on hold til he gets new employee
 - new video explaining the 30 day challenge - probably not until summer
 
 
