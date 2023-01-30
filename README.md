@@ -183,18 +183,18 @@ TO do:
 
 waiting oon paypal connection:
 - putting blurb with book links on the homepage (around words from dr w ) 
-- Put blurb about book in a widget on home page: blurb written, waiting for feedback
+- Put blurb about book in a widget on home page: blurb written, accepted
 - Sell it as epub recommended for highest quality, also have available as a pdf
 - List book on its own page under holistic growth 
 - free shipping in us 
 - no shipping outside us
 - he is going to write a different description
-- he needs to get me the paypal connection data
-- - connect woocommerce on the site for his book
+
+
 - For book: physical $17.95, free shipping; ebook $5.95
 - Don’t put the cart in the top corner
 - List his book on the front page, add a buy dr w’s book here section on front page
-- added woocomerce, not activated, need api key for paypal -> make sure what he sent is everything we need -> it is not
+
 - make another page for just the book listing above the  documentary on the menu
 - make sure we want to use constant contact, get the emails set up
 - Blurb: Would  you like to improve your life? Learn how to use the four elements to make small lifestyle changes that will add up into huge improvements check out Dr. W’s book Fire, Air, Water, & Earth: Apply Ancient Wisdom to Your Life (title links to book page)
