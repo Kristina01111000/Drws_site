@@ -177,11 +177,6 @@ Things im waiting for from dr w:
 
 TO do:
 - See if i can get lines on about dr w page to go ¾ of the way across
-
-
-
-
-waiting oon paypal connection:
 - putting blurb with book links on the homepage (around words from dr w ) 
 - Put blurb about book in a widget on home page: blurb written, accepted
 - Sell it as epub recommended for highest quality, also have available as a pdf
@@ -189,15 +184,12 @@ waiting oon paypal connection:
 - free shipping in us 
 - no shipping outside us
 - he is going to write a different description
-
-
 - For book: physical $17.95, free shipping; ebook $5.95
 - Don’t put the cart in the top corner
 - List his book on the front page, add a buy dr w’s book here section on front page
-
 - make another page for just the book listing above the  documentary on the menu
-- make sure we want to use constant contact, get the emails set up
-- Blurb: Would  you like to improve your life? Learn how to use the four elements to make small lifestyle changes that will add up into huge improvements check out Dr. W’s book Fire, Air, Water, & Earth: Apply Ancient Wisdom to Your Life (title links to book page)
+- make to  get the emails set up AND testing
+- Blurb for widget: Would  you like to improve your life? Learn how to use the four elements to make small lifestyle changes that will add up into huge improvements check out Dr. W’s book Fire, Air, Water, & Earth: Apply Ancient Wisdom to Your Life (title links to book page)
 
 
 - What  sample chapter should we add to the book listing? Probably chapter 1? Should I take the same excerpt from 4e lifestyle? https://4elementlifestyle.com/dr-ws-book/ introduction, part of chapter one, also include the table of contents, make sure some of the pictures are in the sample, up to page 15 
