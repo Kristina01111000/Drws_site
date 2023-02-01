@@ -42,6 +42,8 @@ Hours worked December: 3 hour 55 min
 
 Hours worked January 2023: 3 hour 05 min
 
+Hours worked February 2023:  hour 35 min
+
 plugins im using on site:
 
 - peepso -> auto updates still not working
@@ -197,3 +199,7 @@ new description for the book listing? The current one is the one from 4e lifesty
 - Figure out how to connect the app to growing holistically (end of february)
 - Tik tok account added to site soon
 - see if contact page is easily accessible on the site
+
+
+- set up the emai lchain 
+get teh email list addition on the sign up page
