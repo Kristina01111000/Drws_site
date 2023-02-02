@@ -42,7 +42,7 @@ Hours worked December: 3 hour 55 min
 
 Hours worked January 2023: 3 hour 05 min
 
-Hours worked February 2023:  hour 35 min
+Hours worked February 2023:  hour 50 min
 
 plugins im using on site:
 
@@ -196,10 +196,12 @@ TO do:
 
 - What  sample chapter should we add to the book listing? Probably chapter 1? Should I take the same excerpt from 4e lifestyle? https://4elementlifestyle.com/dr-ws-book/ introduction, part of chapter one, also include the table of contents, make sure some of the pictures are in the sample, up to page 15 
 new description for the book listing? The current one is the one from 4e lifestyle, take it from the back cover of the book
+
+
 - Figure out how to connect the app to growing holistically (end of february)
 - Tik tok account added to site soon
 - see if contact page is easily accessible on the site
 
 
-- set up the emai lchain 
+- set up the emailchain 
 get teh email list addition on the sign up page
