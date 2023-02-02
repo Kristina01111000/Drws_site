@@ -153,7 +153,7 @@ https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROX
 - For google doc see if ‘make a copy’ can be put up when they try to request access
 - Look into file upload plugin for fourissimo page -> new plugin from peepso
 
-still getting emails from 4elifestlye
+still getting emails from 4elifestlye *remind him *
 
 
 - rethink the welcome email that gets sent when they sign up for the site
@@ -168,6 +168,8 @@ still getting emails from 4elifestlye
 Things im waiting for from dr w:
 - email  list for current clients, on hold til he gets new employee
 - new video explaining the 30 day challenge - probably not until summer
+- new description for products
+- new email for the emails to be sent from
 
 
 
