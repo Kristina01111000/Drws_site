@@ -42,7 +42,7 @@ Hours worked December: 3 hour 55 min -> sent
 
 Hours worked January 2023: 3 hour 05 min -> sent
 
-Hours worked February 2023: 1 hour 55 min
+Hours worked February 2023: 2 hour 5 min
 
 plugins im using on site:
 
@@ -207,3 +207,5 @@ new description for the book listing? The current one is the one from 4e lifesty
 
 - set up the emailchain 
 get teh email list addition on the sign up page
+
+- sent day three email
