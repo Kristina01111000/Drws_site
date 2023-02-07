@@ -209,3 +209,4 @@ new description for the book listing? The current one is the one from 4e lifesty
 get teh email list addition on the sign up page
 
 - sent day three email
+- need to pick out a  new email template, current one kinda looks like spam
