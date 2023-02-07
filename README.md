@@ -210,3 +210,5 @@ get teh email list addition on the sign up page
 
 - sent day three email
 - need to pick out a  new email template, current one kinda looks like spam, grey background looks funeralish
+
+- need to attach the book listing to the front page and widget, menu
