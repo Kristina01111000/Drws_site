@@ -196,8 +196,8 @@ new description for the book listing? The current one is the one from 4e lifesty
 - Figure out how to connect the app to growing holistically (end of february)
 - Tik tok account added to site soon
 - see if contact page is easily accessible on the site
-- Get a new email to send the chain from drw@growing holistically - he is doing this
-- Send emails at 10 am
+- Get a new email to send the chain from drw@growing holistically - he is doing this -> remind him on wednesday
+- Send emails at 10 am? for chain
 - Make logo of the youtube channel green part bigger add white background 
 - Fix the picture of the books in the shop page, see if i can fix that, its cutting off the title
 
