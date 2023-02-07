@@ -113,14 +113,6 @@ Survey stuff:
 		- tryuquiz does not work
 		- he is taking care of the quiz 
 	
-
-
-to do now:
-
-- Make chats for other people that sound good, 2 to 3 people
-- check login attempts 
-
-
 See if there is a way to see how many people downloaded the scorecard, use google for site analytics - he needs a google workspace account for this
 
 - https://www.constantcontact.com/blog/automated-welcome-series/ 15 emails every 2 days, look at core vs plus
@@ -143,15 +135,15 @@ https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROX
 
 - google doc for emails:https://docs.google.com/document/d/1Nc_WVsgZKdhpWaHZyDn81rw4y02Dlj2wB-O-q9ZnJXs/edit?usp=sharing
 
+to do now:
+
+- Make chats for other people that sound good, 2 to 3 people
+- check login attempts 
 - Write a review in fourissimo club for the heel strike fixing plantar fasciitis
 - Fix the title of the download pdf on fourissimo page
 - For groups get new pictures, add a scorecard picture for scorecard group
 - For google doc see if ‘make a copy’ can be put up when they try to request access
 - Look into file upload plugin for fourissimo page -> new plugin from peepso
-
-
-
-
 - rethink the welcome email that gets sent when they sign up for the site, add links?
 - Come up with a prompt for the chat page for all lessons, not too long
 - Make chats for other people that sound good, 2 to 3 people
