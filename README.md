@@ -78,8 +78,6 @@ Notes:
 	- in peepso logo height has to be in px, not %
 	- non-members cannot get access to courses, can view the headings 
 		- fixed it in learndash settings, still can't figure out peepso setting
-	- pages allowed to nonmembers:
-		- all of them
 	- **make sure to use peepso login and log out, not pmp login and logout**
 	- .customclass is the class name to add a border around a group
 	- capitalize the element names everywhere
@@ -141,10 +139,8 @@ https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROX
 	- Quizzes than need 10 questions: # 2, # 3, # 4, # 5,
 	- Quizzes than need a lesson to be dropped first: # 6, and up 
 
-- Ccholistic1! For constant contact hwalsdorf@earth
-- Get the constant contact stuff set up
+- Ccholistic1! For constant contact hwalsdorf@e
 
-- Add matching questions to other quizzes for 1 point only, thats what he wants it to be
 - google doc for emails:https://docs.google.com/document/d/1Nc_WVsgZKdhpWaHZyDn81rw4y02Dlj2wB-O-q9ZnJXs/edit?usp=sharing
 
 - Write a review in fourissimo club for the heel strike fixing plantar fasciitis
@@ -156,7 +152,7 @@ https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROX
 still getting emails from 4elifestlye *remind him *
 
 
-- rethink the welcome email that gets sent when they sign up for the site
+- rethink the welcome email that gets sent when they sign up for the site, add links?
 - Come up with a prompt for the chat page for all lessons, not too long
 - Make chats for other people that sound good, 2 to 3 people
 - Make a list of the people who aren’t verified, see if peepso will do it automatically
