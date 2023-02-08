@@ -172,7 +172,7 @@ TO do:
 - List book on its own page under holistic growth 
 - free shipping in us 
 - no shipping outside us
-- he is going to write a different description
+- he is going to write a different description - he sent it, look at it to see if it is good
 - List his book on the front page, add a buy dr w’s book here section on front page
 - make another page for just the book listing above the  documentary on the menu
 - make to  get the emails set up AND testing
