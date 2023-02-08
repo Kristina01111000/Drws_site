@@ -42,7 +42,7 @@ Hours worked December: 3 hour 55 min -> sent
 
 Hours worked January 2023: 3 hour 05 min -> sent
 
-Hours worked February 2023: 2 hour 15 min
+Hours worked February 2023: 2 hour 20 min
 
 plugins im using on site:
 
@@ -189,7 +189,6 @@ new description for the book listing? The current one is the one from 4e lifesty
 - Get a new email to send the chain from drw@growing holistically - he is doing this -> remind him on wednesday
 - Send emails at 10 am? for chain
 - Make logo of the youtube channel green part bigger add white background 
-- Fix the picture of the books in the shop page, see if i can fix that, its cutting off the title
 
 - set up the emailchain 
 get teh email list addition on the sign up page
