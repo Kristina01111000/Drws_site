@@ -173,11 +173,10 @@ TO do:
 - free shipping in us 
 - no shipping outside us
 - he is going to write a different description
-- For book: physical $17.95, free shipping; ebook $5.95
 - List his book on the front page, add a buy dr w’s book here section on front page
 - make another page for just the book listing above the  documentary on the menu
 - make to  get the emails set up AND testing
-- Blurb for widget: Would  you like to improve your life? Learn how to use the four elements to make small lifestyle changes that will add up into huge improvements check out Dr. W’s book Fire, Air, Water, & Earth: Apply Ancient Wisdom to Your Life (title links to book page)
+
 
 
 - What  sample chapter should we add to the book listing? Probably chapter 1? Should I take the same excerpt from 4e lifestyle? https://4elementlifestyle.com/dr-ws-book/ introduction, part of chapter one, also include the table of contents, make sure some of the pictures are in the sample, up to page 15 
