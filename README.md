@@ -42,7 +42,7 @@ Hours worked December: 3 hour 55 min -> sent
 
 Hours worked January 2023: 3 hour 05 min -> sent
 
-Hours worked February 2023: 2 hour 5 min
+Hours worked February 2023: 2 hour 15 min
 
 plugins im using on site:
 
@@ -174,7 +174,6 @@ TO do:
 - no shipping outside us
 - he is going to write a different description
 - For book: physical $17.95, free shipping; ebook $5.95
-- Don’t put the cart in the top corner
 - List his book on the front page, add a buy dr w’s book here section on front page
 - make another page for just the book listing above the  documentary on the menu
 - make to  get the emails set up AND testing
