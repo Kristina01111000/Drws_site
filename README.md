@@ -42,7 +42,7 @@ Hours worked December: 3 hour 55 min -> sent
 
 Hours worked January 2023: 3 hour 05 min -> sent
 
-Hours worked February 2023: 2 hour 20 min
+Hours worked February 2023: 2 hour 45 min
 
 plugins im using on site:
 
@@ -197,3 +197,5 @@ get teh email list addition on the sign up page
 - need to pick out a  new email template, current one kinda looks like spam, grey background looks funeralish
 
 - need to attach the book listing to the front page and widget, menu
+
+set up a new potential email, forward it to him
