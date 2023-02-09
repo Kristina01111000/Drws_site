@@ -175,9 +175,6 @@ TO do:
 - he is going to write a different description - he sent it, look at it to see if it is good
 - List his book on the front page, add a buy dr w’s book here section on front page
 - make another page for just the book listing above the  documentary on the menu
-- make to  get the emails set up AND testing
-
-
 
 - What  sample chapter should we add to the book listing? Probably chapter 1? Should I take the same excerpt from 4e lifestyle? https://4elementlifestyle.com/dr-ws-book/ introduction, part of chapter one, also include the table of contents, make sure some of the pictures are in the sample, up to page 15 
 new description for the book listing? The current one is the one from 4e lifestyle, take it from the back cover of the book
