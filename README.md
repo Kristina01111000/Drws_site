@@ -205,3 +205,4 @@ get teh email list addition on the sign up page
 - Look and see if the email can be wider in desktop
 - Make a tip of the day picture, put the text of the tip in the image, get examples from him
 
+- finish the new template
