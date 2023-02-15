@@ -42,7 +42,7 @@ Hours worked December: 3 hour 55 min -> sent
 
 Hours worked January 2023: 3 hour 05 min -> sent
 
-Hours worked February 2023: 3 hour 30 min
+Hours worked February 2023: 3 hour 35 min
 
 plugins im using on site:
 
@@ -205,4 +205,5 @@ get teh email list addition on the sign up page
 - Look and see if the email can be wider in desktop
 - Make a tip of the day picture, put the text of the tip in the image, get examples from him
 
+need to look at the pictures i picked in bigstock for the emails
 - finish the new template
