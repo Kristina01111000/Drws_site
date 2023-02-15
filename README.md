@@ -207,3 +207,4 @@ get teh email list addition on the sign up page
 
 need to look at the pictures i picked in bigstock for the emails
 - finish the new template
+- resend the invoice
