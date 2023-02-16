@@ -42,7 +42,7 @@ Hours worked December: 3 hour 55 min -> sent
 
 Hours worked January 2023: 3 hour 05 min -> sent
 
-Hours worked February 2023: 3 hour 50 min
+Hours worked February 2023: 4 hour 50 min
 
 plugins im using on site:
 
@@ -209,3 +209,4 @@ need to look at the pictures i picked in bigstock for the emails
 - finish the new template
 - resend the invoice
 - sent new test email
+- email stephen
