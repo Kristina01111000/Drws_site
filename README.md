@@ -42,7 +42,7 @@ Hours worked December: 3 hour 55 min -> sent
 
 Hours worked January 2023: 3 hour 05 min -> sent
 
-Hours worked February 2023: 3 hour 35 min
+Hours worked February 2023: 3 hour 45 min
 
 plugins im using on site:
 
@@ -208,3 +208,4 @@ get teh email list addition on the sign up page
 need to look at the pictures i picked in bigstock for the emails
 - finish the new template
 - resend the invoice
+- sent new test email
