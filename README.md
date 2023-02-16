@@ -207,3 +207,15 @@ get teh email list addition on the sign up page
 - finish the new template
 - resend the invoice
 
+- Make a tip of the day picture, put the text of the tip in the image, get examples from him
+- Play around with the logo size and placement
+- Try putting growing holistically in the corner of the image that says welcome
+- Email stephen if i don’t have it 
+
+
+- Make up a tip about eating spices and go from there
+- Use current images, he doesn’t have a description anymore on bigstock
+- Make changes to email template so they look good in the desktop and cell phone
+- Add a sentence to make sure they got the scorecard, and a link to it
+- Add link to his practice website at the bottom
+
