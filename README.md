@@ -219,3 +219,11 @@ get teh email list addition on the sign up page
 - Add a sentence to make sure they got the scorecard, and a link to it
 - Add link to his practice website at the bottom
 
+
+
+- Email him every three day about what he needs to do(friday and tuesday?)
+	- Come up with some tips
+	- He needs to send me an image of his practice for welcome image 
+	- Finish text of emails (day 3)
+	- Remind him to call support to see if they will remove the constant contact at the bottom of the emails
+	- make a tip of the day for spices and use it as an example, get his feedback
