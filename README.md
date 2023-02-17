@@ -42,7 +42,7 @@ Hours worked December: 3 hour 55 min -> sent
 
 Hours worked January 2023: 3 hour 05 min -> sent
 
-Hours worked February 2023: 4 hour 50 min
+Hours worked February 2023: 4 hour 55 min
 
 plugins im using on site:
 
@@ -205,7 +205,6 @@ get teh email list addition on the sign up page
 - Make a tip of the day picture, put the text of the tip in the image, get examples from him
 
 - finish the new template
-- resend the invoice
 
 - Make a tip of the day picture, put the text of the tip in the image, get examples from him
 - Play around with the logo size and placement
@@ -227,3 +226,4 @@ get teh email list addition on the sign up page
 	- Finish text of emails (day 3)
 	- Remind him to call support to see if they will remove the constant contact at the bottom of the emails
 	- make a tip of the day for spices and use it as an example, get his feedback
+to do list email sent on fri 2/17
