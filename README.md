@@ -42,7 +42,7 @@ Hours worked December: 3 hour 55 min -> sent
 
 Hours worked January 2023: 3 hour 05 min -> sent
 
-Hours worked February 2023: 5 hour 15 min
+Hours worked February 2023: 5 hour 30 min
 
 plugins im using on site:
 
@@ -212,11 +212,6 @@ get teh email list addition on the sign up page
 - Email stephen if i don’t have it 
 
 
-- Make up a tip about eating spices and go from there
-- Use current images, he doesn’t have a description anymore on bigstock
-- Make changes to email template so they look good in the desktop and cell phone
-- Add a sentence to make sure they got the scorecard, and a link to it
-- Add link to his practice website at the bottom
 
 
 
@@ -226,4 +221,3 @@ get teh email list addition on the sign up page
 	- Finish text of emails (day 3)
 	- Remind him to call support to see if they will remove the constant contact at the bottom of the emails
 	- make a tip of the day for spices and use it as an example, get his feedback
-to do list email sent on fri 2/17
