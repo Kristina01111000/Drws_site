@@ -206,11 +206,6 @@ get teh email list addition on the sign up page
 
 - finish the new template
 
-- Make a tip of the day picture, put the text of the tip in the image, get examples from him
-- Play around with the logo size and placement
-- Try putting growing holistically in the corner of the image that says welcome
-- Email stephen if i don’t have it 
-
 
 
 
@@ -225,5 +220,4 @@ get teh email list addition on the sign up page
 
 
 - connect the tik tok account
-- he is sending me a video of the appp
 - think of how to switch emails to be about the app
