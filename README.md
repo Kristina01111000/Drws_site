@@ -199,10 +199,7 @@ get teh email list addition on the sign up page
 - New image should have a smiley faced person, or people, with a teacup, walking in the woods, or doing yoga, something like that look on bigstock
 - Maybe don’t say the days of the challenge, think about that, so that we don’t make people who haven't started it don't feel bad but also sounds good to people who have started it
 - Maybe putting some info in to make it more like a newsletter, something about eating healthy -> newsletter is seperate
-- Look and see if the email can be wider in desktop
 - Make a tip of the day picture, put the text of the tip in the image, get examples from him
-
-- finish the new template
 
 
 
