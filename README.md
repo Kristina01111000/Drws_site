@@ -42,7 +42,7 @@ Hours worked December: 3 hour 55 min -> sent
 
 Hours worked January 2023: 3 hour 05 min -> sent
 
-Hours worked February 2023: 4 hour 55 min
+Hours worked February 2023: 5 hour 15 min
 
 plugins im using on site:
 
