@@ -221,3 +221,9 @@ get teh email list addition on the sign up page
 	- Finish text of emails (day 3)
 	- Remind him to call support to see if they will remove the constant contact at the bottom of the emails
 	- make a tip of the day for spices and use it as an example, get his feedback
+
+
+
+- connect the tik tok account
+- he is sending me a video of the appp
+- think of how to switch emails to be about the app
