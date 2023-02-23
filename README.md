@@ -181,8 +181,6 @@ new description for the book listing? The current one is the one from 4e lifesty
 - he sent the sample chapter
 
 
-- Figure out how to connect the app to growing holistically (end of february)
-- Tik tok account added to site soon
 - see if contact page is easily accessible on the site
 - Get a new email to send the chain from drw@growing holistically - he is doing this -> remind him on wednesday
 - Send emails at 10 am? for chain
