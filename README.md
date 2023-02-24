@@ -210,3 +210,4 @@ get teh email list addition on the sign up page
 
 - connect the tik tok account
 - think of how to switch emails to be about the app
+- does he want to get rid of the monthly topics?
