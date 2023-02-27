@@ -205,7 +205,7 @@ get teh email list addition on the sign up page
 	- Come up with some tips
 	- Finish text of emails (day 3)
 	- Remind him to call support to see if they will remove the constant contact at the bottom of the emails
-
+- email him with to do list tomorrow
 
 
 - connect the tik tok account
