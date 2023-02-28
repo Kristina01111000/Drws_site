@@ -38,9 +38,9 @@ Hours worked October: 8 hour 45 min -> recieved
 
 Hour worked November: 4 hour 15 min -> recieved
  
-Hours worked December: 3 hour 55 min -> sent
+Hours worked December: 3 hour 55 min -> recieved
 
-Hours worked January 2023: 3 hour 05 min -> sent
+Hours worked January 2023: 3 hour 05 min -> recieved
 
 Hours worked February 2023: 6 hour 15 min
 
