@@ -214,3 +214,4 @@ get teh email list addition on the sign up page
 - does he want to get rid of the monthly topics?
 - finish off the emails, try to do the first email as well
 - link his book in the store
+- - does he want to link the tiktok on the site? maybe in the same widget as the youtube link?
