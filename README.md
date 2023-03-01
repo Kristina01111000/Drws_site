@@ -210,7 +210,8 @@ get teh email list addition on the sign up page
 - email him with to do list tomorrow
 
 
-- connect the tik tok account
+- connect the tik tok account to emails
 - think of how to switch emails to be about the app
 - does he want to get rid of the monthly topics?
 - finish off the emails, try to do the first email as well
+- link his book in the store
