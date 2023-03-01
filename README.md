@@ -196,7 +196,6 @@ get teh email list addition on the sign up page
 
 - need to attach the book listing to the front page and widget, menu
 
-- New image should have a smiley faced person, or people, with a teacup, walking in the woods, or doing yoga, something like that look on bigstock
 - Maybe don’t say the days of the challenge, think about that, so that we don’t make people who haven't started it don't feel bad but also sounds good to people who have started it
 - Maybe putting some info in to make it more like a newsletter, something about eating healthy -> newsletter is seperate
 
@@ -207,7 +206,7 @@ get teh email list addition on the sign up page
 	- Come up with some tips
 	- Finish text of emails (day 3)
 	- Remind him to call support to see if they will remove the constant contact at the bottom of the emails
-- email him with to do list tomorrow
+
 
 
 - connect the tik tok account to emails
