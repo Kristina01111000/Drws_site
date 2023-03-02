@@ -44,7 +44,7 @@ Hours worked January 2023: 3 hour 05 min -> recieved
 
 Hours worked February 2023: 6 hour 15 min
 
-March: 5 min
+March: 15 min
 
 plugins im using on site:
 
@@ -191,10 +191,6 @@ new description for the book listing? The current one is the one from 4e lifesty
 - set up the emailchain 
 get teh email list addition on the sign up page
 
-- sent day three email
-- need to pick out a  new email template, current one kinda looks like spam, grey background looks funeralish
-
-- need to attach the book listing to the front page and widget, menu
 
 - Maybe don’t say the days of the challenge, think about that, so that we don’t make people who haven't started it don't feel bad but also sounds good to people who have started it
 - Maybe putting some info in to make it more like a newsletter, something about eating healthy -> newsletter is seperate
@@ -213,5 +209,5 @@ get teh email list addition on the sign up page
 - think of how to switch emails to be about the app
 - does he want to get rid of the monthly topics?
 - finish off the emails, try to do the first email as well
-- link his book in the store
+- put digital copy of his book in the store
 - - does he want to link the tiktok on the site? maybe in the same widget as the youtube link?
