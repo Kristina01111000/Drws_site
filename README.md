@@ -44,7 +44,7 @@ Hours worked January 2023: 3 hour 05 min -> recieved
 
 Hours worked February 2023: 6 hour 15 min
 
-March: 15 min
+March: 35 min
 
 plugins im using on site:
 
@@ -204,8 +204,6 @@ get teh email list addition on the sign up page
 	- Remind him to call support to see if they will remove the constant contact at the bottom of the emails
 
 
-
-- connect the tik tok account to emails
 - think of how to switch emails to be about the app
 - does he want to get rid of the monthly topics?
 - finish off the emails, try to do the first email as well
