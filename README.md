@@ -211,3 +211,4 @@ get teh email list addition on the sign up page
 - finalize emails?
 - go over the article type things on the site, should those be monthly topics?
 - look at all of the older stuff on the site, does it still need to be there?
+- finish setting up the store
