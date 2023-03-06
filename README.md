@@ -118,7 +118,6 @@ Survey stuff:
 See if there is a way to see how many people downloaded the scorecard, use google for site analytics - he needs a google workspace account for this
 
 - https://www.constantcontact.com/blog/automated-welcome-series/ 15 emails every 2 days, look at core vs plus
-- We will email them every other day with a link to a quick minute on youtube
 
 --------------------------------------------------------
  analytics add him as an admin for other sites -> check
@@ -133,7 +132,7 @@ https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROX
 	- Quizzes than need 10 questions: # 2, # 3, # 4, # 5,
 	- Quizzes than need a lesson to be dropped first: # 6, and up 
 
-- Ccholistic1! For constant contact hwalsdorf@e
+- Ccholistic1! For constant contact hwalsdorf
 
 - google doc for emails:https://docs.google.com/document/d/1Nc_WVsgZKdhpWaHZyDn81rw4y02Dlj2wB-O-q9ZnJXs/edit?usp=sharing
 
@@ -151,12 +150,11 @@ to do now:
 - Make chats for other people that sound good, 2 to 3 people
 - Make a list of the people who aren’t verified, see if peepso will do it automatically
 
-- plan is to send out emails starting on week of feb 2nd?
 - add a page for reviews, just dont link to it anywhere
 - check names of lessons on promo page when new youtube video is dropped
 
 Things im waiting for from dr w:
-- email  list for current clients, on hold til he gets new employee
+- email  list for current clients, on hold 
 - new video explaining the 30 day challenge - probably not until summer
 - new description for products
 - new email for the emails to be sent from
