@@ -44,7 +44,7 @@ Hours worked January 2023: 3 hour 05 min -> recieved
 
 Hours worked February 2023: 6 hour 15 min
 
-March: 1 hour 20 min
+March: 1 hour 30 min
 
 plugins im using on site:
 
@@ -205,6 +205,7 @@ new description for the book listing? The current one is the one from 4e lifesty
 - what is the email he made for the email chain?
 
 - finalize emails?
+- change color of background?
 - go over the article type things on the site, should those be monthly topics?
 - look at all of the older stuff on the site, does it still need to be there?
 - finish setting up the store
