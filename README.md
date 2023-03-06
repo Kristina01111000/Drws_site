@@ -209,3 +209,5 @@ get teh email list addition on the sign up page
 - put digital copy of his book in the store
 - - does he want to link the tiktok on the site? maybe in the same widget as the youtube link?
 - what is the email he made for the email chain?
+
+- finalize emails?
