@@ -44,7 +44,7 @@ Hours worked January 2023: 3 hour 05 min -> recieved
 
 Hours worked February 2023: 6 hour 15 min
 
-March: 1 hour 15 min
+March: 1 hour 20 min
 
 plugins im using on site:
 
@@ -219,3 +219,5 @@ try:
 - sports
 - gratitiude
 - yoga?
+need 15 total, lok at old pictures from bigstock for the image
+maybe image just says "tip of the day" really big?
