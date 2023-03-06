@@ -44,7 +44,7 @@ Hours worked January 2023: 3 hour 05 min -> recieved
 
 Hours worked February 2023: 6 hour 15 min
 
-March: 1 hour 10 min
+March: 1 hour 15 min
 
 plugins im using on site:
 
@@ -211,3 +211,4 @@ get teh email list addition on the sign up page
 - what is the email he made for the email chain?
 
 - finalize emails?
+- go over the article type things on the site, should those be monthly topics?
