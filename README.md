@@ -211,3 +211,11 @@ new description for the book listing? The current one is the one from 4e lifesty
 - come up with more tips, pull from articles, make them be about  many diffferent subjects, 
  Tip of the Day: (1/15)
  - use spices 
+try:
+- walking
+- reading
+- meditating
+- a recipe?
+- sports
+- gratitiude
+- yoga?
