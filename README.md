@@ -169,7 +169,6 @@ TO do:
 - See if i can get lines on about dr w page to go ¾ of the way across
 - putting blurb with book links on the homepage (around words from dr w ) 
 - Sell it as epub recommended for highest quality, also have available as a pdf
-- List book on its own page under holistic growth 
 - free shipping in us 
 - no shipping outside us
 - he is going to write a different description - he sent it, look at it to see if it is good
@@ -187,8 +186,6 @@ new description for the book listing? The current one is the one from 4e lifesty
 - Make logo of the youtube channel green part bigger add white background 
 
 - set up the emailchain 
-get teh email list addition on the sign up page
-
 
 - Maybe don’t say the days of the challenge, think about that, so that we don’t make people who haven't started it don't feel bad but also sounds good to people who have started it
 - Maybe putting some info in to make it more like a newsletter, something about eating healthy -> newsletter is seperate
@@ -199,7 +196,6 @@ get teh email list addition on the sign up page
 - Email him every three day about what he needs to do(friday and tuesday?)
 	- Come up with some tips
 	- Finish text of emails (day 3)
-	- Remind him to call support to see if they will remove the constant contact at the bottom of the emails
 
 
 - think of how to switch emails to be about the app
