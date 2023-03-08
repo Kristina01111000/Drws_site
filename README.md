@@ -210,7 +210,7 @@ new description for the book listing? The current one is the one from 4e lifesty
 - look at all of the older stuff on the site, does it still need to be there?
 - finish setting up the store
 - come up with more tips, pull from articles, make them be about  many diffferent subjects, 
- Tip of the Day: (1/15)
+ Tip of the Day: (10/15)
  - use spices 
 try:
 - walking
@@ -224,3 +224,4 @@ try:
 need 15 total, look at old pictures from bigstock for the image
 
 maybe image just says "tip of the day" really big? try this -> makes whole email look worse, removed it
+get feed back on the tips, do they need a paragraph for each tip explaining it?
