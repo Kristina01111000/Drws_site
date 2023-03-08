@@ -221,4 +221,4 @@ try:
 - gratitiude
 - yoga?
 need 15 total, lok at old pictures from bigstock for the image
-maybe image just says "tip of the day" really big? try this in an email and get feedback
+maybe image just says "tip of the day" really big? try this -> makes whole email look worse
