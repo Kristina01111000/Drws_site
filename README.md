@@ -181,18 +181,10 @@ new description for the book listing? The current one is the one from 4e lifesty
 
 
 - see if contact page is easily accessible on the site
-- Get a new email to send the chain from drw@growing holistically - he is doing this -> remind him on wednesday
 - Send emails at 10 am? for chain
 - Make logo of the youtube channel green part bigger add white background 
 
-- set up the emailchain 
-
 - Maybe don’t say the days of the challenge, think about that, so that we don’t make people who haven't started it don't feel bad but also sounds good to people who have started it
-
-- Email him every three day about what he needs to do(friday and tuesday?)
-	- Come up with some tips
-	- Finish text of emails (day 3)
-
 
 - think of how to switch emails to be about the app
 - put digital copy of his book in the store
