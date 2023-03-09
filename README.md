@@ -222,19 +222,19 @@ need 15 total, look at old pictures from bigstock for the image
 maybe image just says "tip of the day" really big? try this -> makes whole email look worse, removed it
 get feed back on the tips, do they need a paragraph for each tip explaining it?
 
-Keep the stuff on the pages up to the hyperlinks, have them be monthly topics, and link to them as old monthly topics
-Put the paragraph in the body of the text? See if it fits
-Next month is four element metaphysics
-On four element metaphysics crop the bottom picture
-Rethink how the monthly topics work with the site
-Remove the paragraphs on the 4 holistic growth pages
-On the great outdoors page add a section for people to leave advice or something like that, chat section
-Put a youtube video on the monthly topic pages, also in the holistic growth pages
-On bottom of monthly topics page link to old monthly topics
-Rethink the how and why of eating healthy name, change it maybe 
-Change the book picture to the whole book
-Try to change it to white
-Take out the private , messing up the spacing, remove the title of the book, 
-Remove the dashes from ebook
-Write a sentence for each of the tips, go over it next week
-Make all of the emails this week
+- Keep the stuff on the pages up to the hyperlinks, have them be monthly topics, and link to them as old monthly topics
+- Put the paragraph in the body of the text? See if it fits
+- Next month is four element metaphysics
+- On four element metaphysics crop the bottom picture
+- Rethink how the monthly topics work with the site
+- Remove the paragraphs on the 4 holistic growth pages
+- On the great outdoors page add a section for people to leave advice or something like that, chat section
+- Put a youtube video on the monthly topic pages, also in the holistic growth pages
+- On bottom of monthly topics page link to old monthly topics
+- Rethink the how and why of eating healthy name, change it maybe 
+- Change the book picture to the whole book
+- Try to change it to white
+- Take out the private , messing up the spacing, remove the title of the book, 
+- Remove the dashes from ebook
+- Write a sentence for each of the tips, go over it next week
+- Make all of the emails this week
