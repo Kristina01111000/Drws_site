@@ -201,11 +201,7 @@ new description for the book listing? The current one is the one from 4e lifesty
 - what is the email he made for the email chain?
 
 - finalize emails?
-- change color of background?
-- go over the article type things on the site, should those be monthly topics?
-- look at all of the older stuff on the site, does it still need to be there?
 - finish setting up the store
-- come up with more tips, pull from articles, make them be about  many diffferent subjects, 
  Tip of the Day: (11/15)
 
 
