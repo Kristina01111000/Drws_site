@@ -188,10 +188,6 @@ new description for the book listing? The current one is the one from 4e lifesty
 - set up the emailchain 
 
 - Maybe don’t say the days of the challenge, think about that, so that we don’t make people who haven't started it don't feel bad but also sounds good to people who have started it
-- Maybe putting some info in to make it more like a newsletter, something about eating healthy -> newsletter is seperate
-
-
-
 
 - Email him every three day about what he needs to do(friday and tuesday?)
 	- Come up with some tips
