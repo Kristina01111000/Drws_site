@@ -206,21 +206,8 @@ new description for the book listing? The current one is the one from 4e lifesty
 - look at all of the older stuff on the site, does it still need to be there?
 - finish setting up the store
 - come up with more tips, pull from articles, make them be about  many diffferent subjects, 
- Tip of the Day: (10/15)
- - use spices 
-try:
-- walking
-- reading
-- meditating
-- a recipe?
-- sports
-- gratitiude
-- yoga?
+ Tip of the Day: (11/15)
 
-need 15 total, look at old pictures from bigstock for the image
-
-maybe image just says "tip of the day" really big? try this -> makes whole email look worse, removed it
-get feed back on the tips, do they need a paragraph for each tip explaining it?
 
 - Keep the stuff on the pages up to the hyperlinks, have them be monthly topics, and link to them as old monthly topics
 - Put the paragraph in the body of the text? See if it fits
