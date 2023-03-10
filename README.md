@@ -156,8 +156,6 @@ to do now:
 Things im waiting for from dr w:
 - email  list for current clients, on hold 
 - new video explaining the 30 day challenge - probably not until summer
-- new description for products
-- new email for the emails to be sent from
 - more lesson videos
 
 
