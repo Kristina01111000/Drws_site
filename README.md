@@ -196,7 +196,7 @@ new description for the book listing? The current one is the one from 4e lifesty
 - Keep the stuff on the pages up to the hyperlinks, have them be monthly topics, and link to them as old monthly topics
 - Put the paragraph in the body of the text? See if it fits
 - Next month is four element metaphysics
-- On four element metaphysics crop the bottom picture
+- On four element metaphysics crop the bottom picture so there isn't a big white space on the page
 - Rethink how the monthly topics work with the site
 - Remove the paragraphs on the 4 holistic growth pages
 - On the great outdoors page add a section for people to leave advice or something like that, chat section
