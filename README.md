@@ -190,7 +190,7 @@ new description for the book listing? The current one is the one from 4e lifesty
 
 - finalize emails?
 - finish setting up the store
- Tips of the Day: (11/15) write a sentence or two for each, he will edit them next meeting
+ Tips of the Day: (11/15) write a sentence or two for each, he will edit them next meeting come up with a few more tips
 
 
 - Keep the stuff on the pages up to the hyperlinks, have them be monthly topics, and link to them as old monthly topics
