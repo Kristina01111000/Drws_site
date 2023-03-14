@@ -204,7 +204,7 @@ new description for the book listing? The current one is the one from 4e lifesty
 - On bottom of monthly topics page link to old monthly topics
 - Rethink the how and why of eating healthy name, change it maybe 
 - Change the book picture to the whole book
-- Try to change it to white
+- Try to change the button to white from green
 - Take out the private , messing up the spacing, remove the title of the book, 
 - Remove the dashes from ebook
 - Write a sentence for each of the tips, go over it next week
