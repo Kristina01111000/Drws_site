@@ -200,10 +200,7 @@ new description for the book listing? The current one is the one from 4e lifesty
 - Put a youtube video on the monthly topic pages, also in the holistic growth pages
 - On bottom of monthly topics page link to old monthly topics
 - Rethink the how and why of eating healthy name, change it maybe 
-- Change the book picture to the whole book
-- Try to change the button to white from green
-- Take out the private , messing up the spacing, remove the title of the book, 
-- Remove the dashes from ebook
+
 - Write a sentence for each of the tips, go over it next week
 - Make all of the emails this week -> wait for the tips to be done, 
 emails done: Day 3
