@@ -196,7 +196,7 @@ new description for the book listing? The current one is the one from 4e lifesty
 - Put a youtube video on the monthly topic pages, also in the holistic growth pages
 - On bottom of monthly topics page link to old monthly topics
 - Rethink the how and why of eating healthy name, change it maybe 
-
+- cna't get into constant contact
 - Write a sentence for each of the tips, go over it next week
 - Make all of the emails this week -> wait for the tips to be done, 
 emails done: Day 3
