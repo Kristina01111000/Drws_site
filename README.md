@@ -44,7 +44,7 @@ Hours worked January 2023: 3 hour 05 min -> recieved
 
 Hours worked February 2023: 6 hour 15 min
 
-March: 2 hour 40 min
+March: 3 hour 20 min
 
 plugins im using on site:
 
@@ -193,12 +193,9 @@ new description for the book listing? The current one is the one from 4e lifesty
  Tips of the Day: (11/15) write a sentence or two for each, he will edit them next meeting come up with a few more tips
 
 
-- Keep the stuff on the pages up to the hyperlinks, have them be monthly topics, and link to them as old monthly topics
-- Put the paragraph in the body of the text? See if it fits
 - Next month is four element metaphysics
 - On four element metaphysics crop the bottom picture so there isn't a big white space on the page
 - Rethink how the monthly topics work with the site -> link to them on the holistic learning tab pages
-- Remove the paragraphs on the 4 holistic growth pages
 - On the great outdoors page add a section for people to leave advice or something like that, chat section
 - Put a youtube video on the monthly topic pages, also in the holistic growth pages
 - On bottom of monthly topics page link to old monthly topics
