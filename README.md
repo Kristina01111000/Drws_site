@@ -175,7 +175,6 @@ TO do:
 
 - What  sample chapter should we add to the book listing? Probably chapter 1? Should I take the same excerpt from 4e lifestyle? https://4elementlifestyle.com/dr-ws-book/ introduction, part of chapter one, also include the table of contents, make sure some of the pictures are in the sample, up to page 15 
 new description for the book listing? The current one is the one from 4e lifestyle, take it from the back cover of the book
-- he sent the sample chapter
 
 
 - see if contact page is easily accessible on the site
@@ -185,11 +184,8 @@ new description for the book listing? The current one is the one from 4e lifesty
 - Maybe don’t say the days of the challenge, think about that, so that we don’t make people who haven't started it don't feel bad but also sounds good to people who have started it
 
 - think of how to switch emails to be about the app
-- put digital copy of his book in the store
 - what is the email he made for the email chain?
 
-- finalize emails?
-- finish setting up the store
  Tips of the Day: (11/15) write a sentence or two for each, he will edit them next meeting come up with a few more tips
 
 
