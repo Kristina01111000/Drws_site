@@ -198,6 +198,7 @@ new description for the book listing? The current one is the one from 4e lifesty
 - Rethink the how and why of eating healthy name, change it maybe 
 - cna't get into constant contact
 - Write a sentence for each of the tips, go over it next week
+- need a few more tips, look at score card, lessons
 - Make all of the emails this week -> wait for the tips to be done, 
 emails done: Day 3
 emails waiting for confirmation: 
