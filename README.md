@@ -147,7 +147,6 @@ to do now:
 - Look into file upload plugin for fourissimo page -> new plugin from peepso
 - rethink the welcome email that gets sent when they sign up for the site, add links?
 - Come up with a prompt for the chat page for all lessons, not too long
-- Make chats for other people that sound good, 2 to 3 people
 - Make a list of the people who aren’t verified, see if peepso will do it automatically
 
 - add a page for reviews, just dont link to it anywhere
@@ -158,20 +157,12 @@ Things im waiting for from dr w:
 - new video explaining the 30 day challenge - probably not until summer
 - more lesson videos
 
-
-
-
 - check if we need an api for stripe
 
 TO do:
 - See if i can get lines on about dr w page to go ¾ of the way across
 - putting blurb with book links on the homepage (around words from dr w ) 
-- Sell it as epub recommended for highest quality, also have available as a pdf
-- free shipping in us 
-- no shipping outside us
 - he is going to write a different description - he sent it, look at it to see if it is good
-- List his book on the front page, add a buy dr w’s book here section on front page
-- make another page for just the book listing above the  documentary on the menu
 
 - What  sample chapter should we add to the book listing? Probably chapter 1? Should I take the same excerpt from 4e lifestyle? https://4elementlifestyle.com/dr-ws-book/ introduction, part of chapter one, also include the table of contents, make sure some of the pictures are in the sample, up to page 15 
 new description for the book listing? The current one is the one from 4e lifestyle, take it from the back cover of the book
