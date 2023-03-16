@@ -42,7 +42,7 @@ Hours worked December: 3 hour 55 min -> recieved
 
 Hours worked January 2023: 3 hour 05 min -> recieved
 
-Hours worked February 2023: 6 hour 15 min
+Hours worked February 2023: 6 hour 40 min
 
 March: 3 hour 45 min
 
@@ -184,12 +184,10 @@ new description for the book listing? The current one is the one from 4e lifesty
 - Put a youtube video on the monthly topic pages, also in the holistic growth pages
 - On bottom of monthly topics page link to old monthly topics
 - Rethink the how and why of eating healthy name, change it maybe 
-- cna't get into constant contact, he added my number to the call list? try it to see if it works
-- Write a sentence for each of the tips, go over it next week
 - need a few more tips, look at score card, lessons
 - Make all of the emails this week -> wait for the tips to be done, 
 emails done: Intro (Day 1), Day 3
-emails waiting for confirmation: 
+emails waiting for confirmation: Day 5
 Emails that need a tip of the day:
 Emails i need to make:
 send my invoice for feb
