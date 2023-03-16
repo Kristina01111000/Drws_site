@@ -139,11 +139,9 @@ https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROX
 to do now:
 
 - Make chats for other people that sound good, 2 to 3 people
-- check login attempts 
 - Write a review in fourissimo club for the heel strike fixing plantar fasciitis
 - Fix the title of the download pdf on fourissimo page
 - For groups get new pictures, add a scorecard picture for scorecard group
-- For google doc see if ‘make a copy’ can be put up when they try to request access
 - Look into file upload plugin for fourissimo page -> new plugin from peepso
 - rethink the welcome email that gets sent when they sign up for the site, add links?
 - Come up with a prompt for the chat page for all lessons, not too long
