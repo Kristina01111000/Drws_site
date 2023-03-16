@@ -44,7 +44,7 @@ Hours worked January 2023: 3 hour 05 min -> recieved
 
 Hours worked February 2023: 6 hour 15 min
 
-March: 3 hour 30 min
+March: 3 hour 45 min
 
 plugins im using on site:
 
@@ -188,7 +188,7 @@ new description for the book listing? The current one is the one from 4e lifesty
 - Write a sentence for each of the tips, go over it next week
 - need a few more tips, look at score card, lessons
 - Make all of the emails this week -> wait for the tips to be done, 
-emails done: Day 3
+emails done: Intro (Day 1), Day 3
 emails waiting for confirmation: 
 Emails that need a tip of the day:
 Emails i need to make:
