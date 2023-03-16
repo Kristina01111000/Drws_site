@@ -159,7 +159,6 @@ Things im waiting for from dr w:
 
 TO do:
 - See if i can get lines on about dr w page to go ¾ of the way across
-- putting blurb with book links on the homepage (around words from dr w ) 
 - he is going to write a different description - he sent it, look at it to see if it is good
 
 - What  sample chapter should we add to the book listing? Probably chapter 1? Should I take the same excerpt from 4e lifestyle? https://4elementlifestyle.com/dr-ws-book/ introduction, part of chapter one, also include the table of contents, make sure some of the pictures are in the sample, up to page 15 
