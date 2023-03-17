@@ -191,3 +191,9 @@ emails waiting for confirmation: Day 5
 Emails that need a tip of the day:
 Emails i need to make:
 send my invoice for feb
+3/16
+- Try to add his number to the constant contact
+- Make image in widget hot
+- Add book description, table of contents  and chapter sample in email feb 8th 
+- Double check that venmo goes through paypal
+- Send him an email with all monthly topics links
