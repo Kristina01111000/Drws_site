@@ -199,6 +199,4 @@ Emails i need to make: the rest, need a good final email also, based on the intr
 3/16
 - Try to add his number to the constant contact
 - Make image in widget hot
-- Add book description, table of contents  and chapter sample in email feb 8th 
-- Double check that venmo goes through paypal
-- Send him an email with all monthly topics links
+- Add book description, table of contents  and chapter sample (in email feb 8th)
