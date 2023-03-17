@@ -186,11 +186,16 @@ new description for the book listing? The current one is the one from 4e lifesty
 - Rethink the how and why of eating healthy name, change it maybe 
 - need a few more tips, look at score card, lessons
 - Make all of the emails this week -> wait for the tips to be done, 
-emails done: Intro (Day 1), Day 3
-emails waiting for confirmation: Day 5
+- 
+emails done: Intro (Day 1), Day 3, Day 5
+
+emails waiting for confirmation: 
+
 Emails that need a tip of the day:
-Emails i need to make:
-send my invoice for feb
+
+Emails i need to make: 
+
+
 3/16
 - Try to add his number to the constant contact
 - Make image in widget hot
