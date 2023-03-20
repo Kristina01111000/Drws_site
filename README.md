@@ -193,7 +193,7 @@ emails waiting for confirmation:
 
 Emails that need a tip of the day:
 
-Emails i need to make: the rest, need a good final email also, based on the intro email? what are the things we should focus on for that?
+Emails i need to make: Days 7-30, need a good final email, based on the intro email? what are the things we should focus on for that?
 
 
 3/16
