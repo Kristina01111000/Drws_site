@@ -197,7 +197,7 @@ Emails i need to make: Days 7-30, need a good final email, based on the intro em
 
 
 3/16
-- Try to add his number to the constant contact
+- Try to add his number to the constant contact -> don't know if this is possible
 - Add book description, table of contents  and chapter sample (in email feb 8th)
 
 
