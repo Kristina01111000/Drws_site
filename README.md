@@ -200,3 +200,6 @@ Emails i need to make: the rest, need a good final email also, based on the intr
 - Try to add his number to the constant contact
 - Make image in widget hot
 - Add book description, table of contents  and chapter sample (in email feb 8th)
+
+
+- check on the tips of the day he was editing
