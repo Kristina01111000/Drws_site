@@ -44,7 +44,7 @@ Hours worked January 2023: 3 hour 05 min -> recieved
 
 Hours worked February 2023: 6 hour 45 min -> sent
 
-March: 4 hour 40 min
+March: 4 hour 45 min
 
 plugins im using on site:
 
@@ -198,7 +198,6 @@ Emails i need to make: Days 7-30, need a good final email, based on the intro em
 
 3/16
 - Try to add his number to the constant contact
-- Make image in widget hot
 - Add book description, table of contents  and chapter sample (in email feb 8th)
 
 
