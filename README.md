@@ -201,5 +201,5 @@ Emails i need to make: Days 7-30, need a good final email, based on the intro em
 - Add book description, table of contents  and chapter sample (in email feb 8th)
 
 
-- check on the tips of the day he was editing
+- check on the tips of the day he was editing -> sent him an email
 - link him the new to do list, on the sheet
