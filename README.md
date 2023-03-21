@@ -202,3 +202,4 @@ Emails i need to make: Days 7-30, need a good final email, based on the intro em
 
 
 - check on the tips of the day he was editing
+- link him the new to do list, on the sheet
