@@ -194,3 +194,4 @@ Emails i need to make: Days 7-30, need a good final email, based on the intro em
 
 - check on the tips of the day he was editing -> sent him an email
 - link him the new to do list, on the sheet
+- constnat contact needs an upgrade to do the email series
