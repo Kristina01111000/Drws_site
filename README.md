@@ -196,9 +196,8 @@ Emails i need to make: Days 7-30, need a good final email, based on the intro em
 - constnat contact needs an upgrade to do the email series -> its 45 a monht, i think thats too much, don't like how they hid it way at the bottom of the page
 
 
-Put the powerpoints that i broke down on the google drive
-Look at mailchimp and campaign monitor to see if they are better, look at mail poet, see if we want to still use constant contact, check the audio for all of them 
-Get rid of the word description on the product pages
-Edit product links 
-See if i can allow people to add pictures to comments on the great outdoors page
+- Put the powerpoints that i broke down on the google drive
+- Look at mailchimp and campaign monitor to see if they are better, look at mail poet, see if we want to still use constant contact, check the audio for all of them 
+- Get rid of the word description on the product pages
+- See if i can allow people to add pictures to comments on the great outdoors page
 
