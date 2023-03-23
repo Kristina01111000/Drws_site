@@ -44,7 +44,7 @@ Hours worked January 2023: 3 hour 05 min -> recieved
 
 Hours worked February 2023: 6 hour 45 min -> sent
 
-March: 4 hour 50 min
+March: 5 hour 10 min
 
 plugins im using on site:
 
@@ -189,9 +189,8 @@ Emails i need to make: Days 7-30, need a good final email, based on the intro em
 
 3/16
 - Try to add his number to the constant contact -> don't know if this is possible
-- Add book description, table of contents  and chapter sample (in email feb 8th)
 - add a comment on the great outdoors page
 
-- check on the tips of the day he was editing -> sent him an email
+- check on the tips of the day he was editing -> they are in my email
 - link him the new to do list, on the sheet
 - constnat contact needs an upgrade to do the email series -> its 45 a monht, i think thats too much, don't like how they hid it way at the bottom of the page
