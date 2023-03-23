@@ -188,12 +188,9 @@ Emails i need to make: Days 7-30, need a good final email, based on the intro em
 
 
 3/16
-- check on the tips of the day he was editing -> they are in my email and look good, put them in the emails once we know what the service we are going to use is
-
+- tips of the day -> they are in my email and look good, put them in the emails once we know what the service we are going to use is
 
 3/23
 - Put the powerpoints that i broke down on the google drive
 - Look at mailchimp and campaign monitor to see if they are better, look at mail poet, see if we want to still use constant contact, check the audio for all of them 
 - Get rid of the word description on the product pages
-- See if i can allow people to add pictures to comments on the great outdoors page
-
