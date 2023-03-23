@@ -171,10 +171,9 @@ new description for the book listing? The current one is the one from 4e lifesty
 
 - Maybe don’t say the days of the challenge, think about that, so that we don’t make people who haven't started it don't feel bad but also sounds good to people who have started it
 
-- think of how to switch emails to be about the app
+- think of how to switch emails to be about the app, it should be done soon
 
 - On four element metaphysics crop the bottom picture so there isn't a big white space on the page
-- On the great outdoors page add a section for people to leave advice or something like that, chat section
 
 - On bottom of monthly topics page link to old monthly topics
 
