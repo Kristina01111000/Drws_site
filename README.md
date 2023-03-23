@@ -189,10 +189,9 @@ Emails i need to make: Days 7-30, need a good final email, based on the intro em
 
 3/16
 - check on the tips of the day he was editing -> they are in my email and look good, put them in the emails once we know what the service we are going to use is
-- link him the new to do list, on the sheet
-- constnat contact needs an upgrade to do the email series -> its 45 a monht, i think thats too much, don't like how they hid it way at the bottom of the page
 
 
+3/23
 - Put the powerpoints that i broke down on the google drive
 - Look at mailchimp and campaign monitor to see if they are better, look at mail poet, see if we want to still use constant contact, check the audio for all of them 
 - Get rid of the word description on the product pages
