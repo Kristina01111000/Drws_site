@@ -42,7 +42,7 @@ Hours worked December: 3 hour 55 min -> recieved
 
 Hours worked January 2023: 3 hour 05 min -> recieved
 
-Hours worked February 2023: 6 hour 45 min -> sent
+Hours worked February 2023: 6 hour 45 min -> sent - hes sending it tomorrow
 
 March: 5 hour 45 min
 
