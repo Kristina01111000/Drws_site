@@ -191,4 +191,4 @@ Emails i need to make: Days 7-30, need a good final email, based on the intro em
 
 3/23
 - Look at mailchimp and campaign monitor to see if they are better, look at mail poet, see if we want to still use constant contact, check the audio for all of them, he still wants to send audio file in emails if possible
-- Get rid of the word description on the product pages
+- Get rid of the word description on the product pages its in two spaces
