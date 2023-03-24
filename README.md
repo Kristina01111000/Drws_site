@@ -44,7 +44,7 @@ Hours worked January 2023: 3 hour 05 min -> recieved
 
 Hours worked February 2023: 6 hour 45 min -> sent - hes sending it tomorrow
 
-March: 5 hour 45 min
+March: 5 hour 50 min
 
 plugins im using on site:
 
@@ -190,6 +190,5 @@ Emails i need to make: Days 7-30, need a good final email, based on the intro em
 - tips of the day -> they are in my email and look good, put them in the emails once we know what the service we are going to use is
 
 3/23
-- Put the powerpoints that i broke down on the google drive
 - Look at mailchimp and campaign monitor to see if they are better, look at mail poet, see if we want to still use constant contact, check the audio for all of them, he still wants to send audio file in emails if possible
 - Get rid of the word description on the product pages
