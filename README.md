@@ -179,7 +179,7 @@ new description for the book listing? The current one is the one from 4e lifesty
 
 emails done: Intro (Day 1), Day 3, Day 5
 
-emails waiting for confirmation: 
+emails waiting for confirmation: all the rest
 
 Emails that need a tip of the day:
 
