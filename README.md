@@ -44,7 +44,7 @@ Hours worked January 2023: 3 hour 05 min -> recieved
 
 Hours worked February 2023: 6 hour 45 min -> recieved
 
-March: 5 hour 50 min
+March: 5 hour 55 min
 
 plugins im using on site:
 
@@ -196,4 +196,4 @@ Emails i need to make: Days 7-30, need a good final email, based on the intro em
 
 - email files aren't supported by email plugins
 - i can put the audio in manually, but it won't show up right for some people, 
-- constant contact doesn't allow me upload an audio file, most won't
+- constant contact doesn't allow me upload an audio file, most won't, people usually don't use audio files in emails
