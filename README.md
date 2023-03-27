@@ -177,13 +177,13 @@ new description for the book listing? The current one is the one from 4e lifesty
 
 - On bottom of monthly topics page link to old monthly topics
 
-emails done: Intro (Day 1), Day 3, Day 5
+emails done: 
 
 emails waiting for confirmation: all the rest
 
 Emails that need a tip of the day:
 
-Emails i need to make: Days 7-30, need a good final email, based on the intro email? what are the things we should focus on for that?
+Emails i need to make: All of them,  need a good final email, based on the intro email? what are the things we should focus on for that?
 
 
 3/16
@@ -197,3 +197,5 @@ Emails i need to make: Days 7-30, need a good final email, based on the intro em
 - email files aren't supported by email plugins
 - i can put the audio in manually, but it won't show up right for some people, 
 - constant contact doesn't allow me upload an audio file, most won't, people usually don't use audio files in emails
+
+get an update on when the app will be done
