@@ -195,3 +195,4 @@ Emails i need to make: Days 7-30, need a good final email, based on the intro em
 - try to figure out another service that does chains of emails
 
 - email files aren't supported by email plugins
+- i can put the audio in manually, but it won't show up right for some people, 
