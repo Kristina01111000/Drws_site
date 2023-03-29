@@ -110,4 +110,10 @@ body .wp-block-columns .wp-block-column {
 // changes the side margins 
 .custommargin{
 	margin:1px 10%;
-}
+	}
+	
+// hides the tabs in the woocommerce listing
+.wc-tabs{
+	display: none !important;
+}	
+	
