@@ -44,7 +44,7 @@ Hours worked January 2023: 3 hour 05 min -> recieved
 
 Hours worked February 2023: 6 hour 45 min -> recieved
 
-March: 6 hour 0 min
+March: 6 hour 5 min
 
 plugins im using on site:
 
@@ -203,4 +203,3 @@ get an update on when the app will be done, is it actually soon? like in a coupl
 
 - figure out which email plugin to use, i think just keep using constant contact, its still the best, the other ones look like they have similar prices for the email chains, if they even have them
 - figure out why peepso autoupdate isn't working
-- need to change teh catagory of the books
