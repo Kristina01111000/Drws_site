@@ -95,7 +95,10 @@ Notes:
 	- nothing on site can be hidden from administrators
 	- current font sizes should continue on through the site
 	- Manager of youtube now also -> can change/add etc videos and everything
-	- yearly scorecard link: https://docs.google.com/spreadsheets/d/1IxK22ihszAVXQgxLD9di-MhoP3kERT8SlfXiGddOmhc/edit
+	- yearly 
+	
+	
+	link: https://docs.google.com/spreadsheets/d/1IxK22ihszAVXQgxLD9di-MhoP3kERT8SlfXiGddOmhc/edit
 	- Monthly topics will be articles now, not a class
 	- page redirect completely turned off
 	- four corners page is a draft now
@@ -141,7 +144,7 @@ to do now:
 - Make chats for other people that sound good, 2 to 3 people
 - Write a review in fourissimo club for the heel strike fixing plantar fasciitis
 - Fix the title of the download pdf on fourissimo page
-- For groups get new pictures, add a scorecard picture for scorecard group, are we still going to use groups?
+- For groups get new pictures, are we still going to use groups?
 - Look into file upload plugin for fourissimo page -> new plugin from peepso
 - rethink the welcome email that gets sent when they sign up for the site, add links? can it be formatted?
 - Come up with a prompt for the chat page for all lessons, not too long
