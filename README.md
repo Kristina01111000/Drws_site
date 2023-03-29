@@ -200,3 +200,5 @@ should we stay with constant contact and just not do the chain?
 - constant contact doesn't allow me upload an audio file, most won't, people usually don't use audio files in emails
 
 get an update on when the app will be done, is it actually soon? like in a couple months?
+
+- figure out which email plugin to use, i think just keep using constant contact, its still the best, the other ones look like they have similar prices for the email chains, if they even have them
