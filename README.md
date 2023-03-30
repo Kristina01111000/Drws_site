@@ -196,9 +196,9 @@ Emails i need to make: All of them,  need a good final email, based on the intro
 - try to figure out another service that does chains of emails,mail poet costs about the same
 should we stay with constant contact and just not do the chain?
 
-- email files aren't supported by email plugins
+- audio files aren't supported by email plugins
 - i can put the audio in manually, but it won't show up right for some people, 
-- constant contact doesn't allow me upload an audio file, most won't, people usually don't use audio files in emails
+- constant contact doesn't allow me upload an audio file, can't find any that do, people usually don't use audio files in emails so they don't offer it
 
 get an update on when the app will be done, is it actually soon? like in a couple months?
 
