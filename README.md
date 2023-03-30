@@ -189,8 +189,6 @@ Emails that need a tip of the day:
 Emails i need to make: All of them,  need a good final email, based on the intro email? what are the things we should focus on for that?
 
 
-3/16
-- tips of the day -> they are in my email and look good, put them in the emails once we know what the service we are going to use is
 
 3/23
 - Look at mailchimp and campaign monitor to see if they are better, look at mail poet -> does not have the series for cheap, see if we want to still use constant contact, check the audio for all of them, he still wants to send audio file in emails if possible
