@@ -44,7 +44,7 @@ Hours worked January 2023: 3 hour 05 min -> recieved
 
 Hours worked February 2023: 6 hour 45 min -> recieved
 
-March: 6 hour 35 min
+March: 6 hour 45 min
 
 plugins im using on site:
 
