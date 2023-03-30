@@ -44,7 +44,7 @@ Hours worked January 2023: 3 hour 05 min -> recieved
 
 Hours worked February 2023: 6 hour 45 min -> recieved
 
-March: 6 hour 5 min
+March: 6 hour 35 min
 
 plugins im using on site:
 
@@ -206,3 +206,10 @@ get an update on when the app will be done, is it actually soon? like in a coupl
 - figure out why peepso autoupdate isn't working
 - does he still want to use groups?
 - use google analytics to see about scorecard, or just use the app?
+
+
+Switch the great outdoors page to being part of the group, put a link to the group page on it
+Delete body awareness and personal growth group
+Change the emails to make them more of a newsletter
+Update on patient list 
+Make a new account and see how it works
