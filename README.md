@@ -120,8 +120,6 @@ Survey stuff:
 	
 See if there is a way to see how many people downloaded the scorecard, use google for site analytics - he needs a google workspace account for this
 
-- https://www.constantcontact.com/blog/automated-welcome-series/ 15 emails every 2 days, look at core vs plus
-
 --------------------------------------------------------
  analytics add him as an admin for other sites -> check
 
@@ -171,8 +169,6 @@ new description for the book listing? The current one is the one from 4e lifesty
 - see if contact page is easily accessible on the site
 - Send emails at 10 am? for chain
 - Make logo of the youtube channel green part bigger add white background 
-
-- Maybe don’t say the days of the challenge, think about that, so that we don’t make people who haven't started it don't feel bad but also sounds good to people who have started it
 
 - think of how to switch emails to be about the app, it should be done soon
 
