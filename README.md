@@ -182,25 +182,20 @@ emails waiting for confirmation: all the rest
 
 Emails that need a tip of the day:
 
-Emails i need to make: All of them,  need a good final email, based on the intro email? what are the things we should focus on for that?
+Emails i need to make: All of them,  intro email is for 30 day challenge, the rest are going to be newsletters
 
 
-
-3/23
-
-- audio files aren't supported by email plugins
-- i can put the audio in manually, but it won't show up right for some people, 
 - constant contact doesn't allow me upload an audio file, can't find any that do, people usually don't use audio files in emails so they don't offer it
 
 get an update on when the app will be done, is it actually soon? like in a couple months?
 
 - figure out why peepso autoupdate isn't working
-- does he still want to use groups?
+
 - use google analytics to see about scorecard, or just use the app?
 
-
-Switch the great outdoors page to being part of the group, put a link to the group page on it
-Delete body awareness and personal growth group
-Change the emails to make them more of a newsletter
-Update on patient list 
-Make a new account and see how it works
+3/30
+- Switch the great outdoors page to being part of the group, put a link to the group page on it
+- Delete body awareness and personal growth group
+- Change the emails to make them more of a newsletter
+- Update on patient list 
+- Make a new account and see how it works
