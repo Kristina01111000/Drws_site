@@ -174,8 +174,6 @@ new description for the book listing? The current one is the one from 4e lifesty
 
 - On four element metaphysics crop the bottom picture so there isn't a big white space on the page
 
-- On bottom of monthly topics page link to old monthly topics
-
 emails done: 
 
 emails waiting for confirmation: all the rest
