@@ -195,7 +195,6 @@ get an update on when the app will be done, is it actually soon? like in a coupl
 
 3/30
 - Switch the great outdoors page to being part of the group, put a link to the group page on it
-- Delete body awareness and personal growth group
 - Change the emails to make them more of a newsletter
 - Update on patient list 
 - Make a new account and see how it works
