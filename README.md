@@ -142,17 +142,15 @@ to do now:
 - Make chats for other people that sound good, 2 to 3 people
 - Write a review in fourissimo club for the heel strike fixing plantar fasciitis
 - Fix the title of the download pdf on fourissimo page
-- For groups get new pictures, are we still going to use groups?
 - Look into file upload plugin for fourissimo page -> new plugin from peepso
 - rethink the welcome email that gets sent when they sign up for the site, add links? can it be formatted?
 - Come up with a prompt for the chat page for all lessons, not too long
-- Make a list of the people who aren’t verified, see if peepso will do it automatically
 
 - add a page for reviews, just dont link to it anywhere
 - check names of lessons on promo page when new youtube video is dropped
 
 Things im waiting for from dr w:
-- email  list for current clients, on hold 
+- email  list for current clients, hopefully soon
 - new video explaining the 30 day challenge - probably not until summer
 - more lesson videos
 
