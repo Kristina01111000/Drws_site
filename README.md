@@ -196,3 +196,5 @@ get an update on when the app will be done, is it actually soon? like in a coupl
 - Make a new account and see how it works
 
 - did we decide on a new monthly topic? 4 e metaphysics is too much, should we wait for a new monthly topic until the month after we send out the email to current patients?
+
+- figure out the email situation, its time to move on it
