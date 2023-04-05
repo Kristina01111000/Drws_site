@@ -46,7 +46,7 @@ Hours worked February 2023: 6 hour 45 min -> recieved
 
 March: 6 hour 45 min
 
-April: 10 min
+April: 20 min
 
 plugins im using on site:
 
@@ -197,5 +197,5 @@ get an update on when the app will be done, is it actually soon? like in a coupl
 
 - did we decide on a new monthly topic? 4 e metaphysics is too much, should we wait for a new monthly topic until the month after we send out the email to current patients?
 
-- figure out the email situation, its time to move on it
+- figure out the email situation, its time to move on it, not many changes needed
 - think about how to link the great outdoors page and the group well, have dr w move his comment?
