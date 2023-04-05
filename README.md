@@ -91,7 +91,6 @@ Notes:
 		- all posts should have comments turned off -> for now
 			- comments need to be removed manually if they are turned off after comments have been added
 	-using pixlr for basic photo edits
-		- yellow image for philosophers corner
 	- used photo editor for flavenoids picture, font = fresh
 	- for admin email change "Settings"=>"General"=>"E-Mail Address". set to mine now, hopefully he fixes the other sites email address thing
 	- nothing on site can be hidden from administrators
@@ -165,9 +164,8 @@ TO do:
 - What  sample chapter should we add to the book listing? Probably chapter 1? Should I take the same excerpt from 4e lifestyle? https://4elementlifestyle.com/dr-ws-book/ introduction, part of chapter one, also include the table of contents, make sure some of the pictures are in the sample, up to page 15 
 new description for the book listing? The current one is the one from 4e lifestyle, take it from the back cover of the book
 
-
 - see if contact page is easily accessible on the site
-- Send emails at 10 am? for chain
+- Send emails at 10 am? for newsletter
 - Make logo of the youtube channel green part bigger add white background 
 
 - think of how to switch emails to be about the app, it should be done soon
@@ -199,3 +197,4 @@ get an update on when the app will be done, is it actually soon? like in a coupl
 
 - figure out the email situation, its time to move on it, not many changes needed
 - think about how to link the great outdoors page and the group well, have dr w move his comment?
+- what day should we send the news letter?
