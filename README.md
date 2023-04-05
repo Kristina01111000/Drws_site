@@ -46,6 +46,8 @@ Hours worked February 2023: 6 hour 45 min -> recieved
 
 March: 6 hour 45 min
 
+April: 10 min
+
 plugins im using on site:
 
 - peepso -> auto updates still not working
@@ -191,7 +193,6 @@ get an update on when the app will be done, is it actually soon? like in a coupl
 
 3/30
 - Change the emails to make them more of a newsletter
-- Update on patient list 
 - Make a new account and see how it works
 
 - did we decide on a new monthly topic? 4 e metaphysics is too much, should we wait for a new monthly topic until the month after we send out the email to current patients?
