@@ -190,7 +190,6 @@ get an update on when the app will be done, is it actually soon? like in a coupl
 - use google analytics to see about scorecard, or just use the app?
 
 3/30
-- Switch the great outdoors page to being part of the group, put a link to the group page on it
 - Change the emails to make them more of a newsletter
 - Update on patient list 
 - Make a new account and see how it works
@@ -198,3 +197,4 @@ get an update on when the app will be done, is it actually soon? like in a coupl
 - did we decide on a new monthly topic? 4 e metaphysics is too much, should we wait for a new monthly topic until the month after we send out the email to current patients?
 
 - figure out the email situation, its time to move on it
+- think about how to link the great outdoors page and the group well, have dr w move his comment?
