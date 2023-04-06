@@ -199,3 +199,12 @@ get an update on when the app will be done, is it actually soon? like in a coupl
 - think about how to link the great outdoors page and the group well, have dr w move his comment?
 - what day should we send the news letter?
 - give people the option between the app and the scorecard site?
+
+4/6
+
+Give people an option between the app and the scorecard
+Switch link on great outdoors page to a button 
+Put the dates back maybe
+Integrate tip of the day with holistic challenge
+Hide the lessons we don’t have
+Put the epub in the ebook listing when he sends it, see if i can put the pdf and the epub both on the site
