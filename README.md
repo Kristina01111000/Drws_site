@@ -157,9 +157,6 @@ TO do:
 - See if i can get lines on about dr w page to go ¾ of the way across
 - he is going to write a different description - he sent it, look at it to see if it is good
 
-- What  sample chapter should we add to the book listing? Probably chapter 1? Should I take the same excerpt from 4e lifestyle? https://4elementlifestyle.com/dr-ws-book/ introduction, part of chapter one, also include the table of contents, make sure some of the pictures are in the sample, up to page 15 
-new description for the book listing? The current one is the one from 4e lifestyle, take it from the back cover of the book
-
 - see if contact page is easily accessible on the site
 - Send emails at 10 am on monday for newsletter
 - Make logo of the youtube channel green part bigger add white background 
@@ -170,11 +167,11 @@ new description for the book listing? The current one is the one from 4e lifesty
 
 emails done: intro , first newsletter
 
-emails waiting for confirmation: all the rest
+emails waiting for confirmation: second 
 
 Emails that need a tip of the day:
 
-Emails i need to make: All of them,  intro email is for 30 day challenge, the rest are going to be newsletters
+Emails i need to make:  rest of the newsletters
 
 
 - figure out why peepso autoupdate isn't working
