@@ -46,7 +46,7 @@ Hours worked February 2023: 6 hour 45 min -> recieved
 
 March: 6 hour 45 min
 
-April: 20 min
+April: 30 min
 
 plugins im using on site:
 
@@ -198,3 +198,4 @@ get an update on when the app will be done, is it actually soon? like in a coupl
 - figure out the email situation, its time to move on it, not many changes needed
 - think about how to link the great outdoors page and the group well, have dr w move his comment?
 - what day should we send the news letter?
+- give people the option between the app and the scorecard site?
