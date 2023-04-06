@@ -127,8 +127,6 @@ See if there is a way to see how many people downloaded the scorecard, use googl
 scorecard link:
 https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit#gid=1517792507
 
-- See how to see all member data from peepso at one time -> is it even possible? -> look under users, or under manage -> nope, can look at learn dash stuff though
-
 - he wants 10 questions per quiz if possible:
 	- Quizzes that have 10 questions: # 1,
 	- Quizzes than need 10 questions: # 2, # 3, # 4, # 5,
@@ -155,8 +153,6 @@ Things im waiting for from dr w:
 - new video explaining the 30 day challenge - probably not until summer
 - more lesson videos
 
-- check if we need an api for stripe
-
 TO do:
 - See if i can get lines on about dr w page to go ¾ of the way across
 - he is going to write a different description - he sent it, look at it to see if it is good
@@ -165,7 +161,7 @@ TO do:
 new description for the book listing? The current one is the one from 4e lifestyle, take it from the back cover of the book
 
 - see if contact page is easily accessible on the site
-- Send emails at 10 am? for newsletter
+- Send emails at 10 am on monday for newsletter
 - Make logo of the youtube channel green part bigger add white background 
 
 - think of how to switch emails to be about the app, it should be done soon
