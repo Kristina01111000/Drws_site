@@ -193,3 +193,6 @@ Emails i need to make:  rest of the newsletters
 - Switch link on great outdoors page to a button 
 - Integrate tip of the day with holistic challenge
 - Put the epub in the ebook listing when he sends it, see if i can put the pdf and the epub both on the site
+
+
+peepso auto updates still not working
