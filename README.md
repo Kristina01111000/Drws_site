@@ -172,7 +172,7 @@ new description for the book listing? The current one is the one from 4e lifesty
 
 - On four element metaphysics crop the bottom picture so there isn't a big white space on the page
 
-emails done: 
+emails done: intro , first newsletter
 
 emails waiting for confirmation: all the rest
 
@@ -181,19 +181,13 @@ Emails that need a tip of the day:
 Emails i need to make: All of them,  intro email is for 30 day challenge, the rest are going to be newsletters
 
 
-- constant contact doesn't allow me upload an audio file, can't find any that do, people usually don't use audio files in emails so they don't offer it
-
-get an update on when the app will be done, is it actually soon? like in a couple months?
-
 - figure out why peepso autoupdate isn't working
 
 - use google analytics to see about scorecard, or just use the app?
 
 3/30
-- Change the emails to make them more of a newsletter
 - Make a new account and see how it works
 
-- did we decide on a new monthly topic? 4 e metaphysics is too much, should we wait for a new monthly topic until the month after we send out the email to current patients?
 
 - figure out the email situation, its time to move on it, not many changes needed
 - think about how to link the great outdoors page and the group well, have dr w move his comment?
