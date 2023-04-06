@@ -50,7 +50,7 @@ April: 1 hour 30 min
 
 plugins im using on site:
 
-- peepso -> auto updates still not working
+- peepso -> auto updates still not working, caused by something in the backend? still not working the way they should
 - learndash 
 - paid memberships pro
 - real simple ssl 
