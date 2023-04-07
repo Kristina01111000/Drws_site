@@ -172,7 +172,7 @@ emails waiting for confirmation: second
 Emails that need a tip of the day:
 
 Emails i need to make:  rest of the newsletters
-
+Send newsletters on monday at 10 am
 
 - figure out why peepso autoupdate isn't working
 
@@ -181,7 +181,6 @@ Emails i need to make:  rest of the newsletters
 3/30
 - Make a new account and see how it works, all the emails, before he hands out the list of emails
 - think about how to link the great outdoors page and the group well, have dr w move his comment?
-- what day should we send the news letter?
 - give people the option between the app and the scorecard site?
 
 4/6
