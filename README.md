@@ -46,7 +46,7 @@ Hours worked February 2023: 6 hour 45 min -> recieved
 
 March: 6 hour 45 min
 
-April: 1 hour 30 min
+April: 1 hour 35 min
 
 plugins im using on site:
 
@@ -179,7 +179,7 @@ Emails i need to make:  rest of the newsletters
 - use google analytics to see about scorecard, or just use the app?
 
 3/30
-- Make a new account and see how it works
+- Make a new account and see how it works, all the emails, before he hands out the list of emails
 
 
 - figure out the email situation, its time to move on it, not many changes needed
