@@ -189,7 +189,7 @@ Emails i need to make:  rest of the newsletters
 
 4/6
 
-- Give people an option between the app and the scorecard
+- Give people an option between the app and the scorecard? yes, so link to both when the app is done
 - Switch link on great outdoors page to a button 
 - Integrate tip of the day with holistic challenge
 - Put the epub in the ebook listing when he sends it, see if i can put the pdf and the epub both on the site
