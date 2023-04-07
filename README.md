@@ -169,7 +169,7 @@ emails done: intro , first newsletter
 
 emails waiting for confirmation: second 
 
-Emails that need a tip of the day:
+Emails that need a tip of the day: do we have enough yet? we will need more for the newsletters unless we want to repeat them
 
 Emails i need to make:  rest of the newsletters
 Send newsletters on monday at 10 am
