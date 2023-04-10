@@ -191,3 +191,4 @@ Send newsletters on monday at 10 am
 
 
 peepso auto updates still not working
+ i go t the newsletter to do full width text, is it good? or should i switch it back?
