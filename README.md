@@ -46,7 +46,7 @@ Hours worked February 2023: 6 hour 45 min -> recieved
 
 March: 6 hour 45 min
 
-April: 1 hour 35 min
+April: 1 hour 40 min
 
 plugins im using on site:
 
@@ -174,7 +174,6 @@ Emails that need a tip of the day: do we have enough yet? we will need more for 
 Emails i need to make:  rest of the newsletters
 Send newsletters on monday at 10 am
 
-- figure out why peepso autoupdate isn't working
 
 - use google analytics to see about scorecard, or just use the app?
 
