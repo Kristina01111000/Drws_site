@@ -188,6 +188,7 @@ Send newsletters on monday at 10 am
 - Switch link on great outdoors page to a button 
 - Integrate tip of the day with holistic challenge? add more tips that are linked to the scorecard?
 - Put the epub in the ebook listing when he sends it, see if i can put the pdf and the epub both on the site
+	- is there a way to open epubs on my computer?
 
 
 peepso auto updates still not working
