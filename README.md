@@ -180,7 +180,7 @@ Send newsletters on monday at 10 am
 3/30
 - Make a new account and see how it works, all the emails, before he hands out the list of emails
 - think about how to link the great outdoors page and the group well, have dr w move his comment?
-- give people the option between the app and the scorecard site?
+- give people the option between the app and the scorecard site? -> have a line like "download our scorecard app here or get a copy of the scorecard here"
 
 4/6
 
