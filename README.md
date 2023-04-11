@@ -46,7 +46,7 @@ Hours worked February 2023: 6 hour 45 min -> recieved
 
 March: 6 hour 45 min
 
-April: 1 hour 45 min
+April: 1 hour 50 min
 
 plugins im using on site:
 
@@ -199,3 +199,6 @@ get emails ready for a month or so at a time
 
 peepso auto updates still not working
  i go t the newsletter to do full justified (full width) text, is it good? or should i switch it back to left aligned?
+
+
+- talk about the great outdoors page
