@@ -171,7 +171,7 @@ emails waiting for confirmation (at next meeting): second needs the end of the l
 
 Emails that need a tip of the day: do we have enough yet? we will need more for the newsletters unless we want to repeat them
 
-Emails i need to make:  rest of the newsletters
+Emails i need to make:  rest of the newsletters -> get the first four all set
 Send newsletters on monday at 10 am
 
 
