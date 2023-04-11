@@ -174,6 +174,12 @@ Emails that need a tip of the day: do we have enough yet? we will need more for 
 Emails i need to make:  rest of the newsletters -> get the first four all set
 Send newsletters on monday at 10 am
 
+on email google doc:
+- list of quotes
+- list of tips
+- list of videos
+
+
 
 - use google analytics to see about scorecard, or just use the app?
 
