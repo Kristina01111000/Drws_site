@@ -192,7 +192,6 @@ get emails ready for a month or so at a time
 4/6
 
 - Give people an option between the app and the scorecard? yes, so link to both when the app is done
-- Integrate tip of the day with holistic challenge? add more tips that are linked to the scorecard?
 - Put the epub in the ebook listing when he sends it, see if i can put the pdf and the epub both on the site
 	- is there a way to open epubs on my computer?
 
