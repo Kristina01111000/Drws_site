@@ -46,7 +46,7 @@ Hours worked February 2023: 6 hour 45 min -> recieved
 
 March: 6 hour 45 min
 
-April: 1 hour 40 min
+April: 1 hour 45 min
 
 plugins im using on site:
 
@@ -179,7 +179,7 @@ on email google doc:
 - list of tips
 - list of videos
 - check them off when they are used so we don't have repeats
-
+get emails ready for a month or so at a time
 
 
 - use google analytics to see about scorecard, or just use the app?
