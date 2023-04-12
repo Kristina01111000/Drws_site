@@ -167,7 +167,7 @@ TO do:
 
 emails done: intro , first newsletter
 
-emails waiting for confirmation (at next meeting): second needs the end of the left column changed
+emails waiting for confirmation (at next meeting): second needs the end of the left column changed, is the tip too long?
 
 Emails that need a tip of the day: do we have enough yet? we will need more for the newsletters unless we want to repeat them
 
