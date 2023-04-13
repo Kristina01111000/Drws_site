@@ -199,5 +199,5 @@ get emails ready for a month or so at a time
 peepso auto updates still not working
 
 - check once a month to see if i can get the justified text to stick
-
+- he is going to send me a copy of the app to look at, its still in sandbox mode
 
