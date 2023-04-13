@@ -193,7 +193,8 @@ get emails ready for a month or so at a time
 
 - Give people an option between the app and the scorecard? yes, so link to both when the app is done
 - Put the epub in the ebook listing when he sends it, see if i can put the pdf and the epub both on the site
-	- is there a way to open epubs on my computer?
+	- is there a way to open epubs on my computer? No
+	- try to get the epub uploaded onto the site, need to find a plugin to make it work
 
 
 peepso auto updates still not working
