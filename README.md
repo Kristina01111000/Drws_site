@@ -46,7 +46,7 @@ Hours worked February 2023: 6 hour 45 min -> recieved
 
 March: 6 hour 45 min
 
-April: 2 hour 40 min
+April: 2 hour 45 min
 
 plugins im using on site:
 
@@ -196,8 +196,6 @@ get emails ready for a month or so at a time
 	- is there a way to open epubs on my computer? No
 	- try to get the epub uploaded onto the site, need to find a plugin to make it work
 
-
-peepso auto updates still not working
 
 - check once a month to see if i can get the justified text to stick
 - he is going to send me a copy of the app to look at, its still in sandbox mode
