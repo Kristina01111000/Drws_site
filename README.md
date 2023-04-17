@@ -200,3 +200,4 @@ get emails ready for a month or so at a time
 - check once a month to see if i can get the justified text to stick
 - he is going to send me a copy of the app to look at, its still in sandbox mode
 
+- make sure the other emails aren't being sent to me
