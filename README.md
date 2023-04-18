@@ -46,7 +46,7 @@ Hours worked February 2023: 6 hour 45 min -> recieved
 
 March: 6 hour 45 min
 
-April: 2 hour 45 min
+April: 2 hour 50 min
 
 plugins im using on site:
 
@@ -201,3 +201,4 @@ get emails ready for a month or so at a time
 - he is going to send me a copy of the app to look at, its still in sandbox mode
 
 - make sure the other emails aren't being sent to me
+- talk about the contact page for gh
