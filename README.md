@@ -46,7 +46,7 @@ Hours worked February 2023: 6 hour 45 min -> recieved
 
 March: 6 hour 45 min
 
-April: 2 hour 50 min
+April: 2 hour 55 min
 
 plugins im using on site:
 
@@ -186,12 +186,10 @@ get emails ready for a month or so at a time
 
 3/30
 - Make a new account and see how it works, all the emails, before he hands out the list of emails
-- think about how to link the great outdoors page and the group well, have dr w move his comment?
 - give people the option between the app and the scorecard site? -> have a line like "download our scorecard app here or get a copy of the scorecard here"
 
 4/6
 
-- Give people an option between the app and the scorecard? yes, so link to both when the app is done
 - Put the epub in the ebook listing when he sends it, see if i can put the pdf and the epub both on the site
 	- is there a way to open epubs on my computer? No
 	- try to get the epub uploaded onto the site, need to find a plugin to make it work
