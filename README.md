@@ -46,7 +46,7 @@ Hours worked February 2023: 6 hour 45 min -> recieved
 
 March: 6 hour 45 min
 
-April: 2 hour 55 min
+April: 3 hour 15 min
 
 plugins im using on site:
 
@@ -195,6 +195,7 @@ get emails ready for a month or so at a time
 	- try to get the epub uploaded onto the site, need to find a plugin to make it work
 	- WP Extra File Types does not work
 	- Simple WordPress Download Monitor does not work
+	- can't find any that still work, looking into ones specifically for books
 
 
 - check once a month to see if i can get the justified text to stick
