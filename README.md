@@ -193,7 +193,10 @@ get emails ready for a month or so at a time
 
 - check once a month to see if i can get the justified text to stick
 - he is going to send me a copy of the app to look at, its still in sandbox mode
+4/13
 
 - make sure the other emails aren't being sent to me
 - talk about the contact page for gh, do we need it?
 - basically on hold until the email list is ready, that is the next step, we shouldn't meet again until it is set
+- Make the button on the great outdoors page match the buttons on home page
+
