@@ -46,7 +46,7 @@ Hours worked February 2023: 6 hour 45 min -> recieved
 
 March: 6 hour 45 min
 
-April: 3 hour 15 min
+April: 4 hour 0 min
 
 plugins im using on site:
 
@@ -64,6 +64,7 @@ plugins im using on site:
 - layout grid block
 - wp-staging -> deactivate when not in use
 - wp-forms -> contact page
+- File Upload Types -> allows epub to be added to media library
 
 https://www.ssllabs.com/ssltest
 
@@ -189,14 +190,6 @@ get emails ready for a month or so at a time
 - give people the option between the app and the scorecard site? -> have a line like "download our scorecard app here or get a copy of the scorecard here"
 
 4/6
-
-- Put the epub in the ebook listing when he sends it, see if i can put the pdf and the epub both on the site
-	- is there a way to open epubs on my computer? No
-	- try to get the epub uploaded onto the site, need to find a plugin to make it work
-	- WP Extra File Types does not work
-	- Simple WordPress Download Monitor does not work
-	- can't find any that still work, looking into ones specifically for books
-
 
 - check once a month to see if i can get the justified text to stick
 - he is going to send me a copy of the app to look at, its still in sandbox mode
