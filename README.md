@@ -193,6 +193,7 @@ get emails ready for a month or so at a time
 - Put the epub in the ebook listing when he sends it, see if i can put the pdf and the epub both on the site
 	- is there a way to open epubs on my computer? No
 	- try to get the epub uploaded onto the site, need to find a plugin to make it work
+	- WP Extra File Types does not work
 
 
 - check once a month to see if i can get the justified text to stick
