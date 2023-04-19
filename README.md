@@ -202,4 +202,4 @@ get emails ready for a month or so at a time
 
 - make sure the other emails aren't being sent to me
 - talk about the contact page for gh, do we need it?
-- basically on hold until the email list is ready
+- basically on hold until the email list is ready, that is the next step, we shouldn't meet again until it is set
