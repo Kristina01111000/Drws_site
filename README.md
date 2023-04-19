@@ -201,4 +201,5 @@ get emails ready for a month or so at a time
 - he is going to send me a copy of the app to look at, its still in sandbox mode
 
 - make sure the other emails aren't being sent to me
-- talk about the contact page for gh
+- talk about the contact page for gh, do we need it?
+- basically on hold until the email list is ready
