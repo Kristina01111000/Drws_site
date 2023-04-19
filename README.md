@@ -194,6 +194,7 @@ get emails ready for a month or so at a time
 	- is there a way to open epubs on my computer? No
 	- try to get the epub uploaded onto the site, need to find a plugin to make it work
 	- WP Extra File Types does not work
+	- Simple WordPress Download Monitor does not work
 
 
 - check once a month to see if i can get the justified text to stick
