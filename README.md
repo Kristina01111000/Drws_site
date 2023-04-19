@@ -46,7 +46,7 @@ Hours worked February 2023: 6 hour 45 min -> recieved
 
 March: 6 hour 45 min
 
-April: 4 hour 0 min
+April: 4 hour 15 min
 
 plugins im using on site:
 
@@ -198,5 +198,3 @@ get emails ready for a month or so at a time
 - make sure the other emails aren't being sent to me
 - talk about the contact page for gh, do we need it?
 - basically on hold until the email list is ready, that is the next step, we shouldn't meet again until it is set
-- Make the button on the great outdoors page match the buttons on home page
-
