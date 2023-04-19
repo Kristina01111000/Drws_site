@@ -166,6 +166,8 @@ TO do:
 
 - On four element metaphysics crop the bottom picture so there isn't a big white space on the page
 
+Plan is to include 30 day challenge on the first 4 news letters, then not on the others, b/c everyone who signs up for the first 30 days will definitely be doing it/ not be done with it
+
 emails done: intro , first newsletter
 
 emails waiting for confirmation (at next meeting): second needs the end of the left column changed, is the tip too long?
