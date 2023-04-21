@@ -199,5 +199,3 @@ get emails ready for a month or so at a time
 
 - make sure the other emails aren't being sent to me -> only gh still is
 - basically on hold until the email list is ready, that is the next step, we shouldn't meet again until it is set
-
-- send invoice
