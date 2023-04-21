@@ -155,12 +155,9 @@ Things im waiting for from dr w:
 - more lesson videos
 
 TO do:
-- See if i can get lines on about dr w page to go ¾ of the way across
 
-- Send emails at 10 am on monday for newsletter
+
 - Make logo of the youtube channel green part bigger add white background 
-
-- think of how to switch emails to be about the app, it should be ready sometime soon
 
 Plan is to include 30 day challenge on the first 4 news letters, then not on the others, b/c everyone who signs up for the first 30 days will definitely be doing it/ not be done with it
 
@@ -195,3 +192,14 @@ get emails ready for a month or so at a time
 
 - make sure the other emails aren't being sent to me -> only gh still is
 - basically on hold until the email list is ready, that is the next step, we shouldn't meet again until it is set
+
+
+
+
+
+
+In future:
+
+- Send emails at 10 am on monday for newsletter
+
+- think of how to switch emails to be about the app, it should be ready sometime soon
