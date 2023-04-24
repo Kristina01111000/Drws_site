@@ -180,7 +180,6 @@ get emails ready for a month or so at a time
 
 3/30
 - Make a new account and see how it works, all the emails, before he hands out the list of emails
-- give people the option between the app and the scorecard site? -> have a line like "download our scorecard app here or get a copy of the scorecard here"
 
 4/6
 
@@ -203,3 +202,5 @@ In future:
 - Send emails at 10 am on monday for newsletter
 
 - think of how to switch emails to be about the app, it should be ready sometime soon
+- give people the option between the app and the scorecard site? -> have a line like "download our scorecard app here or get a copy of the scorecard here" -> on both the site and in the emails
+
