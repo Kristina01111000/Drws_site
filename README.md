@@ -46,7 +46,7 @@ Hours worked February 2023: 6 hour 45 min -> recieved
 
 March: 6 hour 45 min
 
-April: 5 hour 45 min
+April: 5 hour 50 min
 
 plugins im using on site:
 
@@ -194,7 +194,7 @@ get emails ready for a month or so at a time
 - basically on hold until the email list is ready, that is the next step, we shouldn't meet again until it is set
 
 
-
+- add titles of lessons to the course chats
 
 
 
