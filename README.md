@@ -194,7 +194,7 @@ get emails ready for a month or so at a time
 - basically on hold until the email list is ready, that is the next step, we shouldn't meet again until it is set
 
 
-- add titles of lessons to the course chats
+- add titles of lessons to the course chats and come up with a converstion starter (two needed)
 
 
 
