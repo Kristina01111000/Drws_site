@@ -44,7 +44,7 @@ Hours worked January 2023: 3 hour 05 min -> recieved
 
 Hours worked February 2023: 6 hour 45 min -> recieved
 
-March: 6 hour 45 min
+March: 6 hour 45 min -> sent
 
 April: 5 hour 50 min
 
@@ -178,8 +178,6 @@ on email google doc:
 get emails ready for a month or so at a time
 
 
-- use google analytics to see about scorecard, or just use the app?
-
 3/30
 - Make a new account and see how it works, all the emails, before he hands out the list of emails
 - give people the option between the app and the scorecard site? -> have a line like "download our scorecard app here or get a copy of the scorecard here"
@@ -188,6 +186,8 @@ get emails ready for a month or so at a time
 
 - check once a month to see if i can get the justified text to stick
 - he is going to send me a copy of the app to look at, its still in sandbox mode
+
+
 4/13
 
 - make sure the other emails aren't being sent to me -> only gh still is
