@@ -180,6 +180,7 @@ get emails ready for a month or so at a time
 
 3/30
 - Make a new account and see how it works, all the emails, before he hands out the list of emails
+	- make comments on the lesson chats with it also
 
 4/6
 
