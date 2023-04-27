@@ -46,7 +46,7 @@ Hours worked February 2023: 6 hour 45 min -> recieved
 
 March: 6 hour 45 min -> sent
 
-April: 6 hour 55 min
+April: 7 hour 0 min
 
 plugins im using on site:
 
@@ -206,4 +206,4 @@ In future:
 
 
 - go over the email for current patients, it needs a lot of text changes
-- change the unsubscribe email at the bottom of newsletter
+
