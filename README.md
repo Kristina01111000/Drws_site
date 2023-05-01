@@ -195,7 +195,7 @@ get emails ready for a month or so at a time
 
 
 - add titles of lessons to the course chats and come up with a converstion starter (two needed)
-
+- check on all of the course chats, does he still want them? or should we puch people towards the groups?
 
 
 In future:
