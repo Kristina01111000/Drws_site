@@ -184,7 +184,7 @@ get emails ready for a month or so at a time
 
 4/6
 
-- check once a month to see if i can get the justified text to stick
+- check once a month to see if i can get the justified text to stick not working still, shows up in site, not in emails
 - he is going to send me a copy of the app to look at, its still in sandbox mode
 
 
