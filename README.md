@@ -48,7 +48,7 @@ March: 6 hour 45 min -> recieved
 
 April: 7 hour 15 min
 
-May: 25 min
+May: 30 min
 
 plugins im using on site:
 
@@ -208,3 +208,4 @@ on monday:
 
 - come up with other ideas for the site if he doesn't have the email list ready
 - see if he knows why peepso won't update automatically, (maybe b/c of the theme?)
+ the justified text doesn't work
