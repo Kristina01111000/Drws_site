@@ -207,3 +207,4 @@ on monday:
 - double check that he knows the unsubscribe issue is not a problem
 
 - come up with other ideas for the site if he doesn't have the email list ready
+- see if he knows why peepso won't update automatically, (maybe b/c of the theme?)
