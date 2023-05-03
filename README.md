@@ -48,7 +48,7 @@ March: 6 hour 45 min -> recieved
 
 April: 7 hour 15 min
 
-May: 10 min
+May: 25 min
 
 plugins im using on site:
 
@@ -192,13 +192,11 @@ get emails ready for a month or so at a time
 
 4/13
 
-- make sure the other emails aren't being sent to me -> only gh still is
 - basically on hold until the email list is ready, that is the next step, we shouldn't meet again until it is set
-
 
 - add titles of lessons to the course chats and come up with a converstion starter (two needed)
 - check on all of the course chats, does he still want them? or should we puch people towards the groups?
-- get the fourth email ready, go over it and the third one on phone call
+
 
 In future:
 
