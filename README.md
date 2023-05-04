@@ -209,3 +209,4 @@ In future:
 - the justified text doesn't work
 - Add some comments in every group so they have people to talk to 
 - See if we can move people to a different campaign in constant contact, easily based on when they joined, like 2 weeks then move them to a different campaigns
+- Reconsider the groups, are they good, should we get rid of some, add some?
