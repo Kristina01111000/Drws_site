@@ -48,7 +48,7 @@ March: 6 hour 45 min -> recieved
 
 April: 7 hour 15 min
 
-May: 1 hour 25 min min
+May: 1 hour 30 min 
 
 plugins im using on site:
 
@@ -184,10 +184,6 @@ get emails ready for a month or so at a time
 - Make a new account and see how it works, all the emails, before he hands out the list of emails
 	- make comments on the lesson chats with it also
 
-4/6
-
-- check once a month to see if i can get the justified text to stick not working still, shows up in site, not in emails
-- he is going to send me a copy of the app to look at, its still in sandbox mode
 
 
 4/13
@@ -203,10 +199,13 @@ In future:
 - Send emails at 10 am on monday for newsletter
 - think of how to switch emails to be about the app, it should be ready sometime soon hopefully, he doesn't have the code yet, just the video
 - give people the option between the app and the scorecard site? -> have a line like "download our scorecard app here or get a copy of the scorecard here" -> on both the site and in the emails
+- he is going to send me a copy of the app to look at, its still in sandbox mode
 
 - come up with other ideas for the site if he doesn't have the email list ready
 - see if he knows why peepso won't update automatically, (maybe b/c of the theme?)
 - the justified text doesn't work
+
+5/4
 - Add some comments in every group so they have people to talk to 
 - See if we can move people to a different campaign in constant contact, easily based on when they joined, like 2 weeks then move them to a different campaigns
 - Reconsider the groups, are they good, should we get rid of some, add some?
