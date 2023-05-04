@@ -208,4 +208,6 @@ on monday:
 
 - come up with other ideas for the site if he doesn't have the email list ready
 - see if he knows why peepso won't update automatically, (maybe b/c of the theme?)
- the justified text doesn't work
+- the justified text doesn't work
+- Add some comments in every group so they have people to talk to 
+- See if we can move people to a different campaign in constant contact, easily based on when they joined, like 2 weeks then move them to a different campaigns
