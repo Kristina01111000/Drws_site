@@ -2,7 +2,7 @@
 everything to do with drws site
 
 
-Hours worked 16 may to 16 june: 16 ->  recieved 
+Hours worked 16 may 2021 to 16 june: 16 ->  recieved 
 
 Hours worked  june 17 to july 16: 12 -> recieved 
 
@@ -163,25 +163,18 @@ TO do:
 
 Plan is to include 30 day challenge on the first 4 news letters, then not on the others, b/c everyone who signs up for the first 30 days will definitely be doing it/ not be done with it
 
-emails done: intro , first newsletter
-
-emails waiting for confirmation (at next meeting): second needs the end of the left column changed, is the tip too long?
-
-Emails that need a tip of the day: do we have enough yet? we will need more for the newsletters unless we want to repeat them
-
-Emails i need to make:  rest of the newsletters -> get the first four all set
+emails done: current patients and first 4
 Send newsletters on monday at 10 am
 
-on email google doc:
+For email google doc:
 - list of quotes
 - list of tips
 - list of videos
 - check them off when they are used so we don't have repeats
-get emails ready for a month or so at a time
 
 
-- add titles of lessons to the course chats and come up with a converstion starter (two needed)
-- check on all of the course chats, does he still want them? or should we puch people towards the groups?
+
+
 
 
 In future:
@@ -200,3 +193,5 @@ In future:
 - Make a new account and see how it works, all the emails, before he hands out the list of emails
 	- make comments on the lesson chats with it also
 	- try to get 3 users to do the comments so its not just one
+- add titles of lessons to the course chats and come up with a converstion starter (two needed)
+- check on all of the course chats, does he still want them? or should we puch people towards the groups?
