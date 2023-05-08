@@ -195,3 +195,4 @@ In future:
 	- try to get 3 users to do the comments so its not just one
 - add titles of lessons to the course chats and come up with a converstion starter (two needed)
 - check on all of the course chats, does he still want them? or should we puch people towards the groups?
+- are the emails all set? 
