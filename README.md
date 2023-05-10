@@ -189,10 +189,10 @@ In future:
 5/4
 - Add some comments in every group so they have people to talk to / do't feel wierd as the first commenter
 - See if we can move people to a different campaign in constant contact, easily based on when they joined, like 2 weeks then move them to a different campaigns
-- Reconsider the groups, are they good, should we get rid of some, add some?
+- Reconsider the groups, are they good, should we get rid of some, add some? added to to do list
 - Make a new account and see how it works, all the emails, before he hands out the list of emails
 	- make comments on the lesson chats with it also
 	- try to get 3 users to do the comments so its not just one
 - add titles of lessons to the course chats and come up with a converstion starter (two needed)
 - check on all of the course chats, does he still want them? or should we puch people towards the groups?
-- are the emails all set? 
+- are the emails all set?  up to the first 4
