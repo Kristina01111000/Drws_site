@@ -48,7 +48,7 @@ March: 6 hour 45 min -> recieved
 
 April: 7 hour 15 min
 
-May: 1 hour 40 min 
+May: 1 hour 45 min 
 
 plugins im using on site:
 
@@ -197,3 +197,8 @@ In future:
 - add titles of lessons to the course chats and come up with a converstion starter (two needed)
 - check on all of the course chats, does he still want them? or should we puch people towards the groups?
 - are the emails all set?  up to the first 4
+- 
+pros/cons of groups/ lesson chat
+- groups are more likely to increase discussion
+- lesson chats probably are one and done, (people might comment, but they probably won't go back)
+- groups are about more that one section, lessons just about one topic
