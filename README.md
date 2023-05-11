@@ -202,3 +202,7 @@ pros/cons of groups/ lesson chat
 - groups are more likely to increase discussion
 - lesson chats probably are one and done, (people might comment, but they probably won't go back)
 - groups are about more that one section, lessons just about one topic
+
+
+-Change the chat titles to share your thoughts on lesson __
+-Make a link to 4 element yoga on the sites wherever it is mentioned
