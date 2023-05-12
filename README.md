@@ -202,3 +202,6 @@ In future:
 
 -Change the chat titles to share your thoughts on lesson __
 -Make a link to 4 element yoga on the sites wherever it is mentioned
+
+
+buy a chromebook for the trip
