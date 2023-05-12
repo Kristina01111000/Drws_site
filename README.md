@@ -48,7 +48,7 @@ March: 6 hour 45 min -> recieved
 
 April: 7 hour 15 min
 
-May: 2 hour 20 min 
+May: 2 hour 25 min 
 
 plugins im using on site:
 
@@ -206,3 +206,13 @@ In future:
 
 
 buy a chromebook for the trip
+Make comments on the group and course chats
+
+- Lesson 1
+- Lesson 2
+- Lesson 3
+- Lesson 4
+- Lesson 5
+- Scorecard group
+- Great outdoors
+- Nutrition 
