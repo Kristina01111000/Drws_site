@@ -145,8 +145,7 @@ to do now:
 - Write a review in fourissimo club for the heel strike fixing plantar fasciitis
 - Fix the title of the download pdf on fourissimo page
 - Look into file upload plugin for fourissimo page -> new plugin from peepso
-- rethink the welcome email that gets sent when they sign up for the site, add links? can it be formatted?
-- Come up with a prompt for the chat page for all lessons, not too long
+
 
 - add a page for reviews, just dont link to it anywhere
 - check names of lessons on promo page when new youtube video is dropped
@@ -192,6 +191,7 @@ In future:
 - See if we can move people to a different campaign in constant contact, easily based on when they joined, like 2 weeks then move them to a different campaigns
 - Reconsider the groups, are they good, should we get rid of some, add some? added to to do list
 - Make a new account and see how it works, all the emails, before he hands out the list of emails
+- rethink the welcome email that gets sent when they sign up for the site, add links? can it be formatted?
 	- make comments on the lesson chats with it also
 	- try to get 3 users to do the comments so its not just one
 - add titles of lessons to the course chats and come up with a converstion starter (two needed)
