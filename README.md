@@ -188,6 +188,7 @@ In future:
 5/4
 - Add some comments in every group so they have people to talk to / do't feel wierd as the first commenter
 - 	use krist acct, see if i can change the name
+- 	use w's account also, cna just have some comments responding to other comments
 - See if we can move people to a different campaign in constant contact, easily based on when they joined, like 2 weeks then move them to a different campaigns
 - Reconsider the groups, are they good, should we get rid of some, add some? added to to do list
 - Make a new account and see how it works, all the emails, before he hands out the list of emails
