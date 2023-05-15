@@ -197,12 +197,12 @@ In future:
 	- try to get 3 users to do the comments so its not just one
 - add titles of lessons to the course chats and come up with a converstion starter (two needed)
 - check on all of the course chats, does he still want them? or should we puch people towards the groups? ->> keeping both the course chats and the groups, put comments in both
-- are the emails all set?  up to the first 4, might need to go over the intro email again
+
 
 
 
 -Change the chat titles to share your thoughts on lesson __
--Make a link to 4 element yoga on the sites wherever it is mentioned
+-Make a link to 4 element yoga on the sites wherever it is mentioned (just make it hot)
 
 
 buy a chromebook for the trip
