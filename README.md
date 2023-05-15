@@ -205,7 +205,9 @@ In future:
 -Make a link to 4 element yoga on the sites wherever it is mentioned (just make it hot)
 - link the course-chat page somewhere more easily accessible
 - hide the lessons that don't have content yet
-- 
+- try to get 4 comments for each, three is minimum
+
+
 buy a chromebook for the trip
 Make comments on the group and course chats
 
