@@ -48,7 +48,7 @@ March: 6 hour 45 min -> recieved
 
 April: 7 hour 15 min
 
-May: 2 hour 25 min 
+May: 2 hour 30 min 
 
 plugins im using on site:
 
@@ -203,7 +203,7 @@ In future:
 
 -Change the chat titles to share your thoughts on lesson __
 -Make a link to 4 element yoga on the sites wherever it is mentioned (just make it hot)
-
+- link the course-chat page somewhere more easily accessible
 
 buy a chromebook for the trip
 Make comments on the group and course chats
