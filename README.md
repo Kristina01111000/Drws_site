@@ -48,7 +48,7 @@ March: 6 hour 45 min -> recieved
 
 April: 7 hour 15 min
 
-May: 2 hour 35 min 
+May: 2 hour 45 min 
 
 plugins im using on site:
 
@@ -212,6 +212,9 @@ buy a chromebook for the trip
 Make comments on the group and course chats
 
 - Lesson 1
+- 	slump over when sitting
+- 	is that why going out into the sun makes me feel better?
+- 	that is a lot of groups of fours...
 - Lesson 2
 - Lesson 3
 - Lesson 4
