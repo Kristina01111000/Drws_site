@@ -48,7 +48,7 @@ March: 6 hour 45 min -> recieved
 
 April: 7 hour 15 min
 
-May: 2 hour 45 min 
+May: 3 hour 0 min 
 
 plugins im using on site:
 
@@ -220,6 +220,8 @@ Make comments on the group and course chats
 - 	yeah, i do it when my shoulders hurts from sitting too long at my desk, it helps loosen them up
 - 	will walking actually make our bones stronger? or was that a metaphorical stronger?
 - Lesson 3
+- 	so... was the point of this lesson that we shoudl all have a sport hobby and an exercise hobby...
+- 	thats an interesting way to look at sports, art, and politics
 - Lesson 4
 - Lesson 5
 - Scorecard group
