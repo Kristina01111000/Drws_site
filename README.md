@@ -229,5 +229,13 @@ Make comments on the group and course chats
 - 	 has anyone ever used anise seed? what does it taste like?
 - Lesson 5
 - Scorecard group
+- 	talk about walks
+- 	food
+- 	meditation
+- 	two tohers
 - Great outdoors
+- 	walking
+- 	swimming
+- 	hiking
 - Nutrition 
+- 	share a recipe?
