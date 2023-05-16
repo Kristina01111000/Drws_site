@@ -216,6 +216,9 @@ Make comments on the group and course chats
 - 	is that why going out into the sun makes me feel better?
 - 	that is a lot of groups of fours...
 - Lesson 2
+- 	has anyone tried the yoga move from this lesson?
+- 	yeah, i do it when my shoulders hurts from sitting too long at my desk, it helps loosen them up
+- 	will walking actually make our bones stronger? or was that a metaphorical stronger?
 - Lesson 3
 - Lesson 4
 - Lesson 5
