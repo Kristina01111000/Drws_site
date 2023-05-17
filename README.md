@@ -239,11 +239,12 @@ Make comments on the group and course chats
 - 	talk about walks
 - 	food
 - 	meditation
-- 	two tohers
+- 	two others?
 - Great outdoors
 - 	walking
 - 	swimming
 - 	hiking
+- 	grilling? does that count under great outdoors?
 - Nutrition 
 - 	share a recipe?
 - 	talk about new spices to try
