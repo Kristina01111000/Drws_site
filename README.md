@@ -250,3 +250,5 @@ Make comments on the group and course chats
 - 	talk about different fruits and veggies?
 - 	picture of mungbeans in a jar
 - 	picture of cooked seeds
+
+think of names for the commenters
