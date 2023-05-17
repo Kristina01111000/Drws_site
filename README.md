@@ -206,7 +206,7 @@ In future:
 - link the course-chat page somewhere more easily accessible
 - hide the lessons that don't have content yet
 - try to get 4 comments for each, three is minimum
-
+- copied the chats to the to do list to go over with him tomorrow, then put them on the site
 
 buy a chromebook for the trip
 Make comments on the group and course chats
