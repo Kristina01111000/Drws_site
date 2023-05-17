@@ -48,7 +48,7 @@ March: 6 hour 45 min -> recieved
 
 April: 7 hour 15 min
 
-May: 3 hour 20 min 
+May: 3 hour 25 min 
 
 plugins im using on site:
 
@@ -232,6 +232,9 @@ Make comments on the group and course chats
 - 	wait... coffee is an herb?
 - 	corn beans and squash, squash oil is the good part? so should we eat pumpkin seeds?
 - 	 i want to try pepitas, does anyone know where they are sold?
+- 	 quinoa is really good, personally i don't like buckwheat
+- 	 is cooking with peanut oil good? i haven't done it
+- 	 is grass fed milk and beef more expensive?
 - Scorecard group
 - 	talk about walks
 - 	food
