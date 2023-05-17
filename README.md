@@ -48,7 +48,7 @@ March: 6 hour 45 min -> recieved
 
 April: 7 hour 15 min
 
-May: 3 hour 15 min 
+May: 3 hour 20 min 
 
 plugins im using on site:
 
@@ -240,3 +240,5 @@ Make comments on the group and course chats
 - 	hiking
 - Nutrition 
 - 	share a recipe?
+- 	talk about new spices to try
+- 	talk about different fruits and veggies?
