@@ -229,6 +229,9 @@ Make comments on the group and course chats
 - 	 has anyone ever used anise seed? what does it taste like?
 - Lesson 5
 - 	i should trythose oils in my cooking
+- 	wait... coffee is an herb?
+- 	corn beans and squash, squash oil is the good part? so should we eat pumpkin seeds?
+- 	 i want to try pepitas, does anyone know where they are sold?
 - Scorecard group
 - 	talk about walks
 - 	food
@@ -242,3 +245,5 @@ Make comments on the group and course chats
 - 	share a recipe?
 - 	talk about new spices to try
 - 	talk about different fruits and veggies?
+- 	picture of mungbeans in a jar
+- 	picture of cooked seeds
