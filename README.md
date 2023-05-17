@@ -223,11 +223,12 @@ Make comments on the group and course chats
 - 	so... was the point of this lesson that we shoudl all have a sport hobby and an exercise hobby...
 - 	thats an interesting way to look at sports, art, and politics
 - Lesson 4
-- - 	 i like putting kale and celery in soup, its tasty that way
+- 	 i like putting kale and celery in soup, its tasty that way
 - 	 i think ill try sprounting mung beans, that sounds easy to do
 - 	 my favorite spice combo is paprika, garlic, onion, black pepper, celery seed, turmeric, and salt of course
 - 	 has anyone ever used anise seed? what does it taste like?
 - Lesson 5
+- 	i should trythose oils in my cooking
 - Scorecard group
 - 	talk about walks
 - 	food
