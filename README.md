@@ -253,3 +253,7 @@ Make comments on the group and course chats
 - 	picture of cooked seeds
 
 think of names for the commenters
+
+
+put this in the fourissimo group page:
+Once you understand the holistic four element pattern, you might have fun seeing it play out in the world around you - your field of study, or job, your family, life in general. Share your insights here!
