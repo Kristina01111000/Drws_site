@@ -211,49 +211,71 @@ In future:
 buy a chromebook for the trip
 Make comments on the group and course chats
 
-- Lesson 1
-- 	slump over when sitting
-- 	is that why going out into the sun makes me feel better?
-- 	that is a lot of groups of fours...
-- Lesson 2
-- 	has anyone tried the yoga move from this lesson?
-- 	yeah, i do it when my shoulders hurts from sitting too long at my desk, it helps loosen them up
-- 	will walking actually make our bones stronger? or was that a metaphorical stronger?
-- Lesson 3
-- 	so... was the point of this lesson that we shoudl all have a sport hobby and an exercise hobby...
-- 	thats an interesting way to look at sports, art, and politics
-- Lesson 4
-- 	 i like putting kale and celery in soup, its tasty that way
-- 	 i think ill try sprounting mung beans, that sounds easy to do
-- 	 my favorite spice combo is paprika, garlic, onion, black pepper, celery seed, turmeric, and salt of course
-- 	 has anyone ever used anise seed? what does it taste like?
-- Lesson 5
-- 	i should trythose oils in my cooking
-- 	wait... coffee is an herb?
-- 	corn beans and squash, squash oil is the good part? so should we eat pumpkin seeds?
-- 	 i want to try pepitas, does anyone know where they are sold?
-- 	 quinoa is really good, personally i don't like buckwheat
-- 	 is cooking with peanut oil good? i haven't done it
-- 	 is grass fed milk and beef more expensive?
-- Scorecard group
-- 	talk about walks
-- 	food
-- 	meditation
-- 	two others?
-- Great outdoors
-- 	walking
-- 	swimming
-- 	hiking
-- 	grilling? does that count under great outdoors?
-- Nutrition 
-- 	share a recipe?
-- 	talk about new spices to try
-- 	talk about different fruits and veggies?
-- 	picture of mungbeans in a jar
-- 	picture of cooked seeds
+Lesson 1 Intro
+
+- This video made me notice how much I slump when I sit. 😉
+- Is that why going out into the sun makes my mood better?
+- that is a lot of groups of fours, kinda fun, that's interesting
+- 
+Lesson 2 sturdier
+
+- Has anyone tried the yoga move from this lesson?
+- yeah, i do it when my shoulders hurts from sitting too long at my desk, it helps loosen them up
+- Will walking actually make our bones stronger? or was that a metaphorical stronger? Then a response from dr w
+- 
+Lesson 3 sports to beatles
+
+- so... was the point of this lesson that we should all have an art hobby and an exercise hobby? + comment from dr w
+- that's an interesting way to look at sports, art, and politics!
+- 
+Lesson 4 nutrition 1
+
+- i like putting kale and celery in soup, its tasty that way
+- i think i'll try sprouting mung beans, that sounds easy to do
+- my favorite spice combo is paprika, garlic, onion, black pepper, celery seed, turmeric, and salt of course
+- Has anyone ever used anise seed? What does it taste like?
+- 
+Lesson 5 nutrition 2
+
+- i should try those oils in my cooking
+- wait... coffee is an herb?
+- corn beans and squash, squash oil is the good part? So should we eat pumpkin seeds?
+- i want to try pepitas, does anyone know where they are sold?
+- quinoa is really good, personally i don't like buckwheat
+- Is peanut oil good for cooking with? i haven't done it
+- Is grass fed milk and beef more expensive? Answer: Yep, but not too much more, another dollar or two per pound
+- 
+Scorecard group https://growingholistically.com/groups/?scorecard-chat/
+
+- Something like i enjoyed having an excuse to walk today
+- The scorecard inspired me to _____ and _____
+- I found myself talking to someone at work in a deep way and it felt good sharing some thoughts and giving myself a point for relating to someone at work
+- Like somebody doing the scorecard and leaving little comments
+- 
+Great outdoors group
+
+- walking
+- swimming
+- Hiking
+- Something like a had a great time on my hike today, the weather was soo nice
+- I feel so much better after my walk today, and i did not anticipate that 
+- I hadn’t gone to this state park for a while and it was really nice
+- grilling? Does that count under the great outdoors? Sure
+- My parents can’t really go out of the house and we had a grill out, it wa so nice to hear the birds chirping as we did that
+- 
+Nutrition group
+
+- share a recipe? Not against the idea of outside recipes ie quinoa salad recipe
+- talk about new spices to try 
+- A friend of mine told me about using cumin in my humus, it makes it taste really good!
+- talk about different fruits and veggies?
+- picture of mung beans in a jar
+- Fourissimo club about applying the four elements to the lives and interests
+- Ever Since i started learning about the four elements i started looking at how they play in my family dynamics, like my brother has a lot of fire
+
 
 think of names for the commenters
 
 
-put this in the fourissimo group page:
+put this in the fourissimo group page, use growing holistically staff:
 Once you understand the holistic four element pattern, you might have fun seeing it play out in the world around you - your field of study, or job, your family, life in general. Share your insights here!
