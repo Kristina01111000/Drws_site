@@ -274,8 +274,9 @@ Nutrition group
 - Ever Since i started learning about the four elements i started looking at how they play in my family dynamics, like my brother has a lot of fire
 
 
-think of names for the commenters
+think of names for the commenters, so mine, mommys, maybe tom?
 
 
 put this in the fourissimo group page, use growing holistically staff:
+
 Once you understand the holistic four element pattern, you might have fun seeing it play out in the world around you - your field of study, or job, your family, life in general. Share your insights here!
