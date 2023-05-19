@@ -46,7 +46,7 @@ Hours worked February 2023: 6 hour 45 min -> recieved
 
 March: 6 hour 45 min -> recieved
 
-April: 7 hour 15 min
+April: 7 hour 15 min -> sent
 
 May: 4 hour 15 min 
 
@@ -257,6 +257,3 @@ think of names for the commenters
 
 put this in the fourissimo group page:
 Once you understand the holistic four element pattern, you might have fun seeing it play out in the world around you - your field of study, or job, your family, life in general. Share your insights here!
-
-
-send invoice for april
