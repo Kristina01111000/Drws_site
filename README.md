@@ -190,7 +190,6 @@ In future:
 - 	use krist acct, see if i can change the name
 - 	use w's account also, cna just have some comments responding to other comments
 - See if we can move people to a different campaign in constant contact, easily based on when they joined, like 2 weeks then move them to a different campaigns
-- Reconsider the groups, are they good, should we get rid of some, add some? added to to do list
 - Make a new account and see how it works, all the emails, before he hands out the list of emails
 - rethink the welcome email that gets sent when they sign up for the site, add links? can it be formatted?
 	- make comments on the lesson chats with it also
@@ -198,18 +197,13 @@ In future:
 - add titles of lessons to the course chats and come up with a converstion starter (two needed)
 - check on all of the course chats, does he still want them? or should we puch people towards the groups? ->> keeping both the course chats and the groups, put comments in both
 
-
-
-
 -Change the chat titles to share your thoughts on lesson __
 -Make a link to 4 element yoga on the sites wherever it is mentioned (just make it hot)
-- link the course-chat page somewhere more easily accessible
 - hide the lessons that don't have content yet
-- try to get 4 comments for each, three is minimum
-- copied the chats to the to do list to go over with him tomorrow, then put them on the site
 
 buy a chromebook for the trip
 Make comments on the group and course chats
+come up with more comments for lesson 1 and 2, not sure what they should be
 
 Lesson 1 Intro
 
