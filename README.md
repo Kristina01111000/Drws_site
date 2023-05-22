@@ -268,7 +268,7 @@ Nutrition group
 - Ever Since i started learning about the four elements i started looking at how they play in my family dynamics, like my brother has a lot of fire
 
 
-think of names for the commenters, so mine, mommys, maybe tom?
+think of names for the commenters, so mine, mommys, maybe tom and andrea?? should i make more than 4?
 
 
 put this in the fourissimo group page, use growing holistically staff:
