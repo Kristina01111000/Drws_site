@@ -254,6 +254,7 @@ Great outdoors group
 - Something like a had a great time on my hike today, the weather was soo nice
 - I feel so much better after my walk today, and i did not anticipate that 
 - I hadn’t gone to this state park for a while and it was really nice
+- the weather was so nice today, it made my time gardening better
 - grilling? Does that count under the great outdoors? Sure
 - My parents can’t really go out of the house and we had a grill out, it wa so nice to hear the birds chirping as we did that
 - 
