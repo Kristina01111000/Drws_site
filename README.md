@@ -236,7 +236,6 @@ Lesson 5 nutrition 2
 Scorecard group https://growingholistically.com/groups/?scorecard-chat/
 
 - The scorecard inspired me to _____ and _____
-- I found myself talking to someone at work in a deep way and it felt good sharing some thoughts and giving myself a point for relating to someone at work
 - Like somebody doing the scorecard and leaving little comments
 - 
 Great outdoors group
