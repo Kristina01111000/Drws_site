@@ -116,4 +116,7 @@ body .wp-block-columns .wp-block-column {
 .wc-tabs{
 	display: none !important;
 }	
-	
+// hides time stamps in the comment posts in groups
+.ps-js-autotime{
+	display: none;
+}
