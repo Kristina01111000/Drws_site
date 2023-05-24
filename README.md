@@ -247,16 +247,17 @@ Great outdoors group
 - I feel so much better after my walk today, and i did not anticipate that 
 - I hadn’t gone to this state park for a while and it was really nice
 - the weather was so nice today, it made my time gardening better
-- 
+
 Nutrition group
 
 - share a recipe? Not against the idea of outside recipes ie quinoa salad recipe
 - talk about new spices to try 
 - talk about different fruits and veggies?
 - picture of mung beans in a jar?
-- 
+
 Fourissimo club about applying the four elements to the lives and interests
 - maybe something about vitamins?
+- need more info about what he wants here
 
 - need to change the background color of the comments, it looks messy
 
