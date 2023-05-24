@@ -48,7 +48,7 @@ March: 6 hour 45 min -> recieved
 
 April: 7 hour 15 min -> sent
 
-May: 4 hour 45 min 
+May: 5 hour 0 min 
 
 plugins im using on site:
 
@@ -224,24 +224,17 @@ Lesson 3 sports to beatles
 - 
 Lesson 4 nutrition 1
 
-- i like putting kale and celery in soup, its tasty that way
-- i think i'll try sprouting mung beans, that sounds easy to do
-- my favorite spice combo is paprika, garlic, onion, black pepper, celery seed, turmeric, and salt of course
-- Has anyone ever used anise seed? What does it taste like?
+
+
 - 
 Lesson 5 nutrition 2
 
 - i should try those oils in my cooking
 - wait... coffee is an herb?
 - corn beans and squash, squash oil is the good part? So should we eat pumpkin seeds?
-- i want to try pepitas, does anyone know where they are sold?
-- quinoa is really good, personally i don't like buckwheat
-- Is peanut oil good for cooking with? i haven't done it
-- Is grass fed milk and beef more expensive? Answer: Yep, but not too much more, another dollar or two per pound
-- 
+ 
 Scorecard group https://growingholistically.com/groups/?scorecard-chat/
 
-- Something like i enjoyed having an excuse to walk today
 - The scorecard inspired me to _____ and _____
 - I found myself talking to someone at work in a deep way and it felt good sharing some thoughts and giving myself a point for relating to someone at work
 - Like somebody doing the scorecard and leaving little comments
@@ -265,8 +258,7 @@ Nutrition group
 Fourissimo club about applying the four elements to the lives and interests
 - maybe something about vitamins?
 
-think of names for the commenters, so mine, mommys, maybe tom and andrea?? should i make more than 4?
-- need to change the background color of the commetns, it looks messy
+- need to change the background color of the comments, it looks messy
 
 put this in the fourissimo group page, use growing holistically staff:
 
