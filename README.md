@@ -48,7 +48,7 @@ March: 6 hour 45 min -> recieved
 
 April: 7 hour 15 min -> sent
 
-May: 4 hour 20 min 
+May: 4 hour 40 min 
 
 plugins im using on site:
 
@@ -270,7 +270,7 @@ Nutrition group
 - maybe something about vitamins?
 
 think of names for the commenters, so mine, mommys, maybe tom and andrea?? should i make more than 4?
-
+- need to change the background color of the commetns, it looks messy
 
 put this in the fourissimo group page, use growing holistically staff:
 
