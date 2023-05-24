@@ -48,7 +48,7 @@ March: 6 hour 45 min -> recieved
 
 April: 7 hour 15 min -> sent
 
-May: 4 hour 40 min 
+May: 4 hour 45 min 
 
 plugins im using on site:
 
@@ -251,22 +251,18 @@ Great outdoors group
 - walking
 - swimming
 - Hiking
-- Something like a had a great time on my hike today, the weather was soo nice
 - I feel so much better after my walk today, and i did not anticipate that 
 - I hadn’t gone to this state park for a while and it was really nice
 - the weather was so nice today, it made my time gardening better
-- grilling? Does that count under the great outdoors? Sure
-- My parents can’t really go out of the house and we had a grill out, it wa so nice to hear the birds chirping as we did that
 - 
 Nutrition group
 
 - share a recipe? Not against the idea of outside recipes ie quinoa salad recipe
 - talk about new spices to try 
-- A friend of mine told me about using cumin in my humus, it makes it taste really good!
 - talk about different fruits and veggies?
 - picture of mung beans in a jar?
-- Fourissimo club about applying the four elements to the lives and interests
-- Ever Since i started learning about the four elements i started looking at how they play in my family dynamics, like my brother has a lot of fire
+- 
+Fourissimo club about applying the four elements to the lives and interests
 - maybe something about vitamins?
 
 think of names for the commenters, so mine, mommys, maybe tom and andrea?? should i make more than 4?
