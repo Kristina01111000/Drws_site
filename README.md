@@ -207,26 +207,14 @@ come up with more comments for lesson 1 and 2, not sure what they should be
 
 Lesson 1 Intro
 
-- This video made me notice how much I slump when I sit. 😉
-- Is that why going out into the sun makes my mood better?
-- that is a lot of groups of fours, kinda fun, that's interesting
-- 
 Lesson 2 sturdier
 
-- Has anyone tried the yoga move from this lesson?
-- yeah, i do it when my shoulders hurts from sitting too long at my desk, it helps loosen them up
 - Will walking actually make our bones stronger? or was that a metaphorical stronger? Then a response from dr w
-- 
+
 Lesson 3 sports to beatles
 
-- so... was the point of this lesson that we should all have an art hobby and an exercise hobby? + comment from dr w
-- that's an interesting way to look at sports, art, and politics!
-- 
 Lesson 4 nutrition 1
 
-
-
-- 
 Lesson 5 nutrition 2
 
 - i should try those oils in my cooking
