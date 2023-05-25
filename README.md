@@ -186,31 +186,15 @@ In future:
 
 
 5/4
-- Add some comments in every group so they have people to talk to / do't feel wierd as the first commenter
-- 	use krist acct, see if i can change the name
-- 	use w's account also, cna just have some comments responding to other comments
+
 - See if we can move people to a different campaign in constant contact, easily based on when they joined, like 2 weeks then move them to a different campaigns
 - Make a new account and see how it works, all the emails, before he hands out the list of emails
-- rethink the welcome email that gets sent when they sign up for the site, add links? can it be formatted?
-	- make comments on the lesson chats with it also
-	- try to get 3 users to do the comments so its not just one
 - add titles of lessons to the course chats and come up with a converstion starter (two needed)
-- check on all of the course chats, does he still want them? or should we puch people towards the groups? ->> keeping both the course chats and the groups, put comments in both
-
 -Change the chat titles to share your thoughts on lesson __
 -Make a link to 4 element yoga on the sites wherever it is mentioned (just make it hot)
 - hide the lessons that don't have content yet
 
 buy a chromebook for the trip
-
-
-Lesson 1 Intro
-
-Lesson 2 sturdier
-
-- Will walking actually make our bones stronger? or was that a metaphorical stronger? Then a response from dr w
-
-
 
 Lesson 5 nutrition 2
 
@@ -228,7 +212,6 @@ Great outdoors group
 - walking
 - swimming
 - Hiking
-- I feel so much better after my walk today, and i did not anticipate that 
 - the weather was so nice today, it made my time gardening better
 
 Nutrition group
