@@ -202,8 +202,7 @@ In future:
 - hide the lessons that don't have content yet
 
 buy a chromebook for the trip
-Make comments on the group and course chats
-come up with more comments for lesson 1 and 2, not sure what they should be
+
 
 Lesson 1 Intro
 
@@ -211,9 +210,7 @@ Lesson 2 sturdier
 
 - Will walking actually make our bones stronger? or was that a metaphorical stronger? Then a response from dr w
 
-Lesson 3 sports to beatles
 
-Lesson 4 nutrition 1
 
 Lesson 5 nutrition 2
 
@@ -232,7 +229,6 @@ Great outdoors group
 - swimming
 - Hiking
 - I feel so much better after my walk today, and i did not anticipate that 
-- I hadn’t gone to this state park for a while and it was really nice
 - the weather was so nice today, it made my time gardening better
 
 Nutrition group
