@@ -48,7 +48,7 @@ March: 6 hour 45 min -> recieved
 
 April: 7 hour 15 min -> sent
 
-May: 5 hour 0 min 
+May: 6 hour 0 min 
 
 plugins im using on site:
 
