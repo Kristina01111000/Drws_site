@@ -48,7 +48,7 @@ March: 6 hour 45 min -> recieved
 
 April: 7 hour 15 min -> sent
 
-May: 6 hour 0 min 
+May: 6 hour 5 min 
 
 plugins im using on site:
 
@@ -191,7 +191,7 @@ In future:
 - Make a new account and see how it works, all the emails, before he hands out the list of emails
 - add titles of lessons to the course chats and come up with a converstion starter (two needed)
 -Change the chat titles to share your thoughts on lesson __
--Make a link to 4 element yoga on the sites wherever it is mentioned (just make it hot)
+-Make a link to 4 element yoga on the sites wherever it is mentioned (just make it hot) did bodyawareness, anywhere else?
 - hide the lessons that don't have content yet
 
 buy a chromebook for the trip
