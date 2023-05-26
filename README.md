@@ -220,3 +220,6 @@ Nutrition group
 - talk about new spices to try 
 - talk about different fruits and veggies?
 - picture of mung beans in a jar?
+
+
+- tell him about missing meeting for california trip
