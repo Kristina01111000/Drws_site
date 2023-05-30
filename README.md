@@ -48,7 +48,7 @@ March: 6 hour 45 min -> recieved
 
 April: 7 hour 15 min -> sent
 
-May: 6 hour 5 min 
+May: 6 hour 10 min 
 
 plugins im using on site:
 
@@ -220,8 +220,4 @@ Nutrition group
 - talk about new spices to try 
 - talk about different fruits and veggies?
 - picture of mung beans in a jar?
-
-
-- tell him about missing meeting for california trip
-- move thursday meeting back to 1 if possible,
 - check on the grey background 
