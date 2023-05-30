@@ -218,3 +218,7 @@ Nutrition group
 - talk about different fruits and veggies?
 - picture of mung beans in a jar?
 - check on the grey background 
+
+- Look and see if the first email text color  can be  changed to green
+- Think about background of base color for the widgets grey now
+- Get different avatars for the groups, or remove it if possible -> can't remove, maybe in css? will it take away avatars for users?
