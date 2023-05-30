@@ -223,3 +223,5 @@ Nutrition group
 
 
 - tell him about missing meeting for california trip
+- move thursday meeting back to 1 if possible,
+- check on the grey background 
