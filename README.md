@@ -48,7 +48,7 @@ March: 6 hour 45 min -> recieved
 
 April: 7 hour 15 min -> sent
 
-May: 6 hour 10 min 
+May: 6 hour 15 min 
 
 plugins im using on site:
 
@@ -221,4 +221,3 @@ Nutrition group
 
 - Look and see if the first email text color  can be  changed to green
 - Think about background of base color for the widgets grey now
-- Get different avatars for the groups, or remove it if possible -> can't remove, maybe in css? will it take away avatars for users?
