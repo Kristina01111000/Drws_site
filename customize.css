@@ -120,3 +120,8 @@ body .wp-block-columns .wp-block-column {
 .ps-js-autotime{
 	display: none;
 }
+
+// hides avatar on th groups page, but not in individual gropus
+.ps-avatar--group{
+	display: none;
+}
