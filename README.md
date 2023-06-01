@@ -50,6 +50,8 @@ April: 7 hour 15 min -> sent
 
 May: 6 hour 15 min 
 
+June: 45 min
+
 plugins im using on site:
 
 - peepso -> auto updates still not working, caused by something in the backend? still not working the way they should
@@ -221,3 +223,9 @@ Nutrition group
 
 - Look and see if the first email text color  can be  changed to green
 - Think about background of base color for the widgets grey now
+
+
+Nutrition: mother and child
+Scorecard:  big green check mark
+Outdoors: flower/ leaf/ tree? Or something else
+
