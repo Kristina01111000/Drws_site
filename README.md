@@ -224,7 +224,7 @@ Nutrition group
 - Look and see if the first email text color  can be  changed to green
 - Think about background of base color for the widgets grey now
 
-
+Group Avatars:
 Nutrition: mother and child
 Scorecard:  big green check mark
 Outdoors: flower/ leaf/ tree? Or something else
