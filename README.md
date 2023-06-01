@@ -224,7 +224,7 @@ Nutrition group
 - Look and see if the first email text color  can be  changed to green
 
 Group Avatars:
-Nutrition: mother and child
-Scorecard:  big green check mark
-Outdoors: flower/ leaf/ tree? Or something else
+Nutrition: mother and child from bigstock
+Scorecard:  big green check mark -> make it on paint?
+Outdoors: flower/ leaf/ tree? Or something else that goes with the beach image, or change beac himage?
 
