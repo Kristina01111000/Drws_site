@@ -164,7 +164,6 @@ TO do:
 
 Plan is to include 30 day challenge on the first 4 news letters, then not on the others, b/c everyone who signs up for the first 30 days will definitely be doing it/ not be done with it
 
-emails done: current patients and first 4
 Send newsletters on monday at 10 am
 
 For email google doc:
@@ -172,9 +171,6 @@ For email google doc:
 - list of tips
 - list of videos
 - check them off when they are used so we don't have repeats
-
-
-
 
 
 
@@ -187,10 +183,8 @@ In future:
 5/4
 
 - See if we can move people to a different campaign in constant contact, easily based on when they joined, like 2 weeks then move them to a different campaigns
-- Make a new account and see how it works, all the emails, before he hands out the list of emails
 - add titles of lessons to the course chats and come up with a converstion starter (two needed)
 -Change the chat titles to share your thoughts on lesson __
--Make a link to 4 element yoga on the sites wherever it is mentioned (just make it hot) did bodyawareness, anywhere else?
 - hide the lessons that don't have content yet
 
 buy a chromebook for the trip
