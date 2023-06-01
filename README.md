@@ -222,7 +222,6 @@ Nutrition group
 - check on the grey background 
 
 - Look and see if the first email text color  can be  changed to green
-- Think about background of base color for the widgets grey now
 
 Group Avatars:
 Nutrition: mother and child
