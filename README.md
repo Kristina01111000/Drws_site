@@ -46,7 +46,7 @@ Hours worked February 2023: 6 hour 45 min -> recieved
 
 March: 6 hour 45 min -> recieved
 
-April: 7 hour 15 min -> sent
+April: 7 hour 15 min -> recieved
 
 May: 6 hour 15 min 
 
