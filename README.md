@@ -212,10 +212,10 @@ Great outdoors group
 Nutrition group
 
 - share a recipe? Not against the idea of outside recipes ie quinoa salad recipe
+- check on the recipes on 4elifestyle
 - talk about new spices to try 
 - talk about different fruits and veggies?
 - picture of mung beans in a jar?
-- check on the grey background 
 
 - Look and see if the first email text color  can be  changed to green -> can't be edited like that
 
