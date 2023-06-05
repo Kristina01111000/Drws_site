@@ -50,7 +50,7 @@ April: 7 hour 15 min -> recieved
 
 May: 6 hour 15 min 
 
-June: 45 min
+June: 55 min
 
 plugins im using on site:
 
@@ -207,7 +207,7 @@ Great outdoors group
 - Hiking
 - the weather was so nice today, it made my time gardening better
 - something about ideas for what to do outside other than swimming when it it really hot
-- then an answer can be go for walks in the early morning, or after sunset when it is cooled, go for hikes in shaded areas
+- then an answer can be go for walks/ bike rides in the early morning, or after sunset when it is cooled, go for hikes in shaded areas
 
 Nutrition group
 
