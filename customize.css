@@ -121,7 +121,7 @@ body .wp-block-columns .wp-block-column {
 	display: none;
 }
 
-// hides avatar on th groups page, but not in individual gropus
+// hides avatar on th groups page, but not in individual gropus, the avatar on the groupd pages cant be hidden because they have the same class name as the user avatars
 .ps-avatar--group{
 	display: none;
 }
