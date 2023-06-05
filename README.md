@@ -215,7 +215,7 @@ Nutrition group
 - picture of mung beans in a jar?
 - check on the grey background 
 
-- Look and see if the first email text color  can be  changed to green
+- Look and see if the first email text color  can be  changed to green -> can't be edited like that
 
 Group Avatars: should i put them back on the groups page?
 
