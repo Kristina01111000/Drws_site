@@ -206,6 +206,7 @@ Great outdoors group
 - swimming
 - Hiking
 - the weather was so nice today, it made my time gardening better
+- something about ideas for what to do outside other than swimming when it it really hot
 
 Nutrition group
 
