@@ -226,3 +226,4 @@ Group Avatars: should i put them back on the groups page?
 	Scorecard:  big green check mark -> make it on paint?
 	Outdoors: flower/ leaf/ tree? Or something else that goes with the beach image, or change beac himage?
 
+- make some coomments in the youtube banner, night be too bust
