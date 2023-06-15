@@ -50,7 +50,7 @@ April: 7 hour 15 min -> recieved
 
 May: 6 hour 15 min 
 
-June: 55 min
+June: 1 hour 10 min
 
 plugins im using on site:
 
@@ -222,8 +222,5 @@ Nutrition group
 
 Group Avatars: should i put them back on the groups page?
 
-	Nutrition: mother and child from bigstock
-	Scorecard:  big green check mark -> make it on paint? make sure it matches the ggreen of the website
-	Outdoors: flower/ leaf/ tree? Or something else that goes with the beach image, or change beac himage?
 
-- make some coomments in the youtube banner, night be too bust
+- make some coomments in the youtube banner, night be too busy
