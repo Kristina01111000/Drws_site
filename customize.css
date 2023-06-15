@@ -124,6 +124,7 @@ body .wp-block-columns .wp-block-column {
 // hides avatar on th groups page, but not in individual groups
 //the avatar on the groupd pages cant be hidden because they have the same class name as the user avatars
 // if he really wants it hidden, i might be able to hide it on th specific page in additional css
+// removed this from the site, the avatars are back
 .ps-avatar--group{
 	display: none;
 }
