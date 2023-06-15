@@ -220,7 +220,4 @@ Nutrition group
 
 - Look and see if the first email text color  can be  changed to green -> can't be edited like that
 
-Group Avatars: should i put them back on the groups page?
 
-
-- make some coomments in the youtube banner, night be too busy
