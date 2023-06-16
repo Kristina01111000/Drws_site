@@ -221,3 +221,4 @@ Nutrition group
 - Look and see if the first email text color  can be  changed to green -> can't be edited like that
 - go over the email chainissue, try to figure out an easier way of doing it
 - think about the picture for great outdoors group, it doesn't fit with the father/son gardening picture, which we both link, so what should we do?
+- think about idesas for the youtube banner
