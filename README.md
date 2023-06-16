@@ -222,3 +222,4 @@ Nutrition group
 - go over the email chainissue, try to figure out an easier way of doing it
 - think about the picture for great outdoors group, it doesn't fit with the father/son gardening picture, which we both link, so what should we do?
 - think about idesas for the youtube banner
+- try adding some space for the load on mobile, the youtube video loading on the page makes it quite slow
