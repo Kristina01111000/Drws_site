@@ -223,3 +223,4 @@ Nutrition group
 - think about the picture for great outdoors group, it doesn't fit with the father/son gardening picture, which we both link, so what should we do?
 - think about idesas for the youtube banner
 - try adding some space for the load on mobile, the youtube video loading on the page makes it quite slow, also for desktop, but not as urgent there
+- add more text to home page? or add more spaces? both? ask dr w
