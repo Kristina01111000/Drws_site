@@ -219,5 +219,5 @@ Nutrition group
 - picture of mung beans in a jar?
 
 - Look and see if the first email text color  can be  changed to green -> can't be edited like that
-
+- go over the email chainissue, try to figure out an easier way of doing it
 
