@@ -224,3 +224,4 @@ Nutrition group
 - think about idesas for the youtube banner
 - try adding some space for the load on mobile, the youtube video loading on the page makes it quite slow, also for desktop, but not as urgent there
 - add more text to home page? or add more spaces? both? ask dr w
+- send may invoice
