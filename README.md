@@ -211,6 +211,7 @@ Great outdoors group
 - maybe add something about the air quality due t the fires in quebec?
 - talk about the bad weather from the quebec fires?
 - maybe something about the bad air quality from it?
+- ideas for outside activities when the weather is bad, like cold and damp
 
 Nutrition group
 
