@@ -50,7 +50,7 @@ April: 7 hour 15 min -> recieved
 
 May: 6 hour 15 min 
 
-June: 2 hour 35 min
+June: 2 hour 40 min
 
 plugins im using on site:
 
@@ -209,6 +209,8 @@ Great outdoors group
 - something about ideas for what to do outside other than swimming when it it really hot
 - then an answer can be go for walks/ bike rides in the early morning, or after sunset when it is cooled, go for hikes in shaded areas
 - maybe add something about the air quality due t the fires in quebec?
+- talk about the bad weather from the quebec fires?
+- maybe something about the bad air quality from it?
 
 Nutrition group
 
