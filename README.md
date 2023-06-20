@@ -218,7 +218,7 @@ Nutrition group
 - check on the recipes on 4elifestyle in july, is it too coon to check them now?
 - talk about new spices to try, the ones from the lesson
 - talk about different fruits and veggies?
-- picture of mung beans in a jar?
+- picture of mung beans in a jar? start a few of those in a jar soon, and take multiple pictues, like 1 every day
 
 - Look and see if the first email text color  can be  changed to green -> can't be edited like that
 - go over the email chainissue, try to figure out an easier way of doing it
