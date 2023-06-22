@@ -50,7 +50,7 @@ April: 7 hour 15 min -> recieved
 
 May: 6 hour 15 min 
 
-June: 2 hour 55 min
+June: 3 hour 45 min
 
 plugins im using on site:
 
@@ -227,3 +227,6 @@ Nutrition group
 - try adding some space for the load on mobile, the youtube video loading on the page makes it quite slow, also for desktop, but not as urgent there
 - add more text to home page? or add more spaces? both? ask dr w
 - send may invoice
+- 
+
+- figure out the size of his book to make it fit iinto constant contact email
