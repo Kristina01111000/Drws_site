@@ -50,7 +50,7 @@ April: 7 hour 15 min -> recieved
 
 May: 6 hour 15 min 
 
-June: 2 hour 40 min
+June: 2 hour 55 min
 
 plugins im using on site:
 
@@ -182,7 +182,6 @@ In future:
 
 5/4
 
-- See if we can move people to a different campaign in constant contact, easily based on when they joined, like 2 weeks then move them to a different campaigns
 - add titles of lessons to the course chats and come up with a converstion starter (two needed)
 -Change the chat titles to share your thoughts on lesson __
 - hide the lessons that don't have content yet
