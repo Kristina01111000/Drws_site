@@ -215,8 +215,6 @@ Great outdoors group
 Nutrition group
 
 - share a recipe? Not against the idea of outside recipes ie quinoa salad recipe
-- check on the recipes on 4elifestyle in july, is it too coon to check them now?
-- talk about new spices to try, the ones from the lesson
 - talk about different fruits and veggies?
 - picture of mung beans in a jar? start a few of those in a jar soon, and take multiple pictues, like 1 every day
 
