@@ -230,3 +230,4 @@ Nutrition group
 - 
 
 - figure out the size of his book to make it fit iinto constant contact email
+- get the contacts from the site to go to the correct list in cc
