@@ -227,5 +227,5 @@ Nutrition group
 - send may invoice
 - 
 
-- figure out the size of his book to make it fit iinto constant contact email
+- figure out the size of his book to make it fit iinto constant contact email, right now just too big, he shrank it
 - get the contacts from the site to go to the correct list in cc
