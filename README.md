@@ -50,7 +50,7 @@ April: 7 hour 15 min -> recieved
 
 May: 6 hour 15 min 
 
-June: 3 hour 45 min
+June: 3 hour 50 min
 
 plugins im using on site:
 
@@ -172,8 +172,6 @@ For email google doc:
 - list of videos
 - check them off when they are used so we don't have repeats
 
-
-
 In future:
 
 - Send emails at 10 am on monday for newsletter
@@ -185,8 +183,6 @@ In future:
 - add titles of lessons to the course chats and come up with a converstion starter (two needed)
 -Change the chat titles to share your thoughts on lesson __
 - hide the lessons that don't have content yet
-
-buy a chromebook for the trip
 
 Lesson 5 nutrition 2
 
