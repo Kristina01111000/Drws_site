@@ -221,13 +221,12 @@ Nutrition group
 - Look and see if the first email text color  can be  changed to green -> can't be edited like that
 - go over the email chainissue, try to figure out an easier way of doing it
 - think about the picture for great outdoors group, it doesn't fit with the father/son gardening picture, which we both link, so what should we do? the other pictures are good, just the ocean picture needs to be changed
-- think about idesas for the youtube banner
 - try adding some space for the load on mobile, the youtube video loading on the page makes it quite slow, also for desktop, but not as urgent there
 - add more text to home page? or add more spaces? both? ask dr w
-- send may invoice
-- 
+ 
 
 - figure out the size of his book to make it fit iinto constant contact email, right now just too big, he shrank it
 - get the contacts from the site to go to the correct list in cc
 - tell him that im going to send the invoice for both may and june at the same time
 - talk about the speed of the site on mobile, it should be faster, need to move the youtube video down a little bit
+- forget about the recipes mentioned in the video, its not important right now
