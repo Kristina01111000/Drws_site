@@ -216,7 +216,7 @@ Nutrition group
 
 - Look and see if the first email text color  can be  changed to green -> can't be edited like that
 - go over the email chainissue, try to figure out an easier way of doing it
-- think about the picture for great outdoors group, it doesn't fit with the father/son gardening picture, which we both link, so what should we do? the other pictures are good, just the ocean picture needs to be changed
+
 - try adding some space for the load on mobile, the youtube video loading on the page makes it quite slow, also for desktop, but not as urgent there
 - add more text to home page? or add more spaces? both? ask dr w
  
