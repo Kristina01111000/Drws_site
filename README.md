@@ -221,7 +221,7 @@ Nutrition group
 - add more text to home page? or add more spaces? both? ask dr w
  
 
-- figure out the size of his book to make it fit iinto constant contact email, right now just too big, he shrank it
+- figure out the size of his book to make it fit iinto constant contact email, right now just too big, he shrank it, removing the cover seems to be the only way to get it down to size
 - get the contacts from the site to go to the correct list in cc
 - tell him that im going to send the invoice for both may and june at the same time
 - talk about the speed of the site on mobile, it should be faster, need to move the youtube video down a little bit
