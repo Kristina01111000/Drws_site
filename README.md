@@ -104,8 +104,7 @@ Notes:
 	- yearly 
 	
 	
-	link: https://docs.google.com/spreadsheets/d/1IxK22ihszAVXQgxLD9di-MhoP3kERT8SlfXiGddOmhc/edit
-	- Monthly topics will be articles now, not a class
+	- Monthly topics are articles now
 	- page redirect completely turned off
 	- four corners page is a draft now
 
