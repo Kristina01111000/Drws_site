@@ -50,7 +50,7 @@ April: 7 hour 15 min -> recieved
 
 May: 6 hour 15 min 
 
-June: 3 hour 50 min
+June: 4 hour 20 min
 
 plugins im using on site:
 
@@ -226,3 +226,5 @@ Nutrition group
 - talk about the speed of the site on mobile, it should be faster, need to move the youtube video down a little bit
 - forget about the recipes mentioned in the video, its not important right now
 - go over the emails, does he have the names yet?
+- Try to decrease the cover image resolution and make it smaller, then splice it back onto the other pdf for the book
+- Add spacing on cell phone view only, so that it loads faster
