@@ -226,3 +226,4 @@ Nutrition group
 - tell him that im going to send the invoice for both may and june at the same time
 - talk about the speed of the site on mobile, it should be faster, need to move the youtube video down a little bit
 - forget about the recipes mentioned in the video, its not important right now
+- go over the emails, does he have the names yet?
