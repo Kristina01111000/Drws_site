@@ -228,3 +228,6 @@ Nutrition group
 - go over the emails, does he have the names yet?
 - Try to decrease the cover image resolution and make it smaller, then splice it back onto the other pdf for the book
 - Add spacing on cell phone view only, so that it loads faster
+
+
+- updated dr w to situation
