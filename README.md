@@ -52,6 +52,8 @@ May: 6 hour 15 min
 
 June: 4 hour 20 min
 
+July: 15 min
+
 plugins im using on site:
 
 - peepso -> auto updates still not working, caused by something in the backend? still not working the way they should
@@ -214,20 +216,16 @@ Nutrition group
 - picture of mung beans in a jar? start a few of those in a jar soon, and take multiple pictues, like 1 every day
 
 - Look and see if the first email text color  can be  changed to green -> can't be edited like that
-- go over the email chainissue, try to figure out an easier way of doing it
-
-- try adding some space for the load on mobile, the youtube video loading on the page makes it quite slow, also for desktop, but not as urgent there
-- add more text to home page? or add more spaces? both? ask dr w
+- go over the email chain issue, try to figure out an easier way of doing it
  
 
 - figure out the size of his book to make it fit iinto constant contact email, right now just too big, he shrank it, removing the cover seems to be the only way to get it down to size
 - get the contacts from the site to go to the correct list in cc
 - tell him that im going to send the invoice for both may and june at the same time
-- talk about the speed of the site on mobile, it should be faster, need to move the youtube video down a little bit
 - forget about the recipes mentioned in the video, its not important right now
 - go over the emails, does he have the names yet?
 - Try to decrease the cover image resolution and make it smaller, then splice it back onto the other pdf for the book
-- Add spacing on cell phone view only, so that it loads faster
+
 
 
 - updated dr w to situation
