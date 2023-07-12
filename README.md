@@ -233,3 +233,4 @@ Nutrition group
 - updated dr w to situation
 - meeting at noon tomorrow
 - needed lots of updates for the site
+- the added spacing fixed the speed of the load on the cell view
