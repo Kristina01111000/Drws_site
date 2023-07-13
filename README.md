@@ -52,7 +52,7 @@ May: 6 hour 15 min
 
 June: 4 hour 20 min
 
-July: 15 min
+July: 35 min
 
 plugins im using on site:
 
