@@ -138,13 +138,10 @@ https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROX
 	- Quizzes than need 10 questions: # 2, # 3, # 4, # 5,
 	- Quizzes than need a lesson to be dropped first: # 6, and up 
 
-- Ccholistic1! For constant contact hwalsdorf
-
 - google doc for emails:https://docs.google.com/document/d/1Nc_WVsgZKdhpWaHZyDn81rw4y02Dlj2wB-O-q9ZnJXs/edit?usp=sharing
 
 to do now:
 
-- Make chats for other people that sound good, 2 to 3 people
 - Write a review in fourissimo club for the heel strike fixing plantar fasciitis
 - Fix the title of the download pdf on fourissimo page
 - Look into file upload plugin for fourissimo page -> new plugin from peepso
@@ -195,7 +192,7 @@ Scorecard group https://growingholistically.com/groups/?scorecard-chat/
 
 - The scorecard inspired me to _____ and _____
 - Like somebody doing the scorecard and leaving little comments
-- 
+
 Great outdoors group
 
 - walking
