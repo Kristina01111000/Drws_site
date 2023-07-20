@@ -52,7 +52,7 @@ May: 6 hour 15 min -> sent
 
 June: 4 hour 15 min -> sent
 
-July: 45 min
+July: 50 min
 
 plugins im using on site:
 
