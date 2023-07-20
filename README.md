@@ -219,3 +219,4 @@ Nutrition group
 - Skeinific is definitely a person, make sure she is confirmed
 - 
 - The email addresses added on the site aren’t being added to the constant contact list, I know there is an issue with constant contact that has messed with the connection between the site and the account
+- fixing the constant contact problem might be easier if paid memberships pro is removed, try it, see if it makes a difference
