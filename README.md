@@ -52,7 +52,7 @@ May: 6 hour 15 min -> sent
 
 June: 4 hour 15 min -> sent
 
-July: 50 min
+July: 1 hour 15 min
 
 plugins im using on site:
 
@@ -222,4 +222,3 @@ Nutrition group
 - fixing the constant contact problem might be easier if paid memberships pro is removed, try it, see if it makes a difference
 
 - get into facebook
-- manually update the other sites
