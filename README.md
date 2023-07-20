@@ -48,9 +48,9 @@ March: 6 hour 45 min -> recieved
 
 April: 7 hour 15 min -> recieved
 
-May: 6 hour 15 min 
+May: 6 hour 15 min -> sent
 
-June: 4 hour 15 min
+June: 4 hour 15 min -> sent
 
 July: 45 min
 
@@ -209,7 +209,6 @@ Great outdoors group
 Nutrition group
 
 - share a recipe? Not against the idea of outside recipes ie quinoa salad recipe
-- talk about different fruits and veggies?
 - picture of mung beans in a jar? start a few of those in a jar soon, and take multiple pictues, like 1 every day
 
 - Look and see if the first email text color  can be  changed to green -> can't be edited like that
