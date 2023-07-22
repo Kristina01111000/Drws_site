@@ -209,9 +209,7 @@ Nutrition group
 - share a recipe? Not against the idea of outside recipes ie quinoa salad recipe
 - picture of mung beans in a jar? start a few of those in a jar soon, and take multiple pictues, like 1 every day
 
-- Look and see if the first email text color  can be  changed to green -> can't be edited like that
 - get the contacts from the site to go to the correct list in cc
-- tell him that im going to send the invoice for both may and june at the same time
 - forget about the recipes mentioned in the video, its not important right now
 - 
 - Try to get into facebook account for gh group
