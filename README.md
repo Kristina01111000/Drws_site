@@ -215,5 +215,5 @@ Nutrition group
 - 
 - The email addresses added on the site aren’t being added to the constant contact list, I know there is an issue with constant contact that has messed with the connection between the site and the account -> wait until next week to start doing that
 - fixing the constant contact problem might be easier if paid memberships pro is removed, try it, see if it makes a difference
-
+- hceck the trouble shooting for cc
 - get into facebook
