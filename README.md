@@ -166,7 +166,6 @@ For email google doc:
 - list of quotes
 - list of tips
 - list of videos
-- check them off when they are used so we don't have repeats
 
 In future:
 
