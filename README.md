@@ -216,3 +216,5 @@ Nutrition group
 - fixing the constant contact problem might be easier if paid memberships pro is removed, try it, see if it makes a difference
 - hceck the trouble shooting for cc
 - get into facebook
+
+- think about patreon tiers gifts
