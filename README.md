@@ -217,4 +217,4 @@ Nutrition group
 - hceck the trouble shooting for cc
 - get into facebook
 
-- think about patreon tiers gifts
+- think about patreon tiers gifts, book copy, live chats, questions for dr w, early access to videos
