@@ -205,11 +205,9 @@ Nutrition group
 - share a recipe? Not against the idea of outside recipes ie quinoa salad recipe
 - picture of mung beans in a jar? start a few of those in a jar soon, and take multiple pictues, like 1 every day
 
-- get the contacts from the site to go to the correct list in cc
 - forget about the recipes mentioned in the video, its not important right now
 - 
 - Try to get into facebook account for gh group
-- Why do people who sign up not go to constant contact email list?
 - Skeinific is definitely a person, make sure she is confirmed
 - 
 - The email addresses added on the site aren’t being added to the constant contact list, I know there is an issue with constant contact that has messed with the connection between the site and the account -> wait until next week to start doing that
