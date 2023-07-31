@@ -214,5 +214,5 @@ Nutrition group
 - fixing the constant contact problem might be easier if paid memberships pro is removed, try it, see if it makes a difference
 - hceck the trouble shooting for cc
 - get into facebook
-
+- figure out constant contact email issue
 - think about patreon tiers gifts, book copy, live chats, questions for dr w, early access to videos
