@@ -216,3 +216,4 @@ Nutrition group
 - get into facebook
 - figure out constant contact email issue
 - think about patreon tiers gifts, book copy, live chats, questions for dr w, early access to videos
+- tell him that im not sending an invoice this month b/c 2 hours
