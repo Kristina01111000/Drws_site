@@ -203,7 +203,6 @@ Great outdoors group
 Nutrition group
 
 - share a recipe? Not against the idea of outside recipes ie quinoa salad recipe
-- picture of mung beans in a jar? start a few of those in a jar soon, and take multiple pictues, like 1 every day
 
 - forget about the recipes mentioned in the video, its not important right now
 - 
