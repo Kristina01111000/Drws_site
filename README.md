@@ -213,3 +213,9 @@ Nutrition group
 - figure out constant contact email issue
 - think about patreon tiers gifts, book copy, live chats, questions for dr w, early access to videos
 - tell him that im not sending an invoice this month b/c 2 hours
+
+
+Free tier: book copy, 
+Lowest tier: access to old live chats, early access to videos
+Middle tier: access to live chats, ability to ask a question to dr w, 
+Higher tier: one on one zoom meeting?
