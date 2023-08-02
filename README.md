@@ -54,6 +54,8 @@ June: 4 hour 15 min -> recieved
 
 July: 2 hour 0 min
 
+aUGUST: 5 min
+
 plugins im using on site:
 
 - peepso -> auto updates still not working, caused by something in the backend? still not working the way they should
