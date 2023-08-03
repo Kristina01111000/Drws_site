@@ -221,3 +221,12 @@ Free tier: book copy,
 Lowest tier: access to old live chats, early access to videos
 Middle tier: access to live chats, ability to ask a question to dr w, 
 Higher tier: one on one zoom meeting?
+
+
+Adds stuff about patreon to the site
+Think about tie them together better
+How does facebook, twitter, youtube, instagram, tiktok, the site, patreon connect to each other
+Keep the community and the first learning program free then say for more support us on patreon
+Add a patreon widget with a link
+He is thinking of giving current patients a free appointment if they join the patreon
+Think about patreon tagline be the best vs recalibrate
