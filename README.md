@@ -212,7 +212,7 @@ Nutrition group
 - fixing the constant contact problem might be easier if paid memberships pro is removed, try it, see if it makes a difference
 - hceck the trouble shooting for cc
 - get into facebook
-- figure out constant contact email issue
+- figure out constant contact email issue -> disconnected then reconnected, stil not right, need to contact support
 - think about patreon tiers gifts, book copy, live chats, questions for dr w, early access to videos
 - tell him that im not sending an invoice this month b/c 2 hours
 
