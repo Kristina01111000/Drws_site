@@ -224,6 +224,3 @@ He is thinking of giving current patients a free appointment if they join the pa
 Think about patreon tagline be the best vs recalibrate
 
 
-text for widget:
-"Support us on patroen
-access to the site is free, if you would like to learn more join us on patreon for more videos, live chats, and articles"
