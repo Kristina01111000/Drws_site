@@ -221,5 +221,5 @@ How does facebook, twitter, youtube, instagram, tiktok, the site, patreon connec
 does not want discord
 Keep the community and the first learning program free then say for more support us on patreon
 He is thinking of giving current patients a free appointment if they join the patreon, figure out how to word that in a good way -> he will figure that out
-
+change the text in the widget about patreon, also add patroen mentions around the site
 
