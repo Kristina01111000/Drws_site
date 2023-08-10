@@ -218,7 +218,8 @@ Nutrition group
 
 Think about tie them together better -> everything should push towards the site and patreon
 How does facebook, twitter, youtube, instagram, tiktok, the site, patreon connect to each other
+does not want discord
 Keep the community and the first learning program free then say for more support us on patreon
-He is thinking of giving current patients a free appointment if they join the patreon, figure out how to word that in a good way
+He is thinking of giving current patients a free appointment if they join the patreon, figure out how to word that in a good way -> he will figure that out
 
 
