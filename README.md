@@ -222,4 +222,4 @@ Keep the community and the first learning program free then say for more support
 He is thinking of giving current patients a free appointment if they join the patreon, figure out how to word that in a good way
 Think about patreon tagline be the best vs recalibrate
 
-
+- informed him about builders
