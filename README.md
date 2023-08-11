@@ -223,3 +223,4 @@ Keep the community and the first learning program free then say for more support
 He is thinking of giving current patients a free appointment if they join the patreon, figure out how to word that in a good way -> he will figure that out
 change the text in the widget about patreon, also add patroen mentions around the site
 
+should i add a page about the patreon? or just link to the actual patreon
