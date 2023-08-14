@@ -224,3 +224,4 @@ He is thinking of giving current patients a free appointment if they join the pa
 change the text in the widget about patreon, also add patroen mentions around the site
 
 should i add a page about the patreon? or just link to the actual patreon
+see if the wordpres update changed the constnat contact problem
