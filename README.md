@@ -205,12 +205,10 @@ Nutrition group
 
 - forget about the recipes mentioned in the video, its not important right now
 - 
-- Try to get into facebook account for gh group
 - Skeinific is definitely a person, make sure she is confirmed
-- 
 - The email addresses added on the site aren’t being added to the constant contact list, I know there is an issue with constant contact that has messed with the connection between the site and the account -> wait until next week to start doing that
 - fixing the constant contact problem might be easier if paid memberships pro is removed, try it, see if it makes a difference
-- get into facebook
+
 - figure out constant contact email issue -> disconnected then reconnected, stil not right, need to contact support
 - think about patreon tiers gifts, book copy, live chats, questions for dr w, early access to videos
 
