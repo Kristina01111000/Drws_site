@@ -180,12 +180,6 @@ In future:
 - add titles of lessons to the course chats and come up with a converstion starter (two needed)
 -Change the chat titles to share your thoughts on lesson __
 - hide the lessons that don't have content yet
-
-Lesson 5 nutrition 2
-
-- i should try those oils in my cooking
-- wait... coffee is an herb?
-- corn beans and squash, squash oil is the good part? So should we eat pumpkin seeds?
  
 Scorecard group https://growingholistically.com/groups/?scorecard-chat/
 
