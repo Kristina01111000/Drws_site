@@ -225,3 +225,7 @@ change the text in the widget about patreon, also add patroen mentions around th
 
 should i add a page about the patreon? or just link to the actual patreon
 see if the wordpres update changed the constnat contact problem
+
+add changes to the site() patroen
+do the book edit
+check the email stuff
