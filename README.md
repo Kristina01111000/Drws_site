@@ -218,4 +218,10 @@ should i add a page about the patreon? or just link to the actual patreon
 see if the wordpress update changed the constnat contact problem
 
 do the book edit
-check the email stuff
+Fix the email list contact form sign up issue
+Add an email list only sign up
+Make a page like the one he sent me in email, possible using slider factory pro
+Probably going to use memberships on the site
+Set up two tiers on pmp figure out how to give patreon members a code to get to a higher level in the site 
+Have a separate section for the $10 tier
+Think about where the showcase should be on the site, where monthly topics is title dr w’s other lessons, patreon come up with a title
