@@ -54,7 +54,7 @@ June: 4 hour 15 min -> recieved
 
 July: 2 hour 0 min
 
-August: 2 hour 0 min
+August: 2 hour 15 min
 
 plugins im using on site:
 
@@ -215,8 +215,7 @@ He is thinking of giving current patients a free appointment if they join the pa
 change the text in the widget about patreon, also add patroen mentions around the site
 
 should i add a page about the patreon? or just link to the actual patreon
-see if the wordpres update changed the constnat contact problem
+see if the wordpress update changed the constnat contact problem
 
-add changes to the site() patroen
 do the book edit
 check the email stuff
