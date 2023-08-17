@@ -225,3 +225,10 @@ Probably going to use memberships on the site
 Set up two tiers on pmp figure out how to give patreon members a code to get to a higher level in the site 
 Have a separate section for the $10 tier
 Think about where the showcase should be on the site, where monthly topics is title dr w’s other lessons, patreon come up with a title
+Take a screen shot of the videos for the gallery wall
+Ask people on peepso community about options for gallery wall
+Learning program will not be free anymore, only the first lesson, need to make lots of little changes to the site
+30 day challenge is still free
+People can only join gh with a code from patreon, 
+Keep stuff on the higher tier only on patreon, but have links to it
+Not going to store videos on the site, only the first lesson which is free, just have links to everything
