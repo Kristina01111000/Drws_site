@@ -199,9 +199,6 @@ Nutrition group
 
 
 - Skeinific is definitely a person, make sure she is confirmed
-- The email addresses added on the site aren’t being added to the constant contact list, I know there is an issue with constant contact that has messed with the connection between the site and the account -> wait until next week to start doing that
-- fixing the constant contact problem might be easier if paid memberships pro is removed, try it, see if it makes a difference
-
 - figure out constant contact email issue -> disconnected then reconnected, stil not right, need to contact support
 - think about patreon tiers gifts, book copy, live chats, questions for dr w, early access to videos
 
@@ -211,7 +208,6 @@ Think about tie them together better -> everything should push towards the site 
 How does facebook, twitter, youtube, instagram, tiktok, the site, patreon connect to each other
 Keep the community and the first learning program free then say for more support us on patreon
 He is thinking of giving current patients a free appointment if they join the patreon, figure out how to word that in a good way -> he will figure that out
-change the text in the widget about patreon, also add patroen mentions around the site
 
 see if the wordpress update changed the constnat contact problem
 
