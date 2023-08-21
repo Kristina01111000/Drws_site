@@ -225,3 +225,4 @@ People can only join gh with a code from patreon,
 Keep stuff on the higher tier only on patreon, but have links to it
 Not going to store videos on the site, only the first lesson which is free, just have links to everything
 how to organize the videos on patreon also?
+fix the form so people get added to constnat contact
