@@ -210,7 +210,7 @@ He is thinking of giving current patients a free appointment if they join the pa
 see if the wordpress update changed the constnat contact problem
 
 do the book edit
-Fix the email list contact form sign up issue
+Fix the email list contact form sign up issue -> remove PMP from the site before doing this
 Add an email list only sign up
 Make a page like the one he sent me in email, possible using slider factory pro
 Probably going to use memberships on the site
