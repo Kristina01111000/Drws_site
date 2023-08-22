@@ -54,7 +54,7 @@ June: 4 hour 15 min -> recieved
 
 July: 2 hour 0 min
 
-August: 3 hour 15 min
+August: 3 hour 20 min
 
 plugins im using on site:
 
@@ -156,9 +156,6 @@ Things im waiting for from dr w:
 - more lesson videos
 
 TO do:
-
-
-- Make logo of the youtube channel green part bigger add white background 
 
 Plan is to include 30 day challenge on the first 4 news letters, then not on the others, b/c everyone who signs up for the first 30 days will definitely be doing it/ not be done with it
 
