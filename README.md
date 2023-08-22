@@ -218,7 +218,6 @@ Take a screen shot of the videos for the gallery wall
 Ask people on peepso community about options for gallery wall
 Learning program will not be free anymore, only the first lesson, need to make lots of little changes to the site
 30 day challenge is still free
-People can only join gh with a code from patreon, 
 Keep stuff on the higher tier only on patreon, but have links to it
 Not going to store videos on the site, only the first lesson which is free, just have links to everything
 how to organize the videos on patreon also?
@@ -228,3 +227,4 @@ fix the form so people get added to constnat contact
 confirm that the site is not goig tocharge adnd remove pmp form it _> waiting on response to email
 confirm that one tier is on the site, there will be a page that links to the patreon for different tiers
 Ask if he still wants quizzes on the site
+anyone can join, but ot get access to more they need to join patreon
