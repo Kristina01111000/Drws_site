@@ -230,3 +230,4 @@ fix the form so people get added to constnat contact
 
 confirm that the site is not goig tocharge adnd remove pmp form it _> waiting on response to email
 confirm that one tier is on the site, there will be a page that links to the patreon for different tiers
+Ask if he still wants quizzes on the site
