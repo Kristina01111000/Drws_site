@@ -54,7 +54,7 @@ June: 4 hour 15 min -> recieved
 
 July: 2 hour 0 min
 
-August: 3 hour 25 min
+August: 3 hour 40 min
 
 plugins im using on site:
 
@@ -213,9 +213,7 @@ Make a page like the one he sent me in email, possible using slider factory pro
 Probably going to use memberships on the site
 Set up two tiers on pmp figure out how to give patreon members a code to get to a higher level in the site 
 Have a separate section for the $10 tier
-Think about where the showcase should be on the site, where monthly topics is title dr w’s other lessons, patreon come up with a title
 Take a screen shot of the videos for the gallery wall
-Ask people on peepso community about options for gallery wall
 Learning program will not be free anymore, only the first lesson, need to make lots of little changes to the site
 30 day challenge is still free
 Keep stuff on the higher tier only on patreon, but have links to it
@@ -223,10 +221,7 @@ Not going to store videos on the site, only the first lesson which is free, just
 how to organize the videos on patreon also?
 fix the form so people get added to constnat contact
 
-
-confirm that the site is not goig tocharge adnd remove pmp form it _> waiting on response to email
-confirm that one tier is on the site, there will be a page that links to the patreon for different tiers
 Ask if he still wants quizzes on the site
 anyone can join, but ot get access to more they need to join patreon
 going to use a post slider app for page
-try to remove pmp
+
