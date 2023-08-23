@@ -228,3 +228,5 @@ confirm that the site is not goig tocharge adnd remove pmp form it _> waiting on
 confirm that one tier is on the site, there will be a page that links to the patreon for different tiers
 Ask if he still wants quizzes on the site
 anyone can join, but ot get access to more they need to join patreon
+going to use a post slider app for page
+try to remove pmp
