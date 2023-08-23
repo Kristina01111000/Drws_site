@@ -218,4 +218,4 @@ fix the form so people get added to constnat contact
 Ask if he still wants quizzes on the site
 anyone can join, but ot get access to more they need to join patreon
 going to use a post slider app for page
-
+test the email w/ constant contact
