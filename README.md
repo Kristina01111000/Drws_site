@@ -209,15 +209,10 @@ see if the wordpress update changed the constnat contact problem
 do the book edit
 Fix the email list contact form sign up issue -> remove PMP from the site before doing this
 Add an email list only sign up
-Make a page like the one he sent me in email, possible using slider factory pro
-Probably going to use memberships on the site
-Set up two tiers on pmp figure out how to give patreon members a code to get to a higher level in the site 
-Have a separate section for the $10 tier
 Take a screen shot of the videos for the gallery wall
 Learning program will not be free anymore, only the first lesson, need to make lots of little changes to the site
 30 day challenge is still free
 Keep stuff on the higher tier only on patreon, but have links to it
-Not going to store videos on the site, only the first lesson which is free, just have links to everything
 how to organize the videos on patreon also?
 fix the form so people get added to constnat contact
 
