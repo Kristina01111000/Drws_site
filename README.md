@@ -54,7 +54,7 @@ June: 4 hour 15 min -> recieved
 
 July: 2 hour 0 min
 
-August: 3 hour 40 min
+August: 3 hour 50 min
 
 plugins im using on site:
 
@@ -207,7 +207,6 @@ He is thinking of giving current patients a free appointment if they join the pa
 see if the wordpress update changed the constnat contact problem
 
 do the book edit
-Fix the email list contact form sign up issue -> remove PMP from the site before doing this
 Add an email list only sign up
 Take a screen shot of the videos for the gallery wall
 Learning program will not be free anymore, only the first lesson, need to make lots of little changes to the site
