@@ -196,10 +196,6 @@ Nutrition group
 
 
 - Skeinific is definitely a person, make sure she is confirmed
-- figure out constant contact email issue -> disconnected then reconnected, stil not right, need to contact support
-- think about patreon tiers gifts, book copy, live chats, questions for dr w, early access to videos
-
-
 
 How does facebook, twitter, youtube, instagram, tiktok, the site, patreon connect to each other
 He is thinking of giving current patients a free appointment if they join the patreon, figure out how to word that in a good way -> he will figure that out
