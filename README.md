@@ -54,7 +54,7 @@ June: 4 hour 15 min -> recieved
 
 July: 2 hour 0 min
 
-August: 4 hour 5 min
+August: 5 hour 15 min
 
 plugins im using on site:
 
