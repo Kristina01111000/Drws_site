@@ -54,7 +54,7 @@ June: 4 hour 15 min -> recieved
 
 July: 2 hour 0 min
 
-August: 3 hour 50 min
+August: 3 hour 55 min
 
 plugins im using on site:
 
@@ -215,4 +215,4 @@ Ask if he still wants quizzes on the site
 anyone can join, but ot get access to more they need to join patreon
 going to use a post slider app for page
 test the email w/ constant contact
-see if i can connect the constnat contact form to the pepso form, they sit on top of each other now
+see if i can connect the constnat contact form to the pepso form, they sit on top of each other now, they can only do one at a time
