@@ -216,3 +216,18 @@ anyone can join, but to get access to more they need to join patreon OR anyone c
 going to use a post slider app for page
 test the email w/ constant contact
 see if i can connect the constnat contact form to the pepso form, they sit on top of each other now, they can only do one at a time -> contacted peepso support, currently the sign up for email doesn't go through
+
+
+
+8/24
+Research integration between patreon and learndash
+See if they be attached between site and patreon, or if we need 2 copies
+In info section of book, ad you can get the book as a reward if you join the patreon 
+Make a new homepage using the concept he sent, using the slider plugin keep it as a temp homepage for now, no widgets, fullscreen
+Have a link that says “not sure you are ready to join? Try our free 30 day challenge”
+Put something about the 30 day challenge in one of the slider tabs
+Think about site redesigns, he might want to get rid of widgets entirely
+Master slider is on the site now and activated
+Talk to constant contact about the email list join on the peepso sign up
+If not, remove the email sign up from the join page
+Add the email list to the are you sure page, to get the scorecard
