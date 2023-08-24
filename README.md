@@ -207,9 +207,9 @@ Add an email list only sign up
 Take a screen shot of the videos for the gallery wall
 Learning program will not be free anymore, only the first lesson, need to make lots of little changes to the site
 30 day challenge is still free
-Keep stuff on the higher tier only on patreon, but have links to it
+Keep stuff on the patreon, but have links to it
 how to organize the videos on patreon also?
-fix the form so people get added to constnat contact
+fix the form so people get added to constnat contact -> talk to peepso support
 
 Ask if he still wants quizzes on the site
 anyone can join, but ot get access to more they need to join patreon
