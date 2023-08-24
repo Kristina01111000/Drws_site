@@ -204,7 +204,6 @@ see if the wordpress update changed the constnat contact problem
 
 do the book edit
 Add an email list only sign up
-Take a screen shot of the videos for the gallery wall
 Learning program will not be free anymore, only the first lesson, need to make lots of little changes to the site
 30 day challenge is still free
 Keep stuff on the patreon, but have links to it
@@ -213,8 +212,7 @@ fix the form so people get added to constnat contact -> talk to peepso support
 
 Ask if he still wants quizzes on the site -> i think so 
 anyone can join, but to get access to more they need to join patreon OR anyone can join but they need a code from patroen
-going to use a post slider app for page
-test the email w/ constant contact
+
 see if i can connect the constnat contact form to the pepso form, they sit on top of each other now, they can only do one at a time -> contacted peepso support, currently the sign up for email doesn't go through
 
 
