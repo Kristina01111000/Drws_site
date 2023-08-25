@@ -227,5 +227,6 @@ Put something about the 30 day challenge in one of the slider tabs
 Think about site redesigns, he might want to get rid of widgets entirely
 Master slider is on the site now and activated
 Talk to constant contact about the email list join on the peepso sign up
+peepso can't get the join email list here section on the sign up
 If not, remove the email sign up from the join page
 Add the email list to the are you sure page, to get the scorecard
