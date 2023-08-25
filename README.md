@@ -147,7 +147,6 @@ to do now:
 - Write a review in fourissimo club for the heel strike fixing plantar fasciitis
 - Fix the title of the download pdf on fourissimo page
 
-- add a page for reviews, just dont link to it anywhere
 - check names of lessons on promo page when new youtube video is dropped
 
 Things im waiting for from dr w:
