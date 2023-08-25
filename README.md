@@ -230,3 +230,8 @@ Talk to constant contact about the email list join on the peepso sign up
 peepso can't get the join email list here section on the sign up
 If not, remove the email sign up from the join page
 Add the email list to the are you sure page, to get the scorecard
+
+
+
+
+removed teh sign up to email list from the join page
