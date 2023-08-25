@@ -112,21 +112,6 @@ Notes:
 	- page redirect completely turned off
 	- four corners page is a draft now
 
-
-Survey stuff:
-
-	list of survey options/questions:
-		- he wants all of the 80 questions in list
-		- do you have a list of the q's separated into element groups? no-> (goes fire air water earth in the survey list)
-		- i will be trying the quiz option for a learndash class first, might not work b/c they are not graded, they are split into categories
-	--------- rank list 1 to 5 for each question
-		- likert scale for questions in survey
-		- wpforms pro does not work
-		- hubspot for wordpress does not work
-		- quiz and survey master does not work
-		- tryuquiz does not work
-		- he is taking care of the quiz 
-	
 See if there is a way to see how many people downloaded the scorecard, use google for site analytics - he needs a google workspace account for this
 
 --------------------------------------------------------
