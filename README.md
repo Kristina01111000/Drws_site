@@ -221,3 +221,4 @@ Add the email list to the are you sure page, to get the scorecard
 removed teh sign up to email list from the join page
 maybe there is a way to use the contact form to add the peepso signup and the email signup to work together
 confirm that we are linking to the patreon from the site for the videos
+confirm wherether or not patreon does email, will allow quizzes on it
