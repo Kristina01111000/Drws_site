@@ -54,7 +54,7 @@ June: 4 hour 15 min -> recieved
 
 July: 2 hour 0 min
 
-August: 5 hour 25 min
+August: 5 hour 30 min
 
 plugins im using on site:
 
@@ -202,8 +202,6 @@ see if i can connect the constnat contact form to the pepso form, they sit on to
 
 
 8/24
-Research integration between patreon and learndash
-See if they be attached between site and patreon, or if we need 2 copies
 In info section of book, ad you can get the book as a reward if you join the patreon 
 Make a new homepage using the concept he sent, using the slider plugin keep it as a temp homepage for now, no widgets, fullscreen
 Have a link that says “not sure you are ready to join? Try our free 30 day challenge”
@@ -212,7 +210,6 @@ Think about site redesigns, he might want to get rid of widgets entirely
 Master slider is on the site now and activated
 Talk to constant contact about the email list join on the peepso sign up
 peepso can't get the join email list here section on the sign up
-If not, remove the email sign up from the join page
 Add the email list to the are you sure page, to get the scorecard
 
 
