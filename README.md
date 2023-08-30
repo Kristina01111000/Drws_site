@@ -219,3 +219,5 @@ maybe there is a way to use the contact form to add the peepso signup and the em
 confirm that we are linking to the patreon from the site for the videos
 confirm wherether or not patreon does email, will allow quizzes on it
 Master slider is not that good
+try gutenslider? gutenberg slides?
+i think they uploaded images of their slides for the add
