@@ -54,7 +54,7 @@ June: 4 hour 15 min -> recieved
 
 July: 2 hour 0 min
 
-August: 5 hour 30 min
+August: 5 hour 50 min
 
 plugins im using on site:
 
@@ -219,3 +219,4 @@ removed teh sign up to email list from the join page
 maybe there is a way to use the contact form to add the peepso signup and the email signup to work together
 confirm that we are linking to the patreon from the site for the videos
 confirm wherether or not patreon does email, will allow quizzes on it
+Master slider is not that good
