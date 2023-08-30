@@ -207,7 +207,6 @@ Make a new homepage using the concept he sent, using the slider plugin keep it a
 Have a link that says “not sure you are ready to join? Try our free 30 day challenge”
 Put something about the 30 day challenge in one of the slider tabs
 Think about site redesigns, he might want to get rid of widgets entirely
-Master slider is on the site now and activated
 Talk to constant contact about the email list join on the peepso sign up
 peepso can't get the join email list here section on the sign up
 Add the email list to the are you sure page, to get the scorecard
