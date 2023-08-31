@@ -54,7 +54,7 @@ June: 4 hour 15 min -> recieved
 
 July: 2 hour 0 min
 
-August: 5 hour 50 min
+August: 7 hour 20 min
 
 plugins im using on site:
 
@@ -221,3 +221,29 @@ confirm wherether or not patreon does email, will allow quizzes on it
 Master slider is not that good
 try gutenslider? gutenberg slides?
 i think they uploaded images of their slides for the add
+
+
+8/30
+No meeting in 2 weeks, he is out of town
+See if we can figure out how to do the free section of the patreon (quick minutes)
+Make the book picture in the shop in the patreon look better
+Look at the quick minutes and see how they are, see if he should look at any of them
+On patreon make the holistic learning program link hot in the pinned post
+Maybe make a start here collection for the documentary and the phone app explanation, think of other ways of approaching it
+Link from the patreon posts to the quizzes on gh
+Make sure logging in is easier on growing holistically but one on every page
+Enable quizzes only to patrons somehow
+fix the lessons so they link to the patreon site post, so the video isn’t on gh
+Fix the gh site so that it doesn’t say the learning program is free, just first video
+Remove the 4 months, just holistic learning program, edit the text on the site
+We might redo the entire first page, which is better pushing 30 day challenge or the patreon
+Site should be focused on getting people to patreon and focusing on the community part of it, think about what parts of the site to get rid of
+Get rid of the widgets, holistic growth tab, put activity page at the top
+Figure out a way to make the metadata tags on patreon link to the site
+New page: Have a section of dr w’s patreon collections, use a drop down or url with blurb about the collection and a link to the patreon site put on header where holistic growth is currently
+Make the site look like a nice social media site
+Have a start here patreon collection that includes the documentary, the gh site, and the scorecard
+write an email for new users of the patreon to get that talks about the community
+Think about whether or not he needs a newsletter, it should have links to posts for the past few weeks, 
+look at the emails to see what needs to change, link to patreon, and growing holistically
+Should focus on things added to the patreon, links and description, recipe?, seasonal blurb, makes sense to send it once a month
