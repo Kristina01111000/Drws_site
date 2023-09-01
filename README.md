@@ -205,10 +205,7 @@ see if i can connect the constnat contact form to the pepso form, they sit on to
 
 8/24
 In info section of book, ad you can get the book as a reward if you join the patreon 
-Make a new homepage using the concept he sent, using the slider plugin keep it as a temp homepage for now, no widgets, fullscreen
 Have a link that says “not sure you are ready to join? Try our free 30 day challenge”
-Talk to constant contact about the email list join on the peepso sign up
-peepso can't get the join email list here section on the sign up
 Add the email list to the are you sure page, to get the scorecard
 
 
