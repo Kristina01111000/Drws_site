@@ -54,7 +54,9 @@ June: 4 hour 15 min -> recieved
 
 July: 2 hour 0 min
 
-August: 7 hour 20 min
+August: 7 hour 30 min
+
+September:
 
 plugins im using on site:
 
@@ -247,3 +249,9 @@ write an email for new users of the patreon to get that talks about the communit
 Think about whether or not he needs a newsletter, it should have links to posts for the past few weeks, 
 look at the emails to see what needs to change, link to patreon, and growing holistically
 Should focus on things added to the patreon, links and description, recipe?, seasonal blurb, makes sense to send it once a month
+
+
+
+
+for 9/14:
+he is still thinking of using audio files
