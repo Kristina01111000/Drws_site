@@ -253,5 +253,5 @@ Should focus on things added to the patreon, links and description, recipe?, sea
 
 
 
-for 9/14:
-he is still thinking of using audio files
+for 9/7:
+he is still thinking of using audio files, keep telling him that they can only be sent in gmail
