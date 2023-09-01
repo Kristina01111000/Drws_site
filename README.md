@@ -207,8 +207,6 @@ see if i can connect the constnat contact form to the pepso form, they sit on to
 In info section of book, ad you can get the book as a reward if you join the patreon 
 Make a new homepage using the concept he sent, using the slider plugin keep it as a temp homepage for now, no widgets, fullscreen
 Have a link that says “not sure you are ready to join? Try our free 30 day challenge”
-Put something about the 30 day challenge in one of the slider tabs
-Think about site redesigns, he might want to get rid of widgets entirely
 Talk to constant contact about the email list join on the peepso sign up
 peepso can't get the join email list here section on the sign up
 Add the email list to the are you sure page, to get the scorecard
@@ -226,7 +224,7 @@ i think they uploaded images of their slides for the add
 
 
 8/30
-No meeting in 2 weeks, he is out of town
+No meeting on the 14th
 See if we can figure out how to do the free section of the patreon (quick minutes)
 Make the book picture in the shop in the patreon look better
 Look at the quick minutes and see how they are, see if he should look at any of them
