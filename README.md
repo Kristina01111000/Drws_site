@@ -56,7 +56,7 @@ July: 2 hour 0 min
 
 August: 7 hour 30 min
 
-September:
+September: 5 min
 
 plugins im using on site:
 
@@ -235,7 +235,7 @@ Fix the gh site so that it doesn’t say the learning program is free, just firs
 Remove the 4 months, just holistic learning program, edit the text on the site
 We might redo the entire first page, which is better pushing 30 day challenge or the patreon
 Site should be focused on getting people to patreon and focusing on the community part of it, think about what parts of the site to get rid of
-Get rid of the widgets, holistic growth tab, put activity page at the top
+Get rid of the holistic growth tab, put activity page at the top
 Figure out a way to make the metadata tags on patreon link to the site
 New page: Have a section of dr w’s patreon collections, use a drop down or url with blurb about the collection and a link to the patreon site put on header where holistic growth is currently
 Make the site look like a nice social media site
