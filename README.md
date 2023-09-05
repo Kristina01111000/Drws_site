@@ -212,16 +212,12 @@ Add the email list to the are you sure page, to get the scorecard
 8/30
 No meeting on the 14th
 See if we can figure out how to do the free section of the patreon (quick minutes)
-Make the book picture in the shop in the patreon look better
 Look at the quick minutes and see how they are, see if he should look at any of them
 On patreon make the holistic learning program link hot in the pinned post
 Maybe make a start here collection for the documentary and the phone app explanation, think of other ways of approaching it
 Link from the patreon posts to the quizzes on gh
-Make sure logging in is easier on growing holistically but one on every page
 Enable quizzes only to patrons somehow
 fix the lessons so they link to the patreon site post, so the video isn’t on gh
-Fix the gh site so that it doesn’t say the learning program is free, just first video
-Remove the 4 months, just holistic learning program, edit the text on the site
 We might redo the entire first page, which is better pushing 30 day challenge or the patreon
 Site should be focused on getting people to patreon and focusing on the community part of it, think about what parts of the site to get rid of
 Get rid of the holistic growth tab, put activity page at the top
