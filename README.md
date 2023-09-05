@@ -56,7 +56,7 @@ July: 2 hour 0 min
 
 August: 7 hour 30 min
 
-September: 5 min
+September: 25 min
 
 plugins im using on site:
 
@@ -251,3 +251,12 @@ Should focus on things added to the patreon, links and description, recipe?, sea
 for 9/7:
 he is still thinking of using audio files, keep telling him that they can only be sent in gmail
 how big is the overhaul of the site going to be, does he still want the color scheme to stay the same?
+
+
+
+Did you decide if you still wanted a slider talking about the things available on the homepage?
+
+Right now my understanding of the homepage is that you want it changed so it is more of a sale page for the patreon and the actual website will be a  community for current patreon members. Is this correct?
+
+Should all mentions of the 30 day challenge be removed entirely? 
+Or should it be mentioned but most of the page is trying to get people to join the patreon?
