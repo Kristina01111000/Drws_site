@@ -209,17 +209,6 @@ Have a link that says “not sure you are ready to join? Try our free 30 day cha
 Add the email list to the are you sure page, to get the scorecard
 
 
-
-
-removed teh sign up to email list from the join page
-maybe there is a way to use the contact form to add the peepso signup and the email signup to work together
-confirm that we are linking to the patreon from the site for the videos
-confirm wherether or not patreon does email, will allow quizzes on it
-Master slider is not that good
-try gutenslider? gutenberg slides?
-i think they uploaded images of their slides for the add
-
-
 8/30
 No meeting on the 14th
 See if we can figure out how to do the free section of the patreon (quick minutes)
