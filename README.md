@@ -56,7 +56,7 @@ July: 2 hour 0 min
 
 August: 7 hour 30 min
 
-September: 35 min
+September: 45 min
 
 plugins im using on site:
 
@@ -236,7 +236,7 @@ Should focus on things added to the patreon, links and description, recipe?, sea
 for 9/7:
 he is still thinking of using audio files, keep telling him that they can only be sent in gmail
 how big is the overhaul of the site going to be, does he still want the color scheme to stay the same?
-
+look at t he new temp homepage, what should be moved it it?
 
 
 Did you decide if you still wanted a slider talking about the things available on the homepage?
