@@ -56,7 +56,7 @@ July: 2 hour 0 min
 
 August: 7 hour 30 min
 
-September: 45 min
+September: 50 min
 
 plugins im using on site:
 
@@ -245,3 +245,4 @@ Right now my understanding of the homepage is that you want it changed so it is 
 
 Should all mentions of the 30 day challenge be removed entirely? 
 Or should it be mentioned but most of the page is trying to get people to join the patreon?
+make sure to read everything for slang that he doesn't know he is using
