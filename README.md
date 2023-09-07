@@ -246,3 +246,41 @@ Right now my understanding of the homepage is that you want it changed so it is 
 Should all mentions of the 30 day challenge be removed entirely? 
 Or should it be mentioned but most of the page is trying to get people to join the patreon?
 make sure to read everything for slang that he doesn't know he is using
+
+
+
+9/7:
+Switch the header to a lighter green instead of yellow, see how it looks
+Make widget  background match header background
+Try putting patreon image on homepage, i will need to get that file, wait till next week, stephen is editing it, take a screen grab for that
+Fix the patreon book image still, it is cutting off the title
+When looking through Quick Minutes: 
+Bad editing/title/thumbnail
+He is going to have specific collections, figure out which one goes where (look in email)
+Make an excel sheet with title and link in the different sections, it is up, youtube, patreon, what season are they relevant, ie gardening in summer
+Add columns for meta tags on the sheet
+Eating/food/nutrition
+Moving/walking
+Psychology/astrology
+Yoga 
+Pain, health issues
+Stress relief
+Others if i see any potential groups
+They can go into 2 groups if relevant
+See if the thumbnails could be better, put a timestamp of the frame if it would be better, change it when convenient, things that will look better, 
+Mark what he is wearing, informal vs formal
+Mark background, brick, images, outside, inside his office
+grade them for content a b c d -> d means i think he should delete it
+Make grades in kristina's grades column
+Reorganize them on the patreon site if it makes sense
+Pick a quick minute sample to be embedded on the homepage
+Where to use in future column, ie cycle through the homepage, newsletter
+See if the menu can be embedded into the homepage, je might want to change the font in the right side menu
+Pick a video to put on the homepage, optimally one of him talking about the patreon site
+For bullet point about learning program link to the first lesson on the site, then sell the patreon underneath it
+For bullet point quick minutes say they are available for free and join the patreon to see them
+Think about how the 30 day challenge should be used going forward, where should we talk about it etc, in a collection ‘things you can do now working title’ phone apps and more, something like that, talk about it in the newsletter
+Try the gutenslider for the bullets, bullets are a fall back, with the slider we might not need a video 
+Where should the mission of growing holistically go? Not homepage, make a new page and figure out where to link to it from, make a similar page for the community section, 
+Consider adding monthly topics back to the header
+For homepage add more hotlinks below the slider, if you are already a member click here to get to our patreon site collections
