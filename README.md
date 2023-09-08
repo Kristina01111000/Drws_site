@@ -285,3 +285,8 @@ Where should the mission of growing holistically go? Not homepage, make a new pa
 Consider adding monthly topics back to the header
 For homepage add more hotlinks below the slider, if you are already a member click here to get to our patreon site collections
 see if the contributor levels on patreon should be changed
+
+
+
+
+send invoice on monday
