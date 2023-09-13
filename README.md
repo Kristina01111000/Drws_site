@@ -289,4 +289,5 @@ see if the contributor levels on patreon should be changed
 
 
 
-send invoice on monday
+send invoice on next monday
+look at the picture in email from the patreon
