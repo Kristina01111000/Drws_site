@@ -284,7 +284,7 @@ Try the gutenslider for the bullets, bullets are a fall back, with the slider we
 Where should the mission of growing holistically go? Not homepage, make a new page and figure out where to link to it from, make a similar page for the community section, 
 Consider adding monthly topics back to the header
 For homepage add more hotlinks below the slider, if you are already a member click here to get to our patreon site collections
-see if the contributor levels on patreon should be changed
+see if the contributor levels on patreon should be changed, look over the description of them to see if any should be moved up or down
 
 
 
