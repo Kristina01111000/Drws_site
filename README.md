@@ -290,4 +290,4 @@ see if the contributor levels on patreon should be changed, look over the descri
 
 
 send invoice on next monday
-look at the picture in email from the patreon
+look at the picture in email from the patreon, is there a place it will look good in the site? not the homepage
