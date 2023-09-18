@@ -56,7 +56,7 @@ July: 2 hour 0 min
 
 August: 7 hour 30 min
 
-September: 3 hour 15 min
+September: 3 hour 25 min
 
 plugins im using on site:
 
@@ -254,24 +254,7 @@ Switch the header to a lighter green instead of yellow, see how it looks
 Make widget  background match header background
 Try putting patreon image on homepage, i will need to get that file, wait till next week, stephen is editing it, take a screen grab for that
 Fix the patreon book image still, it is cutting off the title
-When looking through Quick Minutes: 
-Bad editing/title/thumbnail
-He is going to have specific collections, figure out which one goes where (look in email)
-Make an excel sheet with title and link in the different sections, it is up, youtube, patreon, what season are they relevant, ie gardening in summer
-Add columns for meta tags on the sheet
-Eating/food/nutrition
-Moving/walking
-Psychology/astrology
-Yoga 
-Pain, health issues
-Stress relief
-Others if i see any potential groups
-They can go into 2 groups if relevant
-See if the thumbnails could be better, put a timestamp of the frame if it would be better, change it when convenient, things that will look better, 
-Mark what he is wearing, informal vs formal
-Mark background, brick, images, outside, inside his office
-grade them for content a b c d -> d means i think he should delete it
-Make grades in kristina's grades column
+
 Reorganize them on the patreon site if it makes sense
 Pick a quick minute sample to be embedded on the homepage
 Where to use in future column, ie cycle through the homepage, newsletter
