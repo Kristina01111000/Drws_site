@@ -252,7 +252,6 @@ make sure to read everything for slang that he doesn't know he is using
 9/7:
 Switch the header to a lighter green instead of yellow, see how it looks
 Make widget  background match header background
-Try putting patreon image on homepage, i will need to get that file, wait till next week, stephen is editing it, take a screen grab for that
 Fix the patreon book image still, it is cutting off the title
 
 Reorganize them on the patreon site if it makes sense
