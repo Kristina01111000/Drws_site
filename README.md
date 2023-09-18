@@ -282,3 +282,6 @@ link to the google sheet on the to do list
 go over the quick minute videos, try to get 15 done by thursday, there are 24 on youtube, don't know how many on patreon, if I can't then ask for feed back on  the columns, say that I didn't want to redo it
 videos to put on the sheet: 22
 videos done: 2
+
+
+need to make the slider for the new homepage
