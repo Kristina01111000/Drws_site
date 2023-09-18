@@ -278,4 +278,5 @@ look at the picture in email from the patreon, is there a place it will look goo
 
 found where to edit the lorem ipsum.  its in the javascript file, made edits, need access to c panel to put the file on the site
 link to the google sheet on the to do list
-go over the quick minute videos, try to get 15 done by thursday
+go over the quick minute videos, try to get 15 done by thursday, there are 24 on youtube, don't know how many on patreon
+videos to put on the sheet: 24
