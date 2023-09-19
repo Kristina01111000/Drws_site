@@ -56,7 +56,7 @@ July: 2 hour 0 min
 
 August: 7 hour 30 min
 
-September: 3 hour 35 min
+September: 4 hour 15 min
 
 plugins im using on site:
 
