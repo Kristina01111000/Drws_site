@@ -52,9 +52,9 @@ May: 6 hour 15 min -> recieved
 
 June: 4 hour 15 min -> recieved
 
-July: 2 hour 0 min
+July: 2 hour 0 min -> sent
 
-August: 7 hour 30 min
+August: 7 hour 30 min -> sent
 
 September: 4 hour 15 min
 
