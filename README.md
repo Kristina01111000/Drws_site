@@ -273,7 +273,7 @@ send invoice on next monday
 look at the picture in email from the patreon, is there a place it will look good in the site? not the homepage
 
 
-found where to edit the lorem ipsum.  its in the javascript file, made edits, need access to c panel to put the file on the site
+found where to edit the lorem ipsum.  its in the javascript file, made edits, need access to c panel to put the file on the site, got access go over that i can edit the other text tomorrow if i'm careful
 
 link to the google sheet on the to do list
 go over the quick minute videos, try to get 15 done by thursday, there are 24 on youtube, don't know how many on patreon, if I can't then ask for feed back on  the columns, say that I didn't want to redo it
