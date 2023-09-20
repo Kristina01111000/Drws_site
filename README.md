@@ -56,7 +56,7 @@ July: 2 hour 0 min -> sent
 
 August: 7 hour 30 min -> sent
 
-September: 4 hour 20 min
+September: 4 hour 35 min
 
 plugins im using on site:
 
@@ -256,8 +256,6 @@ Fix the patreon book image still, it is cutting off the title
 
 Reorganize them on the patreon site if it makes sense
 Pick a quick minute sample to be embedded on the homepage
-Where to use in future column, ie cycle through the homepage, newsletter
-See if the menu can be embedded into the homepage, je might want to change the font in the right side menu
 Pick a video to put on the homepage, optimally one of him talking about the patreon site
 For bullet point about learning program link to the first lesson on the site, then sell the patreon underneath it
 For bullet point quick minutes say they are available for free and join the patreon to see them
