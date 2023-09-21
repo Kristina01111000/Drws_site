@@ -56,7 +56,7 @@ July: 2 hour 0 min -> sent
 
 August: 7 hour 30 min -> sent
 
-September: 4 hour 45 min
+September: 4 hour 55 min
 
 plugins im using on site:
 
@@ -281,4 +281,4 @@ videos to put on the sheet: 22
 videos done: 2
 
 
-need to make the slider for the new homepage
+need to make the slider for the new homepage -> use gutenslider 
