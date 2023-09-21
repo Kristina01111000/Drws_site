@@ -56,7 +56,7 @@ July: 2 hour 0 min -> sent
 
 August: 7 hour 30 min -> sent
 
-September: 4 hour 55 min
+September: 5 hour 20 min
 
 plugins im using on site:
 
@@ -269,7 +269,6 @@ see if the contributor levels on patreon should be changed, look over the descri
 
 
 
-send invoice on next monday
 look at the picture in email from the patreon, is there a place it will look good in the site? not the homepage
 
 
@@ -277,8 +276,7 @@ found where to edit the lorem ipsum.  its in the javascript file, made edits, ne
 
 link to the google sheet on the to do list
 go over the quick minute videos, try to get 15 done by thursday, there are 24 on youtube, don't know how many on patreon, if I can't then ask for feed back on  the columns, say that I didn't want to redo it
-videos to put on the sheet: 22
-videos done: 2
+videos done: 9
 
 
 need to make the slider for the new homepage -> use gutenslider 
