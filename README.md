@@ -279,4 +279,5 @@ go over the quick minute videos, try to get 15 done by thursday, there are 24 on
 videos done: 9
 
 
-need to make the slider for the new homepage -> use gutenslider 
+need to make the slider for the new homepage -> use gutenslider he will send me what should be put on the slides
+consider the color scheme
