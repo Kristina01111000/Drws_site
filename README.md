@@ -281,3 +281,5 @@ videos done: 9
 
 need to make the slider for the new homepage -> use gutenslider he will send me what should be put on the slides
 consider the color scheme
+
+look at the website of his friend to see if there are somethings we can do similarly
