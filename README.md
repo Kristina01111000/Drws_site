@@ -283,3 +283,4 @@ need to make the slider for the new homepage -> use gutenslider he will send me 
 consider the color scheme
 
 look at the website of his friend to see if there are somethings we can do similarly
+specifically for the homepage? I think we can make some things work, like having the images and text next to each other, having some testimonials at the bottom.  I can try moving the logo down and having the menu at the top look like his, Should i put something together for our next meeting?
