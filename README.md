@@ -56,7 +56,7 @@ July: 2 hour 0 min -> sent
 
 August: 7 hour 30 min -> sent
 
-September: 6 hour 35 min
+September: 6 hour 40 min
 
 plugins im using on site:
 
@@ -288,4 +288,5 @@ specifically for the homepage? I think we can make some things work, like having
 make the text edits to the quiz and send him the pdf of the results
 
 look at the comments on the business card pdf
-research other themes that will work with peepso, look good and also not be buggy
+
+research other themes that will work with peepso, look good and also not be buggy AND are updated consistently
