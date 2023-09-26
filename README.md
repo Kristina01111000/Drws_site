@@ -288,3 +288,4 @@ specifically for the homepage? I think we can make some things work, like having
 make the text edits to the quiz and send him the pdf of the results
 
 look at the comments on the business card pdf
+research other themes that will work with peepso, look good and also not be buggy
