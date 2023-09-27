@@ -56,7 +56,7 @@ July: 2 hour 0 min -> sent
 
 August: 7 hour 30 min -> sent
 
-September: 7 hour 20 min
+September: 7 hour 30 min
 
 plugins im using on site:
 
@@ -278,7 +278,6 @@ videos done: 9
 need to make the slider for the new homepage -> use gutenslider he will send me what should be put on the slides
 consider the color scheme
 
-look at the website of his friend to see if there are somethings we can do similarly
 specifically for the homepage? I think we can make some things work, like having the images and text next to each other, having some testimonials at the bottom.  I can try moving the logo down and having the menu at the top look like his, Should i put something together for our next meeting?
 
 look at the comments on the business card pdf
