@@ -56,7 +56,7 @@ July: 2 hour 0 min -> sent
 
 August: 7 hour 30 min -> sent
 
-September: 7 hour 10 min
+September: 7 hour 20 min
 
 plugins im using on site:
 
@@ -250,11 +250,7 @@ make sure to read everything for slang that he doesn't know he is using
 
 
 9/7:
-Switch the header to a lighter green instead of yellow, see how it looks
-Make widget  background match header background
-Fix the patreon book image still, it is cutting off the title
 
-Reorganize them on the patreon site if it makes sense
 Pick a quick minute sample to be embedded on the homepage
 Pick a video to put on the homepage, optimally one of him talking about the patreon site
 For bullet point about learning program link to the first lesson on the site, then sell the patreon underneath it
