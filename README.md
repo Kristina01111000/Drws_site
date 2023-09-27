@@ -56,7 +56,7 @@ July: 2 hour 0 min -> sent
 
 August: 7 hour 30 min -> sent
 
-September: 6 hour 40 min
+September: 7 hour 10 min
 
 plugins im using on site:
 
@@ -284,8 +284,6 @@ consider the color scheme
 
 look at the website of his friend to see if there are somethings we can do similarly
 specifically for the homepage? I think we can make some things work, like having the images and text next to each other, having some testimonials at the bottom.  I can try moving the logo down and having the menu at the top look like his, Should i put something together for our next meeting?
-
-make the text edits to the quiz and send him the pdf of the results
 
 look at the comments on the business card pdf
 
