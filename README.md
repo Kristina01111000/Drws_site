@@ -284,3 +284,6 @@ specifically for the homepage? I think we can make some things work, like having
 look at the comments on the business card pdf
 
 research other themes that will work with peepso, look good and also not be buggy AND are updated consistently
+
+
+send him the app.js file for basit
