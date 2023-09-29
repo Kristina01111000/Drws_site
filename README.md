@@ -279,9 +279,6 @@ videos done: 9
 need to make the slider for the new homepage -> use gutenslider he will send me what should be put on the slides
 consider the color scheme
 
-specifically for the homepage? I think we can make some things work, like having the images and text next to each other, having some testimonials at the bottom.  I can try moving the logo down and having the menu at the top look like his, Should i put something together for our next meeting?
-
-look at the comments on the business card pdf
 
 research other themes that will work with peepso, look good and also not be buggy AND are updated consistently
 
