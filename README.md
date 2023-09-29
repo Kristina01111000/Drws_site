@@ -142,16 +142,6 @@ Things im waiting for from dr w:
 - new video explaining the 30 day challenge - probably not until summer
 - more lesson videos
 
-TO do:
-
-Plan is to include 30 day challenge on the first 4 news letters, then not on the others, b/c everyone who signs up for the first 30 days will definitely be doing it/ not be done with it
-
-Send newsletters on monday at 10 am
-
-For email google doc:
-- list of quotes
-- list of tips
-- list of videos
 
 In future:
 
