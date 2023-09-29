@@ -52,11 +52,11 @@ May: 6 hour 15 min -> recieved
 
 June: 4 hour 15 min -> recieved
 
-July: 2 hour 0 min -> sent
+July: 2 hour 0 min -> recieved
 
-August: 7 hour 30 min -> sent
+August: 7 hour 30 min -> recieved
 
-September: 8 hour 30 min
+September: 8 hour 35 min
 
 plugins im using on site:
 
@@ -283,5 +283,3 @@ specifically for the homepage? I think we can make some things work, like having
 look at the comments on the business card pdf
 
 research other themes that will work with peepso, look good and also not be buggy AND are updated consistently
-
-check on the emails
