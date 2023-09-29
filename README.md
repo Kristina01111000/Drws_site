@@ -285,7 +285,7 @@ look at the comments on the business card pdf
 
 research other themes that will work with peepso, look good and also not be buggy AND are updated consistently
 
-
+9/28
 send him the app.js file for basit
 
 
@@ -297,3 +297,8 @@ Logo - not in the center
 Pictures with text next to them in sections - he doesn’t like the big boxes with the images next to them
 Testimonials - doesn’t particularly like that
 https://growingholistically.com/temp-homepage/ 
+
+
+For temp homepage: he wants a video at the top, then the slide show then the about stuff
+Need a video talking about the patreon for the site and the newsletter
+Make a new page talking about the 30 day challenge, put it on the header
