@@ -67,7 +67,8 @@ plugins im using on site:
 - Forget About Shortcode button 
 - aksimet
 - total upkeep
-- widget context 
+- widget context
+- siteground security and speed
 - code snippets -> needed for google analytics
 - autoptimization (not css, messed it up really bad) - not using it anymore
 - w3 total cache - not anymore
