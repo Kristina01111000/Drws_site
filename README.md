@@ -287,3 +287,13 @@ research other themes that will work with peepso, look good and also not be bugg
 
 
 send him the app.js file for basit
+
+
+
+Look at the site to see specifically what you like, https://www.imaet.com/ 
+Header - menu is part of what he likes, why join, learning program, about dr w, latest posts, community board, try to get the lines 
+Background - he likes the floating background on it, see if i can get something like that to work with gecko, try it as the header background, see if it would work on all the pages without looking bad, slowing it down
+Logo - not in the center
+Pictures with text next to them in sections - he doesn’t like the big boxes with the images next to them
+Testimonials - doesn’t particularly like that
+https://growingholistically.com/temp-homepage/ 
