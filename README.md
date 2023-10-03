@@ -296,9 +296,9 @@ Fix whatever caused it to break
 
 
 
+work on spreadsheet for videos
 
-
-Make slides:
+Make slides: tell him about issues with the backgrounds, faces, awkward looking poses
 
 
     Holistic Advise for Your Pain or Health Issue series – Helpful videos taking advantage of Dr. Walsdorf’s 30 years of experience in using the four element holistic context to resolve his patients’ problems
