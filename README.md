@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 10 min
+October: 25 min
 
 plugins im using on site:
 
@@ -300,7 +300,6 @@ Fix whatever caused it to break
 
 Make slides:
 
-    Dr. W’s Holistic Learning Program – A series of 20 minute videos where Dr. W uses nature’s four elements to understand the how and the why of important dimensions of your life
 
     Holistic Advise for Your Pain or Health Issue series – Helpful videos taking advantage of Dr. Walsdorf’s 30 years of experience in using the four element holistic context to resolve his patients’ problems
 
