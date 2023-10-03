@@ -292,4 +292,22 @@ Can't left align or justify text, most of the text is offscreen when i try to do
 Try to make logo smaller and to the left in the pdf
 Fix whatever caused it to break
 
-Ask for siteground access to fourelementinstitute site
+
+
+
+
+Make slides:
+
+    Dr. W’s Holistic Learning Program – A series of 20 minute videos where Dr. W uses nature’s four elements to understand the how and the why of important dimensions of your life
+
+    Holistic Advise for Your Pain or Health Issue series – Helpful videos taking advantage of Dr. Walsdorf’s 30 years of experience in using the four element holistic context to resolve his patients’ problems
+
+    Dr. W’s “Quick Minutes” – Short, often fun and useful four element concepts applied to the problems of our day
+
+    4 Element Yoga – References for exercises Dr. W gives his patients – For improved body (somatic) awareness and health as you feel life’s principles being drawn into your body through special body motions. This is a signature part of the holistic health-renewal program that many patients are on.
+    Dr. W’s Four Element Nutrition-Cooking-Feasting Show – coming soon
+
+    The Recalibrating Your Balance App – Phone/PC/Mac compatible – earn redeemable points as you develop a good health-building, life-renewing routine – coming soon
+
+    The knowledge that you are helping people discover the unifying, life-renewing & balance- building power of nature’s Fire, Air, Water & Earth
+
