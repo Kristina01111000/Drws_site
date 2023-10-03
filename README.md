@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 30 min
+October: 40 min
 
 plugins im using on site:
 
@@ -311,4 +311,4 @@ Make slides:
 
     The Recalibrating Your Balance App – Phone/PC/Mac compatible – earn redeemable points as you develop a good health-building, life-renewing routine – coming soon
 
-
+  figure out how to make yoga slide work
