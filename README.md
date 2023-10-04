@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 40 min
+October: 55 min
 
 plugins im using on site:
 
@@ -292,8 +292,8 @@ Did you have information that you want on the slides for the new homepage? -> ma
 I made the patreon shop photo work, is it ok? I had to cut most of the length of the book to get the whole title to show -> https://www.patreon.com/GrowingHolistically/shop -> try making the white black, or light blue, or something that looks good, try to get the whole book to show in the hero image
 Can't left align or justify text, most of the text is offscreen when i try to do it, try to move x over so i can justify the text, then add 65 to x for the graphs
 Try to make logo smaller and to the left in the pdf
-Fix whatever caused it to break
 
+figure out why siteground security was causing issues with login
 
 
 work on spreadsheet for videos
