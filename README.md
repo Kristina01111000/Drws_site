@@ -249,13 +249,7 @@ Pick a video to put on the homepage, optimally one of him talking about the patr
 For bullet point about learning program link to the first lesson on the site, then sell the patreon underneath it
 For bullet point quick minutes say they are available for free and join the patreon to see them
 Think about how the 30 day challenge should be used going forward, where should we talk about it etc, in a collection ‘things you can do now working title’ phone apps and more, something like that, talk about it in the newsletter
-Try the gutenslider for the bullets, bullets are a fall back, with the slider we might not need a video 
-Where should the mission of growing holistically go? Not homepage, make a new page and figure out where to link to it from, make a similar page for the community section, 
-Consider adding monthly topics back to the header
 For homepage add more hotlinks below the slider, if you are already a member click here to get to our patreon site collections
-see if the contributor levels on patreon should be changed, look over the description of them to see if any should be moved up or down
-
-
 
 
 look at the picture in email from the patreon, is there a place it will look good in the site? not the homepage
