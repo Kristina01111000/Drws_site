@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 1 hour 25 min
+October: 1 hour 30 min
 
 plugins im using on site:
 
@@ -295,6 +295,7 @@ Try to make logo smaller and to the left in the pdf
 
 figure out why siteground security was causing issues with login
 
+think about header changes
 
 work on spreadsheet for videos
 
@@ -315,5 +316,3 @@ Make slides: tell him about issues with the backgrounds, faces, awkward looking 
 
     The knowledge that you are helping people discover the unifying, life-renewing & balance- building power of nature’s Fire, Air, Water & Earth
 
-
-  figure out how to make yoga slide work
