@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 55 min
+October: 1 hour 5 min
 
 plugins im using on site:
 
@@ -301,7 +301,6 @@ work on spreadsheet for videos
 Make slides: tell him about issues with the backgrounds, faces, awkward looking poses, weird hand gestures etc
 
 
-    Holistic Advise for Your Pain or Health Issue series – Helpful videos taking advantage of Dr. Walsdorf’s 30 years of experience in using the four element holistic context to resolve his patients’ problems
 
     Dr. W’s “Quick Minutes” – Short, often fun and useful four element concepts applied to the problems of our day
 
