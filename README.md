@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 1 hour 5 min
+October: 1 hour 25 min
 
 plugins im using on site:
 
@@ -298,7 +298,7 @@ figure out why siteground security was causing issues with login
 
 work on spreadsheet for videos
 
-Make slides: tell him about issues with the backgrounds, faces, awkward looking poses, weird hand gestures etc that none of thm are finalized
+Make slides: tell him about issues with the backgrounds, faces, awkward looking poses, weird hand gestures etc that none of thm are finalized, all new ones will have 50 px of white space added
 
 
 
