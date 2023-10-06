@@ -287,7 +287,7 @@ I made the patreon shop photo work, is it ok? I had to cut most of the length of
 Can't left align or justify text, most of the text is offscreen when i try to do it, try to move x over so i can justify the text, then add 65 to x for the graphs
 Try to make logo smaller and to the left in the pdf
 
-figure out why siteground security was causing issues with login
+figure out why siteground security was causing issues with login or find a new security plugin for both sites
 
 think about header changes
 
