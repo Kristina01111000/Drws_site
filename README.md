@@ -310,3 +310,4 @@ Make slides: tell him about issues with the backgrounds, faces, awkward looking 
 
     The knowledge that you are helping people discover the unifying, life-renewing & balance- building power of nature’s Fire, Air, Water & Earth
 
+figure out QR code page
