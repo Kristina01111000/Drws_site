@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 3 hour 15 min
+October: 3 hour 25 min
 
 plugins im using on site:
 
@@ -319,7 +319,6 @@ Make the slider smaller, add padding, shorten it and make it less wide
 Finding screenshots was difficult, videos look good, but stills look kinda awkward because of background, hand shape, facial expression etc issues try to find different pictures, they are ok, but not good, try to find one in scrubs
 Do you have an idea for a better picture for the 4 E yoga picture, i tried to find a good one, but it was difficult, so i saved one that is showing your back, look at the new videos on patreon
 Should I make a slide for the cooking show? Look for the video where he is poaching an egg 
-I would like a still of the app for the app slide he will get back to me on that 
 What do you think of the background for the inspirational message at the end? Not good, find a different picture
 
 For next week:
