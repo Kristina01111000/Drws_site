@@ -311,3 +311,26 @@ Make slides: tell him about issues with the backgrounds, faces, awkward looking 
     The knowledge that you are helping people discover the unifying, life-renewing & balance- building power of nature’s Fire, Air, Water & Earth
 
 figure out QR code page
+
+
+
+do you like the font? Match the website font, make the text bigger, but not a lot bigger
+Make the slider smaller, add padding, shorten it and make it less wide
+Finding screenshots was difficult, videos look good, but stills look kinda awkward because of background, hand shape, facial expression etc issues try to find different pictures, they are ok, but not good, try to find one in scrubs
+Do you have an idea for a better picture for the 4 E yoga picture, i tried to find a good one, but it was difficult, so i saved one that is showing your back, look at the new videos on patreon
+Should I make a slide for the cooking show? Look for the video where he is poaching an egg 
+I would like a still of the app for the app slide he will get back to me on that 
+What do you think of the background for the inspirational message at the end? Not good, find a different picture
+I made the header changes we talked about, it looks much cleaner Make them go on two lines again
+ For the 30 day challenge, i think the current first page is good, i removed the other pages from the header, but not from the links on the 30 day challenge pages
+
+For next week:
+Fix four element institute
+Get a new security plugin
+https://www.bigstockphoto.com/image-453557329/stock-photo-seamless-pattern-spring-green-grass-landscape-with-could-on-blue-sky-in-sunny-day%2Cendless-vector-car
+Edit the above picture, both top and bottom to see what it looks like in the header on GH
+Try setting it as the background of the whole site, see if he likes it
+Also try setting a background color for the pages send him screenshots if they look good/bad
+Make the text on the homepage bigger ie up to a 16 from a 10
+Make all the course content visible but have a link to the video on patreon add “if you’ve already watched it try the quiz”
+Update the lesson chats and connect them to the lesson
