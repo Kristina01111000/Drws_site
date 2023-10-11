@@ -324,9 +324,7 @@ What do you think of the background for the inspirational message at the end? No
 
 For next week:
 Get a new security plugin
-https://www.bigstockphoto.com/image-453557329/stock-photo-seamless-pattern-spring-green-grass-landscape-with-could-on-blue-sky-in-sunny-day%2Cendless-vector-car
-Edit the above picture, both top and bottom to see what it looks like in the header on GH
-Try setting it as the background of the whole site, see if he likes it
+
 Also try setting a background color for the pages send him screenshots if they look good/bad
 Make the text on the homepage bigger ie up to a 16 from a 10
 Make all the course content visible but have a link to the video on patreon add “if you’ve already watched it try the quiz”
