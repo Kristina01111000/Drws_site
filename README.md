@@ -321,11 +321,8 @@ Do you have an idea for a better picture for the 4 E yoga picture, i tried to fi
 Should I make a slide for the cooking show? Look for the video where he is poaching an egg 
 I would like a still of the app for the app slide he will get back to me on that 
 What do you think of the background for the inspirational message at the end? Not good, find a different picture
-I made the header changes we talked about, it looks much cleaner Make them go on two lines again
- For the 30 day challenge, i think the current first page is good, i removed the other pages from the header, but not from the links on the 30 day challenge pages
 
 For next week:
-Fix four element institute
 Get a new security plugin
 https://www.bigstockphoto.com/image-453557329/stock-photo-seamless-pattern-spring-green-grass-landscape-with-could-on-blue-sky-in-sunny-day%2Cendless-vector-car
 Edit the above picture, both top and bottom to see what it looks like in the header on GH
