@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 4 hour 10 min
+October: 4 hour 30 min
 
 plugins im using on site:
 
@@ -322,5 +322,4 @@ For next week:
 Get a new security plugin
 
 Also try setting a background color for the pages send him screenshots if they look good/bad
-Make all the course content visible but have a link to the video on patreon add “if you’ve already watched it try the quiz”
-Update the lesson chats and connect them to the lesson
+
