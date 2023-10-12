@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 3 hour 25 min
+October: 4 hour 10 min
 
 plugins im using on site:
 
@@ -316,15 +316,11 @@ figure out QR code page
 
 do you like the font? Match the website font, make the text bigger, but not a lot bigger
 Make the slider smaller, add padding, shorten it and make it less wide
-Finding screenshots was difficult, videos look good, but stills look kinda awkward because of background, hand shape, facial expression etc issues try to find different pictures, they are ok, but not good, try to find one in scrubs
-Do you have an idea for a better picture for the 4 E yoga picture, i tried to find a good one, but it was difficult, so i saved one that is showing your back, look at the new videos on patreon
-Should I make a slide for the cooking show? Look for the video where he is poaching an egg 
 What do you think of the background for the inspirational message at the end? Not good, find a different picture
 
 For next week:
 Get a new security plugin
 
 Also try setting a background color for the pages send him screenshots if they look good/bad
-Make the text on the homepage bigger ie up to a 16 from a 10
 Make all the course content visible but have a link to the video on patreon add “if you’ve already watched it try the quiz”
 Update the lesson chats and connect them to the lesson
