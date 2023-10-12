@@ -322,4 +322,4 @@ For next week:
 Get a new security plugin
 
 Also try setting a background color for the pages send him screenshots if they look good/bad
-
+we will redirect the QR code page to whatever we want to send it to
