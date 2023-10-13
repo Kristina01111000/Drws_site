@@ -314,7 +314,7 @@ figure out QR code page
 
 
 
-do you like the font? Match the website font, make the text bigger, but not a lot bigger
+do you like the font? Match the website font
 Make the slider smaller, add padding, shorten it and make it less wide
 What do you think of the background for the inspirational message at the end? Not good, find a different picture
 
