@@ -319,7 +319,11 @@ Make the slider smaller, add padding, shorten it and make it less wide
 What do you think of the background for the inspirational message at the end? Not good, find a different picture
 
 For next week:
-Get a new security plugin
 
+Do you like the screenshot of the video that also links to the patreon? yes , do that for all the lessons (including the first lesson)
 Also try setting a background color for the pages send him screenshots if they look good/bad
 we will redirect the QR code page to whatever we want to send it to
+
+Is the homepage text big enough? Is it too big now? Make it a little smaller, not as small as it was before
+Make the slides smaller, less of the page
+the header also looked like it was from the 90’s(in a bad way), if you are attached to having an image in the header we should look for a different image that looks better, modern site with images in the header tend to have more abstract images, he wants one for the header, make it look more modern
