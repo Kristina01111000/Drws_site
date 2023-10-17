@@ -319,7 +319,7 @@ What do you think of the background for the inspirational message at the end? No
 For next week:
 
 Do you like the screenshot of the video that also links to the patreon? yes , do that for all the lessons (including the first lesson)
-Also try setting a background color for the pages send him screenshots if they look good/bad
+
 we will redirect the QR code page to whatever we want to send it to
 
 Is the homepage text big enough? Is it too big now? Make it a little smaller, not as small as it was before
