@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 5 hour 40 min
+October: 5 hour 50 min
 
 plugins im using on site:
 
@@ -310,8 +310,6 @@ Make slides: tell him about issues with the backgrounds, faces, awkward looking 
 
     The knowledge that you are helping people discover the unifying, life-renewing & balance- building power of nature’s Fire, Air, Water & Earth
 
-figure out QR code page
-
 
 
 do you like the font? Match the website font
@@ -326,4 +324,3 @@ we will redirect the QR code page to whatever we want to send it to
 
 Is the homepage text big enough? Is it too big now? Make it a little smaller, not as small as it was before
 Make the slides smaller, less of the page
-the header also looked like it was from the 90’s(in a bad way), if you are attached to having an image in the header we should look for a different image that looks better, modern site with images in the header tend to have more abstract images, he wants one for the header, make it look more modern
