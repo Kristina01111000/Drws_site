@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 6 hour 0 min
+October: 6 hour 10 min
 
 plugins im using on site:
 
@@ -328,3 +328,5 @@ Make the slides smaller, less of the page
 ben sent the video link, can't download it
 
 look at pixlr for editing the header potentials
+
+edit the lesson files
