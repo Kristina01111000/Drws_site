@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 6 hour 30 min
+October: 6 hour 40 min
 
 plugins im using on site:
 
@@ -318,11 +318,8 @@ What do you think of the background for the inspirational message at the end? No
 
 For next week:
 
-Do you like the screenshot of the video that also links to the patreon? yes , do that for all the lessons (including the first lesson)
-
 we will redirect the QR code page to whatever we want to send it to
 
-Is the homepage text big enough? Is it too big now? Make it a little smaller, not as small as it was before
 Make the slides smaller, less of the page
 
 ben sent the video link, can't download it
