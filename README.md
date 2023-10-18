@@ -189,7 +189,6 @@ how to organize the videos on patreon also?
 fix the form so people get added to constnat contact -> talk to peepso support
 
 Ask if he still wants quizzes on the site -> i think so 
-anyone can join, but to get access to more they need to join patreon OR anyone can join but they need a code from patroen
 
 see if i can connect the constnat contact form to the pepso form, they sit on top of each other now, they can only do one at a time -> contacted peepso support, currently the sign up for email doesn't go through
 
@@ -202,8 +201,6 @@ Add the email list to the are you sure page, to get the scorecard
 
 
 8/30
-No meeting on the 14th
-See if we can figure out how to do the free section of the patreon (quick minutes)
 Look at the quick minutes and see how they are, see if he should look at any of them
 On patreon make the holistic learning program link hot in the pinned post
 Maybe make a start here collection for the documentary and the phone app explanation, think of other ways of approaching it
