@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 6 hour 40 min
+October: 8 hour 15 min
 
 plugins im using on site:
 
@@ -321,3 +321,26 @@ ben sent the video link, can't download it
 look at pixlr for editing the header potentials
 
 get confirmation on lesson 6
+
+
+Prepare for an email blast for next week 
+Always cc dr walsdorf on any email i send to other people about the site
+Change the color of all 4 background images for the header
+Slow down the slides
+Try getting images from bigstock that he already owns for the slides
+ Look for an image of him with a white background to put on the new homepage, only if it looks better than the current black background image
+FOr the 30 day challenge page, move the stuff about it from the current homepage, only the 30 day challenge relevant stuff and then make the temp homepage the current homepage
+Either the slider or clean it up enough so its acceptable for the homepage
+Write down the size of the slider then delete it until the slides are ready
+Get rid of all horoscope mentions
+Figure out how to push all the 30 day challenge pages onto like 2 pages
+Change it to use the scorecard with the challenge instead of making it the challenge
+The scorecard can be useful after the 30 day challenge too - say that
+Go through the registration stuff and add links to the patreon and also remove anything about it being free etc
+Add a link to the 30 day challenge download page
+Make the title of the page here's 2 ways to get you 4 e scorecard, delete the paragraphs above and get rid of the title
+Make a new pdf on the fourissimo page to get rid of the 48 thing in the tab when it opens
+On fourissimo page see if there is a way to accept attachments 
+Put numbers back in front of the lessons on the learning program page ie Lesson 1, lesson 2
+See if i can make the header taller
+
