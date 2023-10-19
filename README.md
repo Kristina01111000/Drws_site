@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 8 hour 20 min
+October: 8 hour 30 min
 
 plugins im using on site:
 
@@ -308,8 +308,6 @@ What do you think of the background for the inspirational message at the end? No
 For next week:
 
 we will redirect the QR code page to whatever we want to send it to
-
-ben sent the video link, can't download it
 
 look at pixlr for editing the header potentials
 
