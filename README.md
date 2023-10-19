@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 8 hour 15 min
+October: 8 hour 20 min
 
 plugins im using on site:
 
@@ -256,11 +256,6 @@ found where to edit the lorem ipsum.  its in the javascript file, made edits, ne
 link to the google sheet on the to do list
 go over the quick minute videos, try to get 15 done by thursday, there are 24 on youtube, don't know how many on patreon, if I can't then ask for feed back on  the columns, say that I didn't want to redo it
 videos done: 9
-
-
-consider the color scheme
-
-
 
 9/28
 send him the app.js file for basit
