@@ -316,7 +316,6 @@ look at pixlr for editing the header potentials
 10/19
 
 - Prepare for an email blast for next week 
-- Always cc dr walsdorf on any email i send to other people about the site
 - Change the color of all 4 background images for the header
 - Slow down the slides
 - Try getting images from bigstock that he already owns for the slides
