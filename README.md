@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 8 hour 45 min
+October: 8 hour 50 min
 
 plugins im using on site:
 
@@ -326,14 +326,14 @@ look at pixlr for editing the header potentials
 - Get rid of all horoscope mentions
 - Figure out how to push all the 30 day challenge pages onto like 2 pages
 - Change it to use the scorecard with the challenge instead of making it the challenge
-- - The scorecard can be useful after the 30 day challenge too - say that
+- The scorecard can be useful after the 30 day challenge too - say that
 - Go through the registration stuff and add links to the patreon and also remove anything about it being free etc
 - Add a link to the 30 day challenge download page
 - Make the title of the page here's 2 ways to get you 4 e scorecard, delete the paragraphs above and get rid of the title
 - Make a new pdf on the fourissimo page to get rid of the 48 thing in the tab when it opens
 - On fourissimo page see if there is a way to accept attachments 
 - Put numbers back in front of the lessons on the learning program page ie Lesson 1, lesson 2
-- See if i can make the header taller
+
 
 
 
