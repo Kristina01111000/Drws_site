@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 8 hour 40 min
+October: 8 hour 45 min
 
 plugins im using on site:
 
@@ -335,3 +335,6 @@ look at pixlr for editing the header potentials
 - Put numbers back in front of the lessons on the learning program page ie Lesson 1, lesson 2
 - See if i can make the header taller
 
+
+
+- see how the quiz is going
