@@ -333,7 +333,7 @@ look at pixlr for editing the header potentials
 - On fourissimo page see if there is a way to accept attachments 
 - Put numbers back in front of the lessons on the learning program page ie Lesson 1, lesson 2
 
-
+- edit the yellow image to green
 
 
 - see how the quiz is going
