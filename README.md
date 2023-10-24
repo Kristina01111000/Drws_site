@@ -316,12 +316,9 @@ look at pixlr for editing the header potentials
 10/19
 
 - Prepare for an email blast for next week 
-- Change the color of all 4 background images for the header
 - Try getting images from bigstock that he already owns for the slides
 - Get rid of all horoscope mentions
-- Figure out how to push all the 30 day challenge pages onto like 2 pages
 - Change it to use the scorecard with the challenge instead of making it the challenge
-- The scorecard can be useful after the 30 day challenge too - say that
 - Go through the registration stuff and add links to the patreon and also remove anything about it being free etc
 - Add a link to the 30 day challenge download page
 - Make a new pdf on the fourissimo page to get rid of the 48 thing in the tab when it opens
