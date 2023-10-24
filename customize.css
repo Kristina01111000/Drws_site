@@ -128,3 +128,7 @@ body .wp-block-columns .wp-block-column {
 .ps-avatar--group{
 	display: none;
 }
+// new header image
+.gc-header{
+	 background-image: url(https://growingholistically.com/wp-content/uploads/2023/10/editedgreenheader3.png);
+}		
