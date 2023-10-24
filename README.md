@@ -110,9 +110,6 @@ Notes:
 	- nothing on site can be hidden from administrators
 	- current font sizes should continue on through the site
 	- Manager of youtube now also -> can change/add etc videos and everything
-	- yearly 
-	
-	
 	- Monthly topics are articles now
 	- page redirect completely turned off
 	- four corners page is a draft now
