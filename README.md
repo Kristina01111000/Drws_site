@@ -337,3 +337,4 @@ look at pixlr for editing the header potentials
 
 
 - see how the quiz is going
+- look at the book listing on the site, it should i add another place to get it
