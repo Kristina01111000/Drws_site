@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 8 hour 55 min
+October: 9 hour 10 min
 
 plugins im using on site:
 
@@ -317,12 +317,7 @@ look at pixlr for editing the header potentials
 
 - Prepare for an email blast for next week 
 - Change the color of all 4 background images for the header
-- Slow down the slides
 - Try getting images from bigstock that he already owns for the slides
--  Look for an image of him with a white background to put on the new homepage, only if it looks better than the current black background image
-- FOr the 30 day challenge page, move the stuff about it from the current homepage, only the 30 day challenge relevant stuff and then make the temp homepage the current homepage
-- Either delete the slider or clean it up enough so its acceptable for the homepage
-- Write down the size of the slider then delete it until the slides are ready
 - Get rid of all horoscope mentions
 - Figure out how to push all the 30 day challenge pages onto like 2 pages
 - Change it to use the scorecard with the challenge instead of making it the challenge
