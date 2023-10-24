@@ -309,16 +309,12 @@ For next week:
 
 we will redirect the QR code page to whatever we want to send it to
 
-look at pixlr for editing the header potentials
-
-
 
 10/19
 
 - Prepare for an email blast for next week 
 - Try getting images from bigstock that he already owns for the slides
 - Get rid of all horoscope mentions
-- Change it to use the scorecard with the challenge instead of making it the challenge
 - Go through the registration stuff and add links to the patreon and also remove anything about it being free etc
 - Add a link to the 30 day challenge download page
 - Make a new pdf on the fourissimo page to get rid of the 48 thing in the tab when it opens
