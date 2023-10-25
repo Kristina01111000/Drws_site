@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min
 
-October: 10 hour 15 min
+October: 10 hour 45 min
 
 plugins im using on site:
 
@@ -311,9 +311,6 @@ we will redirect the QR code page to whatever we want to send it to
 
 - Prepare for an email blast for next week 
 - Try getting images from bigstock that he already owns for the slides
-- Get rid of all horoscope mentions
-- Go through the registration stuff and add links to the patreon and also remove anything about it being free etc
-- Add a link to the 30 day challenge download page
 - Make a new pdf on the fourissimo page to get rid of the 48 thing in the tab when it opens
 - On fourissimo page see if there is a way to accept attachments 
 - Put numbers back in front of the lessons on the learning program page ie Lesson 1, lesson 2
