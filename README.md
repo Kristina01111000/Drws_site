@@ -268,8 +268,6 @@ Need a video talking about the patreon for the site and the newsletter
 Make a new page talking about the 30 day challenge, put it on the header
 
 
-Did you have information that you want on the slides for the new homepage? -> make them using the bullet points, take screen shots for the background
-I made the patreon shop photo work, is it ok? I had to cut most of the length of the book to get the whole title to show -> https://www.patreon.com/GrowingHolistically/shop -> try making the white black, or light blue, or something that looks good, try to get the whole book to show in the hero image
 Can't left align or justify text, most of the text is offscreen when i try to do it, try to move x over so i can justify the text, then add 65 to x for the graphs
 Try to make logo smaller and to the left in the pdf
 
