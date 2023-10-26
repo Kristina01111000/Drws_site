@@ -132,13 +132,9 @@ https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROX
 to do now:
 
 - Write a review in fourissimo club for the heel strike fixing plantar fasciitis
-- Fix the title of the download pdf on fourissimo page
-
-- check names of lessons on promo page when new youtube video is dropped
-
+- 
 Things im waiting for from dr w:
 - email  list for current clients, hopefully soon
-- new video explaining the 30 day challenge - probably not until summer
 - more lesson videos
 
 
