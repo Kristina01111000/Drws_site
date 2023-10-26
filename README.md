@@ -319,16 +319,8 @@ we will redirect the QR code page to whatever we want to send it to
 
 
 - see how the quiz is going
-- look at the book listing on the site, it should i add another place to get it
-- 
-talk about 2 slideshows of different sizes
-
-
-
-Make all patreon links open in a new tab
+- Make all patreon links open in a new tab
 Change all the greens on the site to blend with the header color
 Make origins lesson quiz
-Go through the lessons and make all of the links open in a new tab
 Make both sizes of slides, edit it so they show up only on the correct size screen
-Add check out dr w’s book to the bottom of the menu widget
 Add something to membership confirmation page about the community -> dr w is going to do this
