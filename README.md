@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min -> sent
 
-October: 11 hour 5 min
+October: 11 hour 15 min
 
 plugins im using on site:
 
@@ -320,3 +320,5 @@ we will redirect the QR code page to whatever we want to send it to
 
 - see how the quiz is going
 - look at the book listing on the site, it should i add another place to get it
+- 
+talk about 2 slideshows of different sizes
