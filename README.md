@@ -268,12 +268,9 @@ Need a video talking about the patreon for the site and the newsletter
 Make a new page talking about the 30 day challenge, put it on the header
 
 
-Can't left align or justify text, most of the text is offscreen when i try to do it, try to move x over so i can justify the text, then add 65 to x for the graphs
-Try to make logo smaller and to the left in the pdf
 
 figure out why siteground security was causing issues with login or find a new security plugin for both sites
 
-think about header changes
 
 work on spreadsheet for videos
 
