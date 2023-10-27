@@ -289,9 +289,7 @@ Make slides: tell him about issues with the backgrounds, faces, awkward looking 
 
 
 
-do you like the font? Match the website font
-Make the slider smaller, add padding, shorten it and make it less wide
-What do you think of the background for the inspirational message at the end? Not good, find a different picture
+Match the website font for slides
 
 For next week:
 
