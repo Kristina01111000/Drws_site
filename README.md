@@ -253,13 +253,6 @@ videos done: 9
 9/28
 send him the app.js file for basit
 
-
-
-Look at the site to see specifically what you like, https://www.imaet.com/ 
-Header - menu is part of what he likes, why join, learning program, about dr w, latest posts, community board, try to get the lines 
-Background - he likes the floating background on it, see if i can get something like that to work with gecko, try it as the header background, see if it would work on all the pages without looking bad, slowing it down
-
-For temp homepage: he wants a video at the top, then the slide show then the about stuff
 Need a video talking about the patreon for the site and the newsletter
 Make a new page talking about the 30 day challenge, put it on the header
 
@@ -290,8 +283,6 @@ Make slides: tell him about issues with the backgrounds, faces, awkward looking 
 
 
 Match the website font for slides
-
-For next week:
 
 we will redirect the QR code page to whatever we want to send it to
 
