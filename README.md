@@ -310,3 +310,6 @@ we will redirect the QR code page to whatever we want to send it to
 - Make origins lesson quiz
 - Make both sizes of slides, edit it so they show up only on the correct size screen
 - Add something to membership confirmation page about the community -> dr w is going to do this
+- 
+
+- add book excerpt that he sent in email
