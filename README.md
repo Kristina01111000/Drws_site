@@ -300,16 +300,13 @@ we will redirect the QR code page to whatever we want to send it to
 
 - Prepare for an email blast for next week 
 - Try getting images from bigstock that he already owns for the slides
-- Make a new pdf on the fourissimo page to get rid of the 48 thing in the tab when it opens
 - On fourissimo page see if there is a way to accept attachments 
 - Put numbers back in front of the lessons on the learning program page ie Lesson 1, lesson 2
-
-- edit the yellow image to green
 
 
 - see how the quiz is going
 - Make all patreon links open in a new tab
-Change all the greens on the site to blend with the header color
-Make origins lesson quiz
-Make both sizes of slides, edit it so they show up only on the correct size screen
-Add something to membership confirmation page about the community -> dr w is going to do this
+- Change all the greens on the site to blend with the header color
+- Make origins lesson quiz
+- Make both sizes of slides, edit it so they show up only on the correct size screen
+- Add something to membership confirmation page about the community -> dr w is going to do this
