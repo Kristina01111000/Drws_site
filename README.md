@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min -> sent
 
-October: 12 hour 40 min
+October: 12 hour 50 min
 
 plugins im using on site:
 
@@ -303,4 +303,5 @@ we will redirect the QR code page to whatever we want to send it to
 - Add something to membership confirmation page about the community -> dr w is going to do this
 - 
 
-- add book excerpt that he sent in email
+- add book excerpt that he sent in email -> still messed up tab
+- go over color changes
