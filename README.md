@@ -146,10 +146,8 @@ In future:
 
 5/4
 
-- add titles of lessons to the course chats and come up with a converstion starter (two needed)
+- add titles of lessons to the course chats 
 -Change the chat titles to share your thoughts on lesson __
-
-Scorecard group https://growingholistically.com/groups/?scorecard-chat/
 
 - The scorecard inspired me to _____ and _____
 - Like somebody doing the scorecard and leaving little comments
