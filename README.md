@@ -58,7 +58,9 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min -> sent
 
-October: 12 hour 55 min
+October: 12 hour 45 min
+
+November: 1 hour 10 minutes
 
 plugins im using on site:
 
@@ -303,3 +305,5 @@ we will redirect the QR code page to whatever we want to send it to
 
 - add book excerpt that he sent in email -> still messed up tab -> still mesed up, i don't think it can be fixed in a way that looks good
 - go over color changes
+
+added text and images into a blank slide, is that good enough
