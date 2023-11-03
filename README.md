@@ -289,10 +289,7 @@ we will redirect the QR code page to whatever we want to send it to
 
 10/19
 
-- Prepare for an email blast for next week 
-- Try getting images from bigstock that he already owns for the slides
 - On fourissimo page see if there is a way to accept attachments 
-- Put numbers back in front of the lessons on the learning program page ie Lesson 1, lesson 2
 
 
 - see how the quiz is going
