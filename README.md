@@ -233,10 +233,6 @@ make sure to read everything for slang that he doesn't know he is using
 
 9/7:
 
-Pick a quick minute sample to be embedded on the homepage
-Pick a video to put on the homepage, optimally one of him talking about the patreon site
-For bullet point about learning program link to the first lesson on the site, then sell the patreon underneath it
-For bullet point quick minutes say they are available for free and join the patreon to see them
 Think about how the 30 day challenge should be used going forward, where should we talk about it etc, in a collection ‘things you can do now working title’ phone apps and more, something like that, talk about it in the newsletter
 For homepage add more hotlinks below the slider, if you are already a member click here to get to our patreon site collections
 
