@@ -307,3 +307,17 @@ we will redirect the QR code page to whatever we want to send it to
 - go over color changes
 
 added text and images into a blank slide, is that good enough
+
+
+
+Columns on the front page make them the same length, or add another line
+Fix the slides link to patreon, needs to open in a different tab
+Someof theimages on the slides aren’t showing up all the time
+For slides make them side by side, 
+Keep them all consistent except for one, to see how it looks
+Remove the quick minute caption
+See if i can margin/padding work around the inline image
+See how the quotation work with padding/margin
+Make quotation not be so wide
+Make comments on his email that he changed for the email blast, 
+
