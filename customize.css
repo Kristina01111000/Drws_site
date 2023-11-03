@@ -138,3 +138,19 @@ body .wp-block-columns .wp-block-column {
 	background-image: url(https://growingholistically.com/wp-content/uploads/2023/10/editedgreenheader5.png);
 	background-size: 100%;
 }
+
+
+// custom margins + padding for text on homepage
+.custommargin2{
+	margin:2px 15%;
+}
+.custommargin3{
+	margin-right:5%;
+}
+.custommargin4{
+	margin-left:5%;
+}
+.custompadding{
+	padding-right: 15%;
+	padding-left: 15%;
+}
