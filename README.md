@@ -263,8 +263,6 @@ figure out why siteground security was causing issues with login or find a new s
 
 work on spreadsheet for videos
 
-Make slides: tell him about issues with the backgrounds, faces, awkward looking poses, weird hand gestures etc that none of thm are finalized, all new ones will have 50 px of white space added
-
 
 
     Dr. W’s Holistic Learning Program – A series of 20 minute videos where Dr. W uses nature’s four elements to understand the how and the why of important dimensions of your life
