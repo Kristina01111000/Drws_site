@@ -250,14 +250,6 @@ link to the google sheet on the to do list
 go over the quick minute videos, try to get 15 done by thursday, there are 24 on youtube, don't know how many on patreon, if I can't then ask for feed back on  the columns, say that I didn't want to redo it
 videos done: 9
 
-9/28
-send him the app.js file for basit
-
-Need a video talking about the patreon for the site and the newsletter
-Make a new page talking about the 30 day challenge, put it on the header
-
-
-
 figure out why siteground security was causing issues with login or find a new security plugin for both sites
 
 
@@ -278,9 +270,6 @@ work on spreadsheet for videos
 
     The knowledge that you are helping people discover the unifying, life-renewing & balance- building power of nature’s Fire, Air, Water & Earth
 
-
-
-Match the website font for slides
 
 we will redirect the QR code page to whatever we want to send it to
 
