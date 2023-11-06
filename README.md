@@ -145,7 +145,6 @@ In future:
 
 - Send emails at 10 am on monday for newsletter
 - think of how to switch emails to be about the app, it should be ready sometime soon hopefully, he doesn't have the code yet, just the video
-- give people the option between the app and the scorecard site? -> have a line like "download our scorecard app here or get a copy of the scorecard here" -> on both the site and in the emails
 
 5/4
 
@@ -174,7 +173,6 @@ He is thinking of giving current patients a free appointment if they join the pa
 
 see if the wordpress update changed the constnat contact problem
 
-do the book edit
 Add an email list only sign up
 Learning program will not be free anymore, only the first lesson, need to make lots of little changes to the site
 30 day challenge is still free
