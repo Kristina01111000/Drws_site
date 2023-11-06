@@ -279,3 +279,8 @@ for 11/9
 - See how the quotation work with padding/margin
 - Make quotation not be so wide
 
+
+
+
+
+- tell him twitter lost 17% of their users in one year, so if he doesn't want to use, don't
