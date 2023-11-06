@@ -151,10 +151,6 @@ In future:
 - add titles of lessons to the course chats 
 -Change the chat titles to share your thoughts on lesson __
 
-- The scorecard inspired me to _____ and _____
-- Like somebody doing the scorecard and leaving little comments
-
-
 - Skeinific is definitely a person, make sure she is confirmed
 
 How does facebook, twitter, youtube, instagram, tiktok, the site, patreon connect to each other
