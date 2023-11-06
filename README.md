@@ -279,13 +279,12 @@ we will redirect the QR code page to whatever we want to send it to
 - Make all patreon links open in a new tab
 - Change all the greens on the site to blend with the header color
 - Make origins lesson quiz
-- Make both sizes of slides, edit it so they show up only on the correct size screen
 - Add something to membership confirmation page about the community -> dr w is going to do this
-- 
 
 - add book excerpt that he sent in email -> still messed up tab -> still mesed up, i don't think it can be fixed in a way that looks good
 - go over color changes
-
+- 
+for 11/9
 
 - Columns on the front page make them the same length, or add another line
 - Fix the slides link to patreon, needs to open in a different tab
