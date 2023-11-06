@@ -154,17 +154,6 @@ In future:
 - The scorecard inspired me to _____ and _____
 - Like somebody doing the scorecard and leaving little comments
 
-Great outdoors group
-
-- the weather was so nice today, it made my time gardening better
-- something about ideas for what to do outside other than swimming when it it really hot
-- then an answer can be go for walks/ bike rides in the early morning, or after sunset when it is cooled, go for hikes in shaded areas
-- ideas for outside activities when the weather is bad, like cold and damp
-
-Nutrition group
-
-- share a recipe? Not against the idea of outside recipes ie quinoa salad recipe
-
 
 - Skeinific is definitely a person, make sure she is confirmed
 
