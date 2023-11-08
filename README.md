@@ -200,10 +200,6 @@ Should focus on things added to the patreon, links and description, recipe?, sea
 
 for 9/7:
 
-Did you decide if you still wanted a slider talking about the things available on the homepage?
-
-Right now my understanding of the homepage is that you want it changed so it is more of a sale page for the patreon and the actual website will be a  community for current patreon members. Is this correct?
-
 Should all mentions of the 30 day challenge be removed entirely? 
 Or should it be mentioned but most of the page is trying to get people to join the patreon?
 make sure to read everything for slang that he doesn't know he is using
