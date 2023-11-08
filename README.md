@@ -99,8 +99,7 @@ Notes:
 	- non-members cannot get access to courses, can view the headings 
 		- fixed it in learndash settings, still can't figure out peepso setting
 	- **make sure to use peepso login and log out, not pmp login and logout**
-	- .customclass is the class name to add a border around a group
-	- capitalize the element names everywhere
+		- capitalize the element names everywhere
 	- wants some posts that visible always, some that are unlisted that he uses other sources
 		- meta tags: don'treuse, taken from another source, copied, drwwritten, 
 		- put in categories instead, unlist the ones from other sources, put them in unlisted category
@@ -144,7 +143,7 @@ Things im waiting for from dr w:
 In future:
 
 - Send emails at 10 am on monday for newsletter
-- think of how to switch emails to be about the app, it should be ready sometime soon hopefully, he doesn't have the code yet, just the video
+
 
 5/4
 
@@ -154,12 +153,8 @@ In future:
 - Skeinific is definitely a person, make sure she is confirmed
 
 How does facebook, twitter, youtube, instagram, tiktok, the site, patreon connect to each other
-He is thinking of giving current patients a free appointment if they join the patreon, figure out how to word that in a good way -> he will figure that out
-
-see if the wordpress update changed the constnat contact problem
 
 Add an email list only sign up
-Learning program will not be free anymore, only the first lesson, need to make lots of little changes to the site
 30 day challenge is still free
 Keep stuff on the patreon, but have links to it
 how to organize the videos on patreon also?
