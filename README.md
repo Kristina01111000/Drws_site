@@ -165,7 +165,6 @@ Keep stuff on the patreon, but have links to it
 how to organize the videos on patreon also?
 fix the form so people get added to constnat contact -> talk to peepso support
 
-Ask if he still wants quizzes on the site -> i think so 
 
 see if i can connect the constnat contact form to the pepso form, they sit on top of each other now, they can only do one at a time -> contacted peepso support, currently the sign up for email doesn't go through
 
