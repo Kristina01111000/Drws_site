@@ -60,7 +60,7 @@ September: 8 hour 45 min -> recieved
 
 October: 12 hour 45 min
 
-November: 2 hour 20 minutes
+November: 2 hour 25 minutes
 
 plugins im using on site:
 
@@ -255,7 +255,6 @@ we will redirect the QR code page to whatever we want to send it to
 - 
 for 11/9
 
-- Columns on the front page make them the same length, or add another line
 - Fix the slides link to patreon, needs to open in a different tab
 - Someof theimages on the slides aren’t showing up all the time
 - For slides make them side by side, 
