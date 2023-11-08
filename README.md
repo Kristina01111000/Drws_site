@@ -156,8 +156,6 @@ How does facebook, twitter, youtube, instagram, tiktok, the site, patreon connec
 
 Add an email list only sign up
 30 day challenge is still free
-Keep stuff on the patreon, but have links to it
-how to organize the videos on patreon also?
 fix the form so people get added to constnat contact -> talk to peepso support
 
 
@@ -166,7 +164,6 @@ see if i can connect the constnat contact form to the pepso form, they sit on to
 
 
 8/24
-In info section of book, ad you can get the book as a reward if you join the patreon 
 Have a link that says “not sure you are ready to join? Try our free 30 day challenge”
 Add the email list to the are you sure page, to get the scorecard
 
