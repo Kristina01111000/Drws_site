@@ -197,12 +197,7 @@ Should focus on things added to the patreon, links and description, recipe?, sea
 
 
 
-
-for 9/7:
-
-Should all mentions of the 30 day challenge be removed entirely? 
-Or should it be mentioned but most of the page is trying to get people to join the patreon?
-make sure to read everything for slang that he doesn't know he is using
+- make sure to read everything for slang that he doesn't know he is using
 
 
 
