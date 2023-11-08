@@ -60,7 +60,7 @@ September: 8 hour 45 min -> recieved
 
 October: 12 hour 45 min
 
-November: 2 hour 35 minutes
+November: 3 hour 05 minutes
 
 plugins im using on site:
 
@@ -255,14 +255,9 @@ we will redirect the QR code page to whatever we want to send it to
 - 
 for 11/9
 
-- Fix the slides link to patreon, needs to open in a different tab
 - Someof theimages on the slides aren’t showing up all the time
-- For slides make them side by side, 
-- Keep them all consistent except for one, to see how it looks
 - Remove the quick minute caption
-- See if i can margin/padding work around the inline image
-- See how the quotation work with padding/margin
-- Make quotation not be so wide
+
 
 
 
