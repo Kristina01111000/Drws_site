@@ -157,3 +157,13 @@ body .wp-block-columns .wp-block-column {
 	padding-right: 15%;
 	padding-left: 15%;
 }
+
+// added columns to block in homepage
+.column2{
+	 column-count: 2;
+}
+
+// new margin for homepage columns
+.custommargin5{
+	margin:15px 15%;
+}
