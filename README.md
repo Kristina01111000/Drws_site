@@ -185,13 +185,12 @@ Enable quizzes only to patrons somehow
 fix the lessons so they link to the patreon site post, so the video isn’t on gh
 We might redo the entire first page, which is better pushing 30 day challenge or the patreon
 Site should be focused on getting people to patreon and focusing on the community part of it, think about what parts of the site to get rid of
-Get rid of the holistic growth tab, put activity page at the top
+
 Figure out a way to make the metadata tags on patreon link to the site
 New page: Have a section of dr w’s patreon collections, use a drop down or url with blurb about the collection and a link to the patreon site put on header where holistic growth is currently
 Make the site look like a nice social media site
 Have a start here patreon collection that includes the documentary, the gh site, and the scorecard
 write an email for new users of the patreon to get that talks about the community
-Think about whether or not he needs a newsletter, it should have links to posts for the past few weeks, 
 look at the emails to see what needs to change, link to patreon, and growing holistically
 Should focus on things added to the patreon, links and description, recipe?, seasonal blurb, makes sense to send it once a month
 
