@@ -251,6 +251,6 @@ for 11/9
 
 
 
-- asked stephen how to put the file folder into the site -> it worked!
+- asked stephen how to put the file folder into the site -> it worked! image in email
 
-
+- add links to the quiz on the site
