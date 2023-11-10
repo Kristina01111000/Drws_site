@@ -60,7 +60,7 @@ September: 8 hour 45 min -> recieved
 
 October: 12 hour 45 min
 
-November: 4 hour 10 minutes
+November: 4 hour 20 minutes
 
 plugins im using on site:
 
@@ -251,7 +251,7 @@ for 11/9
 
 
 
-
+- asked stephen how to put the file folder into the site
 
 
 - tell him twitter lost 17% of their users in one year, so if he doesn't want to use, don't
