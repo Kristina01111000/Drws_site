@@ -60,7 +60,7 @@ September: 8 hour 45 min -> recieved
 
 October: 12 hour 45 min
 
-November: 4 hour 30 minutes
+November: 4 hour 40 minutes
 
 plugins im using on site:
 
@@ -254,4 +254,4 @@ for 11/9
 - asked stephen how to put the file folder into the site -> it worked! image in email
 
 - add links to the quiz on the site
-- does he want the 80 Q quiz added?
+- get an update about what he is sending Basit
