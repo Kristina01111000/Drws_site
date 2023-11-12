@@ -255,4 +255,5 @@ for 11/9
 
 - add links to the quiz on the site
 - get an update about what he is sending Basit
-- talk about toxic backlinks if he wants to 
+- talk about toxic backlinks if he wants to
+- ask about not removing the graph from 40
