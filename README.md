@@ -60,7 +60,7 @@ September: 8 hour 45 min -> recieved
 
 October: 12 hour 45 min
 
-November: 4 hour 40 minutes
+November: 4 hour 45 minutes
 
 plugins im using on site:
 
@@ -255,3 +255,4 @@ for 11/9
 
 - add links to the quiz on the site
 - get an update about what he is sending Basit
+- talk about toxic backlinks if he wants to 
