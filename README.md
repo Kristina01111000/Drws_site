@@ -258,3 +258,4 @@ for 11/9
 - talk about toxic backlinks if he wants to
 - ask about not removing the graph from 40
 - disabling auto updates?
+- put the quiz links on the site
