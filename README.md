@@ -60,7 +60,7 @@ September: 8 hour 45 min -> recieved
 
 October: 12 hour 45 min
 
-November: 4 hour 45 minutes
+November: 4 hour 50 minutes
 
 plugins im using on site:
 
@@ -114,6 +114,7 @@ Notes:
 	- Monthly topics are articles now
 	- page redirect completely turned off
 	- four corners page is a draft now
+ 	- constant contact test email have the email of the account owner at the bottom, the actual emails don't
 
 See if there is a way to see how many people downloaded the scorecard, use google for site analytics - he needs a google workspace account for this
 
