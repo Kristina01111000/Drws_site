@@ -258,4 +258,5 @@ for 11/9
 - talk about toxic backlinks if he wants to
 - ask about not removing the graph from 40
 - disabling auto updates?
-- put the quiz links on the site
+- put the quiz links on the site: homepage, other places
+- is the image for the quiz ready? 
