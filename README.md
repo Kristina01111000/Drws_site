@@ -237,15 +237,8 @@ we will redirect the QR code page to whatever we want to send it to
 
 
 - Make origins lesson quiz
-- Add something to membership confirmation page about the community -> dr w is going to do this
 
 - add book excerpt that he sent in email -> still messed up tab -> still mesed up, i don't think it can be fixed in a way that looks good
-- go over color changes
-- 
-for 11/9
-
-- Remove the quick minute caption
-
 
 
 - asked stephen how to put the file folder into the site -> it worked! image in email
