@@ -60,7 +60,7 @@ September: 8 hour 45 min -> recieved
 
 October: 12 hour 45 min
 
-November: 4 hour 50 minutes
+November: 4 hour 55 minutes
 
 plugins im using on site:
 
@@ -236,9 +236,6 @@ we will redirect the QR code page to whatever we want to send it to
 - On fourissimo page see if there is a way to accept attachments 
 
 
-- see how the quiz is going
-- Make all patreon links open in a new tab
-- Change all the greens on the site to blend with the header color
 - Make origins lesson quiz
 - Add something to membership confirmation page about the community -> dr w is going to do this
 
@@ -261,3 +258,11 @@ for 11/9
 - disabling auto updates?
 - put the quiz links on the site: homepage, other places
 - is the image for the quiz ready? 
+
+
+- See if the slides can be slowed down more try 3 times
+- See if i can make a way for the footer menu  to not go vertical when small, it does not have long menu support
+- Less padding for top columns on the homepage
+- Put justified text on the homepage
+- Try to get the bottom columns margin better  (like above columns)
+- Look at the patreon site for any issues
