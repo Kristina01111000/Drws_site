@@ -259,7 +259,6 @@ for 11/9
 - is the image for the quiz ready? 
 
 
-- See if the slides can be slowed down more try 3 times
 - See if i can make a way for the footer menu  to not go vertical when small, it does not have long menu support
 - Less padding for top columns on the homepage
 - Put justified text on the homepage
