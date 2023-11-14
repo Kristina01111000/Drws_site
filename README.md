@@ -244,7 +244,6 @@ we will redirect the QR code page to whatever we want to send it to
 - 
 for 11/9
 
-- Someof theimages on the slides aren’t showing up all the time this is still happening, clearing the cache didn't work
 - Remove the quick minute caption
 
 
