@@ -167,3 +167,9 @@ body .wp-block-columns .wp-block-column {
 .custommargin5{
 	margin:15px 15%;
 }
+// justifies text in all p tags
+p {
+
+text-align: justify;
+
+}
