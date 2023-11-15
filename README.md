@@ -243,17 +243,16 @@ we will redirect the QR code page to whatever we want to send it to
 
 - asked stephen how to put the file folder into the site -> it worked! image in email
 
-- add links to the quiz on the site
 - get an update about what he is sending Basit
 - talk about toxic backlinks if he wants to
 - ask about not removing the graph from 40
 - disabling auto updates?
-- put the quiz links on the site: homepage, other places
 - is the image for the quiz ready? 
 
 
 - See if i can make a way for the footer menu  to not go vertical when small, it does not have long menu support
 - Less padding for top columns on the homepage
-- Put justified text on the homepage
-- Try to get the bottom columns margin better  (like above columns)
 - Look at the patreon site for any issues
+
+
+- justified text on whole site, it doesn't appear to work for mobile
