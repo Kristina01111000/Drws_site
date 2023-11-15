@@ -60,7 +60,7 @@ September: 8 hour 45 min -> recieved
 
 October: 12 hour 45 min -> sent
 
-November: 5 hour 30 minutes
+November: 5 hour 45 minutes
 
 plugins im using on site:
 
@@ -255,3 +255,4 @@ we will redirect the QR code page to whatever we want to send it to
 
 
 - justified text on whole site, it doesn't appear to work for mobile
+- fogure out a new sentecnce or something for the top homepage columns
