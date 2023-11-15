@@ -60,7 +60,7 @@ September: 8 hour 45 min -> recieved
 
 October: 12 hour 45 min -> sent
 
-November: 5 hour 15 minutes
+November: 5 hour 30 minutes
 
 plugins im using on site:
 
@@ -251,7 +251,6 @@ we will redirect the QR code page to whatever we want to send it to
 
 
 - See if i can make a way for the footer menu  to not go vertical when small, it does not have long menu support
-- Less padding for top columns on the homepage
 - Look at the patreon site for any issues
 
 
