@@ -264,7 +264,6 @@ we will redirect the QR code page to whatever we want to send it to
 - He is going to write a blurb for the quizzes
 - Make the menu widget 2 widgets, put them in groupings that make sense
 - Put a link on the header to the patreon site
-- Move about dr w into the widget menu
 - He will add remove a sentence from the paragraphs on the homepage
 - Make the changes with gutenslider premium
 - See if the slides can open in a new tab with the slider now
