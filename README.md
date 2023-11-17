@@ -240,16 +240,7 @@ we will redirect the QR code page to whatever we want to send it to
 
 - add book excerpt that he sent in email -> still messed up tab -> still mesed up, i don't think it can be fixed in a way that looks good
 
-
-- asked stephen how to put the file folder into the site -> it worked! image in email
-
-- get an update about what he is sending Basit
-- talk about toxic backlinks if he wants to
-- ask about not removing the graph from 40
-- disabling auto updates?
 - is the image for the quiz ready? 
-
-
 - See if i can make a way for the footer menu  to not go vertical when small, it does not have long menu support
 - Look at the patreon site for any issues
 
