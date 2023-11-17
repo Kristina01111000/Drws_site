@@ -256,3 +256,16 @@ we will redirect the QR code page to whatever we want to send it to
 
 - justified text on whole site, it doesn't appear to work for mobile
 - fogure out a new sentecnce or something for the top homepage columns
+
+11/16
+- See if bottom text on the quizzes connects to the site
+- Double check that enough links to patreon, add to the menus, add to the header
+- When we get quizzes back fix the titles of the quizzes
+- He is going to write a blurb for the quizzes
+- Make the menu widget 2 widgets, put them in groupings that make sense
+- Put a link on the header to the patreon site
+- Move about dr w into the widget menu
+- He will add remove a sentence from the paragraphs on the homepage
+- Make the changes with gutenslider premium
+- See if the slides can open in a new tab with the slider now
+- Fix footer
