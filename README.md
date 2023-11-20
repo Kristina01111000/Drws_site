@@ -60,7 +60,7 @@ September: 8 hour 45 min -> recieved
 
 October: 12 hour 45 min -> sent
 
-November: 6 hour 50 minutes
+November: 6 hour 55 minutes
 
 plugins im using on site:
 
@@ -249,7 +249,7 @@ we will redirect the QR code page to whatever we want to send it to
 - figure out a new sentence or something for the top homepage columns -> Dr. W is doing this
 
 11/16
-- See if bottom text on the quizzes connects to the site
+- See if bottom text on the quizzes connects to the site -> currently no, still looking into it
 - Double check that enough links to patreon, add to the menus, add to the header
 - When we get quizzes back fix the titles of the quizzes
 - He is going to write a blurb for the quizzes
