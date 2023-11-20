@@ -246,7 +246,7 @@ we will redirect the QR code page to whatever we want to send it to
 
 
 - justified text on whole site, it doesn't appear to work for mobile
-- fogure out a new sentecnce or something for the top homepage columns
+- figure out a new sentence or something for the top homepage columns -> Dr. W is doing this
 
 11/16
 - See if bottom text on the quizzes connects to the site
