@@ -58,7 +58,7 @@ August: 7 hour 30 min -> recieved
 
 September: 8 hour 45 min -> recieved
 
-October: 12 hour 45 min -> sent
+October: 12 hour 45 min -> recieved
 
 November: 6 hour 55 minutes
 
