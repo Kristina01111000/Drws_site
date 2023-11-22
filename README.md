@@ -181,7 +181,6 @@ Site should be focused on getting people to patreon and focusing on the communit
 
 Figure out a way to make the metadata tags on patreon link to the site
 New page: Have a section of dr w’s patreon collections, use a drop down or url with blurb about the collection and a link to the patreon site put on header where holistic growth is currently
-Make the site look like a nice social media site
 Have a start here patreon collection that includes the documentary, the gh site, and the scorecard
 write an email for new users of the patreon to get that talks about the community
 look at the emails to see what needs to change, link to patreon, and growing holistically
