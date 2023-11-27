@@ -60,7 +60,7 @@ September: 8 hour 45 min -> recieved
 
 October: 12 hour 45 min -> recieved
 
-November: 6 hour 55 minutes
+November: 7 hour 0 minutes
 
 plugins im using on site:
 
@@ -256,3 +256,6 @@ we will redirect the QR code page to whatever we want to send it to
 - Make the changes with gutenslider premium
 - See if the slides can open in a new tab with the slider now
 - Fix footer
+
+
+- talk about qr code
