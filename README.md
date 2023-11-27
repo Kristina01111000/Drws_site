@@ -259,3 +259,4 @@ we will redirect the QR code page to whatever we want to send it to
 
 
 - talk about qr code
+- look into a redirect plugin
