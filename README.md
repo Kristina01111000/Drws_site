@@ -258,6 +258,6 @@ we will redirect the QR code page to whatever we want to send it to
 - Fix footer
 
 
-- talk about qr code
+- talk about qr code -> did he already print the cards?
 - look into a redirect plugin that works with peepso and can be reset more often.
 - talk to him about not refreshing the page where the qr code goes
