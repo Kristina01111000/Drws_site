@@ -60,7 +60,7 @@ September: 8 hour 45 min -> recieved
 
 October: 12 hour 45 min -> recieved
 
-November: 7 hour 0 minutes
+November: 7 hour 10 minutes
 
 plugins im using on site:
 
@@ -247,14 +247,12 @@ we will redirect the QR code page to whatever we want to send it to
 - figure out a new sentence or something for the top homepage columns -> Dr. W is doing this
 
 11/16
-- See if bottom text on the quizzes connects to the site -> currently no, still looking into it
 - Double check that enough links to patreon, add to the menus, add to the header
 - When we get quizzes back fix the titles of the quizzes
 - He is going to write a blurb for the quizzes
 - Make the menu widget 2 widgets, put them in groupings that make sense
 - He will add remove a sentence from the paragraphs on the homepage
-- Make the changes with gutenslider premium
-- See if the slides can open in a new tab with the slider now
+- See if the slides can open in a new tab with the slider now nope
 - Fix footer
 
 
