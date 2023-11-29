@@ -60,7 +60,7 @@ September: 8 hour 45 min -> recieved
 
 October: 12 hour 45 min -> recieved
 
-November: 7 hour 25 minutes
+November: 7 hour 30 minutes
 
 plugins im using on site:
 
@@ -237,7 +237,7 @@ we will redirect the QR code page to whatever we want to send it to
 - add book excerpt that he sent in email -> still messed up tab -> still mesed up, i don't think it can be fixed in a way that looks good
 
 - See if i can make a way for the footer menu  to not go vertical when small, it does not have long menu support
-- Look at the patreon site for any issues
+
 
 
 11/16
