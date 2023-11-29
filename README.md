@@ -60,7 +60,7 @@ September: 8 hour 45 min -> recieved
 
 October: 12 hour 45 min -> recieved
 
-November: 7 hour 10 minutes
+November: 7 hour 20 minutes
 
 plugins im using on site:
 
@@ -175,9 +175,6 @@ On patreon make the holistic learning program link hot in the pinned post
 Maybe make a start here collection for the documentary and the phone app explanation, think of other ways of approaching it
 Link from the patreon posts to the quizzes on gh
 Enable quizzes only to patrons somehow
-fix the lessons so they link to the patreon site post, so the video isn’t on gh
-We might redo the entire first page, which is better pushing 30 day challenge or the patreon
-Site should be focused on getting people to patreon and focusing on the community part of it, think about what parts of the site to get rid of
 
 Figure out a way to make the metadata tags on patreon link to the site
 New page: Have a section of dr w’s patreon collections, use a drop down or url with blurb about the collection and a link to the patreon site put on header where holistic growth is currently
