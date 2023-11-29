@@ -60,7 +60,7 @@ September: 8 hour 45 min -> recieved
 
 October: 12 hour 45 min -> recieved
 
-November: 7 hour 20 minutes
+November: 7 hour 25 minutes
 
 plugins im using on site:
 
@@ -240,14 +240,11 @@ we will redirect the QR code page to whatever we want to send it to
 - Look at the patreon site for any issues
 
 
-- justified text on whole site, it doesn't appear to work for mobile
-- figure out a new sentence or something for the top homepage columns -> Dr. W is doing this
-
 11/16
 - When we get quizzes back fix the titles of the quizzes
 - He is going to write a blurb for the quizzes
 - He will add remove a sentence from the paragraphs on the homepage
-- Fix footer
+
 
 
 - talk about qr code -> did he already print the cards?
