@@ -244,12 +244,9 @@ we will redirect the QR code page to whatever we want to send it to
 - figure out a new sentence or something for the top homepage columns -> Dr. W is doing this
 
 11/16
-- Double check that enough links to patreon, add to the menus, add to the header
 - When we get quizzes back fix the titles of the quizzes
 - He is going to write a blurb for the quizzes
-- Make the menu widget 2 widgets, put them in groupings that make sense
 - He will add remove a sentence from the paragraphs on the homepage
-- See if the slides can open in a new tab with the slider now nope
 - Fix footer
 
 
