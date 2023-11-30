@@ -251,3 +251,10 @@ we will redirect the QR code page to whatever we want to send it to
 - look into a redirect plugin that works with peepso and can be reset more often.
 - talk to him about not refreshing the page where the qr code goes
 - talk about dynamic qr codes
+
+
+- The slide show is not showing up for dr w in firefox when he is not in incognito. When he is in incognito mode it does show up, purgeing the cache does not fix it
+- Change the slides to go to collections page
+- Remove the title from the quick minute slide ->language
+- Get an image for the yoga slide
+- Get update on quiz, think about a title for the link is quiz the right word, maybe assessment
