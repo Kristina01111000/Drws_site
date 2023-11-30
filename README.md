@@ -60,7 +60,7 @@ September: 8 hour 45 min -> recieved
 
 October: 12 hour 45 min -> recieved
 
-November: 8 hour 40 minutes
+November: 8 hour 45 minutes
 
 plugins im using on site:
 
@@ -244,9 +244,11 @@ Things to do when quizzes are back:
 - check all the graphs
 - work on the box at the bottom of pdf
 - put image in the link at bottom
+- fix up the quiz page
+
 
 11/16
-- When we get quizzes back  of the quizzes
+
 - He is going to write a blurb for the quizzes
 - He will add remove a sentence from the paragraphs on the homepage
 
