@@ -238,10 +238,15 @@ we will redirect the QR code page to whatever we want to send it to
 
 - See if i can make a way for the footer menu  to not go vertical when small, it does not have long menu support
 
-
+Things to do when quizzes are back:
+- fix the titles
+- check all the questions
+- check all the graphs
+- work on the box at the bottom of pdf
+- put image in the link at bottom
 
 11/16
-- When we get quizzes back fix the titles of the quizzes
+- When we get quizzes back  of the quizzes
 - He is going to write a blurb for the quizzes
 - He will add remove a sentence from the paragraphs on the homepage
 
