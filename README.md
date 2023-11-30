@@ -242,8 +242,7 @@ Things to do when quizzes are back:
 - fix the titles
 - check all the questions
 - check all the graphs
-- work on the box at the bottom of pdf
-- put image in the link at bottom
+- put image in the link at bottom? stephen
 - fix up the quiz page
 - remove teh yiin/yang graph from the 40Q
 - check logos
