@@ -245,6 +245,10 @@ Things to do when quizzes are back:
 - work on the box at the bottom of pdf
 - put image in the link at bottom
 - fix up the quiz page
+- remove teh yiin/yang graph from the 40Q
+- check logos
+- see if there is a way to capture names from the box at the bottom, or just delete it
+- remove coupon from bottom
 
 
 11/16
