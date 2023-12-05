@@ -264,3 +264,8 @@ Things to do when quizzes are back:
 - Remove the title from the quick minute slide ->language
 - Get an image for the yoga slide
 - Get update on quiz, think about a title for the link is quiz the right word, maybe assessment
+
+
+
+
+- i can't find a way to stop the footer from getting long in mobile view, ist a theme issue, unfortunatly any thing that kinda fixes it messes with the theme
