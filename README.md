@@ -62,7 +62,7 @@ October: 12 hour 45 min -> recieved
 
 November: 8 hour 45 minutes
 
-December: 25 min
+December: 30 min
 
 plugins im using on site:
 
@@ -268,3 +268,4 @@ Things to do when quizzes are back:
 - i can't find a way to stop the footer from getting long in mobile view, ist a theme issue, unfortunatly any thing that kinda fixes it messes with the theme
 - make the origins quiz
 - do the slides for all of his videos
+- reorganize patreon site
