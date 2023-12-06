@@ -62,7 +62,7 @@ October: 12 hour 45 min -> recieved
 
 November: 8 hour 45 minutes
 
-December: 1 hour 0 min
+December: 1 hour 5 min
 
 plugins im using on site:
 
@@ -234,8 +234,6 @@ we will redirect the QR code page to whatever we want to send it to
 - On fourissimo page see if there is a way to accept attachments 
 
 
-- Make origins lesson quiz
-
 - add book excerpt that he sent in email -> still messed up tab -> still mesed up, i don't think it can be fixed in a way that looks good
 
 - See if i can make a way for the footer menu  to not go vertical when small, it does not have long menu support -> can't seem to get this done, maybe removing the columns from the footer?
@@ -266,6 +264,5 @@ Things to do when quizzes are back:
 
 
 - i can't find a way to stop the footer from getting long in mobile view, ist a theme issue, unfortunatly any thing that kinda fixes it messes with the theme
-- make the origins quiz
 - do the slides for all of his videos
 - reorganize patreon site
