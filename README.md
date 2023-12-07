@@ -236,7 +236,6 @@ we will redirect the QR code page to whatever we want to send it to
 
 - add book excerpt that he sent in email -> still messed up tab -> still mesed up, i don't think it can be fixed in a way that looks good
 
-- See if i can make a way for the footer menu  to not go vertical when small, it does not have long menu support -> can't seem to get this done, maybe removing the columns from the footer?
 
 Things to do when quizzes are back:
 - fix the titles
