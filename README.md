@@ -259,10 +259,5 @@ Things to do when quizzes are back:
 
 11/30
 - Get an image for the yoga slide
-- Get update on quiz, think about a title for the link is quiz the right word, maybe assessment
-
-
-
-
 - do the slides for all of his videos
 
