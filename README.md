@@ -240,7 +240,7 @@ we will redirect the QR code page to whatever we want to send it to
 
 Things to do when quizzes are back:
 - fix the titles
-- check all the questions
+- check all the questions -> there were typos
 - check all the graphs
 - put image in the link at bottom? stephen
 - fix up the quiz page
