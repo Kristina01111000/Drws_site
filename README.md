@@ -264,6 +264,5 @@ Things to do when quizzes are back:
 
 
 
-- i can't find a way to stop the footer from getting long in mobile view, ist a theme issue, unfortunatly any thing that kinda fixes it messes with the theme
 - do the slides for all of his videos
-- reorganize patreon site
+
