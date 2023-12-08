@@ -260,3 +260,6 @@ Things to do when quizzes are back:
 - Get an image for the yoga slide
 - do the slides for all of his videos
 
+
+12/7
+- files for 40Q and 80Q were sent, but I can't get access to them, waiting on Dr W
