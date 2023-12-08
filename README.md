@@ -62,7 +62,7 @@ October: 12 hour 45 min -> recieved
 
 November: 8 hour 45 minutes
 
-December: 2 hour 25 min
+December: 2 hour 30 min
 
 plugins im using on site:
 
@@ -262,4 +262,4 @@ Things to do when quizzes are back:
 
 
 12/7
-- files for 40Q and 80Q were sent, but I can't get access to them, waiting on Dr W
+- files for 40Q and 80Q were sent!
