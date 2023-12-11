@@ -263,3 +263,6 @@ Things to do when quizzes are back:
 
 12/7
 - files for 40Q and 80Q were sent!
+- make a list of the stuff that needs work:
+	- the third graph isn't showing on the 80Q
+ 	- pixelated graphs, way more than before, what changed?
