@@ -62,7 +62,7 @@ October: 12 hour 45 min -> recieved
 
 November: 8 hour 45 minutes
 
-December: 2 hour 30 min
+December: 2 hour 35 min
 
 plugins im using on site:
 
