@@ -62,7 +62,7 @@ October: 12 hour 45 min -> recieved
 
 November: 8 hour 45 minutes
 
-December: 2 hour 45 min
+December: 3 hour 15 min
 
 plugins im using on site:
 
@@ -238,15 +238,10 @@ we will redirect the QR code page to whatever we want to send it to
 
 
 Things to do when quizzes are back:
-- fix the titles
 - check all the questions -> there were typos
-- check all the graphs
-- put image in the link at bottom? stephen
 - fix up the quiz page
 - remove teh yiin/yang graph from the 40Q
-- check logos
 - see if there is a way to capture names from the box at the bottom, or just delete it
-- remove coupon from bottom/add something else he wants there
 - see if i can add a link 
 
 
