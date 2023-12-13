@@ -266,4 +266,4 @@ Things to do when quizzes are back:
 - make a list of the stuff that needs work:
 	- the third graph isn't showing on the 80Q
  	- pixelated graphs, way more than before, what changed?
-  	- find where to edit the quiz page titles
+  	- find where to edit the quiz page titles ->open the pdf in notepad to edit it
