@@ -62,7 +62,7 @@ October: 12 hour 45 min -> recieved
 
 November: 8 hour 45 minutes
 
-December: 2 hour 35 min
+December: 2 hour 45 min
 
 plugins im using on site:
 
@@ -266,3 +266,4 @@ Things to do when quizzes are back:
 - make a list of the stuff that needs work:
 	- the third graph isn't showing on the 80Q
  	- pixelated graphs, way more than before, what changed?
+  	- find where to edit the quiz page titles
