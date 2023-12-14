@@ -238,7 +238,6 @@ we will redirect the QR code page to whatever we want to send it to
 
 
 Things to do when quizzes are back:
-- check all the questions -> there were typos
 - fix up the quiz page
 - remove teh yiin/yang graph from the 40Q
 - see if there is a way to capture names from the box at the bottom, or just delete it
@@ -248,13 +247,10 @@ Things to do when quizzes are back:
 11/16
 
 - He is going to write a blurb for the quizzes
-- He will add remove a sentence from the paragraphs on the homepage
-
 
 11/30
 - Get an image for the yoga slide
 - do the slides for all of his videos
-- made teh footer and the sidebars yellow -> talk him out of this
 
 
 12/7
