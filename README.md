@@ -260,5 +260,9 @@ Things to do when quizzes are back:
 - Research if there is a way to make people get an account if they join the patreon
 - Go over the membership confirmation page for edits to verbiage
 - On the quiz page emphasize joining growingholistically in the big box
-- Look at dr walsdorf.com for eidits
+- Look at dr walsdorf.com for edits
+- Change the front page to as shown as in the picture remove the columns
+- Edit the picture to say “Click here to access Dr. Ws patreon site”
+- Fix the footer image
+
 
