@@ -62,7 +62,7 @@ October: 12 hour 45 min -> recieved
 
 November: 8 hour 45 minutes
 
-December: 3 hour 35 min
+December: 3 hour 50 min
 
 plugins im using on site:
 
@@ -254,6 +254,7 @@ Things to do when quizzes are back:
 11/30
 - Get an image for the yoga slide
 - do the slides for all of his videos
+- made teh footer and the sidebars yellow -> talk him out of this
 
 
 12/7
