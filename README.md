@@ -261,7 +261,7 @@ Things to do when quizzes are back:
 - Go over the membership confirmation page for edits to verbiage
 - On the quiz page emphasize joining growingholistically in the big box
 - Look at dr walsdorf.com for edits
-- Change the front page to as shown as in the picture remove the columns
+- Change the front page to as shown as in the picture remove the columns -> make a copy first 
 - Edit the picture to say “Click here to access Dr. Ws patreon site”
 - Fix the footer image
 
