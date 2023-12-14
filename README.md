@@ -256,3 +256,9 @@ Things to do when quizzes are back:
 12/7
 
 - more notes for drw site
+- See if i can change the shortcode on membership confirmation page to remove the second thank you
+- Research if there is a way to make people get an account if they join the patreon
+- Go over the membership confirmation page for edits to verbiage
+- On the quiz page emphasize joining growingholistically in the big box
+- Look at dr walsdorf.com for eidits
+
