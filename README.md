@@ -231,27 +231,22 @@ we will redirect the QR code page to whatever we want to send it to
 
 10/19
 
-- On fourissimo page see if there is a way to accept attachments 
-
-
-- add book excerpt that he sent in email -> still messed up tab -> still mesed up, i don't think it can be fixed in a way that looks good
 
 
 Things to do when quizzes are back:
 - fix up the quiz page
 - remove teh yiin/yang graph from the 40Q
 - see if there is a way to capture names from the box at the bottom, or just delete it
-- see if i can add a link 
+- see if i can add a link  in the pdf file
 
 
-11/16
 
-- He is going to write a blurb for the quizzes
 
 11/30
 - Get an image for the yoga slide
 - do the slides for all of his videos
-
+- see if fourissimo page accepts txt files
+- He is going to write a blurb for the quizzes
 
 12/7
 
