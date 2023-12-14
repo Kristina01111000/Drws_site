@@ -226,13 +226,6 @@ work on spreadsheet for videos
     The knowledge that you are helping people discover the unifying, life-renewing & balance- building power of nature’s Fire, Air, Water & Earth
 
 
-we will redirect the QR code page to whatever we want to send it to
-
-
-10/19
-
-
-
 Things to do when quizzes are back:
 
 - remove teh yiin/yang graph from the 40Q
