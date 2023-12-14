@@ -234,10 +234,10 @@ we will redirect the QR code page to whatever we want to send it to
 
 
 Things to do when quizzes are back:
-- fix up the quiz page
+
 - remove teh yiin/yang graph from the 40Q
 - see if there is a way to capture names from the box at the bottom, or just delete it
-- see if i can add a link  in the pdf file
+- see if i can add a link -> in the pdf file
 
 
 
