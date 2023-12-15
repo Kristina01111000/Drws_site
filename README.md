@@ -243,7 +243,7 @@ Things to do when quizzes are back:
 
 12/7
 
-- more notes for drw site
+- more notes for drw site -> check on wednesday
 - See if i can change the shortcode on membership confirmation page to remove the second thank you
 - Research if there is a way to make people get an account if they join the patreon
 - Go over the membership confirmation page for edits to verbiage
