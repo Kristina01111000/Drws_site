@@ -239,7 +239,7 @@ Things to do when quizzes are back:
 - Get an image for the yoga slide
 - do the slides for all of his videos
 - see if fourissimo page accepts txt files
-- He is going to write a blurb for the quizzes
+- He is going to write a blurb for the quizzes page hopefully
 
 12/7
 
