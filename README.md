@@ -251,6 +251,6 @@ Things to do when quizzes are back:
 - Look at dr walsdorf.com for edits
 - Change the front page to as shown as in the picture remove the columns -> make a copy first 
 - Edit the picture to say “Click here to access Dr. Ws patreon site” -> add the text and send it to him
-- Fix the footer image -> need a new footer image that is a lot bigger
+- Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
 
 
