@@ -60,7 +60,7 @@ September: 8 hour 45 min -> recieved
 
 October: 12 hour 45 min -> recieved
 
-November: 8 hour 45 minutes
+November: 8 hour 45 minutes -> sent
 
 December: 5 hour 35 min
 
