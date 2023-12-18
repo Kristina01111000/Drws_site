@@ -253,4 +253,4 @@ Things to do when quizzes are back:
 - Edit the picture to say “Click here to access Dr. Ws patreon site” -> add the text and send it to him
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
 
-- make sure he understands quickstart, how it doesn't save lgoins, + isn't that great
+- make sure he understands quickstart, how it doesn't save lgoins, + isn't that great, thats why i never brought is up before, it exists, but its propbably better to just keep them seperate
