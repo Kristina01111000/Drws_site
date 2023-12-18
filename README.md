@@ -228,9 +228,10 @@ work on spreadsheet for videos
 
 Things to do when quizzes are back:
 
-- remove teh yiin/yang graph from the 40Q
+- remove teh yin/yang graph from the 40Q
 - see if there is a way to capture names from the box at the bottom, or just delete it
 - see if i can add a link -> in the pdf file
+- did we go over problems with the quiz and what needs to be fixed?
 
 
 
