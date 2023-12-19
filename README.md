@@ -62,7 +62,7 @@ October: 12 hour 45 min -> recieved
 
 November: 8 hour 45 minutes -> sent
 
-December: 6 hour 20 min
+December: 6 hour 25 min
 
 plugins im using on site:
 
@@ -256,7 +256,7 @@ email for basit:
 Dear Basit, 
 We’ve been testing out the quiz. There are some issues that still need to be fixed.
 On the 80 Question quiz the third graph doesn't show on the pdf, there is a blank space where it should be.
-The third graph is quite pixelated on the 40 Question quiz. Also, we think that changing the graph to a bar graph may be more effective at showing the yiin/yang element comparisons to the quiztakers.    
+The third graph is quite pixelated on the 40 Question quiz. Also, we think that changing the graph to a bar graph may be more effective at showing the yiin/yang element comparisons to the quiztakers.   ---->>>> confirm this part 
 My understanding of the graphs is that the numbers were supposed to be percentages of the totals, not the raw score from the quiz. Will that be something that is possible to change the graphs to show?
 
 
