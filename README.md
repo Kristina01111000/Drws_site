@@ -62,7 +62,7 @@ October: 12 hour 45 min -> recieved
 
 November: 8 hour 45 minutes -> sent
 
-December: 6 hour 5 min
+December: 6 hour 20 min
 
 plugins im using on site:
 
@@ -251,6 +251,14 @@ Things to do when quizzes are back:
 - Change the front page to as shown as in the picture remove the columns -> make a copy first 
 - Edit the picture to say “Click here to access Dr. Ws patreon site” -> add the text and send it to him
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
+
+email for basit:
+Dear Basit, 
+We’ve been testing out the quiz. There are some issues that still need to be fixed.
+On the 80 Question quiz the third graph doesn't show on the pdf, there is a blank space where it should be.
+The third graph is quite pixelated on the 40 Question quiz. Also, we think that changing the graph to a bar graph may be more effective at showing the yiin/yang element comparisons to the quiztakers.    
+My understanding of the graphs is that the numbers were supposed to be percentages of the totals, not the raw score from the quiz. Will that be something that is possible to change the graphs to show?
+
 
 - make sure he understands quickstart, how it doesn't save lgoins, + isn't that great, thats why i never brought is up before, it exists, but its propbably better to just keep them seperate
 - any other changes to the quiz?
