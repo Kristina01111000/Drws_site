@@ -62,7 +62,7 @@ October: 12 hour 45 min -> recieved
 
 November: 8 hour 45 minutes -> sent
 
-December: 5 hour 40 min
+December: 6 hour 5 min
 
 plugins im using on site:
 
@@ -245,7 +245,6 @@ Things to do when quizzes are back:
 12/7
 
 - more notes for drw site -> check on wednesday
-- See if i can change the shortcode on membership confirmation page to remove the second thank you
 - Go over the membership confirmation page for edits to verbiage
 - On the quiz page emphasize joining growingholistically in the big box
 - Look at dr walsdorf.com for edits
