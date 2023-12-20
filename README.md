@@ -262,3 +262,4 @@ My understanding of the graphs is that the numbers were supposed to be percentag
 
 - make sure he understands quickstart, how it doesn't save lgoins, + isn't that great, thats why i never brought is up before, it exists, but its propbably better to just keep them seperate
 - any other changes to the quiz?
+- sent him the links again
