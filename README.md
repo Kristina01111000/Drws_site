@@ -262,3 +262,13 @@ My understanding of the graphs is that the numbers were supposed to be percentag
 - make sure he understands quickstart, how it doesn't save lgoins, + isn't that great, thats why i never brought is up before, it exists, but its propbably better to just keep them seperate
 - any other changes to the quiz?
 - sent him the links again
+
+
+- Can google analytics work for patreon pages, add it if it does work
+- Get a new image for the holistic advice slide
+- Put the yoga slide in with the saved image
+- Put the magazine slide in with the saved image
+- On membership confirmation page remove the  “Thank you for your membership to Growing Holistically. Your New Members membership is now active Thank you for joining Growing Holistically!.” section
+- Check drwalsdorf.com edits
+- He will email me about next weeks meeting maybe @ 2:30, maybe not happening
+- Email him wednesday about the meeting 
