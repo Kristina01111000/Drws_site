@@ -62,7 +62,7 @@ October: 12 hour 45 min -> recieved
 
 November: 8 hour 45 minutes -> sent
 
-December: 6 hour 25 min
+December: 6 hour 30 min
 
 plugins im using on site:
 
@@ -249,7 +249,6 @@ Things to do when quizzes are back:
 - On the quiz page emphasize joining growingholistically in the big box
 - Look at dr walsdorf.com for edits
 - Change the front page to as shown as in the picture remove the columns -> make a copy first 
-- Edit the picture to say “Click here to access Dr. Ws patreon site” -> add the text and send it to him
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
 
 email for basit:
