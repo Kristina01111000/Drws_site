@@ -60,8 +60,7 @@ September: 8 hour 45 min -> recieved
 
 October: 12 hour 45 min -> recieved
 
-November: 8 hour 45 minutes -> need to deposit
-
+November: 8 hour 45 minutes -> recieved
 December: 7 hour 45 min
 
 plugins im using on site:
