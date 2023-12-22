@@ -267,3 +267,4 @@ Things to do when quizzes are back:
 - Email him wednesday about the meeting
 - make sure he understands how to get to google analytics
 - make chats for the origins part 1 chat page
+- also fix the chat page for lesson 6, write a leading question
