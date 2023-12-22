@@ -61,6 +61,7 @@ September: 8 hour 45 min -> recieved
 October: 12 hour 45 min -> recieved
 
 November: 8 hour 45 minutes -> recieved
+
 December: 7 hour 45 min
 
 plugins im using on site:
@@ -270,4 +271,5 @@ My understanding of the graphs is that the numbers were supposed to be percentag
 - On membership confirmation page remove the  “Thank you for your membership to Growing Holistically. Your New Members membership is now active Thank you for joining Growing Holistically!.” section
 - Check drwalsdorf.com edits
 - He will email me about next weeks meeting maybe @ 2:30, maybe not happening
-- Email him wednesday about the meeting 
+- Email him wednesday about the meeting
+- make sure he understands how to get to google analytics
