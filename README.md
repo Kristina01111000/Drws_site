@@ -62,7 +62,7 @@ October: 12 hour 45 min -> recieved
 
 November: 8 hour 45 minutes -> recieved
 
-December: 7 hour 45 min
+December: 7 hour 50 min
 
 plugins im using on site:
 
@@ -273,3 +273,4 @@ My understanding of the graphs is that the numbers were supposed to be percentag
 - He will email me about next weeks meeting maybe @ 2:30, maybe not happening
 - Email him wednesday about the meeting
 - make sure he understands how to get to google analytics
+- make chats for the origins part 1 chat page
