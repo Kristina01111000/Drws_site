@@ -62,7 +62,7 @@ October: 12 hour 45 min -> recieved
 
 November: 8 hour 45 minutes -> recieved
 
-December: 8 hour 15 min
+December: 9 hour 15 min
 
 plugins im using on site:
 
@@ -244,11 +244,8 @@ Things to do when quizzes are back:
 
 12/7
 
-- more notes for drw site -> check on wednesday
 - Go over the membership confirmation page for edits to verbiage
 - On the quiz page emphasize joining growingholistically in the big box
-- Look at dr walsdorf.com for edits
-- Change the front page to as shown as in the picture remove the columns -> make a copy first 
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
 
 
