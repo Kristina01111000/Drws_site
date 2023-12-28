@@ -261,3 +261,17 @@ Things to do when quizzes are back:
 - make sure he understands how to get to google analytics
 - make chats for the origins part 1 chat page
 - also fix the chat page for lesson 6, write a leading question
+- 
+
+12/28
+- Look into more ways to market the patreon
+- See why it isn’t pausing when my mouse hovers on it
+- He is going to send a different picture for the holistic advice slide
+- For the app:
+	- Make a slide
+	- After dr w on homepage
+	- On its own page under programs tab in header
+	- Is the app only for people who pay? Probably only for those who join at $5 a month or more 
+	- Make an email sign up for when the app is ready
+	- Email stephen about the image he sent for the app email list sign up, cc dr w in it
+
