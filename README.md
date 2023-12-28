@@ -62,7 +62,7 @@ October: 12 hour 45 min -> recieved
 
 November: 8 hour 45 minutes -> recieved
 
-December: 7 hour 55 min
+December: 8 hour 15 min
 
 plugins im using on site:
 
@@ -258,12 +258,9 @@ Things to do when quizzes are back:
 
 
 - Can google analytics work for patreon pages, add it if it does work
-- Put the yoga slide in with the saved image
-- Put the magazine slide in with the saved image
+
 - On membership confirmation page remove the  “Thank you for your membership to Growing Holistically. Your New Members membership is now active Thank you for joining Growing Holistically!.” section
 - Check drwalsdorf.com edits
-- He will email me about next weeks meeting maybe @ 2:30, maybe not happening
-- Email him wednesday about the meeting
 - make sure he understands how to get to google analytics
 - make chats for the origins part 1 chat page
 - also fix the chat page for lesson 6, write a leading question
