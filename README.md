@@ -62,7 +62,7 @@ October: 12 hour 45 min -> recieved
 
 November: 8 hour 45 minutes -> recieved
 
-December: 9 hour 20 min
+December: 9 hour 25 min
 
 plugins im using on site:
 
@@ -273,5 +273,4 @@ Things to do when quizzes are back:
 	- On its own page under programs tab in header
 	- Is the app only for people who pay? Probably only for those who join at $5 a month or more 
 	- Make an email sign up for when the app is ready
-	- Email stephen about the image he sent for the app email list sign up, cc dr w in it
 - For fourelementinstitute and syracuse natural healing the security plugin caused a lockout again, look into getting a new one
