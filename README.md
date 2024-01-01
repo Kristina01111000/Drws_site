@@ -274,3 +274,4 @@ Things to do when quizzes are back:
 	- Is the app only for people who pay? Probably only for those who join at $5 a month or more 
 	- Make an email sign up for when the app is ready
 - For fourelementinstitute and syracuse natural healing the security plugin caused a lockout again, look into getting a new one
+- make the updates to the book listing on both of them
