@@ -279,3 +279,5 @@ Things to do when quizzes are back:
 - check that the template in the shop is correct
 - make a list in constant contact for people who are interested in learning about the app and send it to stephen
 
+
+send invoice for december
