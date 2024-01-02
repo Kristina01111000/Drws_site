@@ -64,7 +64,7 @@ November: 8 hour 45 minutes -> recieved
 
 December: 9 hour 30 min
 
-January 2024: 10 min
+January 2024: 20 min
 
 plugins im using on site:
 
@@ -276,4 +276,5 @@ Things to do when quizzes are back:
 	- Is the app only for people who pay? Probably only for those who join at $5 a month or more 
 	- Make an email sign up for when the app is ready
 - For fourelementinstitute and syracuse natural healing the security plugin caused a lockout again, look into getting a new one
+- check that the template in the shop is correct
 
