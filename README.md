@@ -64,7 +64,7 @@ November: 8 hour 45 minutes -> recieved
 
 December: 9 hour 30 min
 
-January 2024: 35 min
+January 2024: 1 hour 50 min
 
 plugins im using on site:
 
@@ -279,3 +279,18 @@ Things to do when quizzes are back:
 
 
 send invoice for december
+
+
+1/4
+For next week:
+On the shop page: change the light grey button at the bottom to to  a darker green with white text, leave the scroll over light green hover color
+https://growingholistically.com/shop/
+Make the prices darker also 
+Check dr walsdorf.com book page
+Get a better image from the patreon for the holistic advice slide
+Get the blurb for the 4 element magazine slide and add it to the slide
+Join our app page -> he will make changes
+Figure out what happens on the join our email app page if they don’t click the join our email list ** maybe make a new list and attach it, see if i can automatically check the box, or say that need to check the box, or that they can’t submit it if they haven’t checked it, try removing the check box,
+Make the form look better
+Try changing the menu text color the blue/purple like the book excerpt on the shop page is
+
