@@ -64,7 +64,7 @@ November: 8 hour 45 minutes -> recieved
 
 December: 9 hour 30 min
 
-January 2024: 1 hour 50 min
+January 2024: 1 hour 55 min
 
 plugins im using on site:
 
@@ -280,7 +280,7 @@ Things to do when quizzes are back:
 
 send invoice for december
 
-
+check on the quiz page
 1/4
 For next week:
 On the shop page: change the light grey button at the bottom to to  a darker green with white text, leave the scroll over light green hover color
