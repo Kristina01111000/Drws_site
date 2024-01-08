@@ -64,7 +64,7 @@ November: 8 hour 45 minutes -> recieved
 
 December: 9 hour 30 min
 
-January 2024: 1 hour 55 min
+January 2024: 2 hour 5 min
 
 plugins im using on site:
 
@@ -293,4 +293,7 @@ Join our app page -> he will make changes
 Figure out what happens on the join our email app page if they don’t click the join our email list ** maybe make a new list and attach it, see if i can automatically check the box, or say that need to check the box, or that they can’t submit it if they haven’t checked it, try removing the check box,
 Make the form look better
 Try changing the menu text color the blue/purple like the book excerpt on the shop page is
+
+
+the graphs are back and still fuzzy, the first graph still doesnt do percentages
 
