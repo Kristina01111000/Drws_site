@@ -296,4 +296,5 @@ Try changing the menu text color the blue/purple like the book excerpt on the sh
 
 
 the graphs are back and still fuzzy, the first graph still doesnt do percentages
+the edits i made were not there, i think they went to an old version to get the graph back
 
