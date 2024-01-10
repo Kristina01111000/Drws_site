@@ -64,7 +64,7 @@ November: 8 hour 45 minutes -> recieved
 
 December: 9 hour 30 min
 
-January 2024: 2 hour 30 min
+January 2024: 2 hour 45 min
 
 plugins im using on site:
 
@@ -279,9 +279,7 @@ send invoice for december
 check on the quiz page
 1/4
 For next week:
-On the shop page: change the light grey button at the bottom to to  a darker green with white text, leave the scroll over light green hover color
-https://growingholistically.com/shop/
-Make the prices darker also 
+
 Check dr walsdorf.com book page
 Get a better image from the patreon for the holistic advice slide
 Get the blurb for the 4 element magazine slide and add it to the slide
