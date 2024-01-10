@@ -279,13 +279,8 @@ send invoice for december
 check on the quiz page
 1/4
 For next week:
-
 Check dr walsdorf.com book page
-Get a better image from the patreon for the holistic advice slide
 Get the blurb for the 4 element magazine slide and add it to the slide
-
-Make the form look better
-Try changing the menu text color the blue/purple like the book excerpt on the shop page is
 
 
 the graphs are back and still fuzzy, the first graph still doesnt do percentages
