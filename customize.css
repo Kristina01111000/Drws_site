@@ -173,3 +173,9 @@ p {
 text-align: justify;
 
 }
+
+
+// turns text of price black on shop page
+bdi{
+	color: #000000;
+}
