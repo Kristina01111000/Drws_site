@@ -261,8 +261,6 @@ Things to do when quizzes are back:
 
 12/28
 - Look into more ways to market the patreon
-- See why it isn’t pausing when my mouse hovers on it
-- He is going to send a different picture for the holistic advice slide
 - For the app:
 	- Make a slide
 	- After dr w on homepage
