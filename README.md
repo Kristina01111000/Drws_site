@@ -64,7 +64,7 @@ November: 8 hour 45 minutes -> recieved
 
 December: 9 hour 30 min
 
-January 2024: 2 hour 20 min
+January 2024: 2 hour 30 min
 
 plugins im using on site:
 
@@ -197,10 +197,6 @@ Should focus on things added to the patreon, links and description, recipe?, sea
 
 Think about how the 30 day challenge should be used going forward, where should we talk about it etc, in a collection ‘things you can do now working title’ phone apps and more, something like that, talk about it in the newsletter
 For homepage add more hotlinks below the slider, if you are already a member click here to get to our patreon site collections
-
-
-look at the picture in email from the patreon, is there a place it will look good in the site? not the homepage
-
 
 found where to edit the lorem ipsum.  its in the javascript file, made edits, need access to c panel to put the file on the site, got access go over that i can edit the other text tomorrow if i'm careful
 
