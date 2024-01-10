@@ -64,7 +64,7 @@ November: 8 hour 45 minutes -> recieved
 
 December: 9 hour 30 min
 
-January 2024: 2 hour 5 min
+January 2024: 2 hour 15 min
 
 plugins im using on site:
 
@@ -297,4 +297,4 @@ Try changing the menu text color the blue/purple like the book excerpt on the sh
 
 the graphs are back and still fuzzy, the first graph still doesnt do percentages
 the edits i made were not there, i think they went to an old version to get the graph back
-
+look into quiz edits
