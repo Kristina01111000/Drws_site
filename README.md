@@ -276,9 +276,18 @@ send invoice for december
 check on the quiz page
 1/4
 For next week:
-Get the blurb for the 4 element magazine slide and add it to the slide -> emailed him about it
+- Get the blurb for the 4 element magazine slide and add it to the slide -> emailed him about it
 
 
-the graphs are back and still fuzzy, the first graph still doesnt do percentages
-the edits i made were not there, i think they went to an old version to get the graph back
-look into quiz edits
+- the graphs are back and still fuzzy, the first graph still doesnt do percentages
+- the edits i made were not there, i think they went to an old version to get the graph back
+- look into quiz edits
+
+
+1/11
+- Make changes to basits quiz
+- Write text on the starburst for the 40QQ
+- “Learn about  your holistic balance” -> brainstorm good text for the starburst
+- Add the 40qq page back to the homepage, and to the header, and the menu
+- He might send a new image for the holistic advice slide
+- Make text changes to the 40 and 80 QQ when it gets back
