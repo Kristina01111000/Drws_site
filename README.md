@@ -277,8 +277,7 @@ send invoice for december
 check on the quiz page
 1/4
 For next week:
-Check dr walsdorf.com book page
-Get the blurb for the 4 element magazine slide and add it to the slide
+Get the blurb for the 4 element magazine slide and add it to the slide -> emailed him about it
 
 
 the graphs are back and still fuzzy, the first graph still doesnt do percentages
