@@ -285,7 +285,6 @@ For next week:
 
 
 1/11
-- Make changes to basits quiz
 - Write text on the starburst for the 40QQ
 - “Learn about  your holistic balance” -> brainstorm good text for the starburst
 - Add the 40qq page back to the homepage, and to the header, and the menu
