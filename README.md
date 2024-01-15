@@ -64,7 +64,7 @@ November: 8 hour 45 minutes -> recieved
 
 December: 9 hour 30 min
 
-January 2024: 3 hour 55 min
+January 2024: 4 hour 0 min
 
 plugins im using on site:
 
@@ -290,3 +290,4 @@ For next week:
 - Add the 40qq page back to the homepage, and to the header, and the menu
 - He might send a new image for the holistic advice slide
 - Make text changes to the 40 and 80 QQ when it gets back
+- connect the get out app page to the rest of the site
