@@ -278,12 +278,6 @@ check on the quiz page
 For next week:
 - Get the blurb for the 4 element magazine slide and add it to the slide -> emailed him about it
 
-
-- the graphs are back and still fuzzy, the first graph still doesnt do percentages
-- the edits i made were not there, i think they went to an old version to get the graph back
-- look into quiz edits
-
-
 1/11
 - Write text on the starburst for the 40QQ
 - “Learn about  your holistic balance” -> brainstorm good text for the starburst
