@@ -269,10 +269,6 @@ Things to do when quizzes are back:
 
 - For fourelementinstitute and syracuse natural healing the security plugin caused a lockout again, look into getting a new one
 
-
-
-send invoice for december
-
 check on the quiz page
 1/4
 For next week:
