@@ -284,3 +284,4 @@ For next week:
 - Add the 40qq page back to the homepage, and to the header, and the menu
 - Make text changes to the 40 and 80 QQ when it gets back
 - connect the get out app page to the rest of the site
+- make a slide for the app with a link to the app page
