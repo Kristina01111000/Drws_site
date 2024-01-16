@@ -288,6 +288,5 @@ For next week:
 - Write text on the starburst for the 40QQ
 - “Learn about  your holistic balance” -> brainstorm good text for the starburst
 - Add the 40qq page back to the homepage, and to the header, and the menu
-- He might send a new image for the holistic advice slide
 - Make text changes to the 40 and 80 QQ when it gets back
 - connect the get out app page to the rest of the site
