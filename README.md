@@ -64,7 +64,7 @@ November: 8 hour 45 minutes -> recieved
 
 December: 9 hour 30 min
 
-January 2024: 4 hour 0 min
+January 2024: 4 hour 20 min
 
 plugins im using on site:
 
@@ -275,8 +275,6 @@ For next week:
 - Get the blurb for the 4 element magazine slide and add it to the slide -> emailed him about it
 
 1/11
-- Write text on the starburst for the 40QQ
-- “Learn about  your holistic balance” -> brainstorm good text for the starburst
 - Add the 40qq page back to the homepage, and to the header, and the menu
 - Make text changes to the 40 and 80 QQ when it gets back
 - connect the get out app page to the rest of the site
