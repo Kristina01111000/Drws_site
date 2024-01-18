@@ -64,7 +64,7 @@ November: 8 hour 45 minutes -> recieved
 
 December: 9 hour 30 min -> sent
 
-January 2024: 5 hour 25 min
+January 2024: 5 hour 30 min
 
 plugins im using on site:
 
@@ -279,3 +279,7 @@ check on the quiz page
 
 
 - tell basit how to fix the graphs on the quiz pdfs
+- for letter to basit:
+  	- write the formulas
+  	- write one for the 40Q and one for the 80Q
+  	- figure out how to fix the third graph
