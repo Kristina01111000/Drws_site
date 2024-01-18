@@ -283,3 +283,4 @@ check on the quiz page
   	- write the formulas
   	- write one for the 40Q and one for the 80Q
   	- figure out how to fix the third graph
+	- drw is taking care of the third graph
