@@ -64,7 +64,7 @@ November: 8 hour 45 minutes -> recieved
 
 December: 9 hour 30 min -> sent
 
-January 2024: 4 hour 25 min
+January 2024: 5 hour 25 min
 
 plugins im using on site:
 
@@ -276,3 +276,6 @@ check on the quiz page
 - Make text changes to the 40 and 80 QQ when it gets back
 - connect the get out app page to the rest of the site
 - make a slide for the app with a link to the app page
+
+
+- tell basit how to fix the graphs on the quiz pdfs
