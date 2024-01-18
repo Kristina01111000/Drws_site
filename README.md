@@ -62,9 +62,9 @@ October: 12 hour 45 min -> recieved
 
 November: 8 hour 45 minutes -> recieved
 
-December: 9 hour 30 min
+December: 9 hour 30 min -> sent
 
-January 2024: 4 hour 20 min
+January 2024: 4 hour 25 min
 
 plugins im using on site:
 
@@ -270,9 +270,6 @@ Things to do when quizzes are back:
 - For fourelementinstitute and syracuse natural healing the security plugin caused a lockout again, look into getting a new one
 
 check on the quiz page
-1/4
-For next week:
-- Get the blurb for the 4 element magazine slide and add it to the slide -> emailed him about it
 
 1/11
 - Add the 40qq page back to the homepage, and to the header, and the menu
