@@ -252,8 +252,6 @@ Things to do when quizzes are back:
 
 - Can google analytics work for patreon pages, add it if it does work
 
-- On membership confirmation page remove the  “Thank you for your membership to Growing Holistically. Your New Members membership is now active Thank you for joining Growing Holistically!.” section
-- Check drwalsdorf.com edits
 - make sure he understands how to get to google analytics
 - make chats for the origins part 1 chat page
 - also fix the chat page for lesson 6, write a leading question
