@@ -284,3 +284,4 @@ check on the quiz page
   	- write one for the 40Q and one for the 80Q
   	- figure out how to fix the third graph
 	- drw is taking care of the third graph
+on mnday email him about the pdfs and if im emailing basit or if he is
