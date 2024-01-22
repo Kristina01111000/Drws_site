@@ -276,7 +276,7 @@ check on the quiz page
 - make a slide for the app with a link to the app page
 
 
-- tell basit how to fix the graphs on the quiz pdfs done with 80 q and with 40Q comment
+- tell basit how to fix the graphs on the quiz pdfs done with 80 q and with 40Q comment -> first question ready
 - for letter to basit:
   	- write the formulas
   	- write one for the 40Q and one for the 80Q
@@ -285,3 +285,4 @@ check on the quiz page
 on mnday email him about the pdfs and if im emailing basit or if he is
 figure out how to word the third question better so they can understand
 - need to figure out how they measure the yin/yang section
+- also write out a formula for the 3rd graph, going from words to variables is probably hard for them b/c english is not their first language
