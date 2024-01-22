@@ -284,3 +284,4 @@ check on the quiz page
 	- drw is taking care of the third graph
 on mnday email him about the pdfs and if im emailing basit or if he is
 figure out how to word the third question better so they can understand
+- need to figure out how they measure the yin/yang section
