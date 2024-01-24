@@ -288,4 +288,4 @@ figure out how to word the third question better so they can understand
 - also write out a formula for the 3rd graph, going from words to variables is probably hard for them b/c english is not their first language
 - need him to explain what he wants for the third graph and how they should figure it out
 - tell him that they need a formula, b/c doing math word problems in another language is probably a big part of the issue
-- - he can't find his comments he wrote
+- - he can't find his comments he wrote -> they weren't in the pdf that i put my comments in
