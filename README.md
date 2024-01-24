@@ -139,10 +139,6 @@ https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROX
 to do now:
 
 - Write a review in fourissimo club for the heel strike fixing plantar fasciitis
-- 
-Things im waiting for from dr w:
-- email  list for current clients, hopefully soon
-- more lesson videos
 
 
 In future:
@@ -158,15 +154,6 @@ In future:
 - Skeinific is definitely a person, make sure she is confirmed
 
 How does facebook, twitter, youtube, instagram, tiktok, the site, patreon connect to each other
-
-Add an email list only sign up
-30 day challenge is still free
-fix the form so people get added to constnat contact -> talk to peepso support
-
-
-see if i can connect the constnat contact form to the pepso form, they sit on top of each other now, they can only do one at a time -> contacted peepso support, currently the sign up for email doesn't go through
-
-
 
 8/24
 Have a link that says “not sure you are ready to join? Try our free 30 day challenge”
