@@ -227,7 +227,6 @@ work on spreadsheet for videos
 Things to do when quizzes are back:
 
 - remove teh yin/yang graph from the 40Q
-- see if there is a way to capture names from the box at the bottom, or just delete it
 - see if i can add a link -> in the pdf file
 - did we go over problems with the quiz and what needs to be fixed?
 
@@ -236,11 +235,9 @@ Things to do when quizzes are back:
 
 11/30
 - do the googleslide for all of his videos
-- see if fourissimo page accepts txt files
 
 12/7
 
-- Go over the membership confirmation page for edits to verbiage
 - On the quiz page emphasize joining growingholistically in the big box
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
 
@@ -252,7 +249,6 @@ Things to do when quizzes are back:
 
 - Can google analytics work for patreon pages, add it if it does work
 
-- make sure he understands how to get to google analytics
 - make chats for the origins part 1 chat page
 - also fix the chat page for lesson 6, write a leading question
 - 
