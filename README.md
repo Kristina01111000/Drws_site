@@ -280,6 +280,10 @@ Graph 2: Is good the way it is
 Graph 3. For the third graph, the inner circle should stay the way it is, with each element being 1/4th of the circle. The outer portion should follow this formula for the yin element percentage: 100% * YinElementRawScore / [EarthRawScore+WaterRawScore+AirRawScore+FireRawScore].The yang element percentage is the same formula: 100% * YangElementRawScore / [EarthRawScore+WaterRawScore+AirRawScore+FireRawScore].
 Looks like graph three is wrong, he wants each element to add up to 100%
 
+yin % = 100% * YinOfElement/RawElement
+yang% = 100% * YangOfElement/RawElement
+
+
 - Add the new lessons to the site with links
 - Match the titles to the patreon
 - make quizzes for all three new learning programs
