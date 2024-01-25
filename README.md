@@ -274,12 +274,12 @@ figure out how to word the third question better so they can understand
 - - he can't find his comments he wrote -> they weren't in the pdf that i put my comments in
  
   1/25
+  Graph Formulas
 Graph 1: The first graph is supposed to show the percentages of each element, with the percentages totaling to 100%. The formula for for each element percent is 100% *(the raw score for the element)/ EarthRawScore+WaterRawScore+AirRawScore+FireRawScore] so for this graph the fire and water percentages would be 8.3% and the air and earth percentages would be 41.7%.
 Graph 2: Is good the way it is
 Graph 3. For the third graph, the inner circle should stay the way it is, with each element being 1/4th of the circle. The outer portion should follow this formula for the yin element percentage: 100% * YinElementRawScore / [EarthRawScore+WaterRawScore+AirRawScore+FireRawScore].The yang element percentage is the same formula: 100% * YangElementRawScore / [EarthRawScore+WaterRawScore+AirRawScore+FireRawScore].
 
 
-- Write out the formula for the third graph
 - Add the new lessons to the site with links
 - Match the titles to the patreon
 - make quizzes for all three new learning programs
