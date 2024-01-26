@@ -64,7 +64,7 @@ November: 8 hour 45 minutes -> recieved
 
 December: 9 hour 30 min -> sent
 
-January 2024: 6 hour 45 min
+January 2024: 6 hour 50 min
 
 plugins im using on site:
 
@@ -290,3 +290,6 @@ yang% = 100% * YangOfElement/RawElement
 - Write a summary blurb for each and send it to him
 - Check that the origin title is fixed on the site
 - Add the new license key for peepso
+- 
+
+make a pdf for Basit showing the equations and the edits
