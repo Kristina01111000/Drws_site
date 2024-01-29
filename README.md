@@ -293,3 +293,4 @@ yang% = 100% * YangOfElement/RawElement
 - 
 
 make a pdf for Basit showing the equations and the edits -> done, sent to Dr w -> made the new edits for graph 3
+- fix the constant contact website email address thing
