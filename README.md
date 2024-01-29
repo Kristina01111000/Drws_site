@@ -289,7 +289,7 @@ yang% = 100% * YangOfElement/RawElement
 - make quizzes for all three new learning programs
 - Write a summary blurb for each and send it to him
 - Check that the origin title is fixed on the site
-- Add the new license key for peepso
+- Add the new license key for peepso -> he still needs to do this
 - 
 
 make a pdf for Basit showing the equations and the edits -> done, sent to Dr w -> made the new edits for graph 3
