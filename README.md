@@ -293,7 +293,7 @@ yang% = 100% * YangOfElement/RawElement
 	- 7
  	- 8
     	- 9
-- Write a summary blurb for each and send it to him
+- Write a summary blurb for each and send it to him -> send these to him tomorrow
  	- 7
  	- 8
     	- 9
