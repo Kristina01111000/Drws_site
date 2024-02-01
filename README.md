@@ -305,10 +305,15 @@ yang% = 100% * YangOfElement/RawElement
 
 
 
-- Write out the formula for the third graph
 - Add the new lessons to the site with links
 - Match the titles to the patreon
 - make quizzes for all three new learning programs
 - Write a summary blurb for each and send it to him
 - Check that the origin title is fixed on the site
 - Add the new license key for peepso
+
+
+
+
+
+lesson  7:  Learn about how spirituality, science, the arts, and the mundane parts of our lives relate to the four elements. 
