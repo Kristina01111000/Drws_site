@@ -307,7 +307,7 @@ yang% = 100% * YangOfElement/RawElement
 
 - Add the new lessons to the site with links
 - Match the titles to the patreon
-- make quizzes for learning program 9
+- make quiz for learning program 9? How
 - Write a summary blurb for each, also for 6
 - Add the new license key for peepso
 
@@ -315,6 +315,6 @@ yang% = 100% * YangOfElement/RawElement
 
 
 
-lesson  7:  Learn about how spirituality, science, the arts, and the mundane parts of our lives relate to the four elements. 
+lesson 7:  Learn about how spirituality, science, the arts, and the mundane parts of our lives relate to the four elements. 
 Lesson 8: Learn about the effect the four elements can have on yoga, and learn some yoga moves for each element. 
-Lesson 9: Here are more indepth yoga moves that focus on each specific element
+Lesson 9: Here is a more indepth yoga sequence that focus on each specific element and how they can help parts of your body.
