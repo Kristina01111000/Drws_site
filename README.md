@@ -152,21 +152,13 @@ In future:
 - add titles of lessons to the course chats 
 -Change the chat titles to share your thoughts on lesson __
 
-- Skeinific is definitely a person, make sure she is confirmed
 
-How does facebook, twitter, youtube, instagram, tiktok, the site, patreon connect to each other
-
-8/24
-Have a link that says “not sure you are ready to join? Try our free 30 day challenge”
-Add the email list to the are you sure page, to get the scorecard
+How do facebook, twitter, youtube, instagram, tiktok, the site, patreon connect to each other
 
 
 8/30
 Look at the quick minutes and see how they are, see if he should look at any of them
 On patreon make the holistic learning program link hot in the pinned post
-Maybe make a start here collection for the documentary and the phone app explanation, think of other ways of approaching it
-Link from the patreon posts to the quizzes on gh
-Enable quizzes only to patrons somehow
 
 Figure out a way to make the metadata tags on patreon link to the site
 New page: Have a section of dr w’s patreon collections, use a drop down or url with blurb about the collection and a link to the patreon site put on header where holistic growth is currently
