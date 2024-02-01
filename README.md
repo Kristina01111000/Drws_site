@@ -66,6 +66,7 @@ December: 9 hour 30 min -> sent
 
 January 2024: 8 hour 45 min
 
+February: 30 min
 plugins im using on site:
 
 - peepso -> auto updates still not working, caused by something in the backend? still not working the way they should
