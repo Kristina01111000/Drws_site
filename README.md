@@ -160,9 +160,6 @@ How do facebook, twitter, youtube, instagram, tiktok, the site, patreon connect 
 Look at the quick minutes and see how they are, see if he should look at any of them
 On patreon make the holistic learning program link hot in the pinned post
 
-Figure out a way to make the metadata tags on patreon link to the site
-New page: Have a section of dr w’s patreon collections, use a drop down or url with blurb about the collection and a link to the patreon site put on header where holistic growth is currently
-Have a start here patreon collection that includes the documentary, the gh site, and the scorecard
 write an email for new users of the patreon to get that talks about the community
 look at the emails to see what needs to change, link to patreon, and growing holistically
 Should focus on things added to the patreon, links and description, recipe?, seasonal blurb, makes sense to send it once a month
