@@ -64,7 +64,7 @@ November: 8 hour 45 minutes -> recieved
 
 December: 9 hour 30 min -> sent
 
-January 2024: 7 hour 45 min
+January 2024: 8 hour 15 min
 
 plugins im using on site:
 
@@ -307,8 +307,8 @@ yang% = 100% * YangOfElement/RawElement
 
 - Add the new lessons to the site with links
 - Match the titles to the patreon
-- make quizzes for all three new learning programs
-- Write a summary blurb for each and send it to him
+- make quizzes for all three new learning programs, 8 and 9
+- Write a summary blurb for each, also for 6
 - Check that the origin title is fixed on the site
 - Add the new license key for peepso
 
