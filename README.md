@@ -307,7 +307,7 @@ yang% = 100% * YangOfElement/RawElement
 
 - Add the new lessons to the site with links
 - Match the titles to the patreon
-- make quizzes for all three new learning programs, 8 and 9
+- make quizzes for learning program 9
 - Write a summary blurb for each, also for 6
 - Add the new license key for peepso
 
