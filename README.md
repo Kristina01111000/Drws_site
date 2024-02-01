@@ -315,10 +315,10 @@ yang% = 100% * YangOfElement/RawElement
 
 
 
+Lesson 7:  Learn about how spirituality, science, art, and the mundane parts of our lives relate to the four elements.
+Lesson 8: Learn how the four elements have been integrated into an exciting new easy-to-learn yoga.
+Lesson 9: Here is a more in-depth yoga sequence that focuses on each element and how they can help specific parts of your body.
 
-lesson 7:  Learn about how spirituality, science, the arts, and the mundane parts of our lives relate to the four elements. 
-Lesson 8: Learn about the effect the four elements can have on yoga, and learn some yoga moves for each element. 
-Lesson 9: Here is a more indepth yoga sequence that focus on each specific element and how they can help parts of your body.
 
 
 
