@@ -173,7 +173,6 @@ Should focus on things added to the patreon, links and description, recipe?, sea
 9/7:
 
 Think about how the 30 day challenge should be used going forward, where should we talk about it etc, in a collection ‘things you can do now working title’ phone apps and more, something like that, talk about it in the newsletter
-For homepage add more hotlinks below the slider, if you are already a member click here to get to our patreon site collections
 
 found where to edit the lorem ipsum.  its in the javascript file, made edits, need access to c panel to put the file on the site, got access go over that i can edit the other text tomorrow if i'm careful
 
@@ -199,13 +198,6 @@ work on spreadsheet for videos
     The Recalibrating Your Balance App – Phone/PC/Mac compatible – earn redeemable points as you develop a good health-building, life-renewing routine – coming soon
 
     The knowledge that you are helping people discover the unifying, life-renewing & balance- building power of nature’s Fire, Air, Water & Earth
-
-
-Things to do when quizzes are back:
-
-- remove teh yin/yang graph from the 40Q
-- see if i can add a link -> in the pdf file
-- did we go over problems with the quiz and what needs to be fixed?
 
 
 
