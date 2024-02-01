@@ -212,8 +212,7 @@ work on spreadsheet for videos
 
 
 - make sure he understands quickstart, how it doesn't save lgoins, + isn't that great, thats why i never brought is up before, it exists, but its propbably better to just keep them seperate
-- any other changes to the quiz?
-- sent him the links again
+
 
 
 - Can google analytics work for patreon pages, add it if it does work
@@ -311,3 +310,4 @@ Put the blurbs into the patreon
 Make a copy of the patreon picture + blurb and add it to the lessons on GH
 write a blurb for lesson 6 and email it to Dr. W so he can edit it
 See if PMP can show the start date of the users if they aren’t paying
+make chats for all of the quizzes 6 - 9
