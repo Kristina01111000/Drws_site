@@ -319,3 +319,14 @@ yang% = 100% * YangOfElement/RawElement
 lesson 7:  Learn about how spirituality, science, the arts, and the mundane parts of our lives relate to the four elements. 
 Lesson 8: Learn about the effect the four elements can have on yoga, and learn some yoga moves for each element. 
 Lesson 9: Here is a more indepth yoga sequence that focus on each specific element and how they can help parts of your body.
+
+
+
+
+For next week:
+See if i can change the color on the quiz matrix questions so it's easier for people taking the quiz
+Make a quiz for lesson 9: what should you expect from your 4 element yoga, what body parts are affected by the elements, not about specific moves
+Put the blurbs into the patreon
+Make a copy of the patreon picture + blurb and add it to the lessons on GH
+write a blurb for lesson 6 and email it to Dr. W so he can edit it
+See if PMP can show the start date of the users if they aren’t paying
