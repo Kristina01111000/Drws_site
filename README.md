@@ -129,11 +129,10 @@ See if there is a way to see how many people downloaded the scorecard, use googl
 scorecard link:
 https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit#gid=1517792507
 
-- he wants 10 questions per quiz if possible:
-	- Quizzes that have 10 questions: # 1
-	- Quizzes than need 10 questions: # 2, # 3, # 4, # 5
- 	- Quizzes that need to be made: # 6	
-	- Quizzes than need a lesson to be dropped first: # 7 and up 
+Quizzes: 
+	
+	- Quizzes than need to be made: quiz 9
+ 	- are there going to be more lessons?
 
 - google doc for emails:https://docs.google.com/document/d/1Nc_WVsgZKdhpWaHZyDn81rw4y02Dlj2wB-O-q9ZnJXs/edit?usp=sharing
 
