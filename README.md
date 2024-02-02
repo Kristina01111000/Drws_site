@@ -271,15 +271,8 @@ yang% = 100% * YangOfElement/RawElement
   	- 7
  	- 8
     	- 9
-- make quizzes for all three new learning programs
-	- 7
- 	- 8
-    	- 9
-- Write a summary blurb for each and send it to him -> send these to him tomorrow
- 	- 7
- 	- 8
-    	- 9
-- Check that the origin title is fixed on the site
+
+
 - Add the new license key for peepso -> he still needs to do this
 - 
 
