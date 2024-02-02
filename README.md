@@ -311,3 +311,4 @@ Make a copy of the patreon picture + blurb and add it to the lessons on GH
 write a blurb for lesson 6 and email it to Dr. W so he can edit it
 See if PMP can show the start date of the users if they aren’t paying
 make chats for all of the quizzes 6 - 9
+he needs to update the peepso subscription
