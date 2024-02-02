@@ -66,7 +66,9 @@ December: 9 hour 30 min -> sent
 
 January 2024: 8 hour 45 min
 
-February: 1 hour 30 min
+February: 1 hour 35 min
+
+
 plugins im using on site:
 
 - peepso -> auto updates still not working, caused by something in the backend? still not working the way they should
@@ -305,7 +307,6 @@ Lesson 9: Here is a more in-depth yoga sequence that focuses on each element and
 For next week:
 See if i can change the color on the quiz matrix questions so it's easier for people taking the quiz
 Make a quiz for lesson 9: what should you expect from your 4 element yoga, what body parts are affected by the elements, not about specific moves
-Put the blurbs into the patreon
 Make a copy of the patreon picture + blurb and add it to the lessons on GH
 write a blurb for lesson 6 and email it to Dr. W so he can edit it
 See if PMP can show the start date of the users if they aren’t paying
