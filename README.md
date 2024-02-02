@@ -266,15 +266,8 @@ yin % = 100% * YinOfElement/RawElement
 yang% = 100% * YangOfElement/RawElement
 
 
-- Add the new lessons to the site with links
-- Match the titles to the patreon
-  	- 7
- 	- 8
-    	- 9
-
-
 - Add the new license key for peepso -> he still needs to do this
-- 
+
 
 - fix the constant contact website email address thing
 
@@ -305,3 +298,4 @@ write a blurb for lesson 6 and email it to Dr. W so he can edit it
 See if PMP can show the start date of the users if they aren’t paying
 make chats for all of the quizzes 6 - 9
 he needs to update the peepso subscription
+add the images with blurbs to the site lessons
