@@ -66,7 +66,7 @@ December: 9 hour 30 min -> sent
 
 January 2024: 8 hour 45 min
 
-February: 1 hour 35 min
+February: 1 hour 50 min
 
 
 plugins im using on site:
@@ -299,3 +299,7 @@ See if PMP can show the start date of the users if they aren’t paying
 make chats for all of the quizzes 6 - 9
 he needs to update the peepso subscription
 add the images with blurbs to the site lessons
+
+
+
+sent back the basit files
