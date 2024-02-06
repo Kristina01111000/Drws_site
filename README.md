@@ -299,7 +299,7 @@ See if PMP can show the start date of the users if they aren’t paying
 make chats for all of the quizzes 6 - 9
 he needs to update the peepso subscription
 add the images with blurbs to the site lessons
-
+remind him about my invoice
 
 
 sent back the basit files
