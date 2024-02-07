@@ -64,7 +64,7 @@ November: 8 hour 45 minutes -> recieved
 
 December: 9 hour 30 min -> sent
 
-January 2024: 8 hour 45 min
+January 2024: 8 hour 50 min
 
 February: 1 hour 50 min
 
@@ -302,3 +302,4 @@ remind him about my invoice
 
 
 sent back the basit files
+the header and footerimages need to be fixed so they don't look bad when they're small
