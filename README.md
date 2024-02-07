@@ -293,12 +293,11 @@ Lesson 9: Here is a more in-depth yoga sequence that focuses on each element and
 For next week:
 See if i can change the color on the quiz matrix questions so it's easier for people taking the quiz
 Make a quiz for lesson 9: what should you expect from your 4 element yoga, what body parts are affected by the elements, not about specific moves
-Make a copy of the patreon picture + blurb and add it to the lessons on GH
-write a blurb for lesson 6 and email it to Dr. W so he can edit it
+Make a copy of the patreon picture + blurb and add it to the lessons on GH -> for lessons 6 -> 9
+write a blurb for lesson 6 
 See if PMP can show the start date of the users if they aren’t paying
 make chats for all of the quizzes 6 - 9
-he needs to update the peepso subscription
-add the images with blurbs to the site lessons
+he needs to update the peepso subscription soon, its slowing down the site
 remind him about my invoice
 
 
