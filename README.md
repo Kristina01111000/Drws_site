@@ -112,7 +112,7 @@ Notes:
 		- put in categories instead, unlist the ones from other sources, put them in unlisted category
 		- all posts should have comments turned off -> for now
 			- comments need to be removed manually if they are turned off after comments have been added
-	-using pixlr for basic photo edits
+	- using pixlr for basic photo edits
 	- used photo editor for flavenoids picture, font = fresh
 	- for admin email change "Settings"=>"General"=>"E-Mail Address". set to mine now, hopefully he fixes the other sites email address thing
 	- nothing on site can be hidden from administrators
@@ -147,14 +147,6 @@ In future:
 
 - Send emails at 10 am on monday for newsletter
 
-
-5/4
-
-- add titles of lessons to the course chats 
--Change the chat titles to share your thoughts on lesson __
-
-
-How do facebook, twitter, youtube, instagram, tiktok, the site, patreon connect to each other
 
 
 8/30
@@ -302,3 +294,8 @@ remind him about my invoice
 sent back the basit files
 the header and footerimages need to be fixed so they don't look bad when they're small
 no meeting untli next week
+
+
+- add titles of lessons to the course chats 
+- Change the chat titles to share your thoughts on lesson __
+
