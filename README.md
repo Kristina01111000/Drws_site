@@ -173,8 +173,6 @@ Should focus on things added to the patreon, links and description, recipe?, sea
 
 9/7:
 
-Think about how the 30 day challenge should be used going forward, where should we talk about it etc, in a collection ‘things you can do now working title’ phone apps and more, something like that, talk about it in the newsletter
-
 found where to edit the lorem ipsum.  its in the javascript file, made edits, need access to c panel to put the file on the site, got access go over that i can edit the other text tomorrow if i'm careful
 
 go over the quick minute videos, try to get 15 done by thursday, there are 24 on youtube, don't know how many on patreon
