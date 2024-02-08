@@ -303,3 +303,4 @@ remind him about my invoice
 
 sent back the basit files
 the header and footerimages need to be fixed so they don't look bad when they're small
+no meeting untli next week
