@@ -297,7 +297,7 @@ Make a copy of the patreon picture + blurb and add it to the lessons on GH -> fo
 write a blurb for lesson 6 
 See if PMP can show the start date of the users if they aren’t paying
 make chats for all of the quizzes 6 - 9
-he needs to update the peepso subscription soon, its slowing down the site
+he needs to update the peepso subscription soon, its slowing down the site -> significantly
 remind him about my invoice
 
 
