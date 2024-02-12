@@ -299,3 +299,4 @@ no meeting untli next week
 - add titles of lessons to the course chats 
 - Change the chat titles to share your thoughts on lesson __
 
+ask aobut the lessons that are only available to the highest tier patrons
