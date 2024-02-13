@@ -256,12 +256,8 @@ yin % = 100% * YinOfElement/RawElement
 yang% = 100% * YangOfElement/RawElement
 
 
-- Add the new license key for peepso -> he still needs to do this
 - Add the new lessons to the site with links
 - Match the titles to the patreon
-- make quiz for learning program 9? How
-- Add the new license key for peepso
-
 
 
 Lesson 6: This lesson will teach you about the metaphysics of the four elements, specifically the numerology of the elements and their effect on nature
