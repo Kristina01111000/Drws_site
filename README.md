@@ -66,7 +66,7 @@ December: 9 hour 30 min -> sent
 
 January 2024: 8 hour 50 min
 
-February: 2 hour 0 min
+February: 2 hour 5 min
 
 
 plugins im using on site:
@@ -220,7 +220,6 @@ check on the quiz page
 - make a slide for the app with a link to the app page
 
 
-- tell basit how to fix the graphs on the quiz pdfs done with 80 q and with 40Q comment -> first question ready
 - for letter to basit:
   	- write the formulas
   	- write one for the 40Q and one for the 80Q
@@ -230,9 +229,7 @@ on mnday email him about the pdfs and if im emailing basit or if he is
 figure out how to word the third question better so they can understand
 - need to figure out how they measure the yin/yang section
 - also write out a formula for the 3rd graph, going from words to variables is probably hard for them b/c english is not their first language
-- need him to explain what he wants for the third graph and how they should figure it out
-- tell him that they need a formula, b/c doing math word problems in another language is probably a big part of the issue
-- - he can't find his comments he wrote -> they weren't in the pdf that i put my comments in
+
  
   1/25
   Graph Formulas
@@ -243,10 +240,6 @@ Looks like graph three is wrong, he wants each element to add up to 100%, and ea
 
 yin % = 100% * YinOfElement/RawElement
 yang% = 100% * YangOfElement/RawElement
-
-
-- Add the new lessons to the site with links
-- Match the titles to the patreon
 
 
 Lesson 6: This lesson will teach you about the metaphysics of the four elements, specifically the numerology of the elements and their effect on nature
@@ -260,7 +253,7 @@ Lesson 9: Here is a more in-depth yoga sequence that focuses on each element and
 
 For next week:
 Make a quiz for lesson 9: what should you expect from your 4 element yoga, what body parts are affected by the elements, not about specific moves
-Make a copy of the patreon picture + blurb and add it to the lessons on GH -> for lessons 6 -> 9
+Make a copy of the patreon picture + blurb and add it to the lessons on GH -> for lessons 7 -> 9
 See if PMP can show the start date of the users if they aren’t paying
 make chats for all of the quizzes 6 - 9, also write leading questions for discussion
 he needs to update the peepso subscription soon, its slowing down the site -> significantly
