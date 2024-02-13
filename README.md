@@ -200,9 +200,6 @@ work on spreadsheet for videos
 
 - Can google analytics work for patreon pages, add it if it does work
 
-- make chats for the origins part 1 chat page
-- also fix the chat page for lesson 6, write a leading question
-- 
 
 12/28
 - Look into more ways to market the patreon
@@ -265,7 +262,7 @@ For next week:
 Make a quiz for lesson 9: what should you expect from your 4 element yoga, what body parts are affected by the elements, not about specific moves
 Make a copy of the patreon picture + blurb and add it to the lessons on GH -> for lessons 6 -> 9
 See if PMP can show the start date of the users if they aren’t paying
-make chats for all of the quizzes 6 - 9
+make chats for all of the quizzes 6 - 9, also write leading questions for discussion
 he needs to update the peepso subscription soon, its slowing down the site -> significantly
 remind him about my invoice + send january invoice
 
