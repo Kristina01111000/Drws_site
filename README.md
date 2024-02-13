@@ -66,7 +66,7 @@ December: 9 hour 30 min -> sent
 
 January 2024: 8 hour 50 min
 
-February: 1 hour 50 min
+February: 1 hour 55 min
 
 
 plugins im using on site:
@@ -284,7 +284,7 @@ For next week:
 See if i can change the color on the quiz matrix questions so it's easier for people taking the quiz
 Make a quiz for lesson 9: what should you expect from your 4 element yoga, what body parts are affected by the elements, not about specific moves
 Make a copy of the patreon picture + blurb and add it to the lessons on GH -> for lessons 6 -> 9
-write a blurb for lesson 6 
+write a blurb for lesson 6 -> this lesson will teach you about the metaphysics of the four elements
 See if PMP can show the start date of the users if they aren’t paying
 make chats for all of the quizzes 6 - 9
 he needs to update the peepso subscription soon, its slowing down the site -> significantly
