@@ -66,7 +66,7 @@ December: 9 hour 30 min -> sent
 
 January 2024: 8 hour 50 min
 
-February: 1 hour 55 min
+February: 2 hour 0 min
 
 
 plugins im using on site:
@@ -150,18 +150,10 @@ In future:
 
 
 8/30
-Look at the quick minutes and see how they are, see if he should look at any of them
 On patreon make the holistic learning program link hot in the pinned post
-
 write an email for new users of the patreon to get that talks about the community
 look at the emails to see what needs to change, link to patreon, and growing holistically
 Should focus on things added to the patreon, links and description, recipe?, seasonal blurb, makes sense to send it once a month
-
-
-
-- make sure to read everything for slang that he doesn't know he is using
-
-
 
 9/7:
 
