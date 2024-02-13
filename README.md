@@ -279,14 +279,10 @@ Make a copy of the patreon picture + blurb and add it to the lessons on GH -> fo
 See if PMP can show the start date of the users if they aren’t paying
 make chats for all of the quizzes 6 - 9
 he needs to update the peepso subscription soon, its slowing down the site -> significantly
-remind him about my invoice
+remind him about my invoice + send january invoice
 
 
-sent back the basit files
-the header and footerimages need to be fixed so they don't look bad when they're small
-no meeting untli next week
-
-
+- the header and footer images need to be fixed so they don't look bad when they're small
 - add titles of lessons to the course chats 
 - Change the chat titles to share your thoughts on lesson __
 
