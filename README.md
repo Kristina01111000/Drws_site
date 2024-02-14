@@ -66,7 +66,7 @@ December: 9 hour 30 min -> sent
 
 January 2024: 8 hour 50 min
 
-February: 2 hour 20 min
+February: 2 hour 40 min
 
 
 plugins im using on site:
@@ -252,7 +252,6 @@ Lesson 9: Here is a more in-depth yoga sequence that focuses on each element and
 
 
 For next week:
-Make a quiz for lesson 9: what should you expect from your 4 element yoga, what body parts are affected by the elements, not about specific moves
 See if PMP can show the start date of the users if they aren’t paying
 make chats for all of the quizzes 6 - 9, also write leading questions for discussion
 he needs to update the peepso subscription soon, its slowing down the site -> significantly
