@@ -162,9 +162,6 @@ found where to edit the lorem ipsum.  its in the javascript file, made edits, ne
 go over the quick minute videos, try to get 15 done by thursday, there are 24 on youtube, don't know how many on patreon
 videos done: 9
 
-figure out why siteground security was causing issues with login or find a new security plugin for both sites
-
-
 work on spreadsheet for videos
 
 
