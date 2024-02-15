@@ -66,7 +66,7 @@ December: 9 hour 30 min -> sent
 
 January 2024: 8 hour 50 min
 
-February: 2 hour 40 min
+February: 2 hour 45 min
 
 
 plugins im using on site:
@@ -260,3 +260,4 @@ remind him about my invoice + send january invoice
 - Change the chat titles to share your thoughts on lesson __
 
 ask aobut the lessons that are only available to the highest tier patrons
+- is the lesson 9 quiz good enough?
