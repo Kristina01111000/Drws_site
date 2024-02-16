@@ -260,4 +260,4 @@ remind him about my invoice + send january invoice
 - Change the chat titles to share your thoughts on lesson __
 
 ask aobut the lessons that are only available to the highest tier patrons
-- is the lesson 9 quiz good enough?
+- is the lesson 9 quiz good enough? check that the questions make sense
