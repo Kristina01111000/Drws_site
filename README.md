@@ -261,3 +261,4 @@ remind him about my invoice + send january invoice
 
 ask aobut the lessons that are only available to the highest tier patrons
 - is the lesson 9 quiz good enough? check that the questions make sense
+- asked my mom to try the quiz to see if it makes any sense
