@@ -235,8 +235,6 @@ Graph 2: Is good the way it is
 Graph 3. For the third graph, the inner circle should stay the way it is, with each element being 1/4th of the circle. The outer portion should follow this formula for the yin element percentage: 100% * YinElementRawScore / [EarthRawScore+WaterRawScore+AirRawScore+FireRawScore].The yang element percentage is the same formula: 100% * YangElementRawScore / [EarthRawScore+WaterRawScore+AirRawScore+FireRawScore].
 Looks like graph three is wrong, he wants each element to add up to 100%, and each elelemtn should be in just its quarter of the graph
 
-yin % = 100% * YinOfElement/RawElement
-yang% = 100% * YangOfElement/RawElement
 
 
 Lesson 6: This lesson will teach you about the metaphysics of the four elements, specifically the numerology of the elements and their effect on nature
