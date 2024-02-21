@@ -66,7 +66,7 @@ December: 9 hour 30 min -> sent
 
 January 2024: 8 hour 50 min
 
-February: 2 hour 45 min
+February: 2 hour 50 min
 
 
 plugins im using on site:
@@ -263,3 +263,8 @@ ask aobut the lessons that are only available to the highest tier patrons
 - figure out when the next meeting is
 - ask him if he wants me to comment onthe videos as they are posted
 - he wants people on GH automatically after joining the patreon
+
+
+
+
+- go over the wellness check
