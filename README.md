@@ -66,7 +66,7 @@ December: 9 hour 30 min -> sent
 
 January 2024: 8 hour 50 min
 
-February: 3 hour 5 min
+February: 3 hour 10 min
 
 
 plugins im using on site:
@@ -267,5 +267,5 @@ ask aobut the lessons that are only available to the highest tier patrons
 
 
 
-- go over the wellness check
+- go over the wellness check -> make a pdf
 - added the quizzes to teh site, need to make text changes
