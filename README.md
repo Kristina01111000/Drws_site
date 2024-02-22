@@ -66,7 +66,7 @@ December: 9 hour 30 min -> sent
 
 January 2024: 8 hour 50 min
 
-February: 3 hour 40 min
+February: 4 hour 55 min
 
 
 plugins im using on site:
