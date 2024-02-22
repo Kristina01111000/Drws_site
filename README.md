@@ -131,11 +131,6 @@ See if there is a way to see how many people downloaded the scorecard, use googl
 scorecard link:
 https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit#gid=1517792507
 
-Quizzes: 
-	
-	- Quizzes than need to be made: quiz 9
- 	- are there going to be more lessons?
-
 - google doc for emails:https://docs.google.com/document/d/1Nc_WVsgZKdhpWaHZyDn81rw4y02Dlj2wB-O-q9ZnJXs/edit?usp=sharing
 
 to do now:
@@ -212,7 +207,6 @@ check on the quiz page
 
 1/11
 - Add the 40qq page back to the homepage, and to the header, and the menu
-- Make text changes to the 40 and 80 QQ when it gets back
 - connect the get out app page to the rest of the site
 - make a slide for the app with a link to the app page
 
