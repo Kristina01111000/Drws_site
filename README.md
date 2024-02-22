@@ -216,19 +216,7 @@ check on the quiz page
 - connect the get out app page to the rest of the site
 - make a slide for the app with a link to the app page
 
-
-- for letter to basit:
-  	- write the formulas
-  	- write one for the 40Q and one for the 80Q
-  	- figure out how to fix the third graph
-	- drw is taking care of the third graph
-on mnday email him about the pdfs and if im emailing basit or if he is
-figure out how to word the third question better so they can understand
-- need to figure out how they measure the yin/yang section
-- also write out a formula for the 3rd graph, going from words to variables is probably hard for them b/c english is not their first language
-
- 
-  1/25
+1/25
   Graph Formulas
 Graph 1: The first graph is supposed to show the percentages of each element, with the percentages totaling to 100%. The formula for for each element percent is 100% *(the raw score for the element)/ EarthRawScore+WaterRawScore+AirRawScore+FireRawScore] so for this graph the fire and water percentages would be 8.3% and the air and earth percentages would be 41.7%.
 Graph 2: Is good the way it is
