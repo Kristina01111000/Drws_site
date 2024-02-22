@@ -270,3 +270,62 @@ ask aobut the lessons that are only available to the highest tier patrons
 - go over the wellness check -> make a pdf
 - added the quizzes to teh site, need to make text changes
 - go over wellness self assessment pdf
+
+
+
+2/22
+
+For next week:
+After peepso confirmation key is done
+fix the colors of the quiz matrix questions
+Make chats for the quizzes that don’t have them
+Add lesson 6 blurb on patreon
+This lesson will teach you about the metaphysics of the four elements, specifically their metaphysical, or “spiritual”, origins.
+Add lesson 6 image and blurb on GH
+Quiz changes below
+Add bubbles to the wellness check (1 - 5)
+Make title bolder and larger 
+Make title Growing Holistically “Wellness Self Check”
+Send it to him when it's ready
+When people join the patreon: their email gets added to constant contact and we will manually make them an account on GH
+On patreon make lesson 7 8 9 visible on the regular paid tier
+He is going to send me some text for the quiz page bottom boxes, and quiz page intro paragraph 
+See if i can add a box to the pdf page so that last paragraph stands our better
+He will send me the final text for the two quizzes
+
+Things to do when quizzes (40Q & 80Q) are back:
+fix the titles
+40Q
+Quiz page Discover your Holistic <br> Four element Balance Score
+pdf
+80Q
+Quiz page
+pdf
+check all the questions for spelling, grammar, making sense
+40Q
+80Q
+Check that the paragraphs on the pdf all make sense
+40Q
+80Q
+First paragraph - Keep in mind that the four elements – Fire, Air, Water and Earth – were studied by the smartest and wisest of humankind for literally thousands of years. Our predecessors understood how this special foursome represents four essential principles-values-forces that we each balance (whether we’re aware of it or not) in our own unique ways.
+check all the graphs on the pdf
+40Q
+First
+Second
+Third -> should be removed, save the code in the original file
+80Q
+First
+Second
+Third
+work on the box at the bottom of pdf
+40Q
+80Q
+fix up the quiz page
+check logos are correct
+see if there is a way to capture names from the box at the bottom, or delete it 
+Change coupon box in bottom and add something in that box, 
+40Q
+80Q
+For the links to the quiz, assessment feels way too formal, quiz might be too informal, but it seems more doable than assessment, are there other options for the word to call them?  Self-assessment might work, maybe Self-assessment Quiz, self assessment survey, self-evaluation  see what looks best
+Only put the 40Q on the site, the 80Q is for a few months from now
+Add the 40qq page back to the homepage, and to the header, and the menu (top of second sidebar) Take our 4 element self evaluation
