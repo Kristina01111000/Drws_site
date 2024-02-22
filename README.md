@@ -220,11 +220,7 @@ make chats for all of the quizzes 6 - 9, also write leading questions for discus
 - Change the chat titles to share your thoughts on lesson __
 
 - asked my mom to try the quiz to see if it makes any sense
-- figure out when the next meeting is
-- ask him if he wants me to comment onthe videos as they are posted
 - he wants people on GH automatically after joining the patreon
-
-
 
 
 - go over the wellness check -> make a pdf
