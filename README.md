@@ -64,9 +64,9 @@ November: 8 hour 45 minutes -> recieved
 
 December: 9 hour 30 min -> sent
 
-January 2024: 8 hour 50 min
+January 2024: 8 hour 45 min
 
-February: 4 hour 55 min
+February: 5 hour 0 min
 
 
 plugins im using on site:
