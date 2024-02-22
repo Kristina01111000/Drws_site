@@ -222,11 +222,6 @@ make chats for all of the quizzes 6 - 9, also write leading questions for discus
 - asked my mom to try the quiz to see if it makes any sense
 - he wants people on GH automatically after joining the patreon
 
-
-- go over the wellness check -> make a pdf
-
-
-
 2/22
 
 For next week:
