@@ -210,16 +210,6 @@ check on the quiz page
 - connect the get out app page to the rest of the site
 - make a slide for the app with a link to the app page
 
-1/25
-
-Lesson 6: This lesson will teach you about the metaphysics of the four elements, specifically the numerology of the elements and their effect on nature
-Lesson 7: Learn about how spirituality, science, art, and the mundane parts of our lives relate to the four elements.
-Lesson 8: Learn how the four elements have been integrated into an exciting new easy-to-learn yoga.
-Lesson 9: Here is a more in-depth yoga sequence that focuses on each element and how they can help specific parts of your body.
-
-
-
-
 
 For next week:
 See if PMP can show the start date of the users if they aren’t paying
