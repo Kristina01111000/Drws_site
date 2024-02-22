@@ -256,8 +256,6 @@ ask aobut the lessons that are only available to the highest tier patrons
 
 
 - go over the wellness check -> make a pdf
-- added the quizzes to teh site, need to make text changes
-- go over wellness self assessment pdf
 
 
 
@@ -270,7 +268,7 @@ Make chats for the quizzes that don’t have them
 Add lesson 6 blurb on patreon
 This lesson will teach you about the metaphysics of the four elements, specifically their metaphysical, or “spiritual”, origins.
 Add lesson 6 image and blurb on GH
-Quiz changes below
+
 Add bubbles to the wellness check (1 - 5)
 Make title bolder and larger 
 Make title Growing Holistically “Wellness Self Check”
