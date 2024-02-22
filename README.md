@@ -214,9 +214,6 @@ check on the quiz page
 For next week:
 See if PMP can show the start date of the users if they aren’t paying
 make chats for all of the quizzes 6 - 9, also write leading questions for discussion
-he needs to update the peepso subscription soon, its slowing down the site -> significantly
-remind him about my invoice + send january invoice
-
 
 - the header and footer images need to be fixed so they don't look bad when they're small
 - add titles of lessons to the course chats 
