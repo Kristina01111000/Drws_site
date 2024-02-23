@@ -66,7 +66,7 @@ December: 9 hour 30 min -> sent
 
 January 2024: 8 hour 45 min -> sent
 
-February: 5 hour 0 min
+February: 5 hour 5 min
 
 
 plugins im using on site:
@@ -241,6 +241,7 @@ On patreon make lesson 7 8 9 visible on the regular paid tier
 He is going to send me some text for the quiz page bottom boxes, and quiz page intro paragraph 
 See if i can add a box to the pdf page so that last paragraph stands our better
 He will send me the final text for the two quizzes
+asked him to show where graphs would be so i can check the spacing
 
 Things to do when quizzes (40Q & 80Q) are back:
 fix the titles
