@@ -279,3 +279,7 @@ Change coupon box in bottom and add something in that box,
 For the links to the quiz, assessment feels way too formal, quiz might be too informal, but it seems more doable than assessment, are there other options for the word to call them?  Self-assessment might work, maybe Self-assessment Quiz, self assessment survey, self-evaluation  see what looks best
 Only put the 40Q on the site, the 80Q is for a few months from now
 Add the 40qq page back to the homepage, and to the header, and the menu (top of second sidebar) Take our 4 element self evaluation
+
+
+
+still need peepso done, its a mess
