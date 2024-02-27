@@ -268,7 +268,6 @@ work on the box at the bottom of pdf
 40Q
 80Q
 fix up the quiz page
-check logos are correct
 see if there is a way to capture names from the box at the bottom, or delete it 
 Change coupon box in bottom and add something in that box, 
 40Q
