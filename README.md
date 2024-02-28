@@ -225,8 +225,6 @@ make chats for all of the quizzes 6 - 9, also write leading questions for discus
 2/22
 
 For next week:
-After peepso confirmation key is done
-fix the colors of the quiz matrix questions
 Make chats for the quizzes that don’t have them
 
 When people join the patreon: their email gets added to constant contact and we will manually make them an account on GH
@@ -237,7 +235,7 @@ asked him to show where graphs would be so i can check the spacing
 
 Things to do when quizzes (40Q & 80Q) are back:
 
-Quiz page
+
 pdf
 check all the questions for spelling, grammar, making sense
 40Q
