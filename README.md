@@ -66,7 +66,7 @@ December: 9 hour 30 min -> sent
 
 January 2024: 8 hour 45 min -> sent
 
-February: 5 hour 15 min
+February: 5 hour 20 min
 
 
 plugins im using on site:
@@ -228,8 +228,6 @@ For next week:
 After peepso confirmation key is done
 fix the colors of the quiz matrix questions
 Make chats for the quizzes that don’t have them
-Add lesson 6 image and blurb on GH
-
 Add bubbles to the wellness check (1 - 5)
 Make title bolder and larger 
 Make title Growing Holistically “Wellness Self Check”
