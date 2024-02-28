@@ -66,7 +66,7 @@ December: 9 hour 30 min -> sent
 
 January 2024: 8 hour 45 min -> sent
 
-February: 5 hour 40 min
+February: 5 hour 50 min
 
 
 plugins im using on site:
@@ -228,9 +228,7 @@ For next week:
 After peepso confirmation key is done
 fix the colors of the quiz matrix questions
 Make chats for the quizzes that don’t have them
-Add bubbles to the wellness check (1 - 5)
-Make title bolder and larger 
-Send it to him when it's ready
+
 When people join the patreon: their email gets added to constant contact and we will manually make them an account on GH
 He is going to send me some text for the quiz page bottom boxes, and quiz page intro paragraph 
 See if i can add a box to the pdf page so that last paragraph stands our better
