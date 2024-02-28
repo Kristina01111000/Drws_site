@@ -66,7 +66,7 @@ December: 9 hour 30 min -> sent
 
 January 2024: 8 hour 45 min -> sent
 
-February: 5 hour 50 min
+February: 6 hour 0 min
 
 
 plugins im using on site:
@@ -236,11 +236,7 @@ He will send me the final text for the two quizzes
 asked him to show where graphs would be so i can check the spacing
 
 Things to do when quizzes (40Q & 80Q) are back:
-fix the titles
-40Q
-Quiz page Discover your Holistic <br> Four element Balance Score
-pdf
-80Q
+
 Quiz page
 pdf
 check all the questions for spelling, grammar, making sense
