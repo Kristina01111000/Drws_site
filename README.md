@@ -66,7 +66,7 @@ December: 9 hour 30 min -> sent
 
 January 2024: 8 hour 45 min -> sent
 
-February: 6 hour 15 min
+February: 7 hour 15 min
 
 
 plugins im using on site:
@@ -241,18 +241,9 @@ check all the questions for spelling, grammar, making sense
 40Q
 80Q
 Check that the paragraphs on the pdf all make sense
-40Q first second third fourth
-80Q second third fourth
+40Q  fourth
+80Q  fourth
 First paragraph - Keep in mind that the four elements – Fire, Air, Water and Earth – were studied by the smartest and wisest of humankind for literally thousands of years. Our predecessors understood how this special foursome represents four essential principles-values-forces that we each balance (whether we’re aware of it or not) in our own unique ways.
-check all the graphs on the pdf
-40Q
-First
-Second
-Third -> should be removed, save the code in the original file
-80Q
-First
-Second
-Third
 work on the box at the bottom of pdf
 40Q
 80Q
