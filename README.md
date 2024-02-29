@@ -236,13 +236,10 @@ Things to do when quizzes (40Q & 80Q) are back:
 
 
 pdf
-check all the questions for spelling, grammar, making sense
 40Q
 80Q
 Check that the paragraphs on the pdf all make sense
-40Q  fourth
 80Q  fourth
-First paragraph - Keep in mind that the four elements – Fire, Air, Water and Earth – were studied by the smartest and wisest of humankind for literally thousands of years. Our predecessors understood how this special foursome represents four essential principles-values-forces that we each balance (whether we’re aware of it or not) in our own unique ways.
 work on the box at the bottom of pdf
 40Q
 80Q
@@ -257,7 +254,6 @@ Add the 40qq page back to the homepage, and to the header, and the menu (top of 
 
 
 
-still need peepso done, its a mess
 2/29
 
 After peepso confirmation key is done
