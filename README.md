@@ -230,8 +230,7 @@ Make chats for the quizzes that don’t have them
 When people join the patreon: their email gets added to constant contact and we will manually make them an account on GH
 He is going to send me some text for the quiz page bottom boxes, and quiz page intro paragraph 
 See if i can add a box to the pdf page so that last paragraph stands our better
-He will send me the final text for the two quizzes
-asked him to show where graphs would be so i can check the spacing
+
 
 Things to do when quizzes (40Q & 80Q) are back:
 
