@@ -258,3 +258,17 @@ Add the 40qq page back to the homepage, and to the header, and the menu (top of 
 
 
 still need peepso done, its a mess
+2/29
+
+After peepso confirmation key is done
+fix the colors of the quiz matrix questions
+Check the constant contact box ->  see if peepso update fixed it
+Put the wellness self check where?
+See if i can round the corners in the wellness self check
+Add the logo to the wellness self check 
+Change the margins to get it on one page
+Make the boxes tickable
+Say something about saving it so they can compare
+Send hi the finished version when he’s done
+For quizzes change the hotlink to say “Check out our patreon for more”
+Try to put the water paragraph on the second page, if not ask what i should do
