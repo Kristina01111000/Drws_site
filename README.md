@@ -195,7 +195,7 @@ work on spreadsheet for videos
 
 12/28
 - Look into more ways to market the patreon
-- For the app:
+- For the app: Soon 
 	- Make a slide
 	- After dr w on homepage
 	- put page under programs tab in header
@@ -206,7 +206,6 @@ work on spreadsheet for videos
 check on the quiz page
 
 1/11
-- Add the 40qq page back to the homepage, and to the header, and the menu
 - connect the get out app page to the rest of the site
 - make a slide for the app with a link to the app page
 
@@ -273,3 +272,5 @@ Hot link that says “click here to learn more”
 Center the hot link if possible
 Need text for the quizzes boxes at bottom -> link to join and link to patreon first box to patreon second to GH - write text so he can edit it - click to join and to check it out 
 Make the gray boxes less wide, add padding
+
+- Add the 40qq page back to the homepage, and to the header, and the menu
