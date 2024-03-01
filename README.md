@@ -256,7 +256,6 @@ Add the 40qq page back to the homepage, and to the header, and the menu (top of 
 
 2/29
 
-After peepso confirmation key is done
 fix the colors of the quiz matrix questions
 Check the constant contact box ->  see if peepso update fixed it
 Put the wellness self check where?
