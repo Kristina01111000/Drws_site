@@ -244,7 +244,7 @@ work on the box at the bottom of pdf
 40Q
 80Q
 fix up the quiz page
-see if there is a way to capture names from the box at the bottom, or delete it 
+delete name capture box 
 Change coupon box in bottom and add something in that box, 
 40Q
 80Q
@@ -264,7 +264,7 @@ Add the logo to the wellness self check
 Change the margins to get it on one page
 Make the boxes tickable
 Say something about saving it so they can compare
-Send hi the finished version when he’s done
+Send him the finished version when he’s done
 For quizzes change the hotlink to say “Check out our patreon for more”
 Try to put the water paragraph on the second page, if not ask what i should do
 Make the paragraph a few paragraphs with the site link hot in the middle
