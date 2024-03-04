@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 30 min
+March: 35 min
 
 
 plugins im using on site:
@@ -262,7 +262,6 @@ Check the constant contact box ->  see if peepso update fixed it
 Put the wellness self check where?
 See if i can round the corners in the wellness self check
 Say something about saving it so they can compare
-Send him the finished version when he’s done
 For quizzes change the hotlink to say “Check out our patreon for more”
 Try to put the water paragraph on the second page, if not ask what i should do
 Make the paragraph a few paragraphs with the site link hot in the middle
