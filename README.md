@@ -68,6 +68,8 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
+March: 15 min
+
 
 plugins im using on site:
 
@@ -261,7 +263,7 @@ Put the wellness self check where?
 See if i can round the corners in the wellness self check
 Add the logo to the wellness self check 
 Change the margins to get it on one page
-Make the boxes tickable -> copy paste the tick boxes
+Make the boxes tickable -> copy paste the tick boxes, ctr c ctr v into the spot i want them
 Say something about saving it so they can compare
 Send him the finished version when he’s done
 For quizzes change the hotlink to say “Check out our patreon for more”
