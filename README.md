@@ -259,7 +259,6 @@ Add the 40qq page back to the homepage, and to the header, and the menu (top of 
 
 fix the colors of the quiz matrix questions
 Check the constant contact box ->  see if peepso update fixed it
-Put the wellness self check where?
 See if i can round the corners in the wellness self check
 Say something about saving it so they can compare
 For quizzes change the hotlink to say “Check out our patreon for more”
@@ -272,3 +271,7 @@ Need text for the quizzes boxes at bottom -> link to join and link to patreon fi
 Make the gray boxes less wide, add padding
 
 - Add the 40qq page back to the homepage, and to the header, and the menu
+
+
+For next week:
+- Put the wellness self check where?
