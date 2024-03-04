@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 20 min
+March: 30 min
 
 
 plugins im using on site:
@@ -261,7 +261,6 @@ fix the colors of the quiz matrix questions
 Check the constant contact box ->  see if peepso update fixed it
 Put the wellness self check where?
 See if i can round the corners in the wellness self check
-Change the margins to get it on one page
 Say something about saving it so they can compare
 Send him the finished version when he’s done
 For quizzes change the hotlink to say “Check out our patreon for more”
