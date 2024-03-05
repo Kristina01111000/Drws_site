@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 40 min
+March: 45 min
 
 
 plugins im using on site:
@@ -267,7 +267,7 @@ Make the gray boxes less wide, add padding
 
 - Add the 40qq page back to the homepage, and to the header, and the menu
 - go over the edits dr w sent back for wellness check
-	- The Sponsored by…. Make it significantly larger font; perhaps all centered. The next line - make it the Learn more… = have its font a bit smaller than the one above it. And the same size as the next line. Have that line be: Try his….
+  
 
 For next week:
 - Put the wellness self check where?
