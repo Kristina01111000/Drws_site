@@ -128,7 +128,6 @@ Notes:
 See if there is a way to see how many people downloaded the scorecard, use google for site analytics - he needs a google workspace account for this
 
 --------------------------------------------------------
- analytics add him as an admin for other sites -> check
 
 scorecard link:
 https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit#gid=1517792507
@@ -138,7 +137,6 @@ https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROX
 to do now:
 
 - Write a review in fourissimo club for the heel strike fixing plantar fasciitis
-
 
 In future:
 
@@ -184,7 +182,6 @@ work on spreadsheet for videos
 
 12/7
 
-- On the quiz page emphasize joining growingholistically in the big box
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
 
 
