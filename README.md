@@ -266,7 +266,7 @@ Need text for the quizzes boxes at bottom -> link to join and link to patreon fi
 Make the gray boxes less wide, add padding
 
 - Add the 40qq page back to the homepage, and to the header, and the menu
-
+- go over the edits dr w sent back for wellness check
 
 For next week:
 - Put the wellness self check where?
