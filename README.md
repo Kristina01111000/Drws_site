@@ -234,8 +234,6 @@ See if i can add a box to the pdf page so that last paragraph stands our better
 
 
 Things to do when quizzes (40Q & 80Q) are back:
-
-
 pdf
 40Q
 80Q
@@ -275,3 +273,4 @@ Make the gray boxes less wide, add padding
 
 For next week:
 - Put the wellness self check where?
+- get an update on the app
