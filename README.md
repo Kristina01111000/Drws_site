@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 1 hour 20 min
+March: 1 hour 25 min
 
 
 plugins im using on site:
@@ -250,13 +250,6 @@ Add the 40qq page back to the homepage, and to the header, and the menu (top of 
 fix the colors of the quiz matrix questions
 Check the constant contact box ->  see if peepso update fixed i
 Say something about saving it so they can compare
-For quizzes change the hotlink to say “Check out our patreon for more”
-Try to put the water paragraph on the second page, if not ask what i should do
-Make the paragraph a few paragraphs with the site link hot in the middle
-Find out more about how to re-calibrate your balance by going to Dr. W’s Four Element Learning Community, hosted on the Patreon platform. Join for FREE and receive helpful holistic practical advice or become a Subscriber/Supporter to access even more valuable information from Dr. Walsdorf.
-Hot link that says “click here to learn more”
-Center the hot link if possible
-Need text for the quizzes boxes at bottom -> link to join and link to patreon first box to patreon second to GH - write text so he can edit it - click to join and to check it out 
 Make the gray boxes less wide, add padding
 
 - Add the 40qq page back to the homepage, and to the header, and the menu
