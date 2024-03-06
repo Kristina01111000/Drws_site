@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 1 hour 0 min
+March: 1 hour 10 min
 
 
 plugins im using on site:
@@ -237,11 +237,6 @@ pdf
 Check that the paragraphs on the pdf all make sense
 80Q  fourth
 work on the box at the bottom of pdf
-40Q
-80Q
-fix up the quiz page
-delete name capture box 
-Change coupon box in bottom and add something in that box, 
 40Q
 80Q
 For the links to the quiz, assessment feels way too formal, quiz might be too informal, but it seems more doable than assessment, are there other options for the word to call them?  Self-assessment might work, maybe Self-assessment Quiz, self assessment survey, self-evaluation  see what looks best
