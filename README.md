@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 1 hour 25 min
+March: 1 hour 40 min
 
 
 plugins im using on site:
@@ -231,14 +231,10 @@ See if i can add a box to the pdf page so that last paragraph stands our better
 
 
 Things to do when quizzes (40Q & 80Q) are back:
-pdf
-40Q
-80Q
+
 Check that the paragraphs on the pdf all make sense
 80Q  fourth
-work on the box at the bottom of pdf
-40Q
-80Q
+
 For the links to the quiz, assessment feels way too formal, quiz might be too informal, but it seems more doable than assessment, are there other options for the word to call them?  Self-assessment might work, maybe Self-assessment Quiz, self assessment survey, self-evaluation  see what looks best
 Only put the 40Q on the site, the 80Q is for a few months from now
 Add the 40qq page back to the homepage, and to the header, and the menu (top of second sidebar) Take our 4 element self evaluation
