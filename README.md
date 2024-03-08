@@ -275,3 +275,4 @@ For the fire/air paragraph edits
 Of the primary colors – red, yellow, blue – consider how the yellow of the sun expresses the Fire Principle in nature. Fire relates to the spiritual dimension of our lives, to one’s level of idealism, creativity. 
 Air’s energetics show up in our planet's expansive blue skies. There is a unique yin and yang to Air as it plays out within us. Air’s yin force shows up as intellectual prowess; its yang force gives us our robust muscularity.
 Do the lesson chats for the new quizzes
+and make the pages for them, do a tleast 2 comments for each
