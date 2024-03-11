@@ -272,3 +272,4 @@ Air’s energetics show up in our planet's expansive blue skies. There is a uniq
 Do the lesson chats for the new quizzes
 and make the pages for them, do a tleast 2 comments for each
 - emailed about the quizzes reloading on his computer
+- make a new wellness self check
