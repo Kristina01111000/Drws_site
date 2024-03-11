@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 2 hour 40 min
+March: 2 hour 50 min
 
 
 plugins im using on site:
@@ -257,7 +257,6 @@ For next week:
 - get an update on the app
 - 
 3/7/24
-For wellness self check make the top 3 boxes the same width and the bottom 2 the same width
 Put wellness self check on the header under programs, on the sidebar and the homepage
 Make a page for the wellness self check, include the number/score and their meanings
 For 40Q re-add the “here is your psychological…” paragraphs below the second graph
