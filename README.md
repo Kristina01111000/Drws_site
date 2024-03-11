@@ -252,10 +252,6 @@ Make the gray boxes less wide, add padding
 - go over the edits dr w sent back for wellness check
   
 
-For next week:
-- Put the wellness self check where?
-- get an update on the app
-- 
 3/7/24
 Put wellness self check on the header under programs, on the sidebar and the homepage
 Make a page for the wellness self check, include the number/score and their meanings
@@ -275,3 +271,4 @@ Of the primary colors – red, yellow, blue – consider how the yellow of the s
 Air’s energetics show up in our planet's expansive blue skies. There is a unique yin and yang to Air as it plays out within us. Air’s yin force shows up as intellectual prowess; its yang force gives us our robust muscularity.
 Do the lesson chats for the new quizzes
 and make the pages for them, do a tleast 2 comments for each
+- emailed about the quizzes reloading on his computer
