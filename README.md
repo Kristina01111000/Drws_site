@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 3 hour 5 min
+March: 3 hour 25 min
 
 
 plugins im using on site:
@@ -255,9 +255,7 @@ Make the gray boxes less wide, add padding
 3/7/24
 Put wellness self check on the header under programs, on the sidebar and the homepage
 Make a page for the wellness self check, include the number/score and their meanings
-For 40Q re-add the “here is your psychological…” paragraphs below the second graph
-The graph above shows your psychological composition in another way. Which is your strongest element – the one most dominant in you? Do you sense that it is over-emphasized? If the lowest one is more than 10 points less than the highest one, it might very well be worth re-calibrating your “four element balance”. 
-Each element has the potential for 5 points – and with 10 questions devoted to each – there is a possible score of 50 points for each element’s value in your life. If all the elements’ numbers show up as either all low or all high it tells you something about your overall verve, or lack of it.
+
 Edit the first paragraph under the second graph on the 80Q
 For the last paragraph on 40Q and 80Q
 Find out more about how to re-calibrate your balance by going to 
