@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 5 hour 30 min
+March: 5 hour 40 min
 
 
 plugins im using on site:
@@ -263,8 +263,7 @@ Try to center the last paragraph, make the link hot
 
 Do the lesson chats for the new quizzes
 and make the pages for them, do a tleast 2 comments for each
-- emailed about the quizzes reloading on his computer
-- make a new wellness self check
+
 - more about quiz from dr w
 - 	As I shrink the sunburst in a squeezed down cellphone view it looks unreadable – any thoughts? Can you enlarge it? Can you make the bottom grey box with it’s “Or learn more…” larger font as well? 
 -	Attached is what I see. You were not able to get the link in that last paragraph hot as a separate paragraph break? The final hot url doesn’t work for me as present in the screen grab.
