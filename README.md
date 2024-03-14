@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 3 hour 40 min
+March: 4 hour 0 min
 
 
 plugins im using on site:
@@ -260,11 +260,7 @@ Edit the first paragraph under the second graph on the 80Q
 For the last paragraph on 40Q and 80Q
 
 Try to center the last paragraph, make the link hot 
-Get rid of the bottom hot link, because the other link will be hot
-Try to make the element names bold in the beginning of their paragraphs, try to make the color be italicized, if it needs to be on a new line don’t do it
-For the fire/air paragraph edits
-Of the primary colors – red, yellow, blue – consider how the yellow of the sun expresses the Fire Principle in nature. Fire relates to the spiritual dimension of our lives, to one’s level of idealism, creativity. 
-Air’s energetics show up in our planet's expansive blue skies. There is a unique yin and yang to Air as it plays out within us. Air’s yin force shows up as intellectual prowess; its yang force gives us our robust muscularity.
+
 Do the lesson chats for the new quizzes
 and make the pages for them, do a tleast 2 comments for each
 - emailed about the quizzes reloading on his computer
