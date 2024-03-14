@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 5 hour 40 min
+March: 5 hour 45 min
 
 
 plugins im using on site:
@@ -245,21 +245,16 @@ Add the 40qq page back to the homepage, and to the header, and the menu (top of 
 
 fix the colors of the quiz matrix questions
 Check the constant contact box ->  see if peepso update fixed i
-Say something about saving it so they can compare
 Make the gray boxes less wide, add padding
 
-- Add the 40qq page back to the homepage, and to the header, and the menu
-- go over the edits dr w sent back for wellness check
+
   
 
 3/7/24
-Put wellness self check on the header under programs, on the sidebar and the homepage
-Make a page for the wellness self check, include the number/score and their meanings
+Put wellness self check on the homepage
+Make a page for the wellness self check, 
 
-Edit the first paragraph under the second graph on the 80Q
-For the last paragraph on 40Q and 80Q
 
-Try to center the last paragraph, make the link hot 
 
 Do the lesson chats for the new quizzes
 and make the pages for them, do a tleast 2 comments for each
@@ -273,7 +268,7 @@ and make the pages for them, do a tleast 2 comments for each
 
 
 
-
+3/14
 
 Put Wellness Self Check and the Four Element Self Assessment 40Q links links on the header under programs, on the sidebar and the homepage
 
