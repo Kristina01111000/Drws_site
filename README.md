@@ -276,14 +276,15 @@ and make the pages for them, do a tleast 2 comments for each
 
 
 Put Wellness Self Check and the Four Element Self Assessment 40Q links links on the header under programs, on the sidebar and the homepage
+
 Update the 80Q to match the 40Q + additional paragraphs for 3rd graph
+
 Try to make the sun button on the quiz page bigger -> email him if i can’t
+
 Edits to the paragraphs on the bottom of the quiz page:
 Find out more about how to re-calibrate your balance --
 (start new line here)
 Check out Dr. W’s collection of Holistic Health videos available on Patreon 
-
-
 Join for FREE and receive helpful holistic practical advice, or become a Subscriber/Supporter to access even more valuable information from Dr. Walsdorf
 
 
@@ -292,13 +293,14 @@ Or learn more on Dr. W's site GrowingHolistically.com
 For top of 40Q:
 Created by Dr. Walsdorf, this Four Element Self-Assessment  will help you see a graphical version of your holistic balance. 
 
-
 Keep in mind as you do it, that the four elements – Fire, Air, Water and Earth – were studied by the smartest and wisest of humankind for literally thousands of years. 
 
-
 They understood how this special foursome represents four essential principles, forces, human values that we each balance (whether we’re aware of it or not) in our own unique ways.
+
+
 For last paragraph on the pdf:
 Find out more about how to re-calibrate your balance by going to
 https://www.patreon.com/GrowingHolistically - have text be: Dr. W’s Four Element Learning Community
 hosted on the Patreon platform. Join for FREE and receive helpful holistic practical advice or become a Subscriber/Supporter to access even more valuable information from Dr. Walsdorf.
+
 On https://growingholistically.com/about-our-quizzes/ page edit the sunburst to say “Click here to begin your quiz”
