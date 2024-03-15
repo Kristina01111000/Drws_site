@@ -299,3 +299,6 @@ https://www.patreon.com/GrowingHolistically - have text be: Dr. W’s Four Eleme
 hosted on the Patreon platform. Join for FREE and receive helpful holistic practical advice or become a Subscriber/Supporter to access even more valuable information from Dr. Walsdorf.
 
 On https://growingholistically.com/about-our-quizzes/ page edit the sunburst to say “Click here to begin your quiz”
+
+
+check on all the edits to the 40Q and send it to him
