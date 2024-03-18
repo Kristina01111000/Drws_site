@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 5 hour 45 min
+March: 5 hour 50 min
 
 
 plugins im using on site:
@@ -302,4 +302,4 @@ On https://growingholistically.com/about-our-quizzes/ page edit the sunburst to 
 
 
 check on all the edits to the 40Q and send it to him
-email him about the endign paragraphs for the 40 Q
+email him about the endign paragraphs for the 40 Q -> he sent them, put them in
