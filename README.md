@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 5 hour 50 min
+March: 5 hour 55 min
 
 
 plugins im using on site:
@@ -274,7 +274,6 @@ Put Wellness Self Check and the Four Element Self Assessment 40Q links links on 
 
 Update the 80Q to match the 40Q + additional paragraphs for 3rd graph
 
-Try to make the sun button on the quiz page bigger -> email him if i can’t
 
 Edits to the paragraphs on the bottom of the quiz page:
 Find out more about how to re-calibrate your balance --
