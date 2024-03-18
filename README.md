@@ -244,15 +244,14 @@ Add the 40qq page back to the homepage, and to the header, and the menu (top of 
 2/29
 
 fix the colors of the quiz matrix questions
-Check the constant contact box ->  see if peepso update fixed i
-Make the gray boxes less wide, add padding
+
 
 
   
 
 3/7/24
 Put wellness self check on the homepage
-Make a page for the wellness self check, 
+Make a page for the wellness self check
 
 
 
