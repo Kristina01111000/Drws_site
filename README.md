@@ -302,3 +302,4 @@ On https://growingholistically.com/about-our-quizzes/ page edit the sunburst to 
 
 
 check on all the edits to the 40Q and send it to him
+email him about the endign paragraphs for the 40 Q
