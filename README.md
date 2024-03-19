@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 5 hour 55 min
+March: 6 hour 0 min
 
 
 plugins im using on site:
@@ -301,3 +301,16 @@ On https://growingholistically.com/about-our-quizzes/ page edit the sunburst to 
 
 check on all the edits to the 40Q and send it to him
 email him about the endign paragraphs for the 40 Q -> he sent them, put them in
+
+
+
+New intro for 40Q:
+Discover Your Holistic
+Four Element Balance Score!
+
+Take our 5-minute Self-Analysis Quiz to discover your unique holistic balance
+As you do, keep in mind that the four elements – Fire, Air, Water and Earth – were studied by
+the smartest and wisest of humankind for literally thousands of years.
+Our predecessors understood how this special foursome represents four essential principles-
+values-forces that we each balance (whether we’re aware of it or not) in our own unique ways.
+Click at the bottom when done for a full color graphical display of your unique balance!
