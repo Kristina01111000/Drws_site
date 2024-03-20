@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 6 hour 30 min
+March: 6 hour 40 min
 
 
 plugins im using on site:
@@ -274,14 +274,6 @@ Put Wellness Self Check and the Four Element Self Assessment 40Q links links on 
 Update the 80Q to match the 40Q + additional paragraphs for 3rd graph
 
 
-Edits to the paragraphs on the bottom of the quiz page:
-Find out more about how to re-calibrate your balance --
-(start new line here)
-Check out Dr. W’s collection of Holistic Health videos available on Patreon 
-Join for FREE and receive helpful holistic practical advice, or become a Subscriber/Supporter to access even more valuable information from Dr. Walsdorf
-
-
-Or learn more on Dr. W's site GrowingHolistically.com
 
 For top of 40Q:
 Created by Dr. Walsdorf, this Four Element Self-Assessment  will help you see a graphical version of your holistic balance. 
