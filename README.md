@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 6 hour 0 min
+March: 6 hour 30 min
 
 
 plugins im using on site:
@@ -289,14 +289,6 @@ Created by Dr. Walsdorf, this Four Element Self-Assessment  will help you see a 
 Keep in mind as you do it, that the four elements – Fire, Air, Water and Earth – were studied by the smartest and wisest of humankind for literally thousands of years. 
 
 They understood how this special foursome represents four essential principles, forces, human values that we each balance (whether we’re aware of it or not) in our own unique ways.
-
-
-For last paragraph on the pdf:
-Find out more about how to re-calibrate your balance by going to
-https://www.patreon.com/GrowingHolistically - have text be: Dr. W’s Four Element Learning Community
-hosted on the Patreon platform. Join for FREE and receive helpful holistic practical advice or become a Subscriber/Supporter to access even more valuable information from Dr. Walsdorf.
-
-On https://growingholistically.com/about-our-quizzes/ page edit the sunburst to say “Click here to begin your quiz”
 
 
 check on all the edits to the 40Q and send it to him
