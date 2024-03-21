@@ -152,7 +152,6 @@ Should focus on things added to the patreon, links and description, recipe?, sea
 
 9/7:
 
-found where to edit the lorem ipsum.  its in the javascript file, made edits, need access to c panel to put the file on the site, got access go over that i can edit the other text tomorrow if i'm careful
 
 go over the quick minute videos, try to get 15 done by thursday, there are 24 on youtube, don't know how many on patreon
 videos done: 9
@@ -217,13 +216,11 @@ make chats for all of the quizzes 6 - 9, also write leading questions for discus
 - add titles of lessons to the course chats 
 - Change the chat titles to share your thoughts on lesson __
 
-- asked my mom to try the quiz to see if it makes any sense
 - he wants people on GH automatically after joining the patreon
 
 2/22
 
-For next week:
-Make chats for the quizzes that don’t have them
+
 
 When people join the patreon: their email gets added to constant contact and we will manually make them an account on GH
 He is going to send me some text for the quiz page bottom boxes, and quiz page intro paragraph 
