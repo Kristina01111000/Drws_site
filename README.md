@@ -247,15 +247,8 @@ fix the colors of the quiz matrix questions
   
 
 3/7/24
-Put wellness self check on the homepage
-Make a page for the wellness self check
 Do the lesson chats for the new quizzes
 and make the pages for them, do a tleast 2 comments for each
-
-- more about quiz from dr w
-- 	As I shrink the sunburst in a squeezed down cellphone view it looks unreadable – any thoughts? Can you enlarge it? Can you make the bottom grey box with it’s “Or learn more…” larger font as well? 
--	Attached is what I see. You were not able to get the link in that last paragraph hot as a separate paragraph break? The final hot url doesn’t work for me as present in the screen grab.
--	FYI: on safari the first graph doesn’t show up.
 
 3/21
 On about our quiz page make the click here be on the same line, “Click here to begin your self-assessment”
