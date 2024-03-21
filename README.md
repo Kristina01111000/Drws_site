@@ -249,9 +249,6 @@ fix the colors of the quiz matrix questions
 3/7/24
 Put wellness self check on the homepage
 Make a page for the wellness self check
-
-
-
 Do the lesson chats for the new quizzes
 and make the pages for them, do a tleast 2 comments for each
 
@@ -259,50 +256,12 @@ and make the pages for them, do a tleast 2 comments for each
 - 	As I shrink the sunburst in a squeezed down cellphone view it looks unreadable – any thoughts? Can you enlarge it? Can you make the bottom grey box with it’s “Or learn more…” larger font as well? 
 -	Attached is what I see. You were not able to get the link in that last paragraph hot as a separate paragraph break? The final hot url doesn’t work for me as present in the screen grab.
 -	FYI: on safari the first graph doesn’t show up.
--get notepad++ for easier editing
-
-
-
-
-3/14
-
-Put Wellness Self Check and the Four Element Self Assessment 40Q links links on the header under programs, on the sidebar and the homepage
-
-Update the 80Q to match the 40Q + additional paragraphs for 3rd graph
-
-
-
-For top of 40Q:
-Created by Dr. Walsdorf, this Four Element Self-Assessment  will help you see a graphical version of your holistic balance. 
-
-Keep in mind as you do it, that the four elements – Fire, Air, Water and Earth – were studied by the smartest and wisest of humankind for literally thousands of years. 
-
-They understood how this special foursome represents four essential principles, forces, human values that we each balance (whether we’re aware of it or not) in our own unique ways.
-
-
-
-
-
-New intro for 40Q:
-Discover Your Holistic
-Four Element Balance Score!
-
-Take our 5-minute Self-Analysis Quiz to discover your unique holistic balance
-As you do, keep in mind that the four elements – Fire, Air, Water and Earth – were studied by
-the smartest and wisest of humankind for literally thousands of years.
-Our predecessors understood how this special foursome represents four essential principles-
-values-forces that we each balance (whether we’re aware of it or not) in our own unique ways.
-Click at the bottom when done for a full color graphical display of your unique balance!
-
-
-
 
 3/21
-Newest version of 40Q on the site
-If 40Q confirmed, update the 80Q to match it YES
 On about our quiz page make the click here be on the same line, “Click here to begin your self-assessment”
 Make the sun button hot
 Switch the 40Q to “4 Element self assessment tool “ not quiz on the quiz pages
 Make slides for the 40Q and the wellness self check on the homepage
 For the wellness self check change the title of the pdf to “Dr. W’s Personal Holistic Wellness Self Check”
 On 40Q graph page try to add a space between the patreon link and the lower paragraph
+Update the 80Q to match the 40Q + additional paragraphs for 3rd graph
