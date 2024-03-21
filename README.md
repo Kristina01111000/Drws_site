@@ -280,8 +280,6 @@ Keep in mind as you do it, that the four elements – Fire, Air, Water and Earth
 They understood how this special foursome represents four essential principles, forces, human values that we each balance (whether we’re aware of it or not) in our own unique ways.
 
 
-check on all the edits to the 40Q and send it to him
-email him about the endign paragraphs for the 40 Q -> he sent them, put them in
 
 
 
@@ -299,5 +297,12 @@ Click at the bottom when done for a full color graphical display of your unique 
 
 
 
-
+3/21
 Newest version of 40Q on the site
+If 40Q confirmed, update the 80Q to match it YES
+On about our quiz page make the click here be on the same line, “Click here to begin your self-assessment”
+Make the sun button hot
+Switch the 40Q to “4 Element self assessment tool “ not quiz on the quiz pages
+Make slides for the 40Q and the wellness self check on the homepage
+For the wellness self check change the title of the pdf to “Dr. W’s Personal Holistic Wellness Self Check”
+On 40Q graph page try to add a space between the patreon link and the lower paragraph
