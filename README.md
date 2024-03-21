@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 6 hour 40 min
+March: 6 hour 45 min
 
 
 plugins im using on site:
@@ -298,3 +298,9 @@ the smartest and wisest of humankind for literally thousands of years.
 Our predecessors understood how this special foursome represents four essential principles-
 values-forces that we each balance (whether we’re aware of it or not) in our own unique ways.
 Click at the bottom when done for a full color graphical display of your unique balance!
+
+
+
+
+
+Newest version of 40Q on the site
