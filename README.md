@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 8 hour 10 min
+March: 8 hour 15 min
 
 
 plugins im using on site:
@@ -245,8 +245,7 @@ Do the lesson chats for the new quizzes
 and make the pages for them, do a tleast 2 comments for each
 
 3/21
-On about our quiz page make the click here be on the same line, “Click here to begin your self-assessment”
-Make the sun button hot
+
 Switch the 40Q to “4 Element self assessment tool “ not quiz on the quiz pages
 Make slides for the 40Q and the wellness self check on the homepage
 For the wellness self check change the title of the pdf to “Dr. W’s Personal Holistic Wellness Self Check”
