@@ -134,10 +134,6 @@ https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROX
 
 - google doc for emails:https://docs.google.com/document/d/1Nc_WVsgZKdhpWaHZyDn81rw4y02Dlj2wB-O-q9ZnJXs/edit?usp=sharing
 
-to do now:
-
-- Write a review in fourissimo club for the heel strike fixing plantar fasciitis
-
 In future:
 
 - Send emails at 10 am on monday for newsletter
