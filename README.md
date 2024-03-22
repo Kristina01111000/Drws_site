@@ -227,14 +227,8 @@ He is going to send me some text for the quiz page bottom boxes, and quiz page i
 See if i can add a box to the pdf page so that last paragraph stands our better
 
 
-Things to do when quizzes (40Q & 80Q) are back:
-
-Check that the paragraphs on the pdf all make sense
-80Q  fourth
-
-For the links to the quiz, assessment feels way too formal, quiz might be too informal, but it seems more doable than assessment, are there other options for the word to call them?  Self-assessment might work, maybe Self-assessment Quiz, self assessment survey, self-evaluation  see what looks best
 Only put the 40Q on the site, the 80Q is for a few months from now
-Add the 40qq page back to the homepage, and to the header, and the menu (top of second sidebar) Take our 4 element self evaluation
+
 
 
 
