@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 8 hour 20 min
+March: 8 hour 25 min
 
 
 plugins im using on site:
@@ -253,3 +253,4 @@ Update the 80Q to match the 40Q + additional paragraphs for 3rd graph
 
 
 bring up the pmp issue, see if he noticed anything
+talk about the photos page
