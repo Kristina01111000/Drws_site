@@ -68,7 +68,7 @@ January 2024: 8 hour 45 min -> sent
 
 February: 8 hour 45 min
 
-March: 8 hour 15 min
+March: 8 hour 20 min
 
 
 plugins im using on site:
@@ -247,3 +247,9 @@ Make slides for the 40Q and the wellness self check on the homepage -> get good 
 For the wellness self check change the title of the pdf to “Dr. W’s Personal Holistic Wellness Self Check”
 On 40Q graph page try to add a space between the patreon link and the lower paragraph
 Update the 80Q to match the 40Q + additional paragraphs for 3rd graph
+
+
+
+
+
+bring up the pmp issue, see if he noticed anything
