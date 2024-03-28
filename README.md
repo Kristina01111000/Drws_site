@@ -5,7 +5,7 @@ January 2024: 8 hour 45 min -> recieved
 
 February: 8 hour 45 min -> sent
 
-March: 10 hour 15 min
+March: 10 hour 20 min
 
 
 plugins im using on site:
@@ -151,13 +151,8 @@ make chats for all of the quizzes 6 - 9, also write leading questions for discus
 
 2/22
 
-
-
 When people join the patreon: their email gets added to constant contact and we will manually make them an account on GH
 Only put the 40Q on the site, the 80Q is for a few months from now
-
-
-
 
 2/29
 
@@ -177,12 +172,3 @@ On 40Q pdf try to remove some of the space above the 2nd graph
 Try to add padding to the ‘Find out ….’ paragraph
 Try to add a space before the join for free paragraph
 Remove the login redirect, send them to the community page
-
-
-
-
-
-bring up the pmp issue, see if he noticed anything
-talk about the photos page
-
-
