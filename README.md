@@ -161,9 +161,9 @@ fix the colors of the quiz matrix questions
 
 3/28
 Update the 80Q to match the 40Q + additional paragraphs for 3rd graph
-Do the lesson chats for the new quizzes
-and make the pages for them, do a tleast 2 comments for each
-Make slide for the wellness self check 
+Do the lesson chats for the new quizzes -> 7,8,9
+and make the pages for them, do at least 2 comments for each, try to get 4
+Make slide for the wellness self check -> when it is finalized
 Add new wellness self check to the page
 Make the title for self check be personal wellness check everywhere -> remove the word “self”
 Put “now calculate your total score” he will come up with scores for the wellness self check too
