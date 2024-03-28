@@ -172,3 +172,4 @@ On 40Q pdf try to remove some of the space above the 2nd graph
 Try to add padding to the ‘Find out ….’ paragraph
 Try to add a space before the join for free paragraph
 Remove the login redirect, send them to the community page
+make sure the pdfs all look good on the site
