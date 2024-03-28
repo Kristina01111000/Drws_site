@@ -5,7 +5,7 @@ January 2024: 8 hour 45 min -> recieved
 
 February: 8 hour 45 min -> sent
 
-March: 8 hour 25 min
+March: 8 hour 40 min
 
 
 plugins im using on site:
@@ -179,9 +179,7 @@ and make the pages for them, do a tleast 2 comments for each
 
 3/21
 
-Switch the 40Q to “4 Element self assessment tool “ not quiz on the quiz pages
 Make slides for the 40Q and the wellness self check on the homepage -> get good screenshots for each for the slides, come up with a good sentence about them
-For the wellness self check change the title of the pdf to “Dr. W’s Personal Holistic Wellness Self Check”
 On 40Q graph page try to add a space between the patreon link and the lower paragraph
 Update the 80Q to match the 40Q + additional paragraphs for 3rd graph
 
