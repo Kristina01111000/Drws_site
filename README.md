@@ -5,7 +5,7 @@ January 2024: 8 hour 45 min -> recieved
 
 February: 8 hour 45 min -> sent
 
-March: 8 hour 50 min
+March: 9 hour 0 min
 
 
 plugins im using on site:
@@ -170,18 +170,11 @@ Only put the 40Q on the site, the 80Q is for a few months from now
 fix the colors of the quiz matrix questions
 
 
-
-  
-
-3/7/24
+3/28
+Make slide for  the wellness self check on the homepage 
+Update the 80Q to match the 40Q + additional paragraphs for 3rd graph
 Do the lesson chats for the new quizzes
 and make the pages for them, do a tleast 2 comments for each
-
-3/21
-
-Make slides for the 40Q and the wellness self check on the homepage -> get good screenshots for each for the slides, come up with a good sentence about them
-
-Update the 80Q to match the 40Q + additional paragraphs for 3rd graph
 
 
 
