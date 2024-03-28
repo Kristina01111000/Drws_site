@@ -5,7 +5,7 @@ January 2024: 8 hour 45 min -> recieved
 
 February: 8 hour 45 min -> sent
 
-March: 8 hour 40 min
+March: 8 hour 50 min
 
 
 plugins im using on site:
@@ -180,7 +180,7 @@ and make the pages for them, do a tleast 2 comments for each
 3/21
 
 Make slides for the 40Q and the wellness self check on the homepage -> get good screenshots for each for the slides, come up with a good sentence about them
-On 40Q graph page try to add a space between the patreon link and the lower paragraph
+
 Update the 80Q to match the 40Q + additional paragraphs for 3rd graph
 
 
@@ -189,3 +189,4 @@ Update the 80Q to match the 40Q + additional paragraphs for 3rd graph
 
 bring up the pmp issue, see if he noticed anything
 talk about the photos page
+check that the quiz update worked tomorrow
