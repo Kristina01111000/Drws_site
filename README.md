@@ -5,7 +5,7 @@ January 2024: 8 hour 45 min -> recieved
 
 February: 8 hour 45 min -> sent
 
-March: 9 hour 20 min
+March: 9 hour 35 min
 
 
 plugins im using on site:
@@ -176,4 +176,3 @@ and make the pages for them, do a tleast 2 comments for each
 
 bring up the pmp issue, see if he noticed anything
 talk about the photos page
-check that the quiz update worked tomorrow
