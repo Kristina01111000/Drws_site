@@ -5,7 +5,7 @@ January 2024: 8 hour 45 min -> recieved
 
 February: 8 hour 45 min -> sent
 
-March: 10 hour 10 min
+March: 10 hour 15 min
 
 
 plugins im using on site:
@@ -165,10 +165,18 @@ fix the colors of the quiz matrix questions
 
 
 3/28
-Make slide for  the wellness self check on the homepage 
 Update the 80Q to match the 40Q + additional paragraphs for 3rd graph
 Do the lesson chats for the new quizzes
 and make the pages for them, do a tleast 2 comments for each
+Make slide for the wellness self check 
+Add new wellness self check to the page
+Make the title for self check be personal wellness check everywhere -> remove the word “self”
+Put “now calculate your total score” he will come up with scores for the wellness self check too
+Put the graph slide near the beginning (3rd slide) change the title to “dr w” to “our”
+On 40Q pdf try to remove some of the space above the 2nd graph
+Try to add padding to the ‘Find out ….’ paragraph
+Try to add a space before the join for free paragraph
+Remove the login redirect, send them to the community page
 
 
 
@@ -176,3 +184,5 @@ and make the pages for them, do a tleast 2 comments for each
 
 bring up the pmp issue, see if he noticed anything
 talk about the photos page
+
+
