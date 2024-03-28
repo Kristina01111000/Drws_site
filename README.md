@@ -137,7 +137,7 @@ work on spreadsheet for videos
 check on the quiz page
 
 1/11
-- connect the get out app page to the rest of the site
+- connect the get our app page to the rest of the site
 - make a slide for the app with a link to the app page
 
 
@@ -149,17 +149,11 @@ make chats for all of the quizzes 6 - 9, also write leading questions for discus
 - add titles of lessons to the course chats 
 - Change the chat titles to share your thoughts on lesson __
 
-- he wants people on GH automatically after joining the patreon
-
 2/22
 
 
 
 When people join the patreon: their email gets added to constant contact and we will manually make them an account on GH
-He is going to send me some text for the quiz page bottom boxes, and quiz page intro paragraph 
-See if i can add a box to the pdf page so that last paragraph stands our better
-
-
 Only put the 40Q on the site, the 80Q is for a few months from now
 
 
