@@ -3,7 +3,7 @@ everything to do with drws site
 
 January 2024: 8 hour 45 min -> recieved
 
-February: 8 hour 45 min -> sent
+February: 8 hour 45 min -> recieved
 
 March: 10 hour 20 min
 
