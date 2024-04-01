@@ -7,6 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 20 min
 
+April: 5 min
 
 plugins im using on site:
 
@@ -128,7 +129,6 @@ work on spreadsheet for videos
 - Look into more ways to market the patreon
 - For the app: Soon 
 	- Make a slide
-	- After dr w on homepage
 	- put page under programs tab in header
 	- Is the app only for people who pay? Probably only for those who join at $5 a month or more 
 
@@ -137,7 +137,8 @@ work on spreadsheet for videos
 check on the quiz page
 
 1/11
-- connect the get our app page to the rest of the site
+- connect the get our app page to the rest of the site?
+- just wait for the app?
 - make a slide for the app with a link to the app page
 
 
