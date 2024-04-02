@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 20 min
 
-April: 20 min
+April: 25 min
 
 plugins im using on site:
 
@@ -164,7 +164,7 @@ fix the colors of the quiz matrix questions
 Update the 80Q to match the 40Q + additional paragraphs for 3rd graph
 Do the lesson chats for the new quizzes -> 7,8,9 -> make sure to make the comments match the tone of previous comments from the same users
 and make the pages for them, do at least 2 comments for each, try to get 4
-	Make slide for the wellness self check -> when it is finalized
+	Make slide for the wellness self check -> when it is finalized, picture is done
 	Add new wellness self check pdf to the page
 	everywhere -> remove the word “self” from the self check
  	add the lines that Dr W is going to send about the score
