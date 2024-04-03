@@ -160,7 +160,7 @@ and make the pages for them, do at least 2 comments for each, try to get 4
 	Make slide for the wellness self check -> when it is finalized, picture is done
 	Add new wellness self check pdf to the page
 	add the lines that Dr W is going to send about the score
-
+When app is ready it goes under the programs page correct?
 
 make sure the pdfs all look good on the site
 make sure that it updates correctly
