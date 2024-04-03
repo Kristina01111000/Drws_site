@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 20 min
 
-April: 40 min
+April: 50 min
 
 plugins im using on site:
 
@@ -171,7 +171,6 @@ and make the pages for them, do at least 2 comments for each, try to get 4
 
 Try to add padding to the ‘Find out ….’ paragraph
 make sure the pdfs all look good on the site
-Add new 40Q to the site
 change the title on the site to self assessement
 change the links also
 make sure that it updates correctly
