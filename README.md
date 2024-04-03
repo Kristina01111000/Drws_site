@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 20 min
 
-April: 25 min
+April: 40 min
 
 plugins im using on site:
 
@@ -168,7 +168,6 @@ and make the pages for them, do at least 2 comments for each, try to get 4
 	Add new wellness self check pdf to the page
 	everywhere -> remove the word “self” from the self check
  	add the lines that Dr W is going to send about the score
-On 40Q pdf try to remove some of the space above the 2nd graph
+
 Try to add padding to the ‘Find out ….’ paragraph
-Try to add a space before the join for free paragraph
 make sure the pdfs all look good on the site
