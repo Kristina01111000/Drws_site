@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 20 min
 
-April: 1 hour 5 min
+April: 1 hour 20 min
 
 plugins im using on site:
 
@@ -134,7 +134,6 @@ work on spreadsheet for videos
 
 - For fourelementinstitute and syracuse natural healing the security plugin caused a lockout again, look into getting a new one
 
-check on the quiz page
 
 1/11
 - connect the get our app page to the rest of the site?
@@ -151,14 +150,8 @@ make chats for all of the quizzes 6 - 9, also write leading questions for discus
 - Change the chat titles to share your thoughts on lesson __
 
 2/22
-
 When people join the patreon: their email gets added to constant contact and we will manually make them an account on GH
 Only put the 40Q on the site, the 80Q is for a few months from now
-
-2/29
-
-fix the colors of the quiz matrix questions
-
 
 3/28
 Update the 80Q to match the 40Q + additional paragraphs for 3rd graph
