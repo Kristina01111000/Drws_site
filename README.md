@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 20 min
 
-April: 1 hour 0 min
+April: 1 hour 5 min
 
 plugins im using on site:
 
@@ -166,11 +166,8 @@ Do the lesson chats for the new quizzes -> 7,8,9 -> make sure to make the commen
 and make the pages for them, do at least 2 comments for each, try to get 4
 	Make slide for the wellness self check -> when it is finalized, picture is done
 	Add new wellness self check pdf to the page
-	everywhere -> remove the word “self” from the self check
- 	add the lines that Dr W is going to send about the score
+	add the lines that Dr W is going to send about the score
 
-Try to add padding to the ‘Find out ….’ paragraph
+
 make sure the pdfs all look good on the site
-change the title on the site to self assessement
-change the links also
 make sure that it updates correctly
