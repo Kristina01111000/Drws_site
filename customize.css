@@ -179,3 +179,7 @@ text-align: justify;
 bdi{
 	color: #000000;
 }
+// makes the matrix question readable
+.wpProQuiz_mextrixTr{
+	background-color: #ffffff !important; 
+}
