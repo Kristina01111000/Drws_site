@@ -167,6 +167,12 @@ make sure that it updates correctly
 
 4/4
 If 40Q confirmed, make the 80Q match and leave space for third graph paragraphs
+	Top paragraphs
+	Between graph 1 and 2 paragraphs
+	Between graph 2 and 3 paragraphs
+	After graph 3 paragraphs (ending)
+	Still need the graph 3 paragraphs
+
 Make 2 emails for the site and go over them next week
 Do more research on brevo to see if they allow audio files
 Brevo file extensions: ics, xlsx, xls, ods, docx, doc, csv, pdf, txt, gif, jpg, jpeg, png, tif, tiff, rtf, msg, pub, mobi, ppt, pptx, eps. -> mp3 or mp4 -> only in transactional emails -> why?
