@@ -143,18 +143,14 @@ work on spreadsheet for videos
 
 For next week:
 See if PMP can show the start date of the users if they aren’t paying
-make chats for all of the quizzes 6 - 9, also write leading questions for discussion
 
-- the header and footer images need to be fixed so they don't look bad when they're small
-- add titles of lessons to the course chats 
-- Change the chat titles to share your thoughts on lesson __
+
 
 2/22
 When people join the patreon: their email gets added to constant contact and we will manually make them an account on GH
-Only put the 40Q on the site, the 80Q is for a few months from now
+
 
 3/28
-Update the 80Q to match the 40Q + additional paragraphs for 3rd graph
 Do the lesson chats for the new quizzes -> 7,8,9 -> make sure to make the comments match the tone of previous comments from the same users
 and make the pages for them, do at least 2 comments for each, try to get 4
 	Make slide for the wellness self check -> when it is finalized, picture is done
@@ -185,3 +181,6 @@ FOr next week:
 - make chats for the lessons that need them (6,7,8,9)
 - change text on the chat pages to be about the lesson
 - make slide about the wellness check
+- the header and footer images need to be fixed so they don't look bad when they're small
+- add titles of lessons to the course chats 
+- Change the chat titles to share your thoughts on lesson __
