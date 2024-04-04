@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 20 min
 
-April: 2 hour 45 min
+April: 3 hour 50 min
 
 plugins im using on site:
 
@@ -171,14 +171,11 @@ Make 2 emails for the site and go over them next week
 Do more research on brevo to see if they allow audio files
 Brevo file extensions: ics, xlsx, xls, ods, docx, doc, csv, pdf, txt, gif, jpg, jpeg, png, tif, tiff, rtf, msg, pub, mobi, ppt, pptx, eps. -> mp3 or mp4 -> only in transactional emails -> why?
 Check campaign monitor again to see if it allows audio files
-On 40Q add a paragraph break above the word click here
-Try to get rid of some space below the word click here
-2nd paragraph in the grey box “You can join for free, or become a subscriber/supporter to get even more holistic practical advice from Dr. W”
-2nd box change to “More about Dr. Walsdorf and the four elements can be found at GrowingHolistically.com” remove dr walsdorf.com section
-Write an email to ben and dr w  with links to the 40Q, wellness check
+
 
 
 FOr next week:
 - make lesson nine chat page
 - make chats for the lessons that need them (6,7,8,9)
 - change text on the chat pages to be about the lesson
+- make slide about the wellness check
