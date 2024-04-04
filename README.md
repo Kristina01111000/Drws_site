@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 20 min
 
-April: 2 hour 40 min
+April: 2 hour 45 min
 
 plugins im using on site:
 
@@ -171,7 +171,6 @@ Make 2 emails for the site and go over them next week
 Do more research on brevo to see if they allow audio files
 Brevo file extensions: ics, xlsx, xls, ods, docx, doc, csv, pdf, txt, gif, jpg, jpeg, png, tif, tiff, rtf, msg, pub, mobi, ppt, pptx, eps. -> mp3 or mp4 -> only in transactional emails -> why?
 Check campaign monitor again to see if it allows audio files
-Add the newest version of the wellness pdf check to the website
 On 40Q add a paragraph break above the word click here
 Try to get rid of some space below the word click here
 2nd paragraph in the grey box “You can join for free, or become a subscriber/supporter to get even more holistic practical advice from Dr. W”
