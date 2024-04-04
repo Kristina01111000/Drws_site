@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 20 min
 
-April: 1 hour 20 min
+April: 1 hour 25 min
 
 plugins im using on site:
 
@@ -164,3 +164,10 @@ When app is ready it goes under the programs page correct?
 
 make sure the pdfs all look good on the site
 make sure that it updates correctly
+
+
+
+FOr next week:
+- make lesson nine chat page
+- make chats for the lessons that need them (6,7,8,9)
+- change text on the chat pages to be about the lesson
