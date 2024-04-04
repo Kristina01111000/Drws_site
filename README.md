@@ -178,7 +178,7 @@ Check campaign monitor again to see if it allows audio files
 
 FOr next week:
 - make lesson nine chat page
-- make chats for the lessons that need them (6,7,8,9)
+- make chats for the lessons that need them (6,7,8,9) -> write leading questions for discussion
 - change text on the chat pages to be about the lesson
 - make slide about the wellness check
 - the header and footer images need to be fixed so they don't look bad when they're small
