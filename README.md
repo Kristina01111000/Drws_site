@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 20 min
 
-April: 2 hour 30 min
+April: 2 hour 40 min
 
 plugins im using on site:
 
@@ -174,7 +174,6 @@ Check campaign monitor again to see if it allows audio files
 Add the newest version of the wellness pdf check to the website
 On 40Q add a paragraph break above the word click here
 Try to get rid of some space below the word click here
-Email stephen to see if he can make the starburst bigger, take a screen grab on a cell phone view so he can see it
 2nd paragraph in the grey box “You can join for free, or become a subscriber/supporter to get even more holistic practical advice from Dr. W”
 2nd box change to “More about Dr. Walsdorf and the four elements can be found at GrowingHolistically.com” remove dr walsdorf.com section
 Write an email to ben and dr w  with links to the 40Q, wellness check
