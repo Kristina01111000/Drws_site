@@ -148,9 +148,6 @@ When people join the patreon: their email gets added to constant contact and we 
 3/28
 Do the lesson chats for the new quizzes -> 7,8,9 -> make sure to make the comments match the tone of previous comments from the same users
 and make the pages for them, do at least 2 comments for each, try to get 4
-	Make slide for the wellness self check -> when it is finalized, picture is done
-	Add new wellness self check pdf to the page
-	add the lines that Dr W is going to send about the score
 When app is ready it goes under the programs page correct?
 
 make sure the pdfs all look good on the site
