@@ -150,8 +150,6 @@ Do the lesson chats for the new quizzes -> 7,8,9 -> make sure to make the commen
 and make the pages for them, do at least 2 comments for each, try to get 4
 When app is ready it goes under the programs page correct?
 
-make sure the pdfs all look good on the site
-make sure that it updates correctly
 
 4/4
 If 40Q confirmed, make the 80Q match and leave space for third graph paragraphs
