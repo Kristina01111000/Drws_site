@@ -175,3 +175,7 @@ FOr next week:
 - the header and footer images need to be fixed so they don't look bad when they're small
 - add titles of lessons to the course chats 
 - Change the chat titles to share your thoughts on lesson __
+
+
+
+- figure out how to convince him not to send audio files in email, or to just use gmail for his patients
