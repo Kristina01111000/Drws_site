@@ -158,6 +158,7 @@ If 40Q confirmed, make the 80Q match and leave space for third graph paragraphs
 	Between graph 2 and 3 paragraphs
 	After graph 3 paragraphs (ending)
 	Still need the graph 3 paragraphs
+ 	make sure the graphs spacing is good also
 
 Make 2 emails for the site and go over them next week
 Do more research on brevo to see if they allow audio files
