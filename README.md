@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 20 min
 
-April: 4 hour 30 min
+April: 4 hour 35 min
 
 plugins im using on site:
 
@@ -158,7 +158,6 @@ If 40Q confirmed, make the 80Q match and leave space for third graph paragraphs
 	After graph 3 paragraphs (ending)
 	Still need the graph 3 paragraphs
  	make sure the graphs spacing is good also
-	Shorten gap between graph 2 and above paragraphs
   
 
 Make 2 emails for the site and go over them next week
