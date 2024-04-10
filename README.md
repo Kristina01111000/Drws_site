@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 20 min
 
-April: 4 hour 35 min
+April: 4 hour 45 min
 
 plugins im using on site:
 
@@ -153,8 +153,8 @@ When app is ready it goes under the programs page correct?
 
 4/4
 If 40Q confirmed, make the 80Q match and leave space for third graph paragraphs
-	
-	Between graph 2 and 3 paragraphs
+
+	After graph 3 paragraphs (about the graph)
 	After graph 3 paragraphs (ending)
 	Still need the graph 3 paragraphs
  	make sure the graphs spacing is good also
