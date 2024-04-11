@@ -104,19 +104,9 @@ work on spreadsheet for videos
 
 
 
-
-11/30
-- do the googleslide for all of his videos
-
 12/7
 
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
-
-
-- make sure he understands quickstart, how it doesn't save lgoins, + isn't that great, thats why i never brought is up before, it exists, but its propbably better to just keep them seperate
-
-
-
 - Can google analytics work for patreon pages, add it if it does work
 
 
@@ -126,15 +116,7 @@ work on spreadsheet for videos
 	- Make a slide
 	- put page under programs tab in header
 	- Is the app only for people who pay? Probably only for those who join at $5 a month or more 
-
 - For fourelementinstitute and syracuse natural healing the security plugin caused a lockout again, look into getting a new one
-
-
-1/11
-- connect the get our app page to the rest of the site?
-- just wait for the app?
-- make a slide for the app with a link to the app page
-
 
 For next week:
 See if PMP can show the start date of the users if they aren’t paying
