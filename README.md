@@ -122,21 +122,8 @@ For next week:
 See if PMP can show the start date of the users if they aren’t paying
 
 
-
-2/22
+Notes: 
 When people join the patreon: their email gets added to constant contact and we will manually make them an account on GH
-
-
-
-
-
-
-  
-
-Make 2 emails for the site and go over them next week
-Do more research on brevo to see if they allow audio files
-Brevo file extensions: ics, xlsx, xls, ods, docx, doc, csv, pdf, txt, gif, jpg, jpeg, png, tif, tiff, rtf, msg, pub, mobi, ppt, pptx, eps. -> mp3 or mp4 -> only in transactional emails -> why?
-Check campaign monitor again to see if it allows audio files
 
 
 
