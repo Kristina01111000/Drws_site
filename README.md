@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min
 
-April: 6 hour 20 min
+April: 6 hour 35 min
 
 plugins im using on site:
 
@@ -149,3 +149,6 @@ Make an email for free in campaign monitor so that we can see about the audio, t
 -> get the free version of monster insights to track the button clicks -> added it, it still doesn't appear to show the 40Q
 
 the 40 Q takes a long time to load on the kindle, the starburst button doesn't work on the kindle
+
+
+do the AICSEO for next week
