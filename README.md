@@ -145,18 +145,10 @@ See if PMP can show the start date of the users if they aren’t paying
 When people join the patreon: their email gets added to constant contact and we will manually make them an account on GH
 
 
-3/28
-Do the lesson chats for the new quizzes -> 7,8,9 -> make sure to make the comments match the tone of previous comments from the same users
-and make the pages for them, do at least 2 comments for each, try to get 4
-When app is ready it goes under the programs page correct?
 
 
-4/4
-If 40Q confirmed, make the 80Q match and leave space for third graph paragraphs
 
-	After graph 3 paragraphs (about the graph)
-	Still need the graph 3 paragraphs
- 	make sure the graphs spacing is good also -> can last graph be pushed up on the page?
+
   
 
 Make 2 emails for the site and go over them next week
@@ -173,12 +165,8 @@ FOr next week:
 - the header and footer images need to be fixed so they don't look bad when they're small
 - add titles of lessons to the course chats 
 - Change the chat titles to share your thoughts on lesson __
-
-
-
-- figure out how to convince him not to send audio files in email, or to just use gmail for his patients
-
-
+- He wants the audio files, so try to make it work
+- still need 3rd graph paragraphs for 40Q and 80Q, about yin and yang
 
 
 4/11
