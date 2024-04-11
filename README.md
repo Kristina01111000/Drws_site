@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min
 
-April: 6 hour 5 min
+April: 6 hour 10 min
 
 plugins im using on site:
 
@@ -146,6 +146,6 @@ see if we can track their scores
 Try to figure out what we would ask Basit so that we can track it
 Make an email for free in campaign monitor so that we can see about the audio, try to make the email look good, copy from constant contact, send it to him
 
-
+-> get the free version of monster insights to track the button clicks
 
 the 40 Q takes a long time to load on the kindle
