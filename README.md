@@ -177,3 +177,14 @@ FOr next week:
 
 
 - figure out how to convince him not to send audio files in email, or to just use gmail for his patients
+
+
+
+
+4/11
+See how the self assessment shows up on google analytics
+See if we can track the self assessment views 
+See if there is a way to see how many people hit the button in the self assessment, track number of clicks on the starburst
+see if we can track their scores
+Try to figure out what we would ask Basit so that we can track it
+Make an email for free in campaign monitor so that we can see about the audio, try to make the email look good, copy from constant contact, send it to him
