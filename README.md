@@ -145,3 +145,7 @@ See if there is a way to see how many people hit the button in the self assessme
 see if we can track their scores
 Try to figure out what we would ask Basit so that we can track it
 Make an email for free in campaign monitor so that we can see about the audio, try to make the email look good, copy from constant contact, send it to him
+
+
+
+the 40 Q takes a long time to load on the kindle
