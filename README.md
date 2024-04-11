@@ -148,4 +148,4 @@ Make an email for free in campaign monitor so that we can see about the audio, t
 
 -> get the free version of monster insights to track the button clicks
 
-the 40 Q takes a long time to load on the kindle
+the 40 Q takes a long time to load on the kindle, the starburst button doesn't work on the kindle
