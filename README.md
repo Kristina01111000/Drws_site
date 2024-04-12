@@ -100,7 +100,11 @@ work on spreadsheet for videos
 
     The Recalibrating Your Balance App – Phone/PC/Mac compatible – earn redeemable points as you develop a good health-building, life-renewing routine – coming soon
 
-    The knowledge that you are helping people discover the unifying, life-renewing & balance- building power of nature’s Fire, Air, Water & Earth
+    40Q
+
+    Wellness Check
+
+
 
 
 
