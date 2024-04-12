@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min
 
-April: 6 hour 55 min
+April: 7 hour 0 min
 
 plugins im using on site:
 
@@ -159,3 +159,5 @@ do the AICSEO for next week
 
 Check to see if the link tracking works for 40Q, look at link below to find where, i clicked it 3 times today, see if it shows up
 https://www.wpbeginner.com/wp-tutorials/how-to-track-link-clicks-and-button-clicks-in-wordpress/
+file downloads are being tracked now by monster, they should count as an event
+the fact that the 40Q is in a file not originally from the wordpress site is what makes it so hard to track
