@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min
 
-April: 6 hour 40 min
+April: 6 hour 55 min
 
 plugins im using on site:
 
@@ -157,5 +157,5 @@ the 40 Q takes a long time to load on the kindle, the starburst button doesn't w
 
 do the AICSEO for next week
 
-Check to see if the link tracking works for 40Q, look at link below to find where
+Check to see if the link tracking works for 40Q, look at link below to find where, i clicked it 3 times today, see if it shows up
 https://www.wpbeginner.com/wp-tutorials/how-to-track-link-clicks-and-button-clicks-in-wordpress/
