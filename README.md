@@ -156,3 +156,6 @@ the 40 Q takes a long time to load on the kindle, the starburst button doesn't w
 
 
 do the AICSEO for next week
+
+Check to see if the link tracking works for 40Q, look at link below to find where
+https://www.wpbeginner.com/wp-tutorials/how-to-track-link-clicks-and-button-clicks-in-wordpress/
