@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min
 
-April: 7 hour 0 min
+April: 7 hour 5 min
 
 plugins im using on site:
 
@@ -161,3 +161,4 @@ Check to see if the link tracking works for 40Q, look at link below to find wher
 https://www.wpbeginner.com/wp-tutorials/how-to-track-link-clicks-and-button-clicks-in-wordpress/
 file downloads are being tracked now by monster, they should count as an event -> on google analytics, not shown on monster
 the fact that the 40Q is in a file not originally from the wordpress site is what makes it so hard to track
+ the link tracker works!
