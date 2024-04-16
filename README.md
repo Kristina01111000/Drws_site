@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min
 
-April: 7 hour 15 min
+April: 7 hour 30 min
 
 plugins im using on site:
 
@@ -163,3 +163,4 @@ file downloads are being tracked now by monster, they should count as an event -
 the fact that the 40Q is in a file not originally from the wordpress site is what makes it so hard to track
  the link tracker works! -> it does not, the file download tracker works, not the link that i put in
 try to get the link tracker to work
+-> make a different button to make sure its not the image that is acusing the problem
