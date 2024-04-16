@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min
 
-April: 8 hour 20 min
+April: 8 hour 40 min
 
 plugins im using on site:
 
@@ -138,16 +138,14 @@ FOr next week:
 - the header and footer images need to be fixed so they don't look bad when they're small
 - add titles of lessons to the course chats 
 - Change the chat titles to share your thoughts on lesson __
-- He wants the audio files, so try to make it work
 - still need 3rd graph paragraphs for 40Q and 80Q, about yin and yang
 
 
 4/11
 See how the self assessment shows up on google analytics
 See if we can track the self assessment views 
-see if we can track their scores
+
 Try to figure out what we would ask Basit so that we can track it
-Make an email for free in campaign monitor so that we can see about the audio, try to make the email look good, copy from constant contact, send it to him
 
 -> get the free version of monster insights to track the button clicks -> added it, it still doesn't appear to show the 40Q
 
