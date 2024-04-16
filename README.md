@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min
 
-April: 7 hour 50 min
+April: 8 hour 20 min
 
 plugins im using on site:
 
@@ -145,7 +145,6 @@ FOr next week:
 4/11
 See how the self assessment shows up on google analytics
 See if we can track the self assessment views 
-See if there is a way to see how many people hit the button in the self assessment, track number of clicks on the starburst
 see if we can track their scores
 Try to figure out what we would ask Basit so that we can track it
 Make an email for free in campaign monitor so that we can see about the audio, try to make the email look good, copy from constant contact, send it to him
@@ -166,3 +165,6 @@ try to get the link tracker to work
 -> make a different button to make sure its not the image that is acusing the problem
 added link test to quiz page: https://growingholistically.com/quiz/
 clicked it 4 times, check tomorrow
+
+
+tried campaign monitor, can only put audio in if i hardcode the email in HTML, i can do it should I ?
