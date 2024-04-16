@@ -165,3 +165,4 @@ clicked it 4 times, check tomorrow
 
 
 tried campaign monitor, can only put audio in if i hardcode the email in HTML, i can do it should I ?
+get a free html template and then edit it -> look at code pen
