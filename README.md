@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min
 
-April: 7 hour 40 min
+April: 7 hour 50 min
 
 plugins im using on site:
 
@@ -164,3 +164,5 @@ the fact that the 40Q is in a file not originally from the wordpress site is wha
  the link tracker works! -> it does not, the file download tracker works, not the link that i put in
 try to get the link tracker to work
 -> make a different button to make sure its not the image that is acusing the problem
+added link test to quiz page: https://growingholistically.com/quiz/
+clicked it 4 times, check tomorrow
