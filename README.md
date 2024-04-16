@@ -156,10 +156,9 @@ do the AICSEO for next week
 
 Check to see if the link tracking works for 40Q, look at link below to find where, i clicked it 3 times today, see if it shows up
 https://www.wpbeginner.com/wp-tutorials/how-to-track-link-clicks-and-button-clicks-in-wordpress/
-file downloads are being tracked now by monster, they should count as an event -> on google analytics, not shown on monster
+file downloads are being tracked now , they should count as an event -> on google analytics
 the fact that the 40Q is in a file not originally from the wordpress site is what makes it so hard to track
- the link tracker works! -> it does not, the file download tracker works, not the link that i put in
-try to get the link tracker to work
+
 -> make a different button to make sure its not the image that is acusing the problem
 added link test to quiz page: https://growingholistically.com/quiz/
 clicked it 4 times, check tomorrow
