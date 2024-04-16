@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min
 
-April: 8 hour 40 min
+April: 8 hour 45 min
 
 plugins im using on site:
 
@@ -166,3 +166,4 @@ clicked it 4 times, check tomorrow
 
 tried campaign monitor, can only put audio in if i hardcode the email in HTML, i can do it should I ?
 get a free html template and then edit it -> look at code pen
+confirm if he likes the constant contact email format
