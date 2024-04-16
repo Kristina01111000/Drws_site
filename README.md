@@ -162,3 +162,4 @@ https://www.wpbeginner.com/wp-tutorials/how-to-track-link-clicks-and-button-clic
 file downloads are being tracked now by monster, they should count as an event -> on google analytics, not shown on monster
 the fact that the 40Q is in a file not originally from the wordpress site is what makes it so hard to track
  the link tracker works! -> it does not, the file download tracker works, not the link that i put in
+try to get the link tracker to work
