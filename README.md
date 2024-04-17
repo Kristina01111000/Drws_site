@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min -> sent
 
-April: 9 hour 10 min
+April: 9 hour 25 min
 
 plugins im using on site:
 
@@ -168,5 +168,5 @@ tried campaign monitor, can only put audio in if i hardcode the email in HTML, i
 get a free html template and then edit it -> look at code pen
 confirm if he likes the constant contact email format
 
-it still isn't showing up in google analytics
+it still isn't showing up in google analytics under events, i can see how many people look at the page on the pages tab
 added test link to patreon to see if it is the file that is the issue
