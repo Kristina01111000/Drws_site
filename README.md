@@ -5,7 +5,7 @@ January 2024: 8 hour 45 min -> recieved
 
 February: 8 hour 45 min -> recieved
 
-March: 10 hour 30 min
+March: 10 hour 30 min -> sent
 
 April: 8 hour 50 min
 
