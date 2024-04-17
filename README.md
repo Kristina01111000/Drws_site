@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min -> sent
 
-April: 8 hour 50 min
+April: 9 hour 10 min
 
 plugins im using on site:
 
@@ -169,3 +169,4 @@ get a free html template and then edit it -> look at code pen
 confirm if he likes the constant contact email format
 
 it still isn't showing up in google analytics
+added test link to patreon to see if it is the file that is the issue
