@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min -> sent
 
-April: 10 hour 25 min
+April: 11 hour 30 min
 
 plugins im using on site:
 
@@ -173,3 +173,16 @@ added test link to patreon to see if it is the file that is the issue
 
 put the test html emal into campaign monitor -> the audio did not send
 audio files do not paste into google emails
+
+4/18
+Set up an email’: DrWalsdorf@syracusenaturalhealing.com
+Subject will be a message from doctor w
+For email text: please press the audio button to hear a special message from Dr w
+Make the email and send it to him to get feedback, try to send first on monday to him for feedback
+Try constant contact, its better than campaign monitor
+Get the audio file he sent on april 4th for the email for patients
+Base the email off of the audio file
+put the text of the audio file underneath the audio file
+He’s going to send me an email to fix the url said in a video, easier to change it on the site
+Change the url of the self-assessment page to the about40Qselfassessment
+Try to track which file is being downloaded
