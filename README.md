@@ -181,3 +181,5 @@ put the text of the audio file underneath the audio file
 He’s going to send me an email to fix the url said in a video, easier to change it on the site
 Change the url of the self-assessment page to the about40Qselfassessment
 Try to track which file is being downloaded
+
+make the html email and test it in constant contact  -> first
