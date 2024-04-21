@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min -> sent
 
-April: 11 hour 35 min
+April: 11 hour 40 min
 
 plugins im using on site:
 
@@ -178,7 +178,6 @@ Try constant contact, its better than campaign monitor
 Get the audio file he sent on april 4th for the email for patients
 Base the email off of the audio file
 put the text of the audio file underneath the audio file
-He’s going to send me an email to fix the url said in a video, easier to change it on the site
 Change the url of the self-assessment page to the about40Qselfassessment
 Try to track which file is being downloaded
 
