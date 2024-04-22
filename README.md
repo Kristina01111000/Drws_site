@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min -> sent
 
-April: 12 hour 10 min
+April: 12 hour 20 min
 
 plugins im using on site:
 
@@ -174,10 +174,7 @@ Set up an email’: DrWalsdorf@syracusenaturalhealing.com
 Subject will be a message from doctor w
 For email text: please press the audio button to hear a special message from Dr w
 Make the email and send it to him to get feedback, try to send first on monday to him for feedback
-Try constant contact, its better than campaign monitor
-Get the audio file he sent on april 4th for the email for patients
-Base the email off of the audio file
-put the text of the audio file underneath the audio file
+
 Change the url of the self-assessment page to the about40Qselfassessment
 Try to track which file is being downloaded
 
