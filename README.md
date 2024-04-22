@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min -> sent
 
-April: 12 hour 20 min
+April: 12 hour 25 min
 
 plugins im using on site:
 
@@ -183,3 +183,4 @@ figure out what should go in the columns on the email
 
 
 - constant contact removed the audio
+- campaign monitor also ate the audio
