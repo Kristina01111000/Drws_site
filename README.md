@@ -180,3 +180,6 @@ Try to track which file is being downloaded
 
 make the html email and test it in constant contact  -> first
 figure out what should go in the columns on the email
+
+
+- constant contact removed the audio
