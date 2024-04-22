@@ -185,3 +185,4 @@ figure out what should go in the columns on the email
 - constant contact removed the audio
 - campaign monitor also ate the audio
 - try loading the audio into the email, not linking to it from the site
+- see if he has any other feedback
