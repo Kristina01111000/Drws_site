@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min -> sent
 
-April: 12 hour 35 min
+April: 12 hour 45 min
 
 plugins im using on site:
 
