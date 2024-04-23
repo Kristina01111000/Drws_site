@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min -> sent
 
-April: 12 hour 30 min
+April: 12 hour 35 min
 
 plugins im using on site:
 
@@ -173,7 +173,6 @@ audio files do not paste into google emails
 Set up an email’: DrWalsdorf@syracusenaturalhealing.com
 Subject will be a message from doctor w
 For email text: please press the audio button to hear a special message from Dr w
-Make the email and send it to him to get feedback, try to send first on monday to him for feedback
 
 Change the url of the self-assessment page to the about40Qselfassessment
 Try to track which file is being downloaded
