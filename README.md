@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min -> sent
 
-April: 12 hour 45 min
+April: 13 hour 0 min
 
 plugins im using on site:
 
@@ -170,15 +170,13 @@ put the test html emal into campaign monitor -> the audio did not send
 audio files do not paste into google emails
 
 4/18
-Set up an email’: DrWalsdorf@syracusenaturalhealing.com
+Set up an email’: DrWalsdorf@syracusenaturalhealing.com -> don't have access on site ground
 Subject will be a message from doctor w
 For email text: please press the audio button to hear a special message from Dr w
 
 Change the url of the self-assessment page to the about40Qselfassessment
 Try to track which file is being downloaded
 
-make the html email and test it in constant contact  -> first
-figure out what should go in the columns on the email
 
 
 - constant contact removed the audio
