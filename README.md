@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min -> sent
 
-April: 14 hour 10 min
+April: 14 hour 20 min
 
 plugins im using on site:
 
@@ -190,9 +190,12 @@ He is changing his name to fourelementdoctor
 Change the patreon name to fourelementdoctor -> look up how to do it
 Add fourelementdoctor to the homepage of GH in a few places
 Get a different picture for the youtube channel profile picture
-Already changed the name on youtube
 Four element renewal system -> figure out for next week
 Change learning program to -> learning program portion of the four element renewal system
 Make a quick html for gmail so see if it will work form his gmail account, try the audio to see if the file will work with the html
 Try to have it ready for monday so he can check it, he wants to send it on tuesday, 
 He will send me a different audio file
+
+
+
+Already changed the name on youtube
