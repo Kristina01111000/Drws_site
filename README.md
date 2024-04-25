@@ -179,11 +179,6 @@ Try to track which file is being downloaded
 
 
 
-- constant contact removed the audio
-- campaign monitor also ate the audio
-- try loading the audio into the email, not linking to it from the site
-- see if he has any other feedback
-
 4/25
 For next week:
 He is changing his name to fourelementdoctor
