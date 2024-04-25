@@ -131,14 +131,6 @@ When people join the patreon: their email gets added to constant contact and we 
 
 
 
-FOr next week:
-- make lesson nine chat page
-- make chats for the lessons that need them (6,7,8,9) -> write leading questions for discussion
-- change text on the chat pages to be about the lesson
-- the header and footer images need to be fixed so they don't look bad when they're small
-- add titles of lessons to the course chats 
-- Change the chat titles to share your thoughts on lesson __
-- still need 3rd graph paragraphs for 40Q and 80Q, about yin and yang
 
 
 4/11
@@ -154,12 +146,7 @@ the 40 Q takes a long time to load on the kindle, the starburst button doesn't w
 
 do the AICSEO for next week
 
--> make a different button to make sure its not the image that is acusing the problem
-added link test to quiz page: https://growingholistically.com/quiz/
-clicked it 4 times, check tomorrow
 
-
-tried campaign monitor, can only put audio in if i hardcode the email in HTML, i can do it should I ?
 get a free html template and then edit it -> look at code pen
 confirm if he likes the constant contact email format
 
@@ -194,3 +181,12 @@ He will send me a different audio file
 
 
 Already changed the name on youtube
+
+FOr next week:
+- make lesson nine chat page
+- make chats for the lessons that need them (6,7,8,9) -> write leading questions for discussion
+- change text on the chat pages to be about the lesson
+- the header and footer images need to be fixed so they don't look bad when they're small
+- add titles of lessons to the course chats 
+- Change the chat titles to share your thoughts on lesson __
+- still need 3rd graph paragraphs for 40Q and 80Q, about yin and yang
