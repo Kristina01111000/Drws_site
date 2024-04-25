@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min -> sent
 
-April: 13 hour 0 min
+April: 14 hour 10 min
 
 plugins im using on site:
 
@@ -183,3 +183,16 @@ Try to track which file is being downloaded
 - campaign monitor also ate the audio
 - try loading the audio into the email, not linking to it from the site
 - see if he has any other feedback
+
+4/25
+For next week:
+He is changing his name to fourelementdoctor
+Change the patreon name to fourelementdoctor -> look up how to do it
+Add fourelementdoctor to the homepage of GH in a few places
+Get a different picture for the youtube channel profile picture
+Already changed the name on youtube
+Four element renewal system -> figure out for next week
+Change learning program to -> learning program portion of the four element renewal system
+Make a quick html for gmail so see if it will work form his gmail account, try the audio to see if the file will work with the html
+Try to have it ready for monday so he can check it, he wants to send it on tuesday, 
+He will send me a different audio file
