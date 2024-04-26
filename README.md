@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min -> sent
 
-April: 14 hour 20 min
+April: 14 hour 30 min
 
 plugins im using on site:
 
@@ -149,9 +149,6 @@ do the AICSEO for next week
 
 get a free html template and then edit it -> look at code pen
 confirm if he likes the constant contact email format
-
-it still isn't showing up in google analytics under events, i can see how many people look at the page on the pages tab
-added test link to patreon to see if it is the file that is the issue
 
 put the test html emal into campaign monitor -> the audio did not send
 audio files do not paste into google emails
