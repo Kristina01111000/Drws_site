@@ -178,6 +178,7 @@ He will send me a different audio file
 look up how to load html onto gmail w/o copying it:
 https://www.gmass.co/blog/use-custom-html-in-gmail-compose-window/
 try the hack and see if it works -. so far it did not -> it worked, but the audio still does not work :(
+i don't think i can get the adudio to work the way he wants
 
 Already changed the name on youtube
 
