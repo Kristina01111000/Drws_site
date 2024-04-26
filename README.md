@@ -175,7 +175,8 @@ Make a quick html for gmail so see if it will work form his gmail account, try t
 Try to have it ready for monday so he can check it, he wants to send it on tuesday, 
 He will send me a different audio file
 
-look up how to load html onto gmail w/o copying it
+look up how to load html onto gmail w/o copying it:
+https://www.gmass.co/blog/use-custom-html-in-gmail-compose-window/
 
 Already changed the name on youtube
 
