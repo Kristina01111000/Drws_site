@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min -> sent
 
-April: 14 hour 40 min
+April: 14 hour 45 min
 
 plugins im using on site:
 
@@ -177,7 +177,7 @@ He will send me a different audio file
 
 look up how to load html onto gmail w/o copying it:
 https://www.gmass.co/blog/use-custom-html-in-gmail-compose-window/
-try the hack and see if it works
+try the hack and see if it works -. so far it did not
 
 Already changed the name on youtube
 
