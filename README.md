@@ -185,7 +185,7 @@ Already changed the name on youtube
 For next week:
 
 - make chats for the lessons that need them (6,7,8,9) -> use the 4 other accounts
-- write leading questions for discussion (6,7,8,9)
+- write leading questions for discussion (6,7,8,9), what did you think about the lesson, come up with more
 - change text on the chat pages to be about the lesson (3,4,5,6,7,8)
 - the header and footer images need to be fixed so they don't look bad when they're small
 - add titles of lessons to the course chats (3,4,5,6,7,8)
