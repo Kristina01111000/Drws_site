@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min -> recieved
 
-April: 15 hour 10 min
+April: 15 hour 20 min
 
 plugins im using on site:
 
@@ -185,8 +185,8 @@ Already changed the name on youtube
 For next week:
 
 - make chats for the lessons that need them (6,7,8,9) -> write leading questions for discussion
-- change text on the chat pages to be about the lesson
+- change text on the chat pages to be about the lesson (3,4,5,6,7,8)
 - the header and footer images need to be fixed so they don't look bad when they're small
-- add titles of lessons to the course chats 345678
+- add titles of lessons to the course chats (3,4,5,6,7,8)
 - Change the chat titles to share your thoughts on lesson __
 - still need 3rd graph paragraphs for 40Q and 80Q, about yin and yang
