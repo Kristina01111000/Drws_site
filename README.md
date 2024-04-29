@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min -> recieved
 
-April: 15 hour 30 min
+April: 15 hour 40 min
 
 plugins im using on site:
 
@@ -166,7 +166,6 @@ Try to track which file is being downloaded
 4/25
 For next week:
 He is changing his name to fourelementdoctor
-Change the patreon name to fourelementdoctor -> look up how to do it
 Add fourelementdoctor to the homepage of GH in a few places
 Get a different picture for the youtube channel profile picture
 Four element renewal system -> figure out for next week
