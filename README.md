@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min -> recieved
 
-April: 15 hour 40 min
+April: 15 hour 45 min
 
 plugins im using on site:
 
@@ -190,3 +190,6 @@ For next week:
 - add titles of lessons to the course chats (3,4,5,6,7,8)
 - Change the chat titles to share your thoughts on lesson __
 - still need 3rd graph paragraphs for 40Q and 80Q, about yin and yang
+
+
+check gh on May 16, 17, b/c mysql update
