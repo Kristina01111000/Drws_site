@@ -193,3 +193,4 @@ For next week:
 
 
 check gh on May 16, 17, b/c mysql update
+meeting at 11 on thursday
