@@ -190,7 +190,8 @@ For next week:
 - the header and footer images need to be fixed so they don't look bad when they're small
 - add titles of lessons to the course chats (6,7,8)
 - Change the chat titles to share your thoughts on lesson __
-- still need 3rd graph paragraphs for 40Q and 80Q, about yin and yang
+- still need 3rd graph paragraphs for the 80Q, about yin and yang
+- - change the patreon link on the 80Q to the new one
 
 
 Check that the 40Q updated correctly
