@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min
 
-May: 1 hour 0 min
+May: 1 hour 10 min
 
 plugins im using on site:
 
@@ -81,13 +81,6 @@ write an email for new users of the patreon to get that talks about the communit
 look at the emails to see what needs to change, link to patreon, and growing holistically
 Should focus on things added to the patreon, links and description, recipe?, seasonal blurb, makes sense to send it once a month
 
-9/7:
-
-
-go over the quick minute videos, try to get 15 done by thursday, there are 24 on youtube, don't know how many on patreon
-videos done: 9
-
-work on spreadsheet for videos
 
 
 
