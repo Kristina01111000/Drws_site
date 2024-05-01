@@ -173,14 +173,12 @@ Get a different picture for the youtube channel profile picture
 Four element renewal system -> figure out for next week
 Change learning program to -> learning program portion of the four element renewal system
 
-He will send me a different audio file
 
 look up how to load html onto gmail w/o copying it:
 https://www.gmass.co/blog/use-custom-html-in-gmail-compose-window/
 try the hack and see if it works -. so far it did not -> it worked, but the audio still does not work :(
 i don't think i can get the adudio to work the way he wants
 
-Already changed the name on youtube
 
 For next week:
 
@@ -191,7 +189,7 @@ For next week:
 - add titles of lessons to the course chats (6,7,8)
 - Change the chat titles to share your thoughts on lesson __
 - still need 3rd graph paragraphs for the 80Q, about yin and yang
-- - change the patreon link on the 80Q to the new one
+- change the patreon link on the 80Q to the new one
 
 
 Check that the 40Q updated correctly
