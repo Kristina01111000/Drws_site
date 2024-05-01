@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min
 
-May: 25 min
+May: 35 min
 
 plugins im using on site:
 
@@ -193,6 +193,6 @@ For next week:
 - Change the chat titles to share your thoughts on lesson __
 - still need 3rd graph paragraphs for 40Q and 80Q, about yin and yang
 
-Need to edit the patreon links on the whole site, i did the homepage and the headers, need to edit each lessson
+Need to edit the patreon links on the whole site, i did the homepage and the headers,
 check gh on May 16, 17, b/c mysql update
 meeting at 11 on thursday
