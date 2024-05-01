@@ -194,7 +194,7 @@ For next week:
 - still need 3rd graph paragraphs for 40Q and 80Q, about yin and yang
 
 
-need to change wellnesscheck links to patreon and reload it onto the iste
-need to change the 40 Q and 80Q, then reload them on siteground
+need to  wellnesscheck  reload it onto the iste
+need to  40 Q  reload  on siteground
 check gh on May 16, 17, b/c mysql update
 meeting at 11 on thursday
