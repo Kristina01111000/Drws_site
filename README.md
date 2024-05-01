@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min
 
-May: 45 min
+May: 1 hour 0 min
 
 plugins im using on site:
 
@@ -172,8 +172,7 @@ Add fourelementdoctor to the homepage of GH in a few places
 Get a different picture for the youtube channel profile picture
 Four element renewal system -> figure out for next week
 Change learning program to -> learning program portion of the four element renewal system
-Make a quick html for gmail so see if it will work form his gmail account, try the audio to see if the file will work with the html
-Try to have it ready for monday so he can check it, he wants to send it on tuesday, 
+
 He will send me a different audio file
 
 look up how to load html onto gmail w/o copying it:
@@ -194,7 +193,6 @@ For next week:
 - still need 3rd graph paragraphs for 40Q and 80Q, about yin and yang
 
 
-need to  wellnesscheck  reload it onto the iste
-need to  40 Q  reload  on siteground
+Check that the 40Q updated correctly
 check gh on May 16, 17, b/c mysql update
 meeting at 11 on thursday
