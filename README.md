@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min
 
-May: 2 hour 5 min
+May: 2 hour 10 min
 
 plugins im using on site:
 
@@ -201,3 +201,8 @@ Double check all of patreon links
 Add links to the patreon on the four element institute
 Get a different picture for the youtube channel profile picture
 send comments back on the emial he sent me for audio
+
+
+Speaking to David the Publicist who looked at our GH site on his phone, he just got a play button for the video - no image of me.
+Also he believes that for cell phone version we should not have a carousel, but instead Actionable buttons/links to the carousel videos They might load the site to phones quicker too he suggests.
+Any thoughts?
