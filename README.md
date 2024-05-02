@@ -200,3 +200,4 @@ Send them to him when they are ready
 Double check all of patreon links 
 Add links to the patreon on the four element institute
 Get a different picture for the youtube channel profile picture
+send comments back on the emial he sent me for audio
