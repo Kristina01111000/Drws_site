@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min
 
-May: 1 hour 55 min
+May: 2 hour 5 min
 
 plugins im using on site:
 
@@ -188,3 +188,15 @@ For next week:
 Check that the 40Q updated correctly
 check gh on May 16, 17, b/c mysql update
 meeting at 11 on thursday
+
+
+5/2
+Make rewrites for the homepage for the Four Element Self-Renewal System
+Add fourelementdoctor to the homepage of GH in a few places
+Add the social media links to the bottom of GH
+Add patreon link to the 30 day challenge
+Try cleaning the 30 day challenge up
+Send them to him when they are ready
+Double check all of patreon links 
+Add links to the patreon on the four element institute
+Get a different picture for the youtube channel profile picture
