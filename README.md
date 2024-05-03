@@ -204,4 +204,4 @@ meeting at 11 on thursday
 
 
 - Speaking to David the Publicist who looked at our GH site on his phone, he just got a play button for the video - no image of me.
-- Also he believes that for cell phone version we should not have a carousel, but instead Actionable buttons/links to the carousel videos They might load the site to phones quicker too he suggests.
+- Also he believes that for cell phone version we should not have a carousel, but instead Actionable buttons/links to the carousel videos They might load the site to phones quicker too he suggests. -> seperate the view into desktop and cellphone?
