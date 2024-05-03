@@ -191,18 +191,17 @@ meeting at 11 on thursday
 
 
 5/2
-Make rewrites for the homepage for the Four Element Self-Renewal System
-Add fourelementdoctor to the homepage of GH in a few places
-Add the social media links to the bottom of GH
-Add patreon link to the 30 day challenge
-Try cleaning the 30 day challenge up
-Send them to him when they are ready
-Double check all of patreon links 
-Add links to the patreon on the four element institute
-Get a different picture for the youtube channel profile picture
-send comments back on the emial he sent me for audio
+- Make rewrites for the homepage for the Four Element Self-Renewal System
+- Add fourelementdoctor to the homepage of GH in a few places
+- Add the social media links to the bottom of GH
+- Add patreon link to the 30 day challenge
+- Try cleaning the 30 day challenge up
+- Send them to him when they are ready
+- Double check all of patreon links 
+- Add links to the patreon on the four element institute
+- Get a different picture for the youtube channel profile picture
+- send comments back on the emial he sent me for audio
 
 
-Speaking to David the Publicist who looked at our GH site on his phone, he just got a play button for the video - no image of me.
-Also he believes that for cell phone version we should not have a carousel, but instead Actionable buttons/links to the carousel videos They might load the site to phones quicker too he suggests.
-Any thoughts?
+- Speaking to David the Publicist who looked at our GH site on his phone, he just got a play button for the video - no image of me.
+- Also he believes that for cell phone version we should not have a carousel, but instead Actionable buttons/links to the carousel videos They might load the site to phones quicker too he suggests.
