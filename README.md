@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min
 
-May: 2 hour 35 min
+May: 2 hour 40 min
 
 plugins im using on site:
 
@@ -201,7 +201,7 @@ meeting at 11 on thursday
 - Add links to the patreon on the four element institute
 - Get a different picture for the youtube channel profile picture
 - send comments back on the emial he sent me for audio
-- edit the css so that the video is full screen in small screens
+- edit the css so that the video is full screen in small screens -> figure out why it is so small in cellphone view, it should go across the screen
 
 - Speaking to David the Publicist who looked at our GH site on his phone, he just got a play button for the video - no image of me. so check the thumbnail
 - Also he believes that for cell phone version we should not have a carousel, but instead Actionable buttons/links to the carousel videos They might load the site to phones quicker too he suggests. -> seperate the view into desktop and cellphone?, look into it, it might make the site look messy, we could have a group of links? like the slides but not slides, just textboxes in columns ?
