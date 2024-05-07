@@ -193,12 +193,12 @@ meeting at 11 on thursday
 5/2
 - Make rewrites for the homepage for the Four Element Self-Renewal System
 - Add fourelementdoctor to the homepage of GH in a few places
-- Add the social media links to the bottom of GH
+- Add the social media links to the bottom of GH, for all of them, also link to four element institute?
 - Add patreon link to the 30 day challenge
 - Try cleaning the 30 day challenge up
 - Send them to him when they are ready
 - Double check all of patreon links 
-- Add links to the patreon on the four element institute
+- Add links to the patreon on the four element institute site
 - Get a different picture for the youtube channel profile picture
 - send comments back on the emial he sent me for audio
 - edit the css so that the video is full screen in small screens -> figure out why it is so small in cellphone view, it should go across the screen
