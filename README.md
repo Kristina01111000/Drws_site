@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min
 
-May: 3 hour 15 min
+May: 3 hour 25 min
 
 plugins im using on site:
 
@@ -206,4 +206,4 @@ meeting at 11 on thursday
 - Speaking to David the Publicist who looked at our GH site on his phone, he just got a play button for the video - no image of me. so check the thumbnail
 - Also he believes that for cell phone version we should not have a carousel, but instead Actionable buttons/links to the carousel videos They might load the site to phones quicker too he suggests. -> seperate the view into desktop and cellphone?, look into it, it might make the site look messy, we could have a group of links? like the slides but not slides, just textboxes in columns ?
 go over the homepage changes
-check out copy of homepage, make it the homepage if good
+check out copy of homepage, make it the homepage if good, other edits? switch it when ready
