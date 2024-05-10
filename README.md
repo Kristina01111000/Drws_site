@@ -217,4 +217,4 @@ try adding backgrounds to the old slides, see if it looks better
 - Try to get the pictures look better on desktop 
 - Make the space between the columns smaller
 - Make the columns match so the first one is 2%, make them all be in line
-- Email test On monday
+- Email test On monday -> ask him about it
