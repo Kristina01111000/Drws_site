@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min
 
-May: 4 hour 45 min
+May: 4 hour 50 min
 
 plugins im using on site:
 
@@ -210,13 +210,11 @@ try adding backgrounds to the old slides, see if it looks better
 
 
 5/9
-Link all the social medias everywhere
-Fix video in cell phone view make it bigger
-Get new picture for university chiropractic up on site
-Make a green bubble image for the background of the drwalsdorf.com growing holistically section
-Send it to drw and stephen
-Make the pictures on the homepage a link 
-Try to get the pictures look better on desktop 
-Make the space between the columns smaller
-Make the columns match so the first one is 2%, make them all be in line
-Email test On monday
+- Link all the social medias everywhere
+- Fix video in cell phone view make it bigger
+- Get new picture for university chiropractic up on site
+- Make the pictures on the homepage a link 
+- Try to get the pictures look better on desktop 
+- Make the space between the columns smaller
+- Make the columns match so the first one is 2%, make them all be in line
+- Email test On monday
