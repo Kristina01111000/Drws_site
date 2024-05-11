@@ -218,3 +218,6 @@ try adding backgrounds to the old slides, see if it looks better
 - Make the space between the columns smaller
 - Make the columns match so the first one is 2%, make them all be in line
 - Email test On monday -> ask him about it
+
+
+look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_locale=en_US
