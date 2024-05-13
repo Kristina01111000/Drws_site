@@ -219,5 +219,6 @@ try adding backgrounds to the old slides, see if it looks better
 - Make the columns match so the first one is 2%, make them all be in line
 - Email test On monday -> ask him about it
 
+finish setting up monster insights?
 
 look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_locale=en_US
