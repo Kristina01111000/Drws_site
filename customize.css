@@ -183,3 +183,13 @@ bdi{
 .wpProQuiz_mextrixTr{
 	background-color: #ffffff !important; 
 }
+
+// makes youtube videos full screen width in cell phone view
+@media all and (max-width: 699px) {
+
+  .wp-block-video {
+    position: relative;
+    left: -40%;
+    width: 120%;
+  }
+}
