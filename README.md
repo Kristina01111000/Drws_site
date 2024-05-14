@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min
 
-May: 4 hour 50 min
+May: 4 hour 55 min
 
 plugins im using on site:
 
@@ -217,8 +217,9 @@ try adding backgrounds to the old slides, see if it looks better
 - Try to get the pictures look better on desktop 
 - Make the space between the columns smaller
 - Make the columns match so the first one is 2%, make them all be in line
-- Email test On monday -> ask him about it
+
 
 finish setting up monster insights?
-
 look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_locale=en_US
+
+send invoice soon
