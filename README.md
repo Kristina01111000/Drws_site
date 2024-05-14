@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min
 
-May: 4 hour 55 min
+May: 5 hour 15 min
 
 plugins im using on site:
 
@@ -211,7 +211,6 @@ try adding backgrounds to the old slides, see if it looks better
 
 5/9
 - Link all the social medias everywhere
-- Fix video in cell phone view make it bigger
 - Get new picture for university chiropractic up on site
 - Make the pictures on the homepage a link 
 - Try to get the pictures look better on desktop 
