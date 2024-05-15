@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min
 
-May: 5 hour 15 min
+May: 5 hour 35 min
 
 plugins im using on site:
 
@@ -209,9 +209,6 @@ try adding backgrounds to the old slides, see if it looks better
 - Link all the social medias everywhere
 - Get new picture for university chiropractic up on site
 - Make the pictures on the homepage a link 
-- Try to get the pictures look better on desktop 
-- Make the space between the columns smaller
-- Make the columns match so the first one is 2%, make them all be in line
 
 
 finish setting up monster insights?
