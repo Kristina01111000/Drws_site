@@ -209,7 +209,7 @@ try adding backgrounds to the old slides, see if it looks better
 - Link all the social medias everywhere
 - Get new picture for university chiropractic up on site
 - Make the pictures on the homepage a link 
-
+- go over the audio message
 
 finish setting up monster insights?
 look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_locale=en_US
