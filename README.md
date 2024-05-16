@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min
 
-May: 6 hour 55 min
+May: 7 hour 15 min
 
 plugins im using on site:
 
@@ -215,7 +215,7 @@ Make chats for lessons 6,7,8,9 on GH
 Email stephen about the text box in the GH section of dr walsdorf.com
 Try adding a black border around each panel on the GH homepage
 Send dr w an email with the wellness check, send him a link to the 40Q link, also send him the file for the 40Q -> for stephen
-See if analytics can be tracked on patreon see if i can connect google to it
+
 - Link all the social medias everywhere
 
 send invoice soon
