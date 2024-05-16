@@ -203,11 +203,19 @@ check out copy of homepage, make it the homepage if good, other edits? switch it
 try adding backgrounds to the old slides, see if it looks better
 
 
-5/9
-- Link all the social medias everywhere
-- Get new picture for university chiropractic up on site
+
+
 
 finish setting up monster insights?
 look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_locale=en_US
+
+5/16
+Picture for homepage of university chiropractic?
+Make chats for lessons 6,7,8,9 on GH
+Email stephen about the text box in the GH section of dr walsdorf.com
+Try adding a black border around each panel on the GH homepage
+Send dr w an email with the wellness check, send him a link to the 40Q link, also send him the file for the 40Q -> for stephen
+See if analytics can be tracked on patreon see if i can connect google to it
+- Link all the social medias everywhere
 
 send invoice soon
