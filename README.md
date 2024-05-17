@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min
 
-May: 7 hour 50 min
+May: 7 hour 55 min
 
 plugins im using on site:
 
@@ -69,48 +69,21 @@ https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROX
 
 - google doc for emails:https://docs.google.com/document/d/1Nc_WVsgZKdhpWaHZyDn81rw4y02Dlj2wB-O-q9ZnJXs/edit?usp=sharing
 
-In future:
+For Emails:
 
 - Send emails at 10 am on monday for newsletter
+- Should focus on things added to the patreon, links and description, recipe?, seasonal blurb, makes sense to send it once a month
 
 
 
-On patreon make the holistic learning program link hot in the pinned post
-Should focus on things added to the patreon, links and description, recipe?, seasonal blurb, makes sense to send it once a month
+For the app:
 
-
-
-
-    Dr. W’s Holistic Learning Program – A series of 20 minute videos where Dr. W uses nature’s four elements to understand the how and the why of important dimensions of your life
-
-    Holistic Advise for Your Pain or Health Issue series – Helpful videos taking advantage of Dr. Walsdorf’s 30 years of experience in using the four element holistic context to resolve his patients’ problems
-
-    Dr. W’s “Quick Minutes” – Short, often fun and useful four element concepts applied to the problems of our day
-
-    4 Element Yoga – References for exercises Dr. W gives his patients – For improved body (somatic) awareness and health as you feel life’s principles being drawn into your body through special body motions. This is a signature part of the holistic health-renewal program that many patients are on.
-    Dr. W’s Four Element Nutrition-Cooking-Feasting Show – coming soon
-
-    The Recalibrating Your Balance App – Phone/PC/Mac compatible – earn redeemable points as you develop a good health-building, life-renewing routine – coming soon
-
-    40Q
-
-    Wellness Check
-
-
-
-
-
-12/7
-
-- Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
-
-
-
-12/28
-- For the app: Soon 
+	- The Recalibrating Your Balance App – Phone/PC/Mac compatible – earn redeemable points as you develop a good health-building, life-renewing routine – coming soon
 	- Make a slide
-	- put page under programs tab in header
+	-  put page under programs tab in header
 	- Is the app only for people who pay? Probably only for those who join at $5 a month or more 
+
+ 
 - For fourelementinstitute and syracuse natural healing the security plugin caused a lockout again, look into getting a new one
 
 For next week:
@@ -188,6 +161,8 @@ meeting at 11 on thursday
 - Get a different picture for the youtube channel profile picture
 - send comments back on the emial he sent me for audio
 
+-On patreon make the holistic learning program link hot in the pinned post
+- Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
 check out copy of homepage, make it the homepage if good, other edits? switch it when ready
 try adding backgrounds to the old slides, see if it looks better
 
