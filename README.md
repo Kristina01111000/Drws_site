@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min
 
-May: 7 hour 30 min
+May: 7 hour 40 min
 
 plugins im using on site:
 
@@ -167,12 +167,6 @@ Four element renewal system -> figure out for next week
 Change learning program to -> learning program portion of the four element renewal system
 
 
-look up how to load html onto gmail w/o copying it:
-https://www.gmass.co/blog/use-custom-html-in-gmail-compose-window/
-try the hack and see if it works -. so far it did not -> it worked, but the audio still does not work :(
-i don't think i can get the adudio to work the way he wants
-
-
 For next week:
 
 - make chats for the lessons that need them (6,7,8,9) -> use the 4 other accounts
@@ -185,7 +179,6 @@ For next week:
 - change the patreon link on the 80Q to the new one
 
 
-Check that the 40Q updated correctly
 check gh on May 16, 17, b/c mysql update
 meeting at 11 on thursday
 
