@@ -75,10 +75,7 @@ In future:
 
 
 
-8/30
 On patreon make the holistic learning program link hot in the pinned post
-write an email for new users of the patreon to get that talks about the community
-look at the emails to see what needs to change, link to patreon, and growing holistically
 Should focus on things added to the patreon, links and description, recipe?, seasonal blurb, makes sense to send it once a month
 
 
@@ -106,11 +103,10 @@ Should focus on things added to the patreon, links and description, recipe?, sea
 12/7
 
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
-- Can google analytics work for patreon pages, add it if it does work
+
 
 
 12/28
-- Look into more ways to market the patreon
 - For the app: Soon 
 	- Make a slide
 	- put page under programs tab in header
