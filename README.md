@@ -60,7 +60,6 @@ Notes:
 	- four corners page is a draft now
  	- constant contact test email have the email of the account owner at the bottom, the actual emails don't
 
-See if there is a way to see how many people downloaded the scorecard, use google for site analytics - he needs a google workspace account for this
 
 --------------------------------------------------------
 
@@ -71,8 +70,8 @@ https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROX
 
 For Emails:
 
-- Send emails at 10 am on monday for newsletter
-- Should focus on things added to the patreon, links and description, recipe?, seasonal blurb, makes sense to send it once a month
+	- Send emails at 10 am on monday for newsletter
+	- Should focus on things added to the patreon, links and description, recipe?, seasonal blurb, makes sense to send it once a month
 
 
 
@@ -86,8 +85,6 @@ For the app:
  
 - For fourelementinstitute and syracuse natural healing the security plugin caused a lockout again, look into getting a new one
 
-For next week:
-See if PMP can show the start date of the users if they aren’t paying
 
 
 Notes: 
@@ -98,12 +95,8 @@ When people join the patreon: their email gets added to constant contact and we 
 
 
 4/11
-See how the self assessment shows up on google analytics
-See if we can track the self assessment views 
 
-Try to figure out what we would ask Basit so that we can track it
 
--> get the free version of monster insights to track the button clicks -> added it, it still doesn't appear to show the 40Q
 
 the 40 Q takes a long time to load on the kindle, the starburst button doesn't work on the kindle
 
@@ -160,6 +153,8 @@ meeting at 11 on thursday
 - Add links to the patreon on the four element institute site
 - Get a different picture for the youtube channel profile picture
 - send comments back on the emial he sent me for audio
+
+See if PMP can show the start date of the users if they aren’t paying
 
 -On patreon make the holistic learning program link hot in the pinned post
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
