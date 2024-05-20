@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min
 
-May: 8 hour 5 min
+May: 8 hour 15 min
 
 plugins im using on site:
 
@@ -175,4 +175,5 @@ Try adding a black border around each panel on the GH homepage
 - Link all the social medias everywhere
 - check on the bug on drwalsdorf.com theme -> its so weird
 email edits
+there might be an issue with the google analytics for the GH site
 send invoice on monday
