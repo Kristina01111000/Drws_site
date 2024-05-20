@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min
 
-May: 8 hour 0 min
+May: 8 hour 5 min
 
 plugins im using on site:
 
@@ -174,5 +174,5 @@ Make chats for lessons 6,7,8,9 on GH
 Try adding a black border around each panel on the GH homepage
 - Link all the social medias everywhere
 - check on the bug on drwalsdorf.com theme -> its so weird
-
+email edits
 send invoice on monday
