@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min
 
-May: 8 hour 25 min
+May: 8 hour 35 min
 
 plugins im using on site:
 
@@ -103,12 +103,6 @@ the 40 Q takes a long time to load on the kindle, the starburst button doesn't w
 
 do the AICSEO for next week
 
-
-get a free html template and then edit it -> look at code pen
-confirm if he likes the constant contact email format
-
-put the test html emal into campaign monitor -> the audio did not send
-audio files do not paste into google emails
 
 4/18
 Set up an email’: DrWalsdorf@syracusenaturalhealing.com -> don't have access on site ground
