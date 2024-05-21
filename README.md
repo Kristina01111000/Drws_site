@@ -106,13 +106,6 @@ do the AICSEO for next week
 
 4/18
 Set up an email’: DrWalsdorf@syracusenaturalhealing.com -> don't have access on site ground
-Subject will be a message from doctor w
-For email text: please press the audio button to hear a special message from Dr w
-
-Change the url of the self-assessment page to the about40Qselfassessment
-Try to track which file is being downloaded
-
-
 
 4/25
 For next week:
