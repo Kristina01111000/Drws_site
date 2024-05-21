@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min
 
-May: 8 hour 15 min
+May: 8 hour 25 min
 
 plugins im using on site:
 
@@ -122,7 +122,6 @@ Try to track which file is being downloaded
 
 4/25
 For next week:
-He is changing his name to fourelementdoctor
 Add fourelementdoctor to the homepage of GH in a few places
 Get a different picture for the youtube channel profile picture
 Four element renewal system -> figure out for next week
