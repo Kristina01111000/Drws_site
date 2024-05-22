@@ -156,7 +156,7 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 
 5/16
 Picture for homepage of university chiropractic?
-Make chats for lessons 6,7,8,9 on GH
+Make chats for lessons 6,7,8,9 on GH, look at the writing style of the other commetns first to match them
 Try adding a black border around each panel on the GH homepage
 - Link all the social medias everywhere
 - check on the bug on drwalsdorf.com theme -> its so weird
