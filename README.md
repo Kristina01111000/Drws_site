@@ -144,8 +144,8 @@ See if PMP can show the start date of the users if they aren’t paying
 
 -On patreon make the holistic learning program link hot in the pinned post
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
-check out copy of homepage, make it the homepage if good, other edits? switch it when ready
-try adding backgrounds to the old slides, see if it looks better
+
+
 
 
 
