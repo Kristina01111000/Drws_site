@@ -160,7 +160,6 @@ Make chats for lessons 6,7,8,9 on GH, look at the writing style of the other com
 - Link all the social medias everywhere
 - check on the bug on drwalsdorf.com theme -> its so weird
 email edits, looks good on google
-there might be an issue with the google analytics for the GH site
 send invoice on monday
 
 
