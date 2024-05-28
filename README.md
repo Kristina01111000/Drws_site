@@ -7,7 +7,7 @@ February: 8 hour 45 min -> recieved
 
 March: 10 hour 30 min -> recieved
 
-April: 16 hour 0 min
+April: 16 hour 0 min -> sent
 
 May: 9 hour 50 min
 
