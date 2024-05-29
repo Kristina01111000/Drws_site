@@ -157,9 +157,8 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 5/16
 Make chats for lessons 6,7,8,9 on GH, look at the writing style of the other commetns first to match them
 - Link all the social medias everywhere
-- check on the bug on drwalsdorf.com theme -> its so weird
 email edits, looks good on google
-send invoice on monday
+
 
 
 
@@ -168,7 +167,4 @@ Figure out how to keep people who unsubscribed off the list for emails, i think 
 See if there is a way to make emails not go to the promotions folder in gmail folder
 Add the youtube and tiktok slides at the bottom
 Get finalized icon for 4elementdoctor (youtube icon, also put on GH somewhere)
-Should I link to the youtube account on the site? It hasn’t been updated in 3 months
-	I think I should add something like the slides at the bottom and say its free to check out or, 
-	“not interested in joining Patreon yet? Check out Dr. W’s youtube channel to see some of the topics that his Self-Renewal System will go into. Maybe link to the tiktok the same way?
 	I think the youtube picture should be whatever the icon you choose for 4elementdoctor everywhere else is, also the tiktok
