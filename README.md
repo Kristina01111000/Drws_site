@@ -155,7 +155,6 @@ finish setting up monster insights?
 look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_locale=en_US
 
 5/16
-Picture for homepage of university chiropractic?
 Make chats for lessons 6,7,8,9 on GH, look at the writing style of the other commetns first to match them
 - Link all the social medias everywhere
 - check on the bug on drwalsdorf.com theme -> its so weird
