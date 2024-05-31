@@ -193,3 +193,7 @@ bdi{
     width: 120%;
   }
 }
+// centers the text in the header tabs
+.hm-header__menu-list  {
+    text-align: center;
+}
