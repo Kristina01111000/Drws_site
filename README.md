@@ -168,3 +168,10 @@ See if there is a way to make emails not go to the promotions folder in gmail fo
 Add the youtube and tiktok slides at the bottom
 Get finalized icon for 4elementdoctor (youtube icon, also put on GH somewhere)
 	I think the youtube picture should be whatever the icon you choose for 4elementdoctor everywhere else is, also the tiktok
+
+5/30
+- Fix google analytics
+- Find a better image for the youtube slide
+- New text for the learning program page, “Get started with the 4E self renewal system”
+- For the new page: Talk about the wellness check, do 30 day challenge, do wellness check again, mention thats its free to start, then link to the patreon, talk about joining 
+- Menu: Self-Renewal System; dropdown with: Wellness Check, 30 Day Challenge; Then Full System
