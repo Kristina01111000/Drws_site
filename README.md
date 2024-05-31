@@ -9,7 +9,7 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min -> sent
 
-May: 11 hour 25 min
+May: 11 hour 30 min
 
 plugins im using on site:
 
@@ -180,5 +180,4 @@ Get finalized icon for 4elementdoctor (youtube icon, also put on GH somewhere)
 - In dropdown Full system, learning program, video collections, takes them to patreon
 - Make a sub menu that brings them to the same page, with a different anchor point
 - 4E self assessment goes somewhere else
-- See if i can center the header text 
 - make the pages in the backend, make them live, don’t link to them yet on the site, send him the links
