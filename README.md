@@ -93,14 +93,6 @@ When people join the patreon: their email gets added to constant contact and we 
 
 
 
-
-4/11
-
-
-
-the 40 Q takes a long time to load on the kindle, the starburst button doesn't work on the kindle
-
-
 do the AICSEO for next week
 
 
