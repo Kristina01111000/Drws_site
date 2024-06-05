@@ -82,7 +82,6 @@ For the app:
 	- The Recalibrating Your Balance App – Phone/PC/Mac compatible – earn redeemable points as you develop a good health-building, life-renewing routine – coming soon
 	- Make a slide
 	-  put page under programs tab in header
-	- Is the app only for people who pay? Probably only for those who join at $5 a month or more 
 
  
 - For fourelementinstitute and syracuse natural healing the security plugin caused a lockout again, look into getting a new one
