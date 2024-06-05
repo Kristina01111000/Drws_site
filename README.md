@@ -99,9 +99,6 @@ When people join the patreon: their email gets added to constant contact and we 
 do the AICSEO for next week
 
 
-4/18
-Set up an email’: DrWalsdorf@syracusenaturalhealing.com -> don't have access on site ground
-
 4/25
 For next week:
 Add fourelementdoctor to the homepage of GH in a few places
