@@ -77,11 +77,13 @@ For Emails:
 
 
 
-For the app:
+When app is ready:
 
 	- The Recalibrating Your Balance App – Phone/PC/Mac compatible – earn redeemable points as you develop a good health-building, life-renewing routine – coming soon
 	- Make a slide
 	-  put page under programs tab in header
+ 	- add it to patreon
+  	- another site?
 
  
 - For fourelementinstitute and syracuse natural healing the security plugin caused a lockout again, look into getting a new one
