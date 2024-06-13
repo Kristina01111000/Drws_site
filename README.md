@@ -1,3 +1,4 @@
+
 # Drws_site
 everything to do with drws site
 
@@ -11,7 +12,7 @@ April: 16 hour 0 min -> recieved
 
 May: 11 hour 30 min
 
-June: 20 min
+June: 50 min
 
 plugins im using on site:
 
@@ -165,14 +166,11 @@ Get finalized icon for 4elementdoctor (youtube icon, also put on GH somewhere)
 - Fix google analytics
 - Find a better image for the youtube slide
 - New text for the learning program page, “Get started with the 4E self renewal system”
-- For the new page: Talk about the wellness check, do 30 day challenge, do wellness check again, mention thats its free to start, then link to the patreon, talk about joining 
 - Menu: Self-Renewal System; dropdown with: Wellness Check, 30 Day Challenge; Then Full System
-- Add a page for the self renewal system , talk about everything in it
+
 - Add it to the programs tab at the top, and at the button in the dropdown
 - In dropdown Full system, learning program, video collections, takes them to patreon
 - Make a sub menu that brings them to the same page, with a different anchor point
-- 4E self assessment goes somewhere else
-- make the pages in the backend, make them live, don’t link to them yet on the site, send him the links
 
 
 check links etc on kindle before next week
