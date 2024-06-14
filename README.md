@@ -167,7 +167,7 @@ Get finalized icon for 4elementdoctor (youtube icon, also put on GH somewhere)
 - Find a better image for the youtube slide
 - New text for the learning program page, “Get started with the 4E self renewal system”
 - Menu: Self-Renewal System; dropdown with: Wellness Check, 30 Day Challenge; Then Full System
-
+- check new page for spelling/ grammar  errors
 - Add it to the programs tab at the top, and at the button in the dropdown
 - In dropdown Full system, learning program, video collections, takes them to patreon
 - Make a sub menu that brings them to the same page, with a different anchor point
