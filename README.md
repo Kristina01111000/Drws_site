@@ -1,4 +1,3 @@
-
 # Drws_site
 everything to do with drws site
 
@@ -174,8 +173,9 @@ Get finalized icon for 4elementdoctor (youtube icon, also put on GH somewhere)
 
 
 check links etc on kindle before next week
-look at images on homeslide on lindle to make sure it was an airplane problem
+look at images on homeslide on kindle to make sure it was an airplane problem
 check that the updates worked
 
 
 on May 30th 22 people looked at the learning program, 14 looked at the homepage and 3 at the wellness check, is that the day you sent the email out? or was if from tiktok?
+collections in the patreon?
