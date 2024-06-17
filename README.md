@@ -179,3 +179,5 @@ check that the updates worked
 
 on May 30th 22 people looked at the learning program, 14 looked at the homepage and 3 at the wellness check, is that the day you sent the email out? or was if from tiktok?
 collections in the patreon?
+
+check the other patreon stuff on the analytics page
