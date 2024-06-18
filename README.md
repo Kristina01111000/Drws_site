@@ -162,7 +162,6 @@ Get finalized icon for 4elementdoctor (youtube icon, also put on GH somewhere)
 	I think the youtube picture should be whatever the icon you choose for 4elementdoctor everywhere else is, also the tiktok
 
 5/30
-- Fix google analytics
 - Find a better image for the youtube slide
 - New text for the learning program page, “Get started with the 4E self renewal system”
 - Menu: Self-Renewal System; dropdown with: Wellness Check, 30 Day Challenge; Then Full System
@@ -180,4 +179,7 @@ check that the updates worked
 on May 30th 22 people looked at the learning program, 14 looked at the homepage and 3 at the wellness check, is that the day you sent the email out? or was if from tiktok?
 collections in the patreon?
 
-check the other patreon stuff on the analytics page
+check the other patreon stuff on the analytics page 
+google analytics works now!
+
+send my invoice soone
