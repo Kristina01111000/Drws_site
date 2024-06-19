@@ -11,7 +11,7 @@ April: 16 hour 0 min -> recieved
 
 May: 11 hour 30 min
 
-June: 1 hour 35 min
+June: 1 hour 50 min
 
 plugins im using on site:
 
@@ -169,7 +169,7 @@ Get finalized icon for 4elementdoctor (youtube icon, also put on GH somewhere)
 
 check links etc on kindle before next week
 look at images on homeslide on kindle to make sure it was an airplane problem
-
+go over the new page again before meeting
 
 
 check the other patreon stuff on the analytics page 
