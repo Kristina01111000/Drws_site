@@ -154,7 +154,6 @@ Make chats for lessons 6,7,8,9 on GH, look at the writing style of the other com
 5/23
 Figure out how to keep people who unsubscribed off the list for emails, i think constant contact does that automatically 
 See if there is a way to make emails not go to the promotions folder in gmail folder
-Add the youtube and tiktok slides at the bottom
 Get finalized icon for 4elementdoctor (youtube icon, also put on GH somewhere)
 	I think the youtube picture should be whatever the icon you choose for 4elementdoctor everywhere else is, also the tiktok
 
