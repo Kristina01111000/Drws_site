@@ -153,13 +153,11 @@ Make chats for lessons 6,7,8,9 on GH, look at the writing style of the other com
 
 5/23
 Figure out how to keep people who unsubscribed off the list for emails, i think constant contact does that automatically 
-See if there is a way to make emails not go to the promotions folder in gmail folder
 Get finalized icon for 4elementdoctor (youtube icon, also put on GH somewhere)
 	I think the youtube picture should be whatever the icon you choose for 4elementdoctor everywhere else is, also the tiktok
 
 5/30
 - Find a better image for the youtube slide
-- New text for the learning program page, “Get started with the 4E self renewal system”
 - Menu: Self-Renewal System; dropdown with: Wellness Check, 30 Day Challenge; Then Full System
 - Add it to the programs tab at the top, and at the button in the dropdown
 - In dropdown Full system, learning program, video collections, takes them to patreon
