@@ -11,7 +11,7 @@ April: 16 hour 0 min -> recieved
 
 May: 11 hour 30 min
 
-June: 1 hour 30 min
+June: 1 hour 35 min
 
 plugins im using on site:
 
@@ -151,9 +151,6 @@ Make chats for lessons 6,7,8,9 on GH, look at the writing style of the other com
 - Link all the social medias everywhere
 
 
-
-
-
 5/23
 Figure out how to keep people who unsubscribed off the list for emails, i think constant contact does that automatically 
 See if there is a way to make emails not go to the promotions folder in gmail folder
@@ -176,6 +173,5 @@ look at images on homeslide on kindle to make sure it was an airplane problem
 
 
 check the other patreon stuff on the analytics page 
-google analytics works now!
 
 send my invoice soone
