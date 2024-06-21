@@ -169,6 +169,15 @@ look at images on homeslide on kindle to make sure it was an airplane problem
 go over the new page again before meeting
 
 
+6/21
+Get the Dr W logo on patreon, youtube, GH, 
+Look for other places that should have 4 element doctor added on GH
+Add the word document he sent to the get started page
+Make any changes to the world document that seem good for the site
+Email him  on thursday with the new time for the meeting
+
+
+
 check the other patreon stuff on the analytics page 
 
-send my invoice soone
+send my invoice soon
