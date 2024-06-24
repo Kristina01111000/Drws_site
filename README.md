@@ -174,8 +174,8 @@ Get the Dr W logo on patreon, youtube, GH,
 Look for other places that should have 4 element doctor added on GH
 Add the word document he sent to the get started page
 Make any changes to the world document that seem good for the site
-Email him  on thursday with the new time for the meeting
-
+Email him  on thursday with the new time for the meeting (11:15)
+make edits to the word document soon
 
 
 check the other patreon stuff on the analytics page 
