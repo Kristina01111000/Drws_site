@@ -11,7 +11,7 @@ April: 16 hour 0 min -> recieved
 
 May: 11 hour 30 min
 
-June: 2 hour 55 min
+June: 3 hour 10 min
 
 plugins im using on site:
 
@@ -170,8 +170,6 @@ go over the new page again before meeting
 
 
 6/21
-Get the Dr W logo on patreon,  GH, 
-Look for other places that should have 4 element doctor added on GH
 Add the word document he sent to the get started page
 Make any changes to the world document that seem good for the site
 Email him  on thursday with the new time for the meeting (11:15)
