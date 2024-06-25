@@ -175,6 +175,5 @@ Email him  on thursday with the new time for the meeting (11:15)
 make edits to the word document soon
 
 
-check the other patreon stuff on the analytics page 
 
-send my invoice soon
+send my invoice tomorrow
