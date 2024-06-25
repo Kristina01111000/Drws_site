@@ -11,7 +11,7 @@ April: 16 hour 0 min -> recieved
 
 May: 11 hour 30 min
 
-June: 3 hour 20 min
+June: 3 hour 30 min
 
 plugins im using on site:
 
@@ -170,7 +170,7 @@ go over the new page again before meeting
 
 
 6/21
-Make any changes to the world document that seem good for the site -> fix the text color changes
+Make any changes to the world document that seem good for the site -> fix the text color changes, change the formatting
 Email him  on thursday with the new time for the meeting (11:15)
 make edits to the word document soon
 
