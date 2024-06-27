@@ -169,17 +169,17 @@ look at images on homeslide on kindle to make sure it was an airplane problem
 go over the new page again before meeting
 
 6/27
-Ask stephen for the clear background logo
-Edit the GH logo and the DR W logo into the new header logo image
-Copy paste the https://drwalsdorf.com/my-programs/ page into the get started page, call it getting started on the drop down
-Make a learn more about the learning program page, subscriber on patreon page use the bullet points “learn more about the patreon” maybe “what you gain” centered bold, and bigger, bulletpoints below it
-In the dropdown add a freebies section with the free stuff underneath it
-He will give me new text for the top of the learning program page
-Figure out how to get learndash to notify us when people get a certificate
-Make  a new level for patreon members in PMP backend
-Look into the backend of PMP to see if we can edit the email that is sent to them when we make them an account
-Add some lesson chats 
-Add text above lesson chats on that page
+- Ask stephen for the clear background logo
+- Edit the GH logo and the DR W logo into the new header logo image
+- Copy paste the https://drwalsdorf.com/my-programs/ page into the get started page, call it getting started on the drop down
+- Make a learn more about the learning program page, subscriber on patreon page use the bullet points “learn more about the patreon” maybe “what you gain” centered bold, and bigger, bulletpoints below it
+- In the dropdown add a freebies section with the free stuff underneath it
+- He will give me new text for the top of the learning program page
+- Figure out how to get learndash to notify us when people get a certificate
+- Make  a new level for patreon members in PMP backend
+- Look into the backend of PMP to see if we can edit the email that is sent to them when we make them an account
+- Add some lesson chats 
+- Add text above lesson chats on that page
 
 
 
