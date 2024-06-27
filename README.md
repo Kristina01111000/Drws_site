@@ -11,7 +11,7 @@ April: 16 hour 0 min -> recieved
 
 May: 11 hour 30 min
 
-June: 3 hour 45 min
+June: 4 hour 55 min
 
 plugins im using on site:
 
