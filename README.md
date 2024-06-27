@@ -169,7 +169,6 @@ look at images on homeslide on kindle to make sure it was an airplane problem
 go over the new page again before meeting
 
 6/27
-- Ask stephen for the clear background logo
 - Edit the GH logo and the DR W logo into the new header logo image
 - Copy paste the https://drwalsdorf.com/my-programs/ page into the get started page, call it getting started on the drop down
 - Make a learn more about the learning program page, subscriber on patreon page use the bullet points “learn more about the patreon” maybe “what you gain” centered bold, and bigger, bulletpoints below it
