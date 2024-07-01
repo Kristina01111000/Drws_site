@@ -11,7 +11,9 @@ April: 16 hour 0 min -> recieved
 
 May: 11 hour 30 min
 
-June: 4 hour 55 min
+June: 5 hour 0 min
+
+July: 15 min
 
 plugins im using on site:
 
@@ -169,7 +171,6 @@ look at images on homeslide on kindle to make sure it was an airplane problem
 go over the new page again before meeting
 
 6/27
-- Edit the GH logo and the DR W logo into the new header logo image -> can i do this on pixlr?
 - Copy paste the https://drwalsdorf.com/my-programs/ page into the get started page, call it getting started on the drop down
 - Make a learn more about the learning program page, subscriber on patreon page use the bullet points “learn more about the patreon” maybe “what you gain” centered bold, and bigger, bulletpoints below it
 - In the dropdown add a freebies section with the free stuff underneath it
@@ -179,7 +180,7 @@ go over the new page again before meeting
 - Look into the backend of PMP to see if we can edit the email that is sent to them when we make them an account
 - Add some lesson chats 
 - Add text above lesson chats on that page
-
+- check on the edited logo tomorrow, its not going immediately
 
 
 
