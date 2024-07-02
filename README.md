@@ -13,7 +13,7 @@ May: 11 hour 30 min
 
 June: 5 hour 0 min
 
-July: 15 min
+July: 20 min
 
 plugins im using on site:
 
@@ -182,6 +182,6 @@ go over the new page again before meeting
 - Add text above lesson chats on that page
 - check on the edited logo tomorrow, its not going immediately
 
-
+- work on more comments
 
 send my invoice tomorrow
