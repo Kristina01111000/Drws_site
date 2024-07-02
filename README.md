@@ -178,7 +178,11 @@ go over the new page again before meeting
 - Figure out how to get learndash to notify us when people get a certificate
 - Make  a new level for patreon members in PMP backend
 - Look into the backend of PMP to see if we can edit the email that is sent to them when we make them an account
-- Add some lesson chats 
+- Add some lesson chats, at least 2 for each level
+- 	6
+- 	7
+- 	8
+- 	9
 - check on the edited logo tomorrow, its not going immediately -> still not there, cache clearing on siteground and GH did not fix the issue -> table this for now, not sure why its not going through, try changing the size tomorrow
 
 - work on more comments
