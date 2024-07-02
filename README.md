@@ -13,7 +13,7 @@ May: 11 hour 30 min
 
 June: 5 hour 0 min
 
-July: 1 hour 25 min
+July: 1 hour 35 min
 
 plugins im using on site:
 
@@ -101,22 +101,10 @@ When people join the patreon: their email gets added to constant contact and we 
 do the AICSEO for next week
 
 
-4/25
-For next week:
-Add fourelementdoctor to the homepage of GH in a few places
-Get a different picture for the youtube channel profile picture
-Four element renewal system -> figure out for next week
-Change learning program to -> learning program portion of the four element renewal system
-
 
 For next week:
 
-- make chats for the lessons that need them (6,7,8,9) -> use the 4 other accounts
-- write leading questions for discussion (6,7,8,9), what did you think about the lesson, come up with more
-- change text on the chat pages to be about the lesson (6,7,8)
 - the header and footer images need to be fixed so they don't look bad when they're small
-- add titles of lessons to the course chats (6,7,8)
-- Change the chat titles to share your thoughts on lesson __
 - still need 3rd graph paragraphs for the 80Q, about yin and yang
 - change the patreon link on the 80Q to the new one
 
