@@ -159,16 +159,11 @@ Get finalized icon for 4elementdoctor (youtube icon, also put on GH somewhere)
 	I think the youtube picture should be whatever the icon you choose for 4elementdoctor everywhere else is, also the tiktok
 
 5/30
-- Find a better image for the youtube slide
 - Menu: Self-Renewal System; dropdown with: Wellness Check, 30 Day Challenge; Then Full System
 - Add it to the programs tab at the top, and at the button in the dropdown
 - In dropdown Full system, learning program, video collections, takes them to patreon
 - Make a sub menu that brings them to the same page, with a different anchor point
 
-
-check links etc on kindle before next week
-look at images on homeslide on kindle to make sure it was an airplane problem
-go over the new page again before meeting
 
 6/27
 - Copy paste the https://drwalsdorf.com/my-programs/ page into the get started page, call it getting started on the drop down
