@@ -13,7 +13,7 @@ May: 11 hour 30 min
 
 June: 5 hour 0 min
 
-July: 55 min
+July: 1 hour 25 min
 
 plugins im using on site:
 
@@ -179,8 +179,7 @@ go over the new page again before meeting
 - Make  a new level for patreon members in PMP backend
 - Look into the backend of PMP to see if we can edit the email that is sent to them when we make them an account
 - Add some lesson chats 
-- Add text above lesson chats on that page
-- check on the edited logo tomorrow, its not going immediately -> still not there, cache clearing on siteground and GH did not fix the issue -> table this for now, not sure why its not going through
+- check on the edited logo tomorrow, its not going immediately -> still not there, cache clearing on siteground and GH did not fix the issue -> table this for now, not sure why its not going through, try changing the size tomorrow
 
 - work on more comments
 
