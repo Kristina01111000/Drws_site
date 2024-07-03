@@ -168,6 +168,6 @@ Get finalized icon for 4elementdoctor (youtube icon, also put on GH somewhere)
 - 	9
 - check on the edited logo tomorrow, its not going immediately -> still not there, cache clearing on siteground and GH did not fix the issue -> table this for now, not sure why its not going through, try changing the size tomorrow
 
-- work on more comments
 
-send my invoice tomorrow
+
+send my invoice on monday b/c of holiday
