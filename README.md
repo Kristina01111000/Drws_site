@@ -168,7 +168,7 @@ Get finalized icon for 4elementdoctor (youtube icon, also put on GH somewhere)
 - 	9
 - check on the edited logo tomorrow, its not going immediately -> still not there, cache clearing on siteground and GH did not fix the issue -> table this for now, not sure why its not going through, try changing the size tomorrow
 - - still not working correctly, why?
-  - next try deleting the image off of the site
+  - next try deleting the image off of the site -> bad, didn't work, had to use a backup of the site
 
 
 
