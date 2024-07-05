@@ -13,7 +13,7 @@ May: 11 hour 30 min
 
 June: 5 hour 0 min
 
-July: 1 hour 35 min
+July: 1 hour 45 min
 
 plugins im using on site:
 
@@ -167,7 +167,7 @@ Get finalized icon for 4elementdoctor (youtube icon, also put on GH somewhere)
 - 	8
 - 	9
 - check on the edited logo tomorrow, its not going immediately -> still not there, cache clearing on siteground and GH did not fix the issue -> table this for now, not sure why its not going through, try changing the size tomorrow
-- - still not working correctly
+- - still not working correctly, why?
 
 
 
