@@ -170,6 +170,7 @@ Get finalized icon for 4elementdoctor (youtube icon, also put on GH somewhere)
 - - still not working correctly, why?
   - next try deleting the image off of the site -> bad, didn't work, had to use a backup of the site
   - teh logo is stuck as that image and im not sure why
+  - ask him if he likes the one i took a screengrab of and then, if so, try editing the header in the code
 
 
 
