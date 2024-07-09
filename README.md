@@ -13,7 +13,7 @@ May: 11 hour 30 min
 
 June: 5 hour 0 min
 
-July: 2 hour 20 min
+July: 2 hour 30 min
 
 plugins im using on site:
 
@@ -154,7 +154,6 @@ Get finalized icon for 4elementdoctor (youtube icon, also put on GH somewhere)
 
 
 6/27
-- Copy paste the https://drwalsdorf.com/my-programs/ page into the get started page, call it getting started on the drop down
 - Make a learn more about the learning program page, subscriber on patreon page use the bullet points “learn more about the patreon” maybe “what you gain” centered bold, and bigger, bulletpoints below it
 - In the dropdown add a freebies section with the free stuff underneath it
 - He will give me new text for the top of the learning program page
@@ -174,4 +173,4 @@ Get finalized icon for 4elementdoctor (youtube icon, also put on GH somewhere)
 
 - had to redo the lesson chats tops b/c of the reset :(
 
-
+- go over getting started page changes
