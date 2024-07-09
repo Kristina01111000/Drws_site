@@ -9,9 +9,9 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min -> recieved
 
-May: 11 hour 30 min
+May: 11 hour 30 min -> sent
 
-June: 5 hour 0 min
+June: 5 hour 0 min -> sent
 
 July: 2 hour 30 min
 
@@ -114,13 +114,11 @@ meeting at 11 on thursday
 
 
 5/2
-- Add fourelementdoctor to the homepage of GH in a few places
 - Add patreon link to the 30 day challenge
 - Try cleaning the 30 day challenge up
 - Double check all of patreon links 
 - Add links to the patreon on the four element institute site
-- Get a different picture for the youtube channel profile picture
-- send comments back on the emial he sent me for audio
+
 
 See if PMP can show the start date of the users if they aren’t paying
 
