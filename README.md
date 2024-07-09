@@ -13,7 +13,7 @@ May: 11 hour 30 min
 
 June: 5 hour 0 min
 
-July: 2 hour 15 min
+July: 2 hour 20 min
 
 plugins im using on site:
 
@@ -172,6 +172,6 @@ Get finalized icon for 4elementdoctor (youtube icon, also put on GH somewhere)
   - teh logo is stuck as that image and im not sure why
   - ask him if he likes the one i took a screengrab of and then, if so, try editing the header in the code
 
-- had to redo the lesson chats tops b/c of the reset
+- had to redo the lesson chats tops b/c of the reset :(
 
-send my invoice on monday b/c of holiday
+
