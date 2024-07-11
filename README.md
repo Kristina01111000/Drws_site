@@ -13,7 +13,7 @@ May: 11 hour 30 min -> sent
 
 June: 5 hour 0 min -> sent
 
-July: 3 hour 0 min
+July: 3 hour 10 min
 
 plugins im using on site:
 
@@ -145,9 +145,7 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 
 
 6/27
-- Make a learn more about the learning program page, subscriber on patreon page use the bullet points “learn more about the patreon” maybe “what you gain” centered bold, and bigger, bulletpoints below it
 - In the dropdown add a freebies section with the free stuff underneath it
-- He will give me new text for the top of the learning program page
 - Figure out how to get learndash to notify us when people get a certificate
 - Make  a new level for patreon members in PMP backend
 - Add some lesson chats, at least 2 for each level
