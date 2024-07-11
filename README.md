@@ -13,7 +13,7 @@ May: 11 hour 30 min -> sent
 
 June: 5 hour 0 min -> sent
 
-July: 3 hour 10 min
+July: 3 hour 20 min
 
 plugins im using on site:
 
