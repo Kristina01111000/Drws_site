@@ -13,7 +13,7 @@ May: 11 hour 30 min -> sent
 
 June: 5 hour 0 min -> sent
 
-July: 2 hour 30 min
+July: 3 hour 0 min
 
 plugins im using on site:
 
@@ -152,7 +152,6 @@ Make chats for lessons 6,7,8,9 on GH, look at the writing style of the other com
 - He will give me new text for the top of the learning program page
 - Figure out how to get learndash to notify us when people get a certificate
 - Make  a new level for patreon members in PMP backend
-- Look into the backend of PMP to see if we can edit the email that is sent to them when we make them an account
 - Add some lesson chats, at least 2 for each level
 - 	6
 - 	7
