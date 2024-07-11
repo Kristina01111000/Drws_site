@@ -134,9 +134,7 @@ See if PMP can show the start date of the users if they aren’t paying
 finish setting up monster insights?
 look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_locale=en_US
 
-5/16
-Make chats for lessons 6,7,8,9 on GH, look at the writing style of the other commetns first to match them
-- Link all the social medias everywhere
+
 
 
 5/30
