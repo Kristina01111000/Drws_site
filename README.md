@@ -166,16 +166,16 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 
 
 7/11
-Edit the patreon photo of him to have the logo on his jacket
-In patreon figure out why the pinned post isn’t pinned to the top for the paid members, is should be
-Set it so when someone finished a quiz he gets an email (in learndash)
-See where the quiz data is stored, its only showing quiz data from 2022
-On get started page add buttons to the center spots
-Add the logo and make it hot near the top
-Center and bold as a subscriber you get access to 
-Anything to make it look better
-Make the bolded text bigger to see how it looks
-Change the “learning program” to the “Holistic Four Element Course”
-Change the tabs to “Four Element Self Renewal System”
-For the dropdown “getting started” “Benefits of” “Freebies” -free stuff here- “learning program”
-Make the benefits page look better, think of another word for the title maybe
+- Edit the patreon photo of him to have the logo on his jacket
+- In patreon figure out why the pinned post isn’t pinned to the top for the paid members, is should be
+- Set it so when someone finished a quiz he gets an email (in learndash)
+- See where the quiz data is stored, its only showing quiz data from 2022
+- On get started page add buttons to the center spots
+- Add the logo and make it hot near the top
+- Center and bold as a subscriber you get access to 
+- Anything to make it look better
+- Make the bolded text bigger to see how it looks
+- Change the “learning program” to the “Holistic Four Element Course”
+- Change the tabs to “Four Element Self Renewal System”
+- For the dropdown “getting started” “Benefits of” “Freebies” -free stuff here- “learning program”
+- Make the benefits page look better, think of another word for the title maybe
