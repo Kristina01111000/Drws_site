@@ -146,7 +146,6 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 
 6/27
 - In the dropdown add a freebies section with the free stuff underneath it
-- Figure out how to get learndash to notify us when people get a certificate
 - Make  a new level for patreon members in PMP backend
 - Add some lesson chats, at least 2 for each level
 - 	6
@@ -159,9 +158,7 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
   - teh logo is stuck as that image and im not sure why
   - ask him if he likes the one i took a screengrab of and then, if so, try editing the header in the code
 
-- had to redo the lesson chats tops b/c of the reset :(
 
-- go over getting started page changes
 
 
 
