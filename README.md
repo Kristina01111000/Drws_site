@@ -115,16 +115,8 @@ For next week:
 - Try cleaning the 30 day challenge up
 
 - Add links to the patreon on the four element institute site
-
-
-See if PMP can show the start date of the users if they aren’t paying
-
 -On patreon make the holistic learning program link hot in the pinned post
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
-
-
-
-
 
 
 
