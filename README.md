@@ -109,14 +109,11 @@ For next week:
 - change the patreon link on the 80Q to the new one
 
 
-check gh on May 16, 17, b/c mysql update
-meeting at 11 on thursday
-
 
 5/2
 - Add patreon link to the 30 day challenge
 - Try cleaning the 30 day challenge up
-- Double check all of patreon links 
+
 - Add links to the patreon on the four element institute site
 
 
