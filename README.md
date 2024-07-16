@@ -13,7 +13,7 @@ May: 11 hour 30 min -> sent
 
 June: 5 hour 0 min -> sent
 
-July: 4 hour 30 min
+July: 4 hour 40 min
 
 plugins im using on site:
 
@@ -152,8 +152,7 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 
 
 7/11
-- Edit the patreon photo of him to have the logo on his jacket
-- In patreon figure out why the pinned post isn’t pinned to the top for the paid members, is should be
+- In patreon figure out why the pinned post isn’t pinned to the top for the paid members, it should be
 - Set it so when someone finished a quiz he gets an email (in learndash)
 - See where the quiz data is stored, its only showing quiz data from 2022
 - On get started page add buttons to the center spots
