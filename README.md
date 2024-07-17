@@ -123,18 +123,7 @@ For next week:
 finish setting up monster insights?
 look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_locale=en_US
 
-
-
-
-5/30
-- Menu: Self-Renewal System; dropdown with: Wellness Check, 30 Day Challenge; Then Full System
-- Add it to the programs tab at the top, and at the button in the dropdown
-- In dropdown Full system, learning program, video collections, takes them to patreon
-- Make a sub menu that brings them to the same page, with a different anchor point
-
-
 6/27
-- In the dropdown add a freebies section with the free stuff underneath it
 - Make  a new level for patreon members in PMP backend
 - Add some lesson chats, at least 2 for each level
 - 	6
@@ -147,11 +136,3 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
   - teh logo is stuck as that image and im not sure why
   - ask him if he likes the one i took a screengrab of and then, if so, try editing the header in the code
 
-
-
-
-
-7/11
-
-- For the dropdown “getting started” “Benefits of” “Freebies” -free stuff here- “learning program”
-- Make the benefits page look better, think of another word for the title maybe
