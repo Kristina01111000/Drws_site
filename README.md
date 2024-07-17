@@ -13,7 +13,7 @@ May: 11 hour 30 min -> sent
 
 June: 5 hour 0 min -> sent
 
-July: 5 hour 50 min
+July: 6 hour 0 min
 
 plugins im using on site:
 
@@ -153,6 +153,5 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 
 7/11
 
-- Change the tabs to “Four Element Self Renewal System”
 - For the dropdown “getting started” “Benefits of” “Freebies” -free stuff here- “learning program”
 - Make the benefits page look better, think of another word for the title maybe
