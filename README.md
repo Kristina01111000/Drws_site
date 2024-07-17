@@ -13,7 +13,7 @@ May: 11 hour 30 min -> sent
 
 June: 5 hour 0 min -> sent
 
-July: 5 hour 15 min
+July: 5 hour 30 min
 
 plugins im using on site:
 
@@ -152,8 +152,6 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 
 
 7/11
-- Set it so when someone finished a quiz he gets an email (in learndash)
-- See where the quiz data is stored, its only showing quiz data from 2022
 - On get started page add buttons to the center spots
 - Add the logo and make it hot near the top
 - Center and bold as a subscriber you get access to 
