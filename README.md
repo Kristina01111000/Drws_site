@@ -13,7 +13,7 @@ May: 11 hour 30 min -> sent
 
 June: 5 hour 0 min -> sent
 
-July: 5 hour 30 min
+July: 5 hour 40 min
 
 plugins im using on site:
 
@@ -152,11 +152,7 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 
 
 7/11
-- On get started page add buttons to the center spots
-- Add the logo and make it hot near the top
-- Center and bold as a subscriber you get access to 
 - Anything to make it look better
-- Make the bolded text bigger to see how it looks
 - Change the “learning program” to the “Holistic Four Element Course”
 - Change the tabs to “Four Element Self Renewal System”
 - For the dropdown “getting started” “Benefits of” “Freebies” -free stuff here- “learning program”
