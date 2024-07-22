@@ -143,5 +143,4 @@ For next week:
 - Put the old patreon image w/o logo back
 - On getting started page, give buttons more space, 
 - Change the url for the 4 month course to “Dr. W’s Holistic Four Element Course”
-- Switch top tab to getting started page
 - Change all of the 4element sections to 4 element
