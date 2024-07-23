@@ -142,3 +142,4 @@ For next week:
 - Look into if constant contact can have new kinds of data fields added for emails, he wants to email people who haven’t been there for a while and include their last visit date in the email 
 - Change the url for the 4 month course to “Dr. W’s Holistic Four Element Course”
 - Change all of the 4element sections to 4 element
+- look over the splash page, give him comments
