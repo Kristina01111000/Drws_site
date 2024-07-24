@@ -13,7 +13,7 @@ May: 11 hour 30 min -> sent
 
 June: 5 hour 0 min -> sent
 
-July: 7 hour 35 min
+July: 7 hour 45 min
 
 plugins im using on site:
 
@@ -130,11 +130,7 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 - 	7
 - 	8
 - 	9
-- check on the edited logo tomorrow, its not going immediately -> still not there, cache clearing on siteground and GH did not fix the issue -> table this for now, not sure why its not going through, try changing the size tomorrow
-- - still not working correctly, why?
-  - next try deleting the image off of the site -> bad, didn't work, had to use a backup of the site
-  - teh logo is stuck as that image and im not sure why
-  - ask him if he likes the one i took a screengrab of and then, if so, try editing the header in the code
+
 
 
 For next week:
