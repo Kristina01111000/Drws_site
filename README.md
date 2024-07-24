@@ -13,7 +13,7 @@ May: 11 hour 30 min -> sent
 
 June: 5 hour 0 min -> sent
 
-July: 7 hour 30 min
+July: 7 hour 35 min
 
 plugins im using on site:
 
@@ -139,5 +139,4 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 
 For next week:
 - Retake all quizzes and look for typos
-- Change all of the 4element sections to 4 element
 - look over the splash page, give him comments
