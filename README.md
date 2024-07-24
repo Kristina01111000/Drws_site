@@ -13,7 +13,7 @@ May: 11 hour 30 min -> sent
 
 June: 5 hour 0 min -> sent
 
-July: 7 hour 20 min
+July: 7 hour 25 min
 
 plugins im using on site:
 
@@ -139,7 +139,6 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 
 For next week:
 - Retake all quizzes and look for typos
-- Look into if constant contact can have new kinds of data fields added for emails, he wants to email people who haven’t been there for a while and include their last visit date in the email 
 - Change the url for the 4 month course to “Dr. W’s Holistic Four Element Course”
 - Change all of the 4element sections to 4 element
 - look over the splash page, give him comments
