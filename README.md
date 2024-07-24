@@ -139,4 +139,3 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 
 For next week:
 - Retake all quizzes and look for typos
-- look over the splash page, give him comments
