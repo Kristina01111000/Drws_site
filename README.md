@@ -135,3 +135,13 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 
 For next week:
 - Retake all quizzes and look for typos
+Fix the 4 vs. fours
+4 for 4 element yoga
+4 for 4 element lifestyle
+4 for 4 element renewal system?
+Four for four element self assessment
+Four for Holistic four element course
+Four for Four element doctor
+On youtube, Titles for quick minutes should be: title | Quick Minute, change it
+There will be 12 learning program lessons
+Try to get all the quizzes to 6 - 8 questions
