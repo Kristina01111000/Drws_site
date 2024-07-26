@@ -90,12 +90,8 @@ When app is ready:
  
 - For fourelementinstitute and syracuse natural healing the security plugin caused a lockout again, look into getting a new one
 
-
-
 Notes: 
 When people join the patreon: their email gets added to constant contact and we will manually make them an account on GH
-
-
 
 
 do the AICSEO for next week
@@ -104,20 +100,8 @@ do the AICSEO for next week
 
 For next week:
 
-- the header and footer images need to be fixed so they don't look bad when they're small
 - still need 3rd graph paragraphs for the 80Q, about yin and yang
 - change the patreon link on the 80Q to the new one
-
-
-
-5/2
-- Add patreon link to the 30 day challenge
-- Try cleaning the 30 day challenge up
-
-- Add links to the patreon on the four element institute site
--On patreon make the holistic learning program link hot in the pinned post
-- Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
-
 
 
 finish setting up monster insights?
@@ -145,3 +129,11 @@ For next week:
 - On youtube, Titles for quick minutes should be: title | Quick Minute, change it
 - There will be 12 learning program lessons
 - Try to get all the quizzes to 6 - 8 questions
+
+
+- Add patreon link to the 30 day challenge
+- Try cleaning the 30 day challenge up
+
+- Add links to the patreon on the four element institute site
+-On patreon make the holistic learning program link hot in the pinned post
+- Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
