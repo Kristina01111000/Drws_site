@@ -121,6 +121,10 @@ For next week:
 - On youtube, Titles for quick minutes should be: title | Quick Minute, change it
 - There will be 12 learning program lessons
 - Try to get all the quizzes to 6 - 8 questions
+- Nutrition 2-> 4
+- Condition-> 5
+- 4e yoga 1-> 4
+- 4e yoga 2 -> 4
 
 
 - Add patreon link to the 30 day challenge
