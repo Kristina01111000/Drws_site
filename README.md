@@ -96,14 +96,6 @@ When people join the patreon: their email gets added to constant contact and we 
 
 do the AICSEO for next week
 
-
-
-For next week:
-
-- still need 3rd graph paragraphs for the 80Q, about yin and yang
-- change the patreon link on the 80Q to the new one
-
-
 finish setting up monster insights?
 look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_locale=en_US
 
