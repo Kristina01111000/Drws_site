@@ -125,7 +125,7 @@ For next week:
 - Condition-> 5
 - 4e yoga 1-> 4
 - 4e yoga 2 -> 4
-
+- double check that the pdfs link to the new patreon link
 
 - Add patreon link to the 30 day challenge
 - Try cleaning the 30 day challenge up
