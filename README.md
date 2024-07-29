@@ -70,6 +70,7 @@ Notes:
 		- Four for four element self assessment
 		- Four for Holistic four element course
 		- Four for Four element doctor
+ 	- There will be 12 learning program lessons
 
 --------------------------------------------------------
 
@@ -119,7 +120,6 @@ For next week:
 - Retake all quizzes and look for typos
 
 - On youtube, Titles for quick minutes should be: title | Quick Minute, change it
-- There will be 12 learning program lessons
 - Try to get all the quizzes to 6 - 8 questions
 - Nutrition 2-> 4
 - Condition-> 5
