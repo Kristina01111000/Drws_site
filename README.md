@@ -13,7 +13,7 @@ May: 11 hour 30 min -> sent
 
 June: 5 hour 0 min -> sent
 
-July: 9 hour 30 min
+July: 9 hour 45 min
 
 plugins im using on site:
 
@@ -118,11 +118,9 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 
 For next week:
 - Retake all quizzes and look for typos
-
 - On youtube, Titles for quick minutes should be: title | Quick Minute, change it
 - Try to get all the quizzes to 6 - 8 questions
 - Nutrition 2-> 4
-- Condition-> 5
 - 4e yoga 1-> 4
 - 4e yoga 2 -> 4
 - double check that the pdfs link to the new patreon link
