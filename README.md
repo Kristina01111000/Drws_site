@@ -13,7 +13,7 @@ May: 11 hour 30 min -> sent
 
 June: 5 hour 0 min -> sent
 
-July: 9 hour 45 min
+July: 9 hour 50 min
 
 plugins im using on site:
 
@@ -124,7 +124,6 @@ For next week:
 - 4e yoga 1-> 4
 - 4e yoga 2 -> 4
 - double check that the pdfs link to the new patreon link, also the quizzes
-- double check that the lessons in GH link to the new patreon, 6 did not it is fixed
 - Add patreon link to the 30 day challenge
 - Try cleaning the 30 day challenge up
 
