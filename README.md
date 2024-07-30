@@ -13,7 +13,7 @@ May: 11 hour 30 min -> sent
 
 June: 5 hour 0 min -> sent
 
-July: 9 hour 50 min
+July: 10 hour 0 min
 
 plugins im using on site:
 
@@ -124,7 +124,7 @@ For next week:
 - 4e yoga 1-> 4
 - 4e yoga 2 -> 4
 - double check that the pdfs link to the new patreon link, also the quizzes
-- Add patreon link to the 30 day challenge
+
 
 
 - Add links to the patreon on the four element institute site
