@@ -125,7 +125,7 @@ For next week:
 - 4e yoga 2 -> 4
 - double check that the pdfs link to the new patreon link, also the quizzes
 - Add patreon link to the 30 day challenge
-- Try cleaning the 30 day challenge up
+
 
 - Add links to the patreon on the four element institute site
 -On patreon make the holistic learning program link hot in the pinned post
