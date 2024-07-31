@@ -13,7 +13,7 @@ May: 11 hour 30 min -> sent
 
 June: 5 hour 0 min -> sent
 
-July: 10 hour 25 min
+July: 10 hour 35 min
 
 plugins im using on site:
 
@@ -120,7 +120,6 @@ For next week:
 - Retake all quizzes and look for typos
 - On youtube, Titles for quick minutes should be: title | Quick Minute, change it
 - Try to get all the quizzes to 6 - 8 questions
-- Nutrition 2-> 4
 - 4e yoga 1-> 4
 - 4e yoga 2 -> 4
 - double check that the pdfs link to the new patreon link, also the quizzes
