@@ -13,7 +13,7 @@ May: 11 hour 30 min -> sent
 
 June: 5 hour 0 min -> sent
 
-July: 10 hour 0 min
+July: 10 hour 25 min
 
 plugins im using on site:
 
@@ -130,3 +130,4 @@ For next week:
 - Add links to the patreon on the four element institute site
 -On patreon make the holistic learning program link hot in the pinned post
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
+- check on woocommerce payments plugin, it crashed the site
