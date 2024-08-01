@@ -15,7 +15,7 @@ June: 5 hour 0 min -> sent
 
 July: 11 hour 00 min
 
-August: 30 min
+August: 1 hour 10 min
 
 plugins im using on site:
 
@@ -136,7 +136,6 @@ For next week:
 - Look at the new constant contact changes, moved to standard  
 - Make an email blast for the 4 element scorecard specifically
 - Add a link to the patreon on the weekly scorecard
-- Fix the site
-- Re-add the questions that got deleted from the quizzes
+
 
 Site went down again on 8/1 -> woopayments was fixed, it seems fine now
