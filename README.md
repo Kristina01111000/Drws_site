@@ -15,6 +15,8 @@ June: 5 hour 0 min -> sent
 
 July: 11 hour 00 min
 
+August: 30 min
+
 plugins im using on site:
 
 - peepso -> auto updates still not working, caused by something in the backend? still not working the way they should
@@ -129,3 +131,6 @@ For next week:
 -On patreon make the holistic learning program link hot in the pinned post
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
 - check on woocommerce payments plugin, it crashed the site
+
+
+Site went down again on 8/1
