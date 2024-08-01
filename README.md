@@ -139,4 +139,4 @@ For next week:
 - Fix the site
 - Re-add the questions that got deleted from the quizzes
 
-Site went down again on 8/1
+Site went down again on 8/1 -> woopayments was fixed, it seems fine now
