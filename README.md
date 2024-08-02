@@ -139,3 +139,4 @@ For next week:
 
 
 Site went down again on 8/1 -> woopayments was fixed, it seems fine now
+8/2 GH still works
