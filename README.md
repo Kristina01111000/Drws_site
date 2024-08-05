@@ -121,8 +121,6 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 For next week:
 - Retake all quizzes and look for typos
 - On youtube, Titles for quick minutes should be: title | Quick Minute, change it
-- Try to get all the quizzes to 6 - 8 questions
-- 4e yoga 2 -> 4 ----> what should they be?
 - double check that the pdfs link to the new patreon link, also the quizzes
 
 
