@@ -15,7 +15,7 @@ June: 5 hour 0 min -> sent
 
 July: 11 hour 00 min
 
-August: 1 hour 15 min
+August: 1 hour 25 min
 
 plugins im using on site:
 
@@ -121,7 +121,7 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 For next week:
 - Retake all quizzes and look for typos
 - On youtube, Titles for quick minutes should be: title | Quick Minute, change it
-- double check that the pdfs link to the new patreon link,
+
 
 
 
@@ -133,7 +133,7 @@ For next week:
 8/1
 - Look at the new constant contact changes, moved to standard  
 - Make an email blast for the 4 element scorecard specifically
-- Add a link to the patreon on the weekly scorecard
+
 - double check that last invoice was paid
 
 Site went down again on 8/1 -> woopayments was fixed, it seems fine now
