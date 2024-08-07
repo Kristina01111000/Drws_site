@@ -132,6 +132,6 @@ For next week:
 - 
 8/1
 - Look at the new constant contact changes, moved to standard  
-
+- when will the app be ready for testing?
 Site went down again on 8/1 -> woopayments was fixed, it seems fine now
 8/2 GH still works
