@@ -15,7 +15,7 @@ June: 5 hour 0 min -> sent
 
 July: 11 hour 00 min
 
-August: 1 hour 25 min
+August: 1 hour 40 min
 
 plugins im using on site:
 
@@ -132,7 +132,6 @@ For next week:
 - 
 8/1
 - Look at the new constant contact changes, moved to standard  
-- Make an email blast for the 4 element scorecard specifically
 
 - double check that last invoice was paid
 
