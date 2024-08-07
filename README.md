@@ -133,7 +133,5 @@ For next week:
 8/1
 - Look at the new constant contact changes, moved to standard  
 
-- double check that last invoice was paid
-
 Site went down again on 8/1 -> woopayments was fixed, it seems fine now
 8/2 GH still works
