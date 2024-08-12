@@ -120,8 +120,6 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 
 For next week:
 - Retake all quizzes and look for typos
-- On youtube, Titles for quick minutes should be: title | Quick Minute, change it
-
 
 
 
