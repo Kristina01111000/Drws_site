@@ -133,3 +133,9 @@ For next week:
 - when will the app be ready for testing?
 Site went down again on 8/1 -> woopayments was fixed, it seems fine now
 8/2 GH still works
+
+8/8
+Look into automating emails so that the 30 day challenge gets sent to new patients only, so that people don’t get multiples of the same email, set it up for multiple emails
+Make edits to the email about 30 day
+Make a sixth question for nutrition 2
+Go over other quiz questions
