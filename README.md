@@ -9,13 +9,13 @@ March: 10 hour 30 min -> recieved
 
 April: 16 hour 0 min -> recieved
 
-May: 11 hour 30 min -> sent
+May: 11 hour 30 min -> recieved
 
-June: 5 hour 0 min -> sent
+June: 5 hour 0 min -> recieved
 
 July: 11 hour 00 min
 
-August: 2 hour 40 min
+August: 2 hour 45 min
 
 plugins im using on site:
 
