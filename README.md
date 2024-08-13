@@ -122,8 +122,9 @@ For next week:
 - Add links to the patreon on the four element institute site
 -On patreon make the holistic learning program link hot in the pinned post
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
-- check on woocommerce payments plugin, it crashed the site
-- 
+
+
+
 8/1
 - Look at the new constant contact changes, moved to standard  
 - when will the app be ready for testing?
