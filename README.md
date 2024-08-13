@@ -119,10 +119,6 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 
 
 For next week:
-- Retake all quizzes and look for typos
-
-
-
 - Add links to the patreon on the four element institute site
 -On patreon make the holistic learning program link hot in the pinned post
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
