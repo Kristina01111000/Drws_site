@@ -15,7 +15,7 @@ June: 5 hour 0 min -> recieved
 
 July: 11 hour 00 min
 
-August: 2 hour 55 min
+August: 3 hour 0 min
 
 plugins im using on site:
 
@@ -137,3 +137,6 @@ Site went down again on 8/1 -> woopayments was fixed, it seems fine now
 - Make edits to the email about 30 day
 - Make a sixth question for nutrition 2
 - Go over other quiz questions
+
+
+- works after the current update
