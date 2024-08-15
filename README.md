@@ -15,7 +15,7 @@ June: 5 hour 0 min -> recieved
 
 July: 11 hour 00 min
 
-August: 3 hour 10 min
+August: 3 hour 30 min
 
 plugins im using on site:
 
@@ -134,7 +134,6 @@ Site went down again on 8/1 -> woopayments was fixed, it seems fine now
 8/8
 - Look into automating emails so that the 30 day challenge gets sent to new patients only, so that people don’t get multiples of the same email, set it up for multiple emails -> yes it can be
 - 	https://knowledgebase.constantcontact.com/email-digital-marketing/articles/KnowledgeBase/43904-Set-up-an-automated-marketing-journey-for-your-customers?lang=en_US 
-- Make edits to the email about 30 day
 
 
 
