@@ -145,6 +145,5 @@ Site went down again on 8/1 -> woopayments was fixed, it seems fine now
 - On https://growingholistically.com/wellness-check/ make the 3 day challenge link hot 
 - See if i can make the line in the quizzes more distinct so the matching is easier
 - Quiz finished email aren’t sending to me for other people, check that, only get sent if logged in 
-- Do people need to be signed in for quizzes -> No, remove that from the quizzes that have it, check all of them, intro and sturdier do not, 
 - Get rid of all the start the conversations in the images in the lessons
 - Reword sports quiz art balance question, its awkward now
