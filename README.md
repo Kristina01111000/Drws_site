@@ -125,11 +125,8 @@ For next week:
 
 
 
-8/1
-- Look at the new constant contact changes, moved to standard  
-- when will the app be ready for testing?
-Site went down again on 8/1 -> woopayments was fixed, it seems fine now
-8/2 GH still works
+- when will the app be ready for testing? september? maybe
+
 
 8/8
 - Look into automating emails so that the 30 day challenge gets sent to new patients only, so that people don’t get multiples of the same email, set it up for multiple emails -> yes it can be
@@ -137,7 +134,8 @@ Site went down again on 8/1 -> woopayments was fixed, it seems fine now
 
 
 
-- works after the current update
+
+
 8/15
 - Set up an automated email test as an example, make new list for automated emails
 - Brainstorm other email that should be sent to new users, write them -> wellness check email
