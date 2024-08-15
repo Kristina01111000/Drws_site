@@ -144,6 +144,6 @@ Site went down again on 8/1 -> woopayments was fixed, it seems fine now
 - Get the image for the homepage of syracuse natural healing, - email him on tuesday if i don’t have it
 - On https://growingholistically.com/wellness-check/ make the 3 day challenge link hot 
 - See if i can make the line in the quizzes more distinct so the matching is easier
-- Quiz finished email aren’t sending to me for other people, check that, only get sent if logged in 
+- Quiz finished email aren’t sending to me for other people, check that, only get sent if logged in -> see if that is changeable, get emails even when people who aren't signed in take a quiz
 - Get rid of all the start the conversations in the images in the lessons
 - Reword sports quiz art balance question, its awkward now
