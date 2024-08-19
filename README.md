@@ -15,7 +15,7 @@ June: 5 hour 0 min -> recieved
 
 July: 11 hour 00 min
 
-August: 4 hour 55 min
+August: 5 hour 5 min
 
 plugins im using on site:
 
@@ -140,7 +140,6 @@ For next week:
 - Set up an automated email test as an example, make new list for automated emails
 - Brainstorm other email that should be sent to new users
 - Get the image for the homepage of syracuse natural healing, - email him on tuesday if i don’t have it
-- On https://growingholistically.com/wellness-check/ make the 3 day challenge link hot 
 - See if i can make the line in the quizzes more distinct so the matching is easier
 - Quiz finished email aren’t sending to me for other people, check that, only get sent if logged in -> see if that is changeable, get emails even when people who aren't signed in take a quiz
 - Get rid of all the start the conversations in the images in the lessons
