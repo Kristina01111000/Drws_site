@@ -141,3 +141,6 @@ For next week:
 - Quiz finished email aren’t sending to me for other people, check that, only get sent if logged in -> see if that is changeable, get emails even when people who aren't signed in take a quiz
 - Get rid of all the start the conversations in the images in the lessons
 - Reword sports quiz art balance question, its awkward now
+
+
+backed up site before updating
