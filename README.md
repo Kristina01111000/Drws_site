@@ -125,9 +125,6 @@ For next week:
 
 
 
-- when will the app be ready for testing? september? maybe
-
-
 8/8
 - Look into automating emails so that the 30 day challenge gets sent to new patients only, so that people don’t get multiples of the same email, set it up for multiple emails -> yes it can be
 - 	https://knowledgebase.constantcontact.com/email-digital-marketing/articles/KnowledgeBase/43904-Set-up-an-automated-marketing-journey-for-your-customers?lang=en_US 
