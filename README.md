@@ -109,7 +109,6 @@ finish setting up monster insights?
 look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_locale=en_US
 
 6/27
-- Make  a new level for patreon members in PMP backend
 - Add some lesson chats, at least 2 for each level
 - 	6
 - 	7
