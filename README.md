@@ -85,6 +85,7 @@ For Emails:
 
 	- Send emails at 10 am on monday for newsletter
 	- Should focus on things added to the patreon, links and description, recipe?, seasonal blurb, makes sense to send it once a month
+ 	- set up the automated emails, only one per list
 
 
 
