@@ -15,7 +15,7 @@ June: 5 hour 0 min -> recieved
 
 July: 11 hour 00 min -> sent
 
-August: 5 hour 25 min
+August: 5 hour 40 min
 
 plugins im using on site:
 
@@ -132,7 +132,6 @@ For next week:
 
 
 8/15
-- Set up an automated email test as an example, make new list for automated emails
 - Brainstorm other email that should be sent to new users
 - Get the image for the homepage of syracuse natural healing,
 - See if i can make the line in the quizzes more distinct so the matching is easier
