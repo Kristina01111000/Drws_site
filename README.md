@@ -15,7 +15,7 @@ June: 5 hour 0 min -> recieved
 
 July: 11 hour 00 min -> sent
 
-August: 6 hour 20 min
+August: 6 hour 30 min
 
 plugins im using on site:
 
@@ -73,6 +73,7 @@ Notes:
 		- Four for Holistic four element course
 		- Four for Four element doctor
  	- There will be 12 learning program lessons
+  	- to change an edited image, after editing go the the page and replace it with another then switch back
 
 --------------------------------------------------------
 
