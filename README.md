@@ -74,6 +74,7 @@ Notes:
 		- Four for Four element doctor
  	- There will be 12 learning program lessons
   	- to change an edited image, after editing go the the page and replace it with another then switch back
+  	-  Automation for emails:	https://knowledgebase.constantcontact.com/email-digital-marketing/articles/KnowledgeBase/43904-Set-up-an-automated-marketing-journey-for-your-customers?lang=en_US 
 
 --------------------------------------------------------
 
@@ -122,13 +123,6 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 For next week:
 -On patreon make the holistic learning program link hot in the pinned post
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
-
-
-
-8/8
-- Look into automating emails so that the 30 day challenge gets sent to new patients only, so that people don’t get multiples of the same email, set it up for multiple emails -> yes it can be
-- 	https://knowledgebase.constantcontact.com/email-digital-marketing/articles/KnowledgeBase/43904-Set-up-an-automated-marketing-journey-for-your-customers?lang=en_US 
-
 
 8/15
 - Reword sports quiz art balance question, its awkward now
