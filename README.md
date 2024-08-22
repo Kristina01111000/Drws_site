@@ -130,6 +130,17 @@ For next week:
 - 	https://knowledgebase.constantcontact.com/email-digital-marketing/articles/KnowledgeBase/43904-Set-up-an-automated-marketing-journey-for-your-customers?lang=en_US 
 
 
+8/22
+Put up the image in email on syracusenaturalhealing, the second one, 
+Email him when its ready
+Take a new screengrab of the patreon header and put it in the emails on constant contact
+Have the email resend it after 3 days
+Have 2 email lists,everyone added to both have the wellness check send after one day, then after 2 weeks have the 30 day challenge send
+https://syracusenaturalhealing.com/ see if i can stop the sidebar from showing in cellphone view
+Re-add the addition spot on the wellness check “Add up your points and put your score here:   ”  make a little table with number of 1’s, 2’s, 3’s, 4’s, 5’s, try to keep it on 1 page
+Remove the top 2 bottom lines on the wellness check to make space
+Try to add the “If you are a current patient of Dr. Walsdorf, we recommend printing off a copy and bringing it to your next appointment to discuss it with him.” to the bottom
+Email it to him when it is ready
 
 
 
