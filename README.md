@@ -103,7 +103,7 @@ When app is ready:
 - For fourelementinstitute and syracuse natural healing the security plugin caused a lockout again, look into getting a new one
 
 Notes: 
-When people join the patreon: their email gets added to constant contact and we will manually make them an account on GH
+When people join the patreon: their email gets added to constant contact and we will manually make them an account on GH, make 2 lists for the emails to get sent out
 
 
 do the AICSEO for next week
