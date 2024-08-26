@@ -15,7 +15,7 @@ June: 5 hour 0 min -> recieved
 
 July: 11 hour 00 min -> sent
 
-August: 7 hour 35 min
+August: 7 hour 45 min
 
 plugins im using on site:
 
@@ -133,8 +133,6 @@ For next week:
 - Take a new screengrab of the patreon header and put it in the emails on constant contact
 - Have the email resend it after 3 days
 - Have 2 email lists,everyone added to both have the wellness check send after one day, then after 2 weeks have the 30 day challenge send
-- https://syracusenaturalhealing.com/ see if i can stop the sidebar from showing in cellphone view
-- 
 - Re-add the addition spot on the wellness check “Add up your points and put your score here:   ”  make a little table with number of 1’s, 2’s, 3’s, 4’s, 5’s, try to keep it on 1 page
 - Remove the top 2 bottom lines on the wellness check to make space
 - Try to add the “If you are a current patient of Dr. Walsdorf, we recommend printing off a copy and bringing it to your next appointment to discuss it with him.” to the bottom
