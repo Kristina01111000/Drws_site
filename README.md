@@ -105,9 +105,6 @@ When app is ready:
 Notes: 
 When people join the patreon: their email gets added to constant contact and we will manually make them an account on GH, make 2 lists for the emails to get sent out
 
-
-do the AICSEO for next week
-
 finish setting up monster insights?
 look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_locale=en_US
 
@@ -121,7 +118,8 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 
 
 For next week:
--On patreon make the holistic learning program link hot in the pinned post
+
+- On patreon make the holistic learning program link hot in the pinned post
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
 
 8/15
