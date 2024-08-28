@@ -132,5 +132,5 @@ For next week:
 - Have 2 email lists,everyone added to both have the wellness check send after one day, then after 2 weeks have the 30 day challenge send
 
 
-
+- check on the sidebar on syracusenaturalhealing
 
