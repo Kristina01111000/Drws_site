@@ -130,7 +130,6 @@ For next week:
 
 - Have the email resend it after 3 days
 - Have 2 email lists,everyone added to both have the wellness check send after one day, then after 2 weeks have the 30 day challenge send
-- Try to add the “If you are a current patient of Dr. Walsdorf, we recommend printing off a copy and bringing it to your next appointment to discuss it with him.” to the bottom
 
 
 
