@@ -130,3 +130,9 @@ For next week:
 
 - check on the sidebar on syracusenaturalhealing
 
+8/29
+Sports question “Art often focuses on the balancing aspect of water”
+Make the header for the constant contact emails bigger
+Add the new wellness check to the site
+Go over the wellness check email and send a test to Dr. W so he can check it, hopefully send it on tuesday
+
