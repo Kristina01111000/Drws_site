@@ -128,11 +128,9 @@ For next week:
 - Have 2 email lists,everyone added to both have the wellness check send after one day, then after 2 weeks have the 30 day challenge send
 
 
-- check on the sidebar on syracusenaturalhealing
-
 8/29
-Sports question “Art often focuses on the balancing aspect of water”
-Make the header for the constant contact emails bigger
-Add the new wellness check to the site
-Go over the wellness check email and send a test to Dr. W so he can check it, hopefully send it on tuesday
+- Sports question “Art often focuses on the balancing aspect of water”
+- Make the header for the constant contact emails bigger
+- Add the new wellness check to the site
+- Go over the wellness check email and send a test to Dr. W so he can check it, hopefully send it on tuesday
 
