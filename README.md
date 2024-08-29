@@ -15,7 +15,7 @@ June: 5 hour 0 min -> recieved
 
 July: 11 hour 00 min -> sent
 
-August: 8 hour 15 min
+August: 8 hour 25 min
 
 plugins im using on site:
 
@@ -121,10 +121,6 @@ For next week:
 
 - On patreon make the holistic learning program link hot in the pinned post
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
-
-8/15
-- Reword sports quiz art balance question, its awkward now
-
 
 8/22
 
