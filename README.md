@@ -15,7 +15,7 @@ June: 5 hour 0 min -> recieved
 
 July: 11 hour 00 min -> sent
 
-August: 9 hour 45 min
+August: 9 hour 55 min
 
 plugins im using on site:
 
@@ -133,4 +133,5 @@ For next week:
 - Add the new wellness check to the site
 - Go over the wellness check email and send a test to Dr. W so he can check it, hopefully send it on tuesday
 
-wellness check email didny go to yahoo address
+wellness check email didnt go to yahoo address
+sent a real email to see if it worked, and just the test of the email didn't send
