@@ -134,4 +134,4 @@ For next week:
 - Go over the wellness check email and send a test to Dr. W so he can check it, hopefully send it on tuesday
 
 wellness check email didnt go to yahoo address
-sent a real email to see if it worked, and just the test of the email didn't send
+sent a real email to see if it worked, and just the test of the email didn't send, real email went through, test did not
