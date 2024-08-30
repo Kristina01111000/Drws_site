@@ -15,7 +15,7 @@ June: 5 hour 0 min -> recieved
 
 July: 11 hour 00 min -> sent
 
-August: 9 hour 25 min
+August: 9 hour 45 min
 
 plugins im using on site:
 
@@ -130,7 +130,6 @@ For next week:
 
 8/29
 - Sports question “Art often focuses on the balancing aspect of water”
-- Make the header for the constant contact emails bigger
 - Add the new wellness check to the site
 - Go over the wellness check email and send a test to Dr. W so he can check it, hopefully send it on tuesday
 
