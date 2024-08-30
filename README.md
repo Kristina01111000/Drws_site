@@ -133,3 +133,4 @@ For next week:
 - Add the new wellness check to the site
 - Go over the wellness check email and send a test to Dr. W so he can check it, hopefully send it on tuesday
 
+wellness check email didny go to yahoo address
