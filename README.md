@@ -13,7 +13,7 @@ May: 11 hour 30 min -> recieved
 
 June: 5 hour 0 min -> recieved
 
-July: 11 hour 00 min -> sent
+July: 11 hour 00 min -> recieved
 
 August: 9 hour 55 min
 
