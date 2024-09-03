@@ -136,3 +136,4 @@ For next week:
 wellness check email didnt go to yahoo address
 sent a real email to see if it worked, and just the test of the email didn't send, real email went through, test did not
 test out email automation
+need to fix constant contact links to patreon
