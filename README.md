@@ -131,8 +131,6 @@ For next week:
 
 
 8/29
-- Add the new wellness check to the site
-- Go over the wellness check email and send a test to Dr. W so he can check it, hopefully send it on tuesday
 
 wellness check email didnt go to yahoo address
 sent a real email to see if it worked, and just the test of the email didn't send, real email went through, test did not
