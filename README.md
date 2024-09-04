@@ -130,9 +130,6 @@ For next week:
 - Have 2 email lists,everyone added to both have the wellness check send after one day, then after 2 weeks have the 30 day challenge send
 
 
-8/29
-
-wellness check email didnt go to yahoo address
-sent a real email to see if it worked, and just the test of the email didn't send, real email went through, test did not
-test out email automation
-need to fix constant contact links to patreon
+For Emails:
+- test out email automation
+- need to check and fix constant contact links to patreon
