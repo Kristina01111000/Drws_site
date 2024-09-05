@@ -133,3 +133,17 @@ For next week:
 For Emails:
 - test out email automation
 - need to check and fix constant contact links to patreon
+
+- 
+9/5
+Capitalize the elements in the quizzes
+Edit the wellnesscheck so the +’s and = look ok, like the image above
+Put image into wellness check page
+Email him when wellness check page is ready, b/c it would make a good post
+Take patreon mention out of the wellness check email
+Change the email format to the growingholisctically email heading
+
+
+Link to youtube
+Email him link of page when done for confirmation
+Add the other socials to constant contact, instagram = fourelementdoctor, office facebook = university chiropractic
