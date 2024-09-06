@@ -17,7 +17,7 @@ July: 11 hour 00 min -> recieved
 
 August: 9 hour 55 min
 
-September: 1 hour 25 min
+September: 1 hour 40 min
 
 plugins im using on site:
 
@@ -137,7 +137,6 @@ For Emails:
 - 
 9/5
 - Capitalize the elements in the quizzes
-- Put image into wellness check page
 - Email him when wellness check page is ready, b/c it would make a good post
 - Take patreon mention out of the wellness check email
 - Change the email format to the growingholisctically email heading
