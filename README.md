@@ -137,7 +137,6 @@ For Emails:
 - 
 9/5
 - Capitalize the elements in the quizzes
-- Email him when wellness check page is ready, b/c it would make a good post
 - Take patreon mention out of the wellness check email
 - Change the email format to the growingholisctically email heading
 
