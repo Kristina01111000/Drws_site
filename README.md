@@ -140,7 +140,7 @@ For Emails:
 - Take patreon mention out of the wellness check email
 - Change the email format to the growingholisctically email heading
 
-
+- plan for teh emails is to wait a few weeks still :(
 - Link to youtube
 - Email him link of page when done for confirmation
 - Add the other socials to constant contact, instagram = fourelementdoctor, office facebook = university chiropractic
