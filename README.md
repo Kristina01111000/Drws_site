@@ -145,3 +145,4 @@ For Emails:
 - Link to youtube
 - Email him link of page when done for confirmation
 - Add the other socials to constant contact, instagram = fourelementdoctor, office facebook = university chiropractic
+- take a backup then update it
