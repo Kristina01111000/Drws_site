@@ -132,9 +132,7 @@ For next week:
 
 For Emails:
 - test out email automation
-- need to check and fix constant contact links to patreon
 
-- 
 9/5
 
 - Add the other socials to constant contact, instagram = fourelementdoctor, office facebook = university chiropractic -> i cant link facebook or instagram, he has to do that, or give me the passwords so i can do it
