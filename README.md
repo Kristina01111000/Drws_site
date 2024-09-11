@@ -137,3 +137,4 @@ For Emails:
 
 - Add the other socials to constant contact, instagram = fourelementdoctor, office facebook = university chiropractic -> i cant link facebook or instagram, he has to do that, or give me the passwords so i can do it
 - remove tiktok?
+- double check the youtube titles
