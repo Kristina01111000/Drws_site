@@ -17,7 +17,7 @@ July: 11 hour 00 min -> recieved
 
 August: 9 hour 55 min
 
-September: 2 hour 20 min
+September: 2 hour 25 min
 
 plugins im using on site:
 
@@ -136,7 +136,6 @@ For Emails:
 
 - 
 9/5
-- Capitalize the elements in the quizzes
-- 	3
-- Add the other socials to constant contact, instagram = fourelementdoctor, office facebook = university chiropractic -> i cant link facebook or instagram, he has to do that, or give me the passwords so i can do it
 
+- Add the other socials to constant contact, instagram = fourelementdoctor, office facebook = university chiropractic -> i cant link facebook or instagram, he has to do that, or give me the passwords so i can do it
+- remove tiktok?
