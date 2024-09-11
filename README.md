@@ -17,7 +17,7 @@ July: 11 hour 00 min -> recieved
 
 August: 9 hour 55 min
 
-September: 1 hour 55 min
+September: 2 hour 0 min
 
 plugins im using on site:
 
@@ -145,4 +145,4 @@ For Emails:
 - Link to youtube
 - Email him link of page when done for confirmation
 - Add the other socials to constant contact, instagram = fourelementdoctor, office facebook = university chiropractic
-- take a backup then update it
+
