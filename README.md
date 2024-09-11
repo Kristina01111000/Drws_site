@@ -138,8 +138,5 @@ For Emails:
 9/5
 - Capitalize the elements in the quizzes
 - 	3
-- plan for teh emails is to wait a few weeks still :(
-- Link to youtube
-- Email him link of page when done for confirmation
 - Add the other socials to constant contact, instagram = fourelementdoctor, office facebook = university chiropractic -> i cant link facebook or instagram, he has to do that, or give me the passwords so i can do it
 
