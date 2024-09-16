@@ -17,7 +17,7 @@ July: 11 hour 00 min -> recieved
 
 August: 9 hour 55 min
 
-September: 3 hour 10 min
+September: 3 hour 20 min
 
 plugins im using on site:
 
@@ -136,7 +136,6 @@ For Emails:
 9/5
 
 - Add the other socials to constant contact, instagram = fourelementdoctor, office facebook = university chiropractic -> i cant link facebook or instagram, he has to do that, or give me the passwords so i can do it
-- remove tiktok?
 - double check the youtube titles
 
 
@@ -144,4 +143,3 @@ For Emails:
 - Fix the youtube link in the youtube  logo to go to fourelementdoctor
 - see if i can see how many people downloaded the wellness check
 - Email fixes
-- Look at page tracker/ analytics
