@@ -131,7 +131,7 @@ For Emails:
 9/5
 
 - Add the other socials to constant contact, instagram = fourelementdoctor, office facebook = university chiropractic -> i cant link facebook or instagram, he has to do that, or give me the passwords so i can do it
-- double check the youtube titles
+- double check the youtube titles -> i think stephen fixed them
 
 9/12
 - Fix the youtube link in the youtube  logo to go to fourelementdoctor
