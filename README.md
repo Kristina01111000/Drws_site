@@ -117,27 +117,21 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 - 	8
 - 	9
 
-
-
 For next week:
 
 - On patreon make the holistic learning program link hot in the pinned post
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
 
-8/22
-
-- Have the email resend it after 3 days
-- Have 2 email lists,everyone added to both have the wellness check send after one day, then after 2 weeks have the 30 day challenge send
-
 
 For Emails:
 - test out email automation
+- Have the email resend it after 3 days
+- Have 2 email lists,everyone added to both have the wellness check send after one day, then after 2 weeks have the 30 day challenge send
 
 9/5
 
 - Add the other socials to constant contact, instagram = fourelementdoctor, office facebook = university chiropractic -> i cant link facebook or instagram, he has to do that, or give me the passwords so i can do it
 - double check the youtube titles
-
 
 9/12
 - Fix the youtube link in the youtube  logo to go to fourelementdoctor
