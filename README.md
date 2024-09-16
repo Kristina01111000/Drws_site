@@ -138,3 +138,10 @@ For Emails:
 - Add the other socials to constant contact, instagram = fourelementdoctor, office facebook = university chiropractic -> i cant link facebook or instagram, he has to do that, or give me the passwords so i can do it
 - remove tiktok?
 - double check the youtube titles
+
+
+9/12
+- Fix the youtube link in the youtube  logo to go to fourelementdoctor
+- see if i can see how many people downloaded the wellness check
+- Email fixes
+- Look at page tracker/ analytics
