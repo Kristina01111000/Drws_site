@@ -17,7 +17,7 @@ July: 11 hour 00 min -> recieved
 
 August: 9 hour 55 min
 
-September: 3 hour 20 min
+September: 3 hour 30 min
 
 plugins im using on site:
 
@@ -134,6 +134,5 @@ For Emails:
 - double check the youtube titles -> i think stephen fixed them
 
 9/12
-- Fix the youtube link in the youtube  logo to go to fourelementdoctor
 - see if i can see how many people downloaded the wellness check
 - Email fixes
