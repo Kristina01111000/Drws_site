@@ -136,4 +136,4 @@ For Emails:
 9/12
 - see if i can see how many people downloaded the wellness check
 - Email fixes
-- write an email about the pdocast
+- write an email about the pdocast -> go over it with him
