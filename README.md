@@ -136,3 +136,9 @@ For Emails:
 9/12
 
 - write an email about the pdocast -> go over it with him
+
+
+9/19
+- Add youtube account to the list above
+- Make some edits to podcast email?
+- Figure out if social pilot can track analytics for the different social medias
