@@ -130,12 +130,8 @@ For Emails:
 
 9/5
 
-- Add the other socials to constant contact, instagram = fourelementdoctor, office facebook = university chiropractic -> i cant link facebook or instagram, he has to do that, or give me the passwords so i can do it
 - double check the youtube titles -> i think stephen fixed them
 
-9/12
-
-- write an email about the pdocast -> go over it with him
 
 
 9/19
