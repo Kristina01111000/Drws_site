@@ -135,7 +135,6 @@ For Emails:
 
 
 9/19
-- Add youtube account to the list above
-- Make some edits to podcast email?
+- Make some edits to podcast email? clean it up
 - Figure out if social pilot can track analytics for the different social medias
 - Try adding a new email to the sign up, its been a while -> need to double check that constant contact works
