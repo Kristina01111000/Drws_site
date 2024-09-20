@@ -138,4 +138,4 @@ For Emails:
 - Add youtube account to the list above
 - Make some edits to podcast email?
 - Figure out if social pilot can track analytics for the different social medias
-- Try adding a new sign up, its been a while
+- Try adding a new email to the sign up, its been a while -> need to double check that constant contact works
