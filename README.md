@@ -104,9 +104,6 @@ When app is ready:
  
 - For fourelementinstitute and syracuse natural healing the security plugin caused a lockout again, look into getting a new one
 
-Notes: 
-When people join the patreon: their email gets added to constant contact and we will manually make them an account on GH, make 2 lists for the emails to get sent out
-
 finish setting up monster insights?
 look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_locale=en_US
 
