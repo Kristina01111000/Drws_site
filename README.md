@@ -147,3 +147,4 @@ For Emails:
 
 
 - always backup the site before updating
+- send invoice
