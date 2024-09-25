@@ -144,3 +144,6 @@ For Emails:
 - Figure out if social pilot can track analytics for the different social medias
 - Try adding a new email to the sign up, its been a while -> need to double check that constant contact works
 - Look on GH for some other prewritten things that can be used for topics
+
+
+- always backup the site before updating
