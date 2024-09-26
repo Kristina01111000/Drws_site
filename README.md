@@ -17,7 +17,7 @@ July: 11 hour 00 min -> recieved
 
 August: 9 hour 55 min
 
-September: 5 hour 25 min
+September: 5 hour 30 min
 
 plugins im using on site:
 
@@ -145,3 +145,4 @@ For Emails:
 
 - always backup the site before updating
 - send invoice
+- updated
