@@ -143,6 +143,5 @@ For Emails:
 - Look on GH for some other prewritten things that can be used for topics
 
 
-- always backup the site before updating
 - send invoice
 - updated
