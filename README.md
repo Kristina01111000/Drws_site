@@ -19,6 +19,8 @@ August: 9 hour 55 min
 
 September: 6 hour 0 min
 
+October:  15 min
+
 plugins im using on site:
 
 - peepso -> auto updates still not working, caused by something in the backend? still not working the way they should
@@ -145,3 +147,10 @@ For Emails:
 
 - send invoice
 - updated
+
+
+For 10/3:
+For podcast email put their logo in the text below the paragraph about them
+Did you figure out analytics on social pilot? You should be able to track some of them on it
+Label the articles in the social pilot tab
+
