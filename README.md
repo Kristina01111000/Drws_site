@@ -150,7 +150,6 @@ For Emails:
 
 
 For 10/3:
-For podcast email put their logo in the text below the paragraph about them
 Did you figure out analytics on social pilot? You should be able to track some of them on it
 Label the articles in the social pilot tab
 
