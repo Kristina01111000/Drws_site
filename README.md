@@ -138,11 +138,7 @@ For Emails:
 
 
 9/19
-- Make some edits to podcast email? clean it up
-- 	add logo of the podcast to the email -> just a screen grab?
-- Figure out if social pilot can track analytics for the different social medias
 - Try adding a new email to the sign up, its been a while -> need to double check that constant contact works
-- Look on GH for some other prewritten things that can be used for topics
 
 
 - send invoice
