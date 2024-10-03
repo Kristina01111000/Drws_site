@@ -154,3 +154,10 @@ For podcast email put their logo in the text below the paragraph about them
 Did you figure out analytics on social pilot? You should be able to track some of them on it
 Label the articles in the social pilot tab
 
+for 10/10
+Get the new logo and put it on the site -> maybe?
+Get new logos and put on constant contact emails
+If the app works he wants a little community around it, automatically on GH
+Think of having a growing holistically link in the email for wellness check
+Add a click here for podcast to the image of that podcast and put it in the email
+Write a wellness check post and one more for next week
