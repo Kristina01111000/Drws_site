@@ -156,3 +156,6 @@ If the app works he wants a little community around it, automatically on GH
 Think of having a growing holistically link in the email for wellness check
 Add a click here for podcast to the image of that podcast and put it in the email
 Write a wellness check post and one more for next week
+
+
+podcast probably next monday
