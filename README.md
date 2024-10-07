@@ -93,6 +93,13 @@ For Emails:
 	- Should focus on things added to the patreon, links and description, recipe?, seasonal blurb, makes sense to send it once a month
  	- set up the automated emails, only one per list
 
+	- test out email automation
+	- Have the email resend it after 3 days
+	- Have 2 email lists,everyone added to both have the wellness check send after one day, then after 2 weeks have the 30 day challenge send
+	- Send an email every other week with constant contact, so that people’s inboxes don’t get inundated 
+	- With a link or copy of posts from social pilot 
+	- Video would have a link
+	- Text post could stand alone, or have the beginning (read more) and a link to the rest
 
 
 When app is ready:
@@ -122,14 +129,7 @@ For next week:
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
 
 
-For Emails:
-- test out email automation
-- Have the email resend it after 3 days
-- Have 2 email lists,everyone added to both have the wellness check send after one day, then after 2 weeks have the 30 day challenge send
-- Send an email every other week with constant contact, so that people’s inboxes don’t get inundated 
-- With a link or copy of posts from social pilot 
-- Video would have a link
-- Text post could stand alone, or have the beginning (read more) and a link to the rest
+
 
 9/5
 
@@ -142,7 +142,7 @@ For Emails:
 
 
 - send invoice
-- updated
+
 
 
 For 10/3:
