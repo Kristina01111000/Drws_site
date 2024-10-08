@@ -19,7 +19,7 @@ August: 10 hour 0 min -> sent
 
 September: 6 hour 0 min -> sent
 
-October:  50 min
+October:  1 hour 15 min
 
 plugins im using on site:
 
@@ -56,7 +56,6 @@ Notes:
 			- normal pictures can just be put in using image in page builder
 	- in peepso logo height has to be in px, not %
 	- non-members cannot get access to courses, can view the headings 
-		- fixed it in learndash settings, still can't figure out peepso setting
 	- **make sure to use peepso login and log out, not pmp login and logout**
 		- capitalize the element names everywhere
 	- using pixlr for basic photo edits
