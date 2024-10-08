@@ -15,9 +15,9 @@ June: 5 hour 0 min -> recieved
 
 July: 11 hour 00 min -> recieved
 
-August: 10 hour 0 min
+August: 10 hour 0 min -> sent
 
-September: 6 hour 0 min
+September: 6 hour 0 min -> sent
 
 October:  50 min
 
@@ -139,9 +139,6 @@ For next week:
 
 9/19
 - Try adding a new email to the sign up, its been a while -> need to double check that constant contact works
-
-
-- send invoice
 
 
 
