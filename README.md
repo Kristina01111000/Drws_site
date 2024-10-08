@@ -15,11 +15,11 @@ June: 5 hour 0 min -> recieved
 
 July: 11 hour 00 min -> recieved
 
-August: 9 hour 55 min
+August: 10 hour 0 min
 
 September: 6 hour 0 min
 
-October:  55 min
+October:  50 min
 
 plugins im using on site:
 
