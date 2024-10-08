@@ -65,7 +65,6 @@ Notes:
 	- nothing on site can be hidden from administrators
 	- current font sizes should continue on through the site
 	- Manager of youtube now also -> can change/add etc videos and everything
-	- Monthly topics are articles now
 	- page redirect completely turned off
 	- four corners page is a draft now
  	- constant contact test email have the email of the account owner at the bottom, the actual emails don't
@@ -92,7 +91,6 @@ For Emails:
 	- Send emails at 10 am on monday for newsletter
 	- Should focus on things added to the patreon, links and description, recipe?, seasonal blurb, makes sense to send it once a month
  	- set up the automated emails, only one per list
-
 	- test out email automation
 	- Have the email resend it after 3 days
 	- Have 2 email lists,everyone added to both have the wellness check send after one day, then after 2 weeks have the 30 day challenge send
