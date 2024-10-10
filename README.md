@@ -19,7 +19,7 @@ August: 10 hour 0 min -> recieved
 
 September: 6 hour 0 min -> recieved
 
-October:  1 hour 15 min
+October:  1 hour 35 min
 
 plugins im using on site:
 
@@ -153,3 +153,13 @@ for 10/10
 
 
 podcast probably next monday
+
+Wellness check
+Dr. W here, I want to tell you about something useful I provide for free to anyone interested in improving their health.
+It's called the Personal Holistic Wellness Check. It will give you a way to assess how healthy and wholesome your life currently is - and it only takes a couple of minutes to complete! Click here to get the Wellness Check
+If you're interested in learning more of what I offer, click here to see all the holistic videos I've created on YouTube for those who are seeking to rev-up their life with life-positive concepts, nutritional information, and body strengthening exercises.﻿
+Or click here to see everything i have available on patreon
+
+
+4 element self assessment (With image of the assessment and also a hot link to it on GH):
+Are you interested in seeing how the four elements impact your life? Consider trying my 4E Holistic Self Assessment Tool.  It is a quick (5 minute), FREE, & fun way for you to see your unique balance of nature’s four elements! You score each question between 1 and 5 and once completed you will receive a pdf of several graphs showing how the elements balance within you!
