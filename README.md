@@ -163,3 +163,8 @@ Or click here to see everything i have available on patreon
 
 4 element self assessment (With image of the assessment and also a hot link to it on GH):
 Are you interested in seeing how the four elements impact your life? Consider trying my 4E Holistic Self Assessment Tool.  It is a quick (5 minute), FREE, & fun way for you to see your unique balance of nature’s four elements! You score each question between 1 and 5 and once completed you will receive a pdf of several graphs showing how the elements balance within you!
+
+
+
+
+10/10
