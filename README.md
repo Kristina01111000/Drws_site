@@ -169,16 +169,14 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 10/10
 For next week:
-Get the new logo and put it on the site -> maybe? NO
-Get new logos and put on constant contact emails -> hold off, for other emails
-New logos will be used as icons, not be changed on the site
-Add a click here for podcast to the image of that podcast and put it in the email
-Listen to the podcast when it comes out and write a little summary in the email
-On homepage, make the text all be in one column next to the starburst, not in line with it
-In the widget, make the dr w logo be vertically centered, 
-Try making the logo smaller and see how it looks
-On emails, see if i can add sites to the bottom that links to his other sites, next to facebook
-Fix the sizing of the icons in the emails for cellphone view, maybe make the icon not visible in cell phone view
-After meeting: send him email of post text and image of the wellness check and the 40Q
-Try writing a few more posts for him, spices, if emailing put ‘potential social pilot posts’ in subject
-Fix typo in the 40Q question
+- Get new logos and put on constant contact emails -> hold off, for other emails
+- New logos will be used as icons, not be changed on the site
+- Add a click here for podcast to the image of that podcast and put it in the email
+- Listen to the podcast when it comes out and write a little summary in the email
+- On homepage, make the text all be in one column next to the starburst, not in line with it
+- In the widget, make the dr w logo be vertically centered, 
+- Try making the logo smaller and see how it looks
+- On emails, see if i can add sites to the bottom that links to his other sites, next to facebook
+- Fix the sizing of the icons in the emails for cellphone view, maybe make the icon not visible in cell phone view
+- Try writing a few more posts for him, spices, if emailing put ‘potential social pilot posts’ in subject
+- Fix typo in the 40Q question
