@@ -180,3 +180,4 @@ For next week:
 - Fix the sizing of the icons in the emails for cellphone view, maybe make the icon not visible in cell phone view
 - Try writing a few more posts for him, spices, if emailing put ‘potential social pilot posts’ in subject
 - Fix typo in the 40Q question
+- make sure he posted the wellness check post
