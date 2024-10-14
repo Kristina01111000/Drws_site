@@ -181,3 +181,9 @@ For next week:
 - Try writing a few more posts for him, spices, if emailing put ‘potential social pilot posts’ in subject
 - Fix typo in the 40Q question
 - make sure he posted the wellness check post
+
+
+
+
+
+- the podcast came out, make sure email is set
