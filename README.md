@@ -183,4 +183,4 @@ For next week:
 
 
 
-- the podcast came out, make sure email is set
+- the podcast came out, make sure email is set -> waiting on confirmation
