@@ -19,7 +19,7 @@ August: 10 hour 0 min -> recieved
 
 September: 6 hour 0 min -> recieved
 
-October:  2 hour 25 min
+October:  2 hour 55 min
 
 plugins im using on site:
 
@@ -169,7 +169,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 10/10
 For next week:
-- Get new logos and put on constant contact emails -> hold off, for other emails
 - New logos will be used as icons, not be changed on the site
 - Add a click here for podcast to the image of that podcast and put it in the email
 - Listen to the podcast when it comes out and write a little summary in the email
