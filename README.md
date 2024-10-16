@@ -175,6 +175,7 @@ For next week:
 - make sure he posted the wellness check post
 
 go over the three posts
+write mini articles to link to the longer posts?
 
 
 
