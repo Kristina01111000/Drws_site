@@ -19,7 +19,7 @@ August: 10 hour 0 min -> recieved
 
 September: 6 hour 0 min -> recieved
 
-October:  4 hour 25 min
+October:  4 hour 35 min
 
 plugins im using on site:
 
@@ -174,7 +174,7 @@ For next week:
 - Fix typo in the 40Q question
 - make sure he posted the wellness check post
 
-
+go over the three posts
 
 
 
