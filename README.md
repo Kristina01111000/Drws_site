@@ -19,7 +19,7 @@ August: 10 hour 0 min -> recieved
 
 September: 6 hour 0 min -> recieved
 
-October:  4 hour 5 min
+October:  4 hour 25 min
 
 plugins im using on site:
 
@@ -171,7 +171,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 For next week:
 - Listen to the podcast when it comes out and write a little summary in the email
 - On emails, see if i can add sites to the bottom that links to his other sites, next to facebook
-- Try writing a few more posts for him, spices, if emailing put ‘potential social pilot posts’ in subject
 - Fix typo in the 40Q question
 - make sure he posted the wellness check post
 
