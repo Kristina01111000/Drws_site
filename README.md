@@ -19,7 +19,7 @@ August: 10 hour 0 min -> recieved
 
 September: 6 hour 0 min -> recieved
 
-October:  3 hour 25 min
+October:  3 hour 30 min
 
 plugins im using on site:
 
@@ -184,3 +184,4 @@ For next week:
 
 
 - the podcast came out, make sure email is set -> waiting on confirmation
+- make sure he cancelled the sliders
