@@ -19,7 +19,7 @@ August: 10 hour 0 min -> recieved
 
 September: 6 hour 0 min -> recieved
 
-October:  5 hour 20 min
+October:  5 hour 40 min
 
 plugins im using on site:
 
@@ -181,3 +181,16 @@ write mini articles to link to the longer posts?
 
 - the podcast came out, make sure email is set -> waiting on confirmation
 - make sure he cancelled the sliders
+
+
+10/17
+Get the new logo and put it on the site -> for the icon at the top
+Email stephen for it
+Get new logos and put on constant contact emails -> hold off, for other emails
+Take pictures of the 3 articles to be used as a post, make sure the text is a good size, and also will be readable, make pictures smaller, email them to him when they are ready
+Edit the text to mention the learning program, be consistently third person (sr w’s learning program)
+Body awareness
+ https://www.patreon.com/posts/4-element-yoga-90263429?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_linkfree yoga link for the post
+Nutrition
+Great outdoors
+Make sure the link works for nonmembers on patreon
