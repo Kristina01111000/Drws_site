@@ -172,14 +172,12 @@ For next week:
 - Listen to the podcast when it comes out and write a little summary in the email
 - On emails, see if i can add sites to the bottom that links to his other sites, next to facebook
 - Fix typo in the 40Q question
-- make sure he posted the wellness check post
 
 go over the three posts
 write mini articles to link to the longer posts?
 
 
 
-- the podcast came out, make sure email is set -> waiting on confirmation
 - make sure he cancelled the sliders
 
 
