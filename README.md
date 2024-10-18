@@ -169,16 +169,8 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 10/10
 For next week:
-- Listen to the podcast when it comes out and write a little summary in the email
 - On emails, see if i can add sites to the bottom that links to his other sites, next to facebook
 - Fix typo in the 40Q question
-
-go over the three posts
-write mini articles to link to the longer posts?
-
-
-
-- make sure he cancelled the sliders
 
 
 10/17
