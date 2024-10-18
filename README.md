@@ -19,7 +19,7 @@ August: 10 hour 0 min -> recieved
 
 September: 6 hour 0 min -> recieved
 
-October:  5 hour 40 min
+October:  5 hour 45 min
 
 plugins im using on site:
 
@@ -184,8 +184,7 @@ write mini articles to link to the longer posts?
 
 
 10/17
-Get the new logo and put it on the site -> for the icon at the top
-Email stephen for it
+
 Get new logos and put on constant contact emails -> hold off, for other emails
 Take pictures of the 3 articles to be used as a post, make sure the text is a good size, and also will be readable, make pictures smaller, email them to him when they are ready
 Edit the text to mention the learning program, be consistently third person (sr w’s learning program)
