@@ -19,7 +19,7 @@ August: 10 hour 0 min -> recieved
 
 September: 6 hour 0 min -> recieved
 
-October:  5 hour 45 min
+October:  5 hour 50 min
 
 plugins im using on site:
 
@@ -182,3 +182,4 @@ For next week:
 	- Nutrition
 	- Great outdoors
 - Make sure the link works for nonmembers on patreon
+- try it in a post also to see if it looks better
