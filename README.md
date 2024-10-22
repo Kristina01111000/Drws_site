@@ -144,15 +144,9 @@ For 10/3:
 - Label the articles in the social pilot tab
 
 for 10/10
-- Get the new logo and put it on the site -> maybe?
-- Get new logos and put on constant contact emails
 - If the app works he wants a little community around it, automatically on GH
-- Think of having a growing holistically link in the email for wellness check
-- Add a click here for podcast to the image of that podcast and put it in the email
-- Write a wellness check post and one more for next week
 
 
-podcast probably next monday
 
 Wellness check
 Dr. W here, I want to tell you about something useful I provide for free to anyone interested in improving their health.
