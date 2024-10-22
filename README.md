@@ -19,7 +19,7 @@ August: 10 hour 0 min -> recieved
 
 September: 6 hour 0 min -> recieved
 
-October:  6 hour 15 min
+October:  6 hour 20 min
 
 plugins im using on site:
 
@@ -142,10 +142,6 @@ For next week:
 For 10/3:
 - Did you figure out analytics on social pilot? You should be able to track some of them on it
 - Label the articles in the social pilot tab
-
-for 10/10
-- If the app works he wants a little community around it, automatically on GH
-
 
 
 Wellness check
