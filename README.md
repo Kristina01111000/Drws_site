@@ -162,26 +162,22 @@ For next week:
 - On emails, see if i can add sites to the bottom that links to his other sites, next to facebook
 - Fix typo in the 40Q question
 
-
 10/17
 
 - Get new logos and put on constant contact emails -> hold off, for other emails
 
-- try it in a post also to see if it looks better
-
-
 
 10/24
-Make edits to the posts and resend them to him
-Switch all 3 to first person he can decide which he likes better
-Change them so that it says “i recommend taking advantage of my experience” changes like that  ‘my way of engaging’ “my goal is to inspire you to eat healthier”
-On body awareness there is a space between invigorate and to , fix that and retake the image, 
-Add “chiropractor, like myself, ” or a better way of saying that
-Get app file from dr w and see what it looks like, send him comments
-See if i can make the wellness check save the answers when it is downloaded, if i can’t say something like “please download before filling it out, the answers will not be saved”
-Make a wellness check chat like the scorecard chat
-Write an email about the 30 day challenge with a link to the google doc and a download of a pdf, send him a copy of the email when im done, in first person
-On body awareness there is a space between invigorate and to , fix that and retake the image
-Check email with the wellness check, send it on monday 12:15 pm
-All emails are to be sent from GHstaff
-Send it to any list that has patient in the name, 
+
+- Make edits to the posts and resend them to him
+	- Switch all 3 to first person he can decide which he likes better
+	- Change them so that it says “i recommend taking advantage of my experience” changes like that  ‘my way of engaging’ “my goal is to inspire you to eat healthier”
+	- On body awareness there is a space between invigorate and to , fix that and retake the image, 
+	- Add “chiropractor, like myself, ” or a better way of saying that
+- Get app file from dr w and see what it looks like, send him comments
+- See if i can make the wellness check save the answers when it is downloaded, if i can’t say something like “please download before filling it out, the answers will not be saved”
+- Make a wellness check chat like the scorecard chat
+- Write an email about the 30 day challenge with a link to the google doc and a download of a pdf, send him a copy of the email when im done, in first person
+- Check email with the wellness check (links), send it on monday 12:15 pm
+- All emails are to be sent from GHstaff
+- Send it to any list that has patient in the name, 
