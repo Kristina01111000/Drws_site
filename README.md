@@ -178,6 +178,3 @@ For next week:
 - See if i can make the wellness check save the answers when it is downloaded, if i can’t say something like “please download before filling it out, the answers will not be saved”
 - Make a wellness check chat like the scorecard chat
 - Write an email about the 30 day challenge with a link to the google doc and a download of a pdf, send him a copy of the email when im done, in first person
-
-- All emails are to be sent from GHstaff
-- Send it to any list that has patient in the name, 
