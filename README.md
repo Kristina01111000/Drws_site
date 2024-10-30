@@ -171,4 +171,3 @@ For next week:
 
 
 - Get app file from dr w and see what it looks like, send him comments
-- Write an email about the 30 day challenge with a link to the google doc and a download of a pdf, send him a copy of the email when im done, in first person
