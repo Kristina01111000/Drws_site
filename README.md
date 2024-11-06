@@ -21,7 +21,7 @@ September: 6 hour 0 min -> recieved
 
 October:  10 hour 10 min
 
-November:  35 minutes
+November:  40 minutes
 
 plugins im using on site:
 
@@ -173,7 +173,6 @@ For next week:
 - Get app file from dr w and see what it looks like, send him comments
 
 - Write some comments for the wellness check chat
-- Make a new email list with the suspended emails so he can check whos suspended
 - Get body awareness text from dr w
 - Add the new links to the bottom of the emails
 	- GH? YES
