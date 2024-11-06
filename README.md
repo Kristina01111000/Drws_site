@@ -171,11 +171,7 @@ For next week:
 10/31
 
 - Get app file from dr w and see what it looks like, send him comments
-- Make any edits to the posts and resend them to him
-	- Great outdoors -> get rid of the quotes around “this fix”
-	- Remove the third paragraph after the first sentence and add:
-	- So get outside and do something!  Rake those leaves, take a walk, breathe in the cooler Autumn air, and feel the power of Nature entering you!
-	- Send him final copies of posts
+
 - Write some comments for the wellness check chat
 - When is the 30 day challenge email being sent?
 - Make a new email list with the suspended emails so he can check whos suspended
