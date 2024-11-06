@@ -127,23 +127,9 @@ For next week:
 - On patreon make the holistic learning program link hot in the pinned post
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
 
-
-
-
-9/5
-
-- double check the youtube titles -> i think stephen fixed them
-
-
-
 9/19
 - Try adding a new email to the sign up, its been a while -> need to double check that constant contact works
 
-
-
-For 10/3:
-- Did you figure out analytics on social pilot? You should be able to track some of them on it
-- Label the articles in the social pilot tab
 
 
 Wellness check
