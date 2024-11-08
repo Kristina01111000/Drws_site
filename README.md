@@ -145,26 +145,7 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 
 
-10/10
-For next week:
-- On emails, see if i can add sites to the bottom that links to his other sites, next to facebook
-- Fix typo in the 40Q question
 
-10/17
-
-- Get new logos and put on constant contact emails -> hold off, for other emails
-
-10/31
-
-- Get app file from dr w and see what it looks like, send him comments
-
-- Write some comments for the wellness check chat
-- Get body awareness text from dr w
-- Add the new links to the bottom of the emails
-	- GH? YES
-	- Patreon? YES
-	- FourElementDoctor.com YES
-	- Link to your practice site? YES -> homepage
 
 
 
@@ -181,3 +162,8 @@ For next week:
 - Send the 30 day challenge email on monday at 12:15, think about the time -> i set it up
 - Get new photo for syracuse natural healing.com on the site, from dr w, crop it under the wood thing
 - Go over the email blast analytics
+
+- Fix typo in the 40Q question
+- Get app file from dr w and see what it looks like, send him comments
+- Write some comments for the wellness check chat
+- Get body awareness text from dr w
