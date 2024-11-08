@@ -170,14 +170,14 @@ For next week:
 
 
 11/7
-Get reworked body awareness text from him
-Did he post the great outdoors post?
-For great outdoors post switch the first indoor -> indoors , also italicize it
-Switch varieties -> broad range
-Outdoor things -> Outdoor activities
-Add comma after valuable
-Outside italicized
-Send him the new image
-Send the 30 day challenge email on monday at 12:15, think about the time
-Get new photo for syracuse natural healing.com on the site, from dr w, crop it under the wood thing
-Go over the email blast analytics
+- Get reworked body awareness text from him
+- Did he post the great outdoors post?
+	- For great outdoors post switch the first indoor -> indoors , also italicize it
+	- Switch varieties -> broad range
+	- Outdoor things -> Outdoor activities
+	- Add comma after valuable
+	- Outside italicized
+	- Send him the new image
+- Send the 30 day challenge email on monday at 12:15, think about the time -> i set it up
+- Get new photo for syracuse natural healing.com on the site, from dr w, crop it under the wood thing
+- Go over the email blast analytics
