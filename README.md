@@ -159,7 +159,7 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 	- Add comma after valuable
 	- Outside italicized
 	- Send him the new image
-- Send the 30 day challenge email on monday at 12:15, think about the time -> i set it up
+- Send the 30 day challenge email on monday at 12:15, think about the time -> i set it up  ->  it sent, also is veterans day :(
 - Get new photo for syracuse natural healing.com on the site, from dr w, crop it under the wood thing
 - Go over the email blast analytics
 
