@@ -21,7 +21,7 @@ September: 6 hour 0 min -> recieved
 
 October:  10 hour 10 min
 
-November:  1 hour 55 min
+November:  2 hour 15 min
 
 plugins im using on site:
 
@@ -158,7 +158,8 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 	- Outdoor things -> Outdoor activities
 	- Add comma after valuable
 	- Outside italicized
-	- Send him the new image
+	- Send him the new image, multiple copies? so he can pick which is better>=?
+ - look at the facebook group to see if the images look good
 - Send the 30 day challenge email on monday at 12:15, think about the time -> i set it up  ->  it sent, also is veterans day :(
 - Get new photo for syracuse natural healing.com on the site, from dr w, crop it under the wood thing
 - Go over the email blast analytics
