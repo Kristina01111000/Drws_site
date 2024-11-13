@@ -151,8 +151,7 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 
 11/7
-- Did he post the great outdoors post?
-	- For great outdoors post switch the first indoor -> indoors , also italicize it
+-  great outdoors post
 	- Switch varieties -> broad range
 	- Outdoor things -> Outdoor activities
 	- Add comma after valuable
