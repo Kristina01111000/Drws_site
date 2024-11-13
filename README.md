@@ -21,7 +21,7 @@ September: 6 hour 0 min -> recieved
 
 October:  10 hour 10 min
 
-November:  2 hour 40 min
+November:  2 hour 50 min
 
 plugins im using on site:
 
@@ -152,7 +152,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 11/7
  - look at the facebook group to see if the images look good
-- Get new photo for syracuse natural healing.com on the site, from dr w, crop it under the wood thing
 - Fix typo in the 40Q question
 - Get app file from dr w and see what it looks like, send him comments
 - Write some comments for the wellness check chat
