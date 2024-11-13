@@ -152,9 +152,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 11/7
 -  great outdoors post
-	- Switch varieties -> broad range
-	- Outdoor things -> Outdoor activities
-	- Add comma after valuable
 	- Outside italicized
 	- Send him the new image, multiple copies? so he can pick which is better>=?
  - look at the facebook group to see if the images look good
