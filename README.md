@@ -152,10 +152,7 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 11/7
  - look at the facebook group to see if the images look good
-- Send the 30 day challenge email on monday at 12:15, think about the time -> i set it up  ->  it sent, also is veterans day :(
 - Get new photo for syracuse natural healing.com on the site, from dr w, crop it under the wood thing
-- Go over the email blast analytics
-
 - Fix typo in the 40Q question
 - Get app file from dr w and see what it looks like, send him comments
 - Write some comments for the wellness check chat
