@@ -21,7 +21,7 @@ September: 6 hour 0 min -> recieved
 
 October:  10 hour 10 min
 
-November:  2 hour 15 min
+November:  2 hour 25 min
 
 plugins im using on site:
 
@@ -151,7 +151,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 
 11/7
-- Get reworked body awareness text from him
 - Did he post the great outdoors post?
 	- For great outdoors post switch the first indoor -> indoors , also italicize it
 	- Switch varieties -> broad range
