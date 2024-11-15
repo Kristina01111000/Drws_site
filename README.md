@@ -162,16 +162,17 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 
 11/14
-Get reworked body awareness text from him
-Is great outdoors all ready to be posted?
-Make new contact page for link from podcasts? Then make a new list on constant contact that will send an email with a link to a page on GH that has the full pdf on it
+- Get reworked body awareness text from him
+- great outdoors  posted?
+- Make new contact page for link from podcasts? Then make a new list on constant contact that will send an email with a link to a page on GH that has the full pdf on it
  -> Make the email
-I would have it link to a contact page where they enter their email and then we send them the pdf, i can make a group in constant contact and we can set it to send to them automatically when they sign up
-He wants people on the mailing list to get an email that has a link to at GH page
-Link to a page on GH that has the whole book pdf on it, then unpublish the page when enough time has passed
-Hes going to forward me the email from the app people
-See if there is a way to see how many of the pdfs get downloaded
-He might send me more testimonials for syracuse natural healing
-Work on meet dr w link on the syracusenatural healing site
-For that site, a year ago you talked about putting a “meet dr w” link on the sidebar above “make an appointment”, and it would link to an about dr w page. You were thinking about it and wanted me to bring it up again. Is that something you want done?
-He is going to send me something
+ -> Make the page with the download link
+		- I would have it link to a contact page where they enter their email and then we send them the pdf, i can make a group in constant contact and we can set it to send to them automatically when they sign up
+		- He wants people on the mailing list to get an email that has a link to at GH page
+		- Link to a page on GH that has the whole book pdf on it, then unpublish the page when enough time has passed
+- Hes going to forward me the email from the app people 
+- See if there is a way to see how many of the pdfs get downloaded
+- He might send me more testimonials for syracuse natural healing
+- Work on meet dr w link on the syracusenatural healing site
+	- For that site, a year ago you talked about putting a “meet dr w” link on the sidebar above “make an appointment”, and it would link to an about dr w page. You were thinking about it and wanted me to bring it up again. Is that something you want done?
+	- He is going to send me something
