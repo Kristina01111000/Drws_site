@@ -21,7 +21,7 @@ September: 6 hour 0 min -> recieved
 
 October:  10 hour 10 min
 
-November:  4 hour 10 min
+November:  4 hour 20 min
 
 plugins im using on site:
 
@@ -170,7 +170,7 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 		- I would have it link to a contact page where they enter their email and then we send them the pdf, i can make a group in constant contact and we can set it to send to them automatically when they sign up
 		- He wants people on the mailing list to get an email that has a link to at GH page
 		- Link to a page on GH that has the whole book pdf on it, then unpublish the page when enough time has passed
-- Hes going to forward me the email from the app people 
+
 - See if there is a way to see how many of the pdfs get downloaded
 - He might send me more testimonials for syracuse natural healing
 - Work on meet dr w link on the syracusenatural healing site
