@@ -176,3 +176,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 - Work on meet dr w link on the syracusenatural healing site
 	- For that site, a year ago you talked about putting a “meet dr w” link on the sidebar above “make an appointment”, and it would link to an about dr w page. You were thinking about it and wanted me to bring it up again. Is that something you want done?
 	- He is going to send me something
+
+
+- send invoice on monday morning
