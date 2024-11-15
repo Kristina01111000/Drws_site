@@ -163,8 +163,7 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 11/14
 - Get reworked body awareness text from him
-- great outdoors  posted?
-- Make new contact page for link from podcasts? Then make a new list on constant contact that will send an email with a link to a page on GH that has the full pdf on it
+- Make contact page for podcast
  -> Make the email
  -> Make the page with the download link
 		- I would have it link to a contact page where they enter their email and then we send them the pdf, i can make a group in constant contact and we can set it to send to them automatically when they sign up
