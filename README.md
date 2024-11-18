@@ -164,8 +164,7 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 11/14
 - Get reworked body awareness text from him
-- Make contact page for podcast
- -> Make the email
+ -> Make the email for the Dr M podcast
 - See if there is a way to see how many of the pdfs get downloaded
 - He might send me more testimonials for syracuse natural healing
 - Work on meet dr w link on the syracusenatural healing site
