@@ -21,7 +21,7 @@ September: 6 hour 0 min -> recieved
 
 October:  10 hour 10 min
 
-November:  4 hour 35 min
+November:  4 hour 55 min
 
 plugins im using on site:
 
@@ -173,3 +173,7 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 
 - send invoice on monday morning
+
+
+
+- check that the new peepso update thing works
