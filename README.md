@@ -176,4 +176,4 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 
 
-- check that the new peepso update thing works
+- check that the new peepso update thing works, also look into the other plugins being updated
