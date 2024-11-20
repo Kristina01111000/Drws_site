@@ -19,7 +19,7 @@ August: 10 hour 0 min -> recieved
 
 September: 6 hour 0 min -> recieved
 
-October:  10 hour 10 min
+October:  10 hour 15 min
 
 November:  5 hour 10 min
 
@@ -174,6 +174,9 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 - send invoice on monday morning
 
+- Get book for the page, which one should i put on the page for them to download?
+- Look at the page in the email
+- What should be in the email? Look at sample
 
 
 - check that the new peepso update thing works, also look into the other plugins being updated
