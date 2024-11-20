@@ -21,7 +21,7 @@ September: 6 hour 0 min -> recieved
 
 October:  10 hour 15 min
 
-November:  5 hour 15 min
+November:  5 hour 25 min
 
 plugins im using on site:
 
@@ -164,7 +164,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 11/14
 - Get reworked body awareness text from him
- -> Make the email for the Dr M podcast, according to what dr w said
 - See if there is a way to see how many of the pdfs get downloaded
 - He might send me more testimonials for syracuse natural healing
 - Work on meet dr w link on the syracusenatural healing site
@@ -175,7 +174,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 - send invoice on monday morning
 
 - Get book for the page, which one should i put on the page for them to download?
-- What should be in the email? Look at sample
 
 
 - check that the new peepso update thing works, also look into the other plugins being updated
