@@ -146,21 +146,10 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 
 
-
-
-
-
-
-
 11/7
- - look at the facebook group to see if the images look good
 - Fix typo in the 40Q question
 - Get app file from dr w and see what it looks like, send him comments
 - Write some comments for the wellness check chat
-- Get body awareness text from dr w
-
-
-
 
 11/14
 - Get reworked body awareness text from him
