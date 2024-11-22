@@ -167,3 +167,13 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 - check that the new peepso update thing works, also look into the other plugins being updated
 - talk about the change with dr w
+
+
+11/21
+Work up the spices post, with a link to gh for the rest of it
+Double check that the stuff at the bottom of https://growingholistically.com/drmlisteners/ has to be there, try to see if marketing can be changed
+Get book file for the page https://growingholistically.com/here-is-your-copy-of-the-book/ 
+Get reworked body awareness text from him
+Work on meet dr w link on the syracusenaturalhealing.com  site
+For that site, a year ago you talked about putting a “meet dr w” link on the sidebar above “make an appointment”, and it would link to an about dr w page. You were thinking about it and wanted me to bring it up again. Is that something you want done?
+He is going to send me something, or ask about it next week
