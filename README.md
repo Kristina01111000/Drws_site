@@ -177,3 +177,4 @@ Get reworked body awareness text from him
 Work on meet dr w link on the syracusenaturalhealing.com  site
 For that site, a year ago you talked about putting a “meet dr w” link on the sidebar above “make an appointment”, and it would link to an about dr w page. You were thinking about it and wanted me to bring it up again. Is that something you want done?
 He is going to send me something, or ask about it next week
+	- he sent me an email, make those changes
