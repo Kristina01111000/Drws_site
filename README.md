@@ -160,7 +160,7 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 	- He is going to send me something
 
 
-- send invoice on monday morning
+- send invoice in december
 
 - Get book for the page, which one should i put on the page for them to download?
 
