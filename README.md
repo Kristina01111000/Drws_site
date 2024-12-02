@@ -21,7 +21,9 @@ September: 6 hour 0 min -> recieved
 
 October:  10 hour 15 min
 
-November:  6 hour 40 min
+November:  6 hour 45 min
+
+December: 0 min
 
 plugins im using on site:
 
@@ -160,7 +162,7 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 	- He is going to send me something
 
 
-- send invoice in december
+- send invoice tuesday
 
 - Get book for the page, which one should i put on the page for them to download?
 
