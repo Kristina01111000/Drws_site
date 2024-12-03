@@ -173,6 +173,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 11/21
 Work up the spices post, with a link to gh for the rest of it
-Double check that the stuff at the bottom of https://growingholistically.com/drmlisteners/ has to be there, try to see if marketing can be changed
+Double check that the stuff at the bottom of https://growingholistically.com/drmlisteners/ has to be there, try to see if marketing can be changed -> might have been able to change it in account settings page -> to educational emails
 Get book file for the page https://growingholistically.com/here-is-your-copy-of-the-book/ 
 Get reworked body awareness text from him
