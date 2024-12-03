@@ -162,13 +162,12 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 	- He is going to send me something
 
 
-- send invoice tuesday
+- send invoice wednesday morning
 
 - Get book for the page, which one should i put on the page for them to download?
 
 
 - check that the new peepso update thing works, also look into the other plugins being updated, does peepso need to be updated from the update page? or do the plugins need to be updated manually?
-- talk about the change with dr w
 
 
 11/21
