@@ -150,7 +150,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 11/7
 - Fix typo in the 40Q question
-- Get app file from dr w and see what it looks like, send him comments
 - Write some comments for the wellness check chat
 
 11/14
