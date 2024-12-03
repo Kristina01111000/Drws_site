@@ -23,7 +23,7 @@ October:  10 hour 15 min
 
 November:  6 hour 45 min
 
-December: 15 min
+December: 25 min
 
 plugins im using on site:
 
