@@ -19,9 +19,9 @@ August: 10 hour 0 min -> recieved
 
 September: 6 hour 0 min -> recieved
 
-October:  10 hour 15 min
+October:  10 hour 15 min -> sent
 
-November:  6 hour 45 min
+November:  6 hour 45 min -> sent
 
 December: 25 min
 
@@ -160,8 +160,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 	- For that site, a year ago you talked about putting a “meet dr w” link on the sidebar above “make an appointment”, and it would link to an about dr w page. You were thinking about it and wanted me to bring it up again. Is that something you want done?
 	- He is going to send me something
 
-
-- send invoice wednesday morning
 
 - Get book for the page, which one should i put on the page for them to download?
 
