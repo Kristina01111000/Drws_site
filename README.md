@@ -172,3 +172,25 @@ Work up the spices post, with a link to gh for the rest of it
 Double check that the stuff at the bottom of https://growingholistically.com/drmlisteners/ has to be there, try to see if marketing can be changed -> might have been able to change it in account settings page -> to educational emails
 Get book file for the page https://growingholistically.com/here-is-your-copy-of-the-book/ 
 Get reworked body awareness text from him
+
+
+
+12/5
+For next week:
+https://growingholistically.com/Free-E-book   -> make it, send it to him when it is done, 
+add social media icons with the correct links
+Youtube
+ Instagram
+Tiktok
+Facebook 
+Office site 
+drwalsdorf.com 
+Signup link for email list at bottom, for holistic news and 
+Get the ebook from him for freeebook page and and dr m listeners page
+24.Book.pdf 
+Add it to the pages
+Check that in astra if a widget can just show up on the homepage
+Fix about dr w on syracusenaturalhealing so that the text isn’t under the picture in full screen
+Try again to remove the word marketing from the signup page
+Make new pictures for spices post and have a link to the rest, read more from dr w here, try a winky face, read more of dr w’s great insights winky face
+
