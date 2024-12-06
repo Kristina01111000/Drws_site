@@ -194,3 +194,5 @@ Fix about dr w on syracusenaturalhealing so that the text isn’t under the pict
 Try again to remove the word marketing from the signup page
 Make new pictures for spices post and have a link to the rest, read more from dr w here, try a winky face, read more of dr w’s great insights winky face
 
+
+- finish page for signups
