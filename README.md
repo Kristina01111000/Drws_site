@@ -187,7 +187,7 @@ Office site
 drwalsdorf.com 
 Signup link for email list at bottom, for holistic news and 
 Get the ebook from him for freeebook page and and dr m listeners page
-24.Book.pdf 
+24.Book.pdf -> think about a good name for the pdf 
 Add it to the pages
 Check that in astra if a widget can just show up on the homepage
 Fix about dr w on syracusenaturalhealing so that the text isn’t under the picture in full screen
