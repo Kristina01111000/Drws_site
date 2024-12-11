@@ -23,7 +23,7 @@ October:  10 hour 15 min -> sent
 
 November:  6 hour 45 min -> sent
 
-December: 2 hour 20 min
+December: 2 hour 30 min
 
 plugins im using on site:
 
@@ -186,9 +186,8 @@ Facebook
 Office site 
 drwalsdorf.com 
 Signup link for email list at bottom, for holistic news and 
-Get the ebook from him for freeebook page and and dr m listeners page
-24.Book.pdf -> think about a good name for the pdf 
-Add it to the pages
+Get the ebook from him for freeebook page 
+
 Check that in astra if a widget can just show up on the homepage
 Fix about dr w on syracusenaturalhealing so that the text isn’t under the picture in full screen
 Try again to remove the word marketing from the signup page
