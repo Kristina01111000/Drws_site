@@ -23,7 +23,7 @@ October:  10 hour 15 min -> sent
 
 November:  6 hour 45 min -> sent
 
-December: 2 hour 30 min
+December: 3 hour 10 min
 
 plugins im using on site:
 
@@ -177,16 +177,6 @@ Get reworked body awareness text from him
 
 12/5
 For next week:
-https://growingholistically.com/Free-E-book   -> make it, send it to him when it is done, 
-add social media icons with the correct links
-Youtube
- Instagram
-Tiktok
-Facebook 
-Office site 
-drwalsdorf.com 
-Signup link for email list at bottom, for holistic news and 
-Get the ebook from him for freeebook page 
 
 Check that in astra if a widget can just show up on the homepage
 Fix about dr w on syracusenaturalhealing so that the text isn’t under the picture in full screen
