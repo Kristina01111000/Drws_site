@@ -177,3 +177,22 @@ Make new pictures for spices post and have a link to the rest, read more from dr
 
 
 - finish page for signups
+
+
+12/12
+For next week:
+Finalize dr m listeners email -> write the email and talk about it next week
+Make pdf button look better on https://growingholistically.com/Free-E-book/ 
+Put circular logos under the social links to the office site, instead of the current button looking link, try dr walsdorf.com site also  -> done by saturday
+Have office link go to the make an appointment page
+Get the podcast dates and then get the emails set for a blast when they are put up
+Maybe make a page about all of the podcasts so that people can go look at them
+Make it on growingholistically
+Make it on syracusenaturalhealing
+“Podcasts with Dr. W”
+Figure out the best places to link them on the sites
+On syracusenaturalhealing make the spaces between the h3’s smaller
+Add colon after you can email us: , get rid of the at
+Make the space below make an appointment smaller
+Tab in all of the appointment bullets so they are in further
+Try to add a horizontal line below and above about dr w, maybe add a click here
