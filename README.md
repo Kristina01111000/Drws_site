@@ -170,10 +170,7 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 For next week:
 
 Check that in astra if a widget can just show up on the homepage
-Fix about dr w on syracusenaturalhealing so that the text isn’t under the picture in full screen
 Try again to remove the word marketing from the signup page
-Make new pictures for spices post and have a link to the rest, read more from dr w here, try a winky face, read more of dr w’s great insights winky face
-
 
 - finish page for signups
 - Try adding a new email to the sign up, its been a while -> need to double check that constant contact works
