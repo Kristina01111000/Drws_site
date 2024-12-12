@@ -131,8 +131,7 @@ For next week:
 - On patreon make the holistic learning program link hot in the pinned post
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
 
-9/19
-- Try adding a new email to the sign up, its been a while -> need to double check that constant contact works
+
 
 
 
@@ -177,7 +176,7 @@ Make new pictures for spices post and have a link to the rest, read more from dr
 
 
 - finish page for signups
-
+- Try adding a new email to the sign up, its been a while -> need to double check that constant contact works
 
 12/12
 For next week:
