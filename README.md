@@ -149,10 +149,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 	- For that site, a year ago you talked about putting a “meet dr w” link on the sidebar above “make an appointment”, and it would link to an about dr w page. You were thinking about it and wanted me to bring it up again. Is that something you want done?
 	- He is going to send me something
 
-
-- Get book for the page, which one should i put on the page for them to download?
-
-
 - check that the new peepso update thing works, also look into the other plugins being updated, does peepso need to be updated from the update page? or do the plugins need to be updated manually?
 
 
