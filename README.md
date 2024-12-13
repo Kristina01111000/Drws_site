@@ -23,7 +23,7 @@ October:  10 hour 15 min -> sent
 
 November:  6 hour 45 min -> sent
 
-December: 5 hour 5 min
+December: 5 hour 15 min
 
 plugins im using on site:
 
@@ -165,7 +165,6 @@ Try again to remove the word marketing from the signup page
 For next week:
 Finalize dr m listeners email -> write the email and talk about it next week
 Make pdf button look better on https://growingholistically.com/Free-E-book/ 
-Put circular logos under the social links to the office site, instead of the current button looking link, try dr walsdorf.com site also  -> done by saturday
 Have office link go to the make an appointment page
 Get the podcast dates and then get the emails set for a blast when they are put up
 Maybe make a page about all of the podcasts so that people can go look at them
