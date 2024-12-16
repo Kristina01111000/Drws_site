@@ -197,3 +197,8 @@ bdi{
 .hm-header__menu-list  {
     text-align: center;
 }
+
+////// changes the background color of the pdf download button 
+wp-block-file__button{
+	background-color: #5FBC12;
+}
