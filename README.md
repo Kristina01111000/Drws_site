@@ -19,11 +19,11 @@ August: 10 hour 0 min -> recieved
 
 September: 6 hour 0 min -> recieved
 
-October:  10 hour 15 min -> sent
+October:  10 hour 15 min -> recieved
 
-November:  6 hour 45 min -> sent
+November:  6 hour 45 min -> recieved
 
-December: 5 hour 15 min
+December: 5 hour 20 min
 
 plugins im using on site:
 
