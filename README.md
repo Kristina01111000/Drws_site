@@ -155,7 +155,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 12/5
 For next week:
 
-Check that in astra if a widget can just show up on the homepage
 Try again to remove the word marketing from the signup page
 
 - finish page for signups
