@@ -159,16 +159,3 @@ Try again to remove the word marketing from the signup page
 
 - finish page for signups
 - Try adding a new email to the sign up, its been a while -> need to double check that constant contact works
-
-12/12
-For next week:
-- Maybe make a page about all of the podcasts so that people can go look at them
-- Make it on growingholistically
-- Make it on syracusenaturalhealing
-- “Podcasts with Dr. W”
-- Figure out the best places to link them on the sites
-- On syracusenaturalhealing make the spaces between the h3’s smaller
-- Add colon after you can email us: , get rid of the at
-- Make the space below make an appointment smaller
-- Tab in all of the appointment bullets so they are in further
-- Try to add a horizontal line below and above about dr w, maybe add a click here
