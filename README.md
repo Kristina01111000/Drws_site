@@ -23,7 +23,7 @@ October:  10 hour 15 min -> recieved
 
 November:  6 hour 45 min -> recieved
 
-December: 5 hour 45 min
+December: 6 hour 10 min
 
 plugins im using on site:
 
@@ -162,8 +162,6 @@ Try again to remove the word marketing from the signup page
 
 12/12
 For next week:
-- Finalize dr m listeners email -> write the email and talk about it next week
-- Get the podcast dates and then get the emails set for a blast when they are put up
 - Maybe make a page about all of the podcasts so that people can go look at them
 - Make it on growingholistically
 - Make it on syracusenaturalhealing
