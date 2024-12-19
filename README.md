@@ -23,7 +23,7 @@ October:  10 hour 15 min -> recieved
 
 November:  6 hour 45 min -> recieved
 
-December: 7 hour 55 min
+December: 8 hour 5 min
 
 plugins im using on site:
 
@@ -164,13 +164,12 @@ Try again to remove the word marketing from the signup page
 
 
 12/19
-Connect the dr m listeners email to the GH site sign up
-Won’t know podcast dates until they come out
-See how to enforce only giving out 25 copies of the book to dr m listeners
-Make a page for jorni listeners
-Susan robbins podcast also -> 
-Put logos of the podcasts next to the links on podcast page
+- Connect the dr m listeners email to the GH site sign up
+- Won’t know podcast dates until they come out
+- See how to enforce only giving out 25 copies of the book to dr m listeners
+- Make an email for jorni listeners and susan robbins listeners
+- Put logos of the podcasts next to the links on podcast page
 
 
-See if there is a way to freeze the size of the sidebar on syracusenaturalhealing
-He needs the link for jorni podcast and susan robbins one today
+- See if there is a way to freeze the size of the sidebar on syracusenaturalhealing
+
