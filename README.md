@@ -168,12 +168,8 @@ Connect the dr m listeners email to the GH site sign up
 Won’t know podcast dates until they come out
 See how to enforce only giving out 25 copies of the book to dr m listeners
 Make a page for jorni listeners
-Make an email list for jorni listeners
-Make an email for jorni listeners
 Susan robbins podcast also -> 
-Need link for susan robbins podcast also
 Put logos of the podcasts next to the links on podcast page
-https://healthyawakening.co/podcast
 
 
 See if there is a way to freeze the size of the sidebar on syracusenaturalhealing
