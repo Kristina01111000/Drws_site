@@ -154,9 +154,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 12/5
 For next week:
-
-Try again to remove the word marketing from the signup page
-
 - finish page for signups
 - Try adding a new email to the sign up, its been a while -> need to double check that constant contact works
 
