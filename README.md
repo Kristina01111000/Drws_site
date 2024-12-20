@@ -23,7 +23,7 @@ October:  10 hour 15 min -> recieved
 
 November:  6 hour 45 min -> recieved
 
-December: 8 hour 5 min
+December: 8 hour 10 min
 
 plugins im using on site:
 
@@ -163,10 +163,11 @@ For next week:
 12/19
 - Connect the dr m listeners email to the GH site sign up
 - Connect the jorni listeners email to the GH site sign up
+- 	correct the spelling of jorni in the email, need the o symbol
 - Connect the susan robbins listeners email to the GH site sign up
 - Won’t know podcast dates until they come out
 - See how to enforce only giving out 25 copies of the book to dr m listeners
-- Make an email for jorni listeners and susan robbins listeners
+
 - Put logos of the podcasts next to the links on podcast page
 
 
