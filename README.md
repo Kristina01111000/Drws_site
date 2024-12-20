@@ -162,6 +162,8 @@ For next week:
 
 12/19
 - Connect the dr m listeners email to the GH site sign up
+- Connect the jorni listeners email to the GH site sign up
+- Connect the susan robbins listeners email to the GH site sign up
 - Won’t know podcast dates until they come out
 - See how to enforce only giving out 25 copies of the book to dr m listeners
 - Make an email for jorni listeners and susan robbins listeners
@@ -169,4 +171,5 @@ For next week:
 
 
 - See if there is a way to freeze the size of the sidebar on syracusenaturalhealing
+
 
