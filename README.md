@@ -173,4 +173,4 @@ For next week:
 
 - See if there is a way to freeze the size of the sidebar on syracusenaturalhealing
 
-
+- make sure that the emails send when connected
