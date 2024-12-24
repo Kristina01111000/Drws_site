@@ -23,7 +23,7 @@ October:  10 hour 15 min -> recieved
 
 November:  6 hour 45 min -> recieved
 
-December: 8 hour 10 min
+December: 8 hour 20 min
 
 plugins im using on site:
 
@@ -171,6 +171,5 @@ For next week:
 - Put logos of the podcasts next to the links on podcast page
 
 
-- See if there is a way to freeze the size of the sidebar on syracusenaturalhealing
 
 - make sure that the emails send when connected
