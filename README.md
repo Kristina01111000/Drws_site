@@ -173,3 +173,4 @@ For next week:
 
 
 - make sure that the emails send when connected
+- jorni podcast tomorrow
