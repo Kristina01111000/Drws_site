@@ -23,7 +23,7 @@ October:  10 hour 15 min -> recieved
 
 November:  6 hour 45 min -> recieved
 
-December: 9 hour 20 min
+December: 9 hour 30 min
 
 plugins im using on site:
 
@@ -174,3 +174,4 @@ For next week:
 
 - make sure that the emails send when connected
 - jorni podcast tomorrow
+- jorni listeners connects to the list
