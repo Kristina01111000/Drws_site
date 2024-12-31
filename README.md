@@ -175,3 +175,4 @@ For next week:
 - make sure that the emails send when connected
 - jorni podcast tomorrow
 - jorni listeners connects to the list
+- jorni listeners email sends out about 3 minutes after sign-up
