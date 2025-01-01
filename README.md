@@ -152,18 +152,12 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 - check that the new peepso update thing works, also look into the other plugins being updated, does peepso need to be updated from the update page? or do the plugins need to be updated manually?
 
 
-12/5
-For next week:
-- finish page for signups
-- Try adding a new email to the sign up, its been a while -> need to double check that constant contact works
 
 
 
 
 12/19
 - Connect the dr m listeners email to the GH site sign up
-- Connect the jorni listeners email to the GH site sign up
-- 	correct the spelling of jorni in the email, need the o symbol
 - Connect the susan robbins listeners email to the GH site sign up
 - Won’t know podcast dates until they come out
 - See how to enforce only giving out 25 copies of the book to dr m listeners
