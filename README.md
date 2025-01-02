@@ -162,8 +162,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 - Connect the dr m listeners email to the GH site sign up
 - Connect the susan robbins listeners email to the GH site sign up
 - Won’t know podcast dates until they come out
-- See how to enforce only giving out 25 copies of the book to dr m listeners
-
 - Put logos of the podcasts next to the links on podcast page
 
 
