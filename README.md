@@ -166,8 +166,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 
 
-- make sure that the emails send when connected
-- jorni podcast tomorrow
-- jorni listeners connects to the list
-- jorni listeners email sends out about 3 minutes after sign-up
-- need to prepare an email to send out after the jorni podcast is put up
+
+
+- send invoice
