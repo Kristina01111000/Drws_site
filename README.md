@@ -145,13 +145,11 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 11/14
 - Get reworked body awareness text from him
-- See if there is a way to see how many of the pdfs get downloaded
 - He might send me more testimonials for syracuse natural healing
 - Work on meet dr w link on the syracusenatural healing site
 	- For that site, a year ago you talked about putting a “meet dr w” link on the sidebar above “make an appointment”, and it would link to an about dr w page. You were thinking about it and wanted me to bring it up again. Is that something you want done?
 	- He is going to send me something
 
-- check that the new peepso update thing works, also look into the other plugins being updated, does peepso need to be updated from the update page? or do the plugins need to be updated manually?
 
 
 
@@ -180,5 +178,5 @@ Get all the susan robbins stuff ready
 	Email list
 	Page
 	Email itself
-Set up the email automation
+	Set up the email automation
 
