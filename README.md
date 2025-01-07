@@ -169,3 +169,17 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 
 - send invoice
+
+for next week:
+
+Make the spices post an email and make it look good -> plan on sending in mid january
+Check how many people went to the sign up page, how many downloaded from jorni podcast
+Get all the susan robbins stuff ready
+	Double check that they link stuff like that, 
+	email her podcast with a cc to drw, 
+	Check jorni’s also to make sure everything is in the email
+	Email list
+	Page
+	Email itself
+Set up the email automation
+
