@@ -25,7 +25,7 @@ November:  6 hour 45 min -> recieved
 
 December: 9 hour 30 min
 
-January 2025: 2 hour 40 min
+January 2025: 3 hour 0 min
 
 plugins im using on site:
 
@@ -148,12 +148,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 - He might send me more testimonials for syracuse natural healing
 
 
-
-
-
-
-
-
 12/19
 - Connect the dr m listeners email to the GH site sign up
 - Put logos of the podcasts next to the links on podcast page
@@ -165,8 +159,5 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 - send invoice
 
 for next week:
-
-Make the spices post an email and make it look good -> plan on sending in mid january
-Check how many people went to the sign up page, how many downloaded from jorni podcast
 
 
