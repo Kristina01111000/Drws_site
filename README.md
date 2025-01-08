@@ -25,7 +25,7 @@ November:  6 hour 45 min -> recieved
 
 December: 9 hour 30 min
 
-January 2025: 1 hour 50 min
+January 2025: 2 hour 20 min
 
 plugins im using on site:
 
@@ -172,9 +172,4 @@ Make the spices post an email and make it look good -> plan on sending in mid ja
 Check how many people went to the sign up page, how many downloaded from jorni podcast
 Get all the susan robbins stuff ready
 	email her podcast with a cc to drw, 
-	Check jorni’s also to make sure everything is in the email
-	Email list
-	Page
-	Email itself
-	Set up the email automation
 
