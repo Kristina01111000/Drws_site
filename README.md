@@ -161,3 +161,5 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 for next week:
 
 
+- set up email to send around 11 on monday
+- email diane about it, after it goes, or before?
