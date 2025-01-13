@@ -167,5 +167,4 @@ for next week:
 - Make a note of what the weather is like when i send it
 - Add a white part around the become the best you can be , so it looks better
 - Take a screen shot of dark mode of the email and send it to him
-- Send diane the image of the spices post and the link to the page for the rest, suggest that she adds a section saying “if your interested in learning more check out the full article at dr w’s community page on growing holistically”
 - Add gh to the bottom of the email, in the links section
