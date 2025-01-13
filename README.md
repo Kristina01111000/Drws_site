@@ -164,7 +164,6 @@ for next week:
 - Add part of book to the freebies section
 - Write an email for patients about susan robbins podcast and send it when it is up
 - Send spices email on monday, send at 11 am
-- Make a note of what the weather is like when i send it
 - Add a white part around the become the best you can be , so it looks better
 - Take a screen shot of dark mode of the email and send it to him
 - Add gh to the bottom of the email, in the links section
