@@ -162,7 +162,6 @@ for next week:
 
 
 - Add part of book to the freebies section
-- Talk to diane so the emails and posts are matching
 - Write an email for patients about susan robbins podcast and send it when it is up
 - Send spices email on monday, send at 11 am
 - Make a note of what the weather is like when i send it
