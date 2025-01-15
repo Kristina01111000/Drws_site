@@ -163,5 +163,4 @@ for next week:
 
 - Add part of book to the freebies section
 - Write an email for patients about susan robbins podcast and send it when it is up
-- Add gh to the bottom of the email, in the links section
 - remember to talk about tik tok ban
