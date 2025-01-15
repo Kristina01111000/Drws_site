@@ -25,7 +25,7 @@ November:  6 hour 45 min -> recieved
 
 December: 9 hour 30 min
 
-January 2025: 4 hour 35 min
+January 2025: 5 hour 35 min
 
 plugins im using on site:
 
@@ -163,6 +163,5 @@ for next week:
 
 - Add part of book to the freebies section
 - Write an email for patients about susan robbins podcast and send it when it is up
-- Add a white part around the become the best you can be , so it looks better
 - Take a screen shot of dark mode of the email and send it to him
 - Add gh to the bottom of the email, in the links section
