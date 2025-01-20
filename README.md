@@ -25,7 +25,7 @@ November:  6 hour 45 min -> recieved
 
 December: 9 hour 30 min
 
-January 2025: 7 hour 10 min
+January 2025: 7 hour 30 min
 
 plugins im using on site:
 
@@ -162,5 +162,4 @@ for next week:
 
 
 - Add part of book to the freebies section
-- Write an email for patients about susan robbins podcast and send it when it is up
 - remember to talk about tik tok ban
