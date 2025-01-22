@@ -162,4 +162,14 @@ for next week:
 
 
 - Add part of book to the freebies section
-- remember to talk about tik tok ban
+
+- Figure out how to work the folders in constant contact, make it less confusing
+- Try on GH logo for emails making background light grey, try making it light green, and round the corners, make multiples to go over next week, extend the white space also in the beginning and the end, make 3, also show in light mode
+- Add drwalsdorf.com to the bottom of the emails
+- Think about what logo should be at the top of the emails, maybe four element doctor logo? Dr walsdorf.com?
+- Get the dr walsdorf.com logo from stephen -> thinking of using the logo with our emails, test it with the spices email
+- On constant contact add all the patients to one list, and also keep the original lists
+- For the freebies section, he's going to give me access to the newest version of the book, take the first chapter, or the first 5ish pages, look and see what makes the most sense
+- Check to see if anyone has taken the 30 day challenge download
+- Send susan robbins email on monday @11ish (martin luther king day) , link to her site and also the youtube channel
+
