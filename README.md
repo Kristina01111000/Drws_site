@@ -173,3 +173,18 @@ for next week:
 - Check to see if anyone has taken the 30 day challenge download
 - Send susan robbins email on monday @11ish (martin luther king day) , link to her site and also the youtube channel
 
+
+
+
+  1/23/25
+Figure out how to work the folders in constant contact, make it less confusing
+On constant contact add all the patients to one list, and also keep the original lists
+For the freebies section, he's going to give me access to the newest version of the book, take the first chapter, or the first 5ish pages, look and see what makes the most sense
+Check to see if anyone has taken the 30 day challenge download
+Need the first 5ish pages of your newest version of the book for the freebies section
+Try the picture icon of dr w for the emails
+https://assets.adobe.com/id/urn:aaid:sc:US:96be042d-3a77-4357-9745-224056aa20a5?view=published#
+Add the four element doctor below, cut and paste the image
+Also try: a wider logo that is the circle with the four element doctor to the right bigger?
+Also try making the background black to see if it looks bettter
+Get body awareness post ready for next week
