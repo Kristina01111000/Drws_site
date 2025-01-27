@@ -178,6 +178,7 @@ for next week:
 - On constant contact add all the patients to one list, and also keep the original lists
 - For the freebies section, he's going to give me access to the newest version of the book, take the first chapter, or the first 5ish pages, look and see what makes the most sense
 - Add part of book to the freebies section
+- 	on site, needs a page to be made and also added to it
 - Check to see if anyone has taken the 30 day challenge download
 - Try the picture icon of dr w for the emails
 - https://assets.adobe.com/id/urn:aaid:sc:US:96be042d-3a77-4357-9745-224056aa20a5?view=published#
