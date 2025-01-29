@@ -176,9 +176,4 @@ for next week:
 - On constant contact add all the patients to one list, and also keep the original lists
 
 - Check to see if anyone has taken the 30 day challenge download
-- Try the picture icon of dr w for the emails
-- https://assets.adobe.com/id/urn:aaid:sc:US:96be042d-3a77-4357-9745-224056aa20a5?view=published#
-- Add the four element doctor below, cut and paste the image
-- Also try: a wider logo that is the circle with the four element doctor to the right bigger?
-- Also try making the background black to see if it looks bettter
 - Get body awareness post ready for next week
