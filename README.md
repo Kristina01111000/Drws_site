@@ -25,7 +25,7 @@ November:  6 hour 45 min -> recieved
 
 December: 9 hour 30 min
 
-January 2025: 8 hour 45 min
+January 2025: 9 hour 0 min
 
 plugins im using on site:
 
@@ -176,9 +176,7 @@ for next week:
   1/23/25
 - Figure out how to work the folders in constant contact, make it less confusing
 - On constant contact add all the patients to one list, and also keep the original lists
-- For the freebies section, he's going to give me access to the newest version of the book, take the first chapter, or the first 5ish pages, look and see what makes the most sense
-- Add part of book to the freebies section
-- 	on site, needs a page to be made and also added to it
+
 - Check to see if anyone has taken the 30 day challenge download
 - Try the picture icon of dr w for the emails
 - https://assets.adobe.com/id/urn:aaid:sc:US:96be042d-3a77-4357-9745-224056aa20a5?view=published#
