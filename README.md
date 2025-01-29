@@ -25,7 +25,7 @@ November:  6 hour 45 min -> recieved
 
 December: 9 hour 30 min
 
-January 2025: 9 hour 0 min
+January 2025: 9 hour 5 min
 
 plugins im using on site:
 
@@ -174,7 +174,7 @@ for next week:
 
 
   1/23/25
-- Figure out how to work the folders in constant contact, make it less confusing
+- Figure out how to work the folders in constant contact, make it less confusing, figure out where archived emails go
 - On constant contact add all the patients to one list, and also keep the original lists
 
 - Check to see if anyone has taken the 30 day challenge download
