@@ -205,3 +205,8 @@ Email stephen and get the font from him, or ask him to make it
 Change the text of the body awareness at the bottom to “that’s why i created four element yoga, to help improve body awareness, because it was developed by a chiropractor like myself it will also introduce to new ways to appreciate your body”
 Remove the last line
 Look for a new picture
+
+
+
+
+- no meeting this week or next week, he is on a trip
