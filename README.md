@@ -27,6 +27,8 @@ December: 9 hour 30 min
 
 January 2025: 10 hour 45 min
 
+February: 15 min
+
 plugins im using on site:
 
 - peepso -> auto updates still not working, caused by something in the backend? still not working the way they should
@@ -160,11 +162,7 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 for next week:
 
-
-
-
-- Add drwalsdorf.com to the bottom of the emails, swithc from syrhol?
-- On constant contact add all the patients to one list, and also keep the original lists
+- Add drwalsdorf.com to the bottom of the emails, switch from syrhol?
 - For the freebies section, he's going to give me access to the newest version of the book, take the first chapter, or the first 5ish pages, look and see what makes the most sense
 - Check to see if anyone has taken the 30 day challenge download
 
