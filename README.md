@@ -200,6 +200,7 @@ He will send me a new copy of the book with the new cover, put it on  https://gr
 When i get the new file have the cover, the copyright page, the preface, the table of contents, then the preface, and all of chapter one of the book
 Make the book sample file longer, so it doesn’t need to scroll on desktop
 Email stephen and get the font from him, or ask him to make it
+body awareness post:
 Change the text of the body awareness at the bottom to “that’s why i created four element yoga, to help improve body awareness, because it was developed by a chiropractor like myself it will also introduce to new ways to appreciate your body”
 Remove the last line
 Look for a new picture
