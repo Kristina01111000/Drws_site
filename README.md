@@ -27,7 +27,7 @@ December: 9 hour 30 min
 
 January 2025: 10 hour 45 min
 
-February: 15 min
+February: 50 min
 
 plugins im using on site:
 
@@ -202,9 +202,7 @@ For next week:
 - Email stephen and get the font from him, or ask him to make it
 - 
 body awareness post:
-- Change the text of the body awareness at the bottom to “that’s why i created four element yoga, to help improve body awareness, because it was developed by a chiropractor like myself it will also introduce to new ways to appreciate your body”
-- Remove the last line
-- Look for a new picture
+- sent him the most current version of the email
 
 
 
