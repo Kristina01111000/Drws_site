@@ -145,20 +145,12 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 - Fix typo in the 40Q question
 - Write some comments for the wellness check chat
 
-11/14
-- Get reworked body awareness text from him
-- He might send me more testimonials for syracuse natural healing
-
-
 12/19
 - Connect the dr m listeners email to the GH site sign up
 - Put logos of the podcasts next to the links on podcast page
 
 
-
-
-
-- send invoice
+- send invoice on thursday afternoon
 
 for next week:
 
