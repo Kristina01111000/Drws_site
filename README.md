@@ -171,10 +171,6 @@ for next week:
 
   1/23/25
 - Figure out how to work the folders in constant contact, make it less confusing, figure out where archived emails go
-- On constant contact add all the patients to one list, and also keep the original lists
-
-- Check to see if anyone has taken the 30 day challenge download
-- Get body awareness post ready for next week
 
 
 1/30
