@@ -190,7 +190,7 @@ For next week:
 - Email stephen and get the font from him, or ask him to make it
 - 
 body awareness post:
-- sent him the most current version of the email
+- sent him the most current version of the email, no response yet
 
 
 
