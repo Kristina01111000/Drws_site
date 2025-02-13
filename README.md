@@ -167,12 +167,11 @@ for next week:
 
 1/30
 For next week:
-- Add partial book page to the freebies menu
-- Switch the book file in the pdf copy in woocommerce when i get it, he is not selling the old one anymore, i will get in in about 3 weeks
+
 - Think about making the peepso site need people to join for $, not yet but maybe in the future, don’t do it until i get the green light from him
-- Will need to setup the payments
-- Will need to add the lessons
-- Will need to make groups 
+	- Will need to setup the payments
+	- Will need to add the lessons
+	- Will need to make groups 
 - Switch all 30 day challenge to “try the holistic balance tabulator app”
 	- Switch all pages
 	- Switch all menus
@@ -183,12 +182,8 @@ For next week:
 - Make the columns on https://growingholistically.com/the-four-element-scorecard/ match the columns above
 - Remove the 30 day challenge from freebies menu
 - https://growingholistically.com/the-four-element-scorecard/ add padding on the video for bigger screens, not small ones
-- On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ add what he is going to send me, add the tabulator to the page
-- He will send me a new copy of the book with the new cover, put it on  https://growingholistically.com/free-book-sample/ 
-- When i get the new file have the cover, the copyright page, the preface, the table of contents, then the preface, and all of chapter one of the book
-- Make the book sample file longer, so it doesn’t need to scroll on desktop
 - Email stephen and get the font from him, or ask him to make it
-- 
+  
 body awareness post:
 - sent him the most current version of the email, no response yet
 
@@ -196,3 +191,13 @@ body awareness post:
 
 
 - no meeting this week or next week, he is on a trip
+
+
+When i get the newest version of the book
+- He will send me a new copy of the book with the new cover, put it on  https://growingholistically.com/free-book-sample/ 
+- Add partial book page to the freebies menu
+- Switch the book file in the pdf copy in woocommerce when i get it, he is not selling the old one anymore, i will get in in about 3 weeks
+- When i get the new file have the cover, the copyright page, the preface, the table of contents, then the preface, and all of chapter one of the book
+- Make the book sample file longer, so it doesn’t need to scroll on desktop
+
+- On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ add what he is going to send me, add the tabulator to the page
