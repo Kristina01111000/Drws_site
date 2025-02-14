@@ -27,7 +27,7 @@ December: 9 hour 30 min
 
 January 2025: 10 hour 45 min
 
-February: 50 min
+February: 1 hour 0 min
 
 plugins im using on site:
 
@@ -188,10 +188,7 @@ body awareness post:
 - sent him the most current version of the email, no response yet
 
 
-
-
-- no meeting this week or next week, he is on a trip
-
+- airplane problems, send him the invoice on monday / tuesday
 
 When i get the newest version of the book
 - He will send me a new copy of the book with the new cover, put it on  https://growingholistically.com/free-book-sample/ 
