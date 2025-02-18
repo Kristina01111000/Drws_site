@@ -182,9 +182,9 @@ For next week:
 - Make the columns on https://growingholistically.com/the-four-element-scorecard/ match the columns above
 - Remove the 30 day challenge from freebies menu
 - https://growingholistically.com/the-four-element-scorecard/ add padding on the video for bigger screens, not small ones
-- Email stephen and get the font from him, or ask him to make it
+
   
-body awareness post:
+body awareness post email:
 - sent him the most current version of the email, no response yet
 
 
