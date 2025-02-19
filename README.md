@@ -27,7 +27,7 @@ December: 9 hour 30 min -> sent
 
 January 2025: 10 hour 45 min -> sent
 
-February: 1 hour 35 min
+February: 1 hour 40 min
 
 plugins im using on site:
 
@@ -178,7 +178,6 @@ For next week:
 	- Check on the other sites to make sure they are correct
 	- Brainstorm potential other names 
 - Remove the 30 day challenge from freebies menu?
-- https://growingholistically.com/the-four-element-scorecard/ add padding on the video for bigger screens, not small ones
 
   
 body awareness post email:
