@@ -27,7 +27,7 @@ December: 9 hour 30 min -> sent
 
 January 2025: 10 hour 45 min -> sent
 
-February: 1 hour 0 min
+February: 1 hour 20 min
 
 plugins im using on site:
 
@@ -177,9 +177,6 @@ For next week:
 	- Switch all menus
 	- Check on the other sites to make sure they are correct
 	- Brainstorm potential other names 
-- Make sure the google doc is ok for people to use, looks good, instructions clear
-- On https://growingholistically.com/join/ make the columns match up
-- Make the columns on https://growingholistically.com/the-four-element-scorecard/ match the columns above
 - Remove the 30 day challenge from freebies menu
 - https://growingholistically.com/the-four-element-scorecard/ add padding on the video for bigger screens, not small ones
 
