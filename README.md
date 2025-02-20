@@ -150,15 +150,10 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 - Put logos of the podcasts next to the links on podcast page
 
 
-- send invoice on thursday afternoon
-
 for next week:
 
-- Add drwalsdorf.com to the bottom of the emails, switch from syrhol?
 - For the freebies section, he's going to give me access to the newest version of the book, take the first chapter, or the first 5ish pages, look and see what makes the most sense
 - Check to see if anyone has taken the 30 day challenge download
-
-
 
 
   1/23/25
@@ -180,10 +175,6 @@ For next week:
 - Remove the 30 day challenge from freebies menu?
 
   
-body awareness post email:
-- sent him the most current version of the email, no response yet
-
-
 When i get the newest version of the book
 - He will send me a new copy of the book with the new cover, put it on  https://growingholistically.com/free-book-sample/ 
 - Add partial book page to the freebies menu
