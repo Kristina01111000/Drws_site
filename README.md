@@ -182,26 +182,25 @@ When i get the newest version of the book
 - When i get the new file have the cover, the copyright page, the preface, the table of contents, then the preface, and all of chapter one of the book
 - Make the book sample file longer, so it doesn’t need to scroll on desktop
 
-- On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ add what he is going to send me, add the tabulator to the page
 
 
 
 2/20
-On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ add what he is going to send me, add the tabulator to the page
-He will send me a new copy of the book with the new cover, put it on  https://growingholistically.com/free-book-sample/ 
-When i get the new file have the cover, the copyright page, the preface, the table of contents, then the preface, and all of chapter one of the book
-Make the book sample file longer, so it doesn’t need to scroll on desktop
-Switch the book file in the pdf copy in woocommerce when i get it, he is not selling the old one anymore, i will get in in about 3 weeks
-Now change the name of 30 day challenge
-Switch all 30 day challenge to “try the holistic life balance auto-tabulator”
-Change the name on google doc version
-all pages
-all menus
-Check on the other sites to make sure they are correct
-Play with the apk file i get, look for problems
-On the 30 day 4 Element Scorecard, add the element totals to the bottom, again so they are in a row
-Send body awareness email on monday, italicize the ‘you’ at the end of the first sentence, use the new logo icon
-He is going to be making forms for ‘patients from afar’ where they fill out a form, doing consultations make the form, he's going to use a standard process form, look into forms that allow 1-5 in them, he's going to send me a copy of the form, see what i can do
-https://my.standardprocess.com/Systems-Survey
-Try the first 15 in wp-forms for next week to see if its good enough
-Try to find another form option if its not good
+- On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ add what he is going to send me, add the tabulator to the page
+	- He will send me a new copy of the book with the new cover, put it on  https://growingholistically.com/free-book-sample/ 
+	- When i get the new file have the cover, the copyright page, the preface, the table of contents, then the preface, and all of chapter one of the book
+	- Make the book sample file longer, so it doesn’t need to scroll on desktop
+	- Switch the book file in the pdf copy in woocommerce when i get it, he is not selling the old one anymore, i will get in in about 3 weeks
+- Now change the name of 30 day challenge
+	- Switch all 30 day challenge to “try the holistic life balance auto-tabulator”
+	- Change the name on google doc version
+	- all pages
+	- all menus
+	- Check on the other sites to make sure they are correct
+- Play with the apk file i get, look for problems
+- On the 30 day 4 Element Scorecard, add the element totals to the bottom, again so they are in a row
+- Send body awareness email on monday, italicize the ‘you’ at the end of the first sentence, use the new logo icon
+- He is going to be making forms for ‘patients from afar’ where they fill out a form, doing consultations make the form, he's going to use a standard process form, look into forms that allow 1-5 in them, he's going to send me a copy of the form, see what i can do
+	- https://my.standardprocess.com/Systems-Survey
+	- Try the first 15 in wp-forms for next week to see if its good enough
+	- Try to find another form option if its not good
