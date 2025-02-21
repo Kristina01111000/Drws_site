@@ -23,9 +23,9 @@ October:  10 hour 15 min -> recieved
 
 November:  6 hour 45 min -> recieved
 
-December: 9 hour 30 min -> sent
+December: 9 hour 30 min -> recieved
 
-January 2025: 10 hour 45 min -> sent
+January 2025: 10 hour 45 min -> recieved
 
 February: 2 hour 55 min
 
