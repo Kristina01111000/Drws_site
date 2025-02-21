@@ -132,7 +132,6 @@ look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_loca
 
 For next week:
 
-- On patreon make the holistic learning program link hot in the pinned post
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
 
 4 element self assessment email:
@@ -172,7 +171,6 @@ For next week:
 	- Switch all menus
 	- Check on the other sites to make sure they are correct
 	- Brainstorm potential other names 
-- Remove the 30 day challenge from freebies menu?
 
   
 When i get the newest version of the book
