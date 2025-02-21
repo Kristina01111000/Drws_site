@@ -27,7 +27,7 @@ December: 9 hour 30 min -> sent
 
 January 2025: 10 hour 45 min -> sent
 
-February: 2 hour 50 min
+February: 2 hour 55 min
 
 plugins im using on site:
 
@@ -204,3 +204,4 @@ When i get the newest version of the book
 	- https://my.standardprocess.com/Systems-Survey
 	- Try the first 15 in wp-forms for next week to see if its good enough
 	- Try to find another form option if its not good
+ - 	i think he wants the likert scale option
