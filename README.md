@@ -27,7 +27,7 @@ December: 9 hour 30 min -> recieved
 
 January 2025: 10 hour 45 min -> recieved
 
-February: 2 hour 55 min
+February: 3 hour 10 min
 
 plugins im using on site:
 
@@ -196,7 +196,6 @@ When i get the newest version of the book
 	- Check on the other sites to make sure they are correct
 - Play with the apk file i get, look for problems
 - On the 30 day 4 Element Scorecard, add the element totals to the bottom, again so they are in a row
-- Send body awareness email on monday, italicize the ‘you’ at the end of the first sentence, use the new logo icon
 - He is going to be making forms for ‘patients from afar’ where they fill out a form, doing consultations make the form, he's going to use a standard process form, look into forms that allow 1-5 in them, he's going to send me a copy of the form, see what i can do
 	- https://my.standardprocess.com/Systems-Survey
 	- Try the first 15 in wp-forms for next week to see if its good enough
