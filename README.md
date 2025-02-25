@@ -196,8 +196,3 @@ When i get the newest version of the book
 	- Check on the other sites to make sure they are correct
 - Play with the apk file i get, look for problems
 - On the 30 day 4 Element Scorecard, add the element totals to the bottom, again so they are in a row
-- He is going to be making forms for ‘patients from afar’ where they fill out a form, doing consultations make the form, he's going to use a standard process form, look into forms that allow 1-5 in them, he's going to send me a copy of the form, see what i can do
-	- https://my.standardprocess.com/Systems-Survey
-	- Try the first 15 in wp-forms for next week to see if its good enough
-	- Try to find another form option if its not good
- - 	i think he wants the likert scale option, tell him how most don't have it
