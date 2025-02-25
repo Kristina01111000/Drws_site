@@ -200,4 +200,4 @@ When i get the newest version of the book
 	- https://my.standardprocess.com/Systems-Survey
 	- Try the first 15 in wp-forms for next week to see if its good enough
 	- Try to find another form option if its not good
- - 	i think he wants the likert scale option
+ - 	i think he wants the likert scale option, tell him how most don't have it
