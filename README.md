@@ -196,3 +196,5 @@ When i get the newest version of the book
 	- Check on the other sites to make sure they are correct
 - Play with the apk file i get, look for problems
 - test email for the likert scale version of wpforms did not go through
+
+- talk to him about the auto tabulator name, its a lot
