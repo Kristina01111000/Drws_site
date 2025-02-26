@@ -27,7 +27,7 @@ December: 9 hour 30 min -> recieved
 
 January 2025: 10 hour 45 min -> recieved
 
-February: 4 hour 10 min
+February: 4 hour 20 min
 
 plugins im using on site:
 
@@ -195,6 +195,4 @@ When i get the newest version of the book
 	- all menus
 	- Check on the other sites to make sure they are correct
 - Play with the apk file i get, look for problems
-- On the 30 day 4 Element Scorecard, add the element totals to the bottom, again so they are in a row
 - test email for the likert scale version of wpforms did not go through
-- change the freebies 40 question quiz paragraph
