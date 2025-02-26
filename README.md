@@ -197,3 +197,4 @@ When i get the newest version of the book
 - Play with the apk file i get, look for problems
 - On the 30 day 4 Element Scorecard, add the element totals to the bottom, again so they are in a row
 - test email for the likert scale version of wpforms did not go through
+- change the freebies 40 question quiz paragraph
