@@ -87,7 +87,7 @@ Notes:
   	-  Automation for emails:	https://knowledgebase.constantcontact.com/email-digital-marketing/articles/KnowledgeBase/43904-Set-up-an-automated-marketing-journey-for-your-customers?lang=en_US 
    	- recheck that constant contact is connected to the site every month or so, just look at lists in backend
     	- constant contact makes people choose which list to join if there is going to be more than 1 that they are added to, so only add them to one
-
+	- Intake forms is going to be on https://my.standardprocess.com/Systems-Survey 
 --------------------------------------------------------
 
 scorecard link:
@@ -207,7 +207,6 @@ When i get the newest version of the book
 	- Switch the book file in the pdf copy in woocommerce when i get it, he is not selling the old one anymore, i will get in in about 3 weeks
 	- When i get the new book, remove the old one from the store
 - He is going to make an email for drwalsdorf.com to send the emails from
-- Intake forms is going to be on https://my.standardprocess.com/Systems-Survey 
 - I changed it to the “4 Element Personhood Score” everywhere, change it on the assessment itself? YES
 	- Also on other websites 
 - “Holistic Life-Balance Tabulator” is the new name for the scorecard, change it everywhere
