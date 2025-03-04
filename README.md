@@ -165,44 +165,12 @@ For next week:
 	- Will need to setup the payments
 	- Will need to add the lessons
 	- Will need to make groups 
-- Switch all 30 day challenge to “try the holistic balance tabulator app”
-	- Switch all pages
-	- Switch all menus
-	- Check on the other sites to make sure they are correct
-	- Brainstorm potential other names 
-
   
-When i get the newest version of the book
-- He will send me a new copy of the book with the new cover, put it on  https://growingholistically.com/free-book-sample/ 
-- Add partial book page to the freebies menu
-- Switch the book file in the pdf copy in woocommerce when i get it, he is not selling the old one anymore, i will get in in about 3 weeks
-- When i get the new file have the cover, the copyright page, the preface, the table of contents, then the preface, and all of chapter one of the book
-- Make the book sample file longer, so it doesn’t need to scroll on desktop
-
-
-
-
-2/20
-- On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ add what he is going to send me, add the tabulator to the page
+2/27
+- When i get the newest version of the book
 	- He will send me a new copy of the book with the new cover, put it on  https://growingholistically.com/free-book-sample/ 
 	- When i get the new file have the cover, the copyright page, the preface, the table of contents, then the preface, and all of chapter one of the book
-	- Make the book sample file longer, so it doesn’t need to scroll on desktop
-	- Switch the book file in the pdf copy in woocommerce when i get it, he is not selling the old one anymore, i will get in in about 3 weeks
-- Now change the name of 30 day challenge
-	- Switch all 30 day challenge to “try the holistic life balance auto-tabulator”
-	- Change the name on google doc version
-	- all pages
-	- all menus
-	- Check on the other sites to make sure they are correct
-- Play with the apk file i get, look for problems
-- test email for the likert scale version of wpforms did not go through
-
-- talk to him about the auto tabulator name, its a lot
-
-
-2/27
-- He will send me a new copy of the book with the new cover, put it on  https://growingholistically.com/free-book-sample/ 
-	- When i get the new file have the cover, the copyright page, the preface, the table of contents, then the preface, and all of chapter one of the book
+	- Add partial book page to the freebies menu
 	- Make the book sample file longer, so it doesn’t need to scroll on desktop
 	- Switch the book file in the pdf copy in woocommerce when i get it, he is not selling the old one anymore, i will get in in about 3 weeks
 	- When i get the new book, remove the old one from the store
@@ -212,3 +180,9 @@ When i get the newest version of the book
 - “Holistic Life-Balance Tabulator” is the new name for the scorecard, change it everywhere
 	- Look at https://growingholistically.com/join/, change it
 	- Change it on the scorecard
+	- Switch all 30 day challenge to “try the holistic life balance auto-tabulator”
+	- Change the name on google doc version
+	- all pages
+	- all menus
+	- Check on the other sites to make sure they are correct
+- On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ add what he is going to send me, add the tabulator to the page
