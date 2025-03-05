@@ -172,9 +172,9 @@ For next week:
 
 - He is going to make an email for drwalsdorf.com to send the emails from
 - “4 Element Personhood Score” and tabulator on other sites
-	- Also on other websites 
+	- Also on other websites
+ - 	check all over this site also, i could have misssed some
 
-- On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ add what he is going to send me, add the tabulator to the page
 
 
 3/6
