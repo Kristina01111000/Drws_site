@@ -29,7 +29,7 @@ January 2025: 10 hour 45 min -> recieved
 
 February: 5 hour 50 min
 
-March: 15 min
+March: 45 min
 
 plugins im using on site:
 
@@ -171,16 +171,9 @@ For next week:
 2/27
 
 - He is going to make an email for drwalsdorf.com to send the emails from
-- I changed it to the “4 Element Personhood Score” everywhere, change it on the assessment itself? YES
+- “4 Element Personhood Score” and tabulator on other sites
 	- Also on other websites 
-- “Holistic Life-Balance Tabulator” is the new name for the scorecard, change it everywhere
-	- Look at https://growingholistically.com/join/, change it
-	- Change it on the scorecard
-	- Switch all 30 day challenge to “try the holistic life balance auto-tabulator”
-	- Change the name on google doc version
-	- all pages
-	- all menus
-	- Check on the other sites to make sure they are correct
+
 - On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ add what he is going to send me, add the tabulator to the page
 
 
