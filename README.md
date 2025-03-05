@@ -167,13 +167,7 @@ For next week:
 	- Will need to make groups 
   
 2/27
-- When i get the newest version of the book
-	- He will send me a new copy of the book with the new cover, put it on  https://growingholistically.com/free-book-sample/ 
-	- When i get the new file have the cover, the copyright page, the preface, the table of contents, then the preface, and all of chapter one of the book
-	- Add partial book page to the freebies menu
-	- Make the book sample file longer, so it doesn’t need to scroll on desktop
-	- Switch the book file in the pdf copy in woocommerce when i get it, he is not selling the old one anymore, i will get in in about 3 weeks
-	- When i get the new book, remove the old one from the store
+
 - He is going to make an email for drwalsdorf.com to send the emails from
 - I changed it to the “4 Element Personhood Score” everywhere, change it on the assessment itself? YES
 	- Also on other websites 
@@ -186,3 +180,13 @@ For next week:
 	- all menus
 	- Check on the other sites to make sure they are correct
 - On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ add what he is going to send me, add the tabulator to the page
+
+
+3/6
+- When i get the newest version of the book
+	- He will send me a new copy of the book with the new cover, put it on  https://growingholistically.com/free-book-sample/ 
+	- When i get the new file have the cover, the copyright page, the preface, the table of contents, then the preface, and all of chapter one of the book
+	- Add partial book page to the freebies menu
+	- Make the book sample file longer, so it doesn’t need to scroll on desktop
+	- Switch the book file in the pdf copy in woocommerce when i get it, he is not selling the old one anymore, i will get in in about 3 weeks
+	- When i get the new book, remove the old one from the store
