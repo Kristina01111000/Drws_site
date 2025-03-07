@@ -29,7 +29,7 @@ January 2025: 10 hour 45 min -> recieved
 
 February: 5 hour 50 min
 
-March: 1 hour 50 min
+March: 1 hour 55 min
 
 plugins im using on site:
 
@@ -170,7 +170,7 @@ For next week:
   
 2/27
 
-- He is going to make an email for drwalsdorf.com to send the emails from
+- He is going to make an email for drwalsdorf.com to send the emails from-> did this work??????
 - “4 Element Personhood Score” and tabulator on other sites
 	- Also on other websites
  - 	check all over this site also, i could have misssed some
