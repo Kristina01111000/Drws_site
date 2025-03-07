@@ -185,3 +185,8 @@ For next week:
 	- Make the book sample file longer, so it doesn’t need to scroll on desktop
 	- Switch the book file in the pdf copy in woocommerce when i get it, he is not selling the old one anymore, i will get in in about 3 weeks
 	- When i get the new book, remove the old one from the store
+
+]
+
+
+  should be getting 1099 soon
