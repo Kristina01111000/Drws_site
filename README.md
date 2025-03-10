@@ -29,7 +29,7 @@ January 2025: 10 hour 45 min -> recieved
 
 February: 5 hour 50 min
 
-March: 1 hour 55 min
+March: 2 hour 10 min
 
 plugins im using on site:
 
@@ -186,7 +186,7 @@ For next week:
 	- Switch the book file in the pdf copy in woocommerce when i get it, he is not selling the old one anymore, i will get in in about 3 weeks
 	- When i get the new book, remove the old one from the store
 
-]
+
 
 
   should be getting 1099 soon
