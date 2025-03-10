@@ -187,6 +187,13 @@ For next week:
 	- When i get the new book, remove the old one from the store
 
 
+- Peepso issue with version numbers fixed?
+- Figure out if peepso can host videos on GH, or if it has to be a youtube video
+- Would peepso be better than divi or wordpress in general, might host the videos on the new server, he wants a place beyond patreon, a nice url page with vidoes on it 
+- He wants to send patients there, not have to join patreon, could send them a google link, more panache
+- Check that all 30 day challenges are switched to the tabulator
+- Make a second tabulator file for cell phones download, that only have one tab, tell them why (too big for cellphones)
+- Finish changing scorecard to tabulator on the google doc
 
 
   should be getting 1099 soon
