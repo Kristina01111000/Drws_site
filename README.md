@@ -196,4 +196,4 @@ For next week:
 - Finish changing scorecard to tabulator on the google doc
 
 
-  should be getting 1099 soon
+  should be getting 1099 soon, not yet, ask on thursday
