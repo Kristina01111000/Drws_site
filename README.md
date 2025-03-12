@@ -29,7 +29,7 @@ January 2025: 10 hour 45 min -> recieved
 
 February: 5 hour 50 min
 
-March: 3 hour 15 min
+March: 3 hour 35 min
 
 plugins im using on site:
 
@@ -189,7 +189,6 @@ For next week:
 
 - Peepso issue with version numbers fixed? -> not on monday
 - Check that all 30 day challenges are switched to the tabulator
-- Make a second tabulator file for cell phones download, that only have one tab, tell them why (too big for cellphones)
 - Finish changing scorecard to tabulator on the google doc
 
 
