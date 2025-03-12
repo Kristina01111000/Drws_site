@@ -29,7 +29,7 @@ January 2025: 10 hour 45 min -> recieved
 
 February: 5 hour 50 min
 
-March: 3 hour 35 min
+March: 3 hour 45 min
 
 plugins im using on site:
 
@@ -146,7 +146,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 - Write some comments for the wellness check chat
 
 12/19
-- Connect the dr m listeners email to the GH site sign up
 - Put logos of the podcasts next to the links on podcast page
 
 
