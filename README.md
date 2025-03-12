@@ -188,8 +188,7 @@ For next week:
 
 
 - Peepso issue with version numbers fixed? -> not on monday
-- Check that all 30 day challenges are switched to the tabulator
-- Finish changing scorecard to tabulator on the google doc
+
 
 
   should be getting 1099 soon, not yet, ask on thursday
