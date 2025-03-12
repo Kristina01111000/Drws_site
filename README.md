@@ -188,6 +188,6 @@ For next week:
 
 - Peepso issue with version numbers fixed? -> not on monday
 
-
+- double check the challenge to tabulator on the other sites
 
   should be getting 1099 soon, not yet, ask on thursday
