@@ -29,7 +29,7 @@ January 2025: 10 hour 45 min -> recieved
 
 February: 5 hour 50 min
 
-March: 4 hour 50 min
+March: 5 hour 0 min
 
 plugins im using on site:
 
@@ -205,4 +205,4 @@ New podcast filming 3/13, he will send me the link
 https://growingholistically.com/the-four-element-scorecard/ make the the media file link the same size as the other download links
 Next email will be for the tabulator, edit some of the text from the pages into email format and send early next week, aim for tuesday, send him the email when it's ready so he can confirm it “have you been using the tabulator?”
 Next months email will be the documentary”dr w is very proud of this documentary that goes deep into exploring the wisdom of the four elements, when you have 30 minutes to spare it is worth seeing”
-Peepso ticket
+Peepso ticket -> resent with admin
