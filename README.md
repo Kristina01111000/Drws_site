@@ -29,7 +29,7 @@ January 2025: 10 hour 45 min -> recieved
 
 February: 5 hour 50 min
 
-March: 5 hour 0 min
+March: 5 hour 15 min
 
 plugins im using on site:
 
@@ -206,4 +206,4 @@ Next email will be for the tabulator, edit some of the text from the pages into 
 Next months email will be the documentary”dr w is very proud of this documentary that goes deep into exploring the wisdom of the four elements, when you have 30 minutes to spare it is worth seeing”
 
 
-wwrite email and send him the draft today
+finalize draft and send it to him
