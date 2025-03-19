@@ -202,3 +202,8 @@ bdi{
 wp-block-file__button{
 	background-color: #5FBC12;
 }
+
+//////// make sthe text for downloading a file bigger
+.wp-block-file:not(.wp-element-button) {
+    font-size: 24px;
+}
