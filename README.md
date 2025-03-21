@@ -187,8 +187,6 @@ For next week:
 3/13
 
 - Double check other sites are switched to tabulator
-- New podcast filming 3/13, he will send me the link
-- https://growingholistically.com/the-four-element-scorecard/ make the the media file link the same size as the other download links
 - Next months email will be the documentary”dr w is very proud of this documentary that goes deep into exploring the wisdom of the four elements, when you have 30 minutes to spare it is worth seeing”
 
 
