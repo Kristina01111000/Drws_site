@@ -29,7 +29,7 @@ January 2025: 10 hour 45 min -> recieved
 
 February: 5 hour 50 min
 
-March: 7 hour 25 min
+March: 7 hour 35 min
 
 plugins im using on site:
 
@@ -142,12 +142,7 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 
 
 11/7
-- Fix typo in the 40Q question
 - Write some comments for the wellness check chat
-
-12/19
-- Put logos of the podcasts next to the links on podcast page
-
 
 for next week:
 
@@ -198,3 +193,10 @@ For next week:
 - Make the book sample file longer, so it doesn’t need to scroll on desktop
 - Switch the book file in the pdf copy in woocommerce when i get it, he is not selling the old one anymore, i will get in in about 3 weeks
 - When I get the new book, remove the old one from the store? Including the physical copies?
+
+
+
+3/20
+
+
+- Put logos of the podcasts next to the links on podcast page
