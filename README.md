@@ -200,3 +200,26 @@ For next week:
 
 
 - Put logos of the podcasts next to the links on podcast page
+Make a draft copy of the homepage first
+Remake the homepage with the text he sent in the email leave the first paragraph, put the sheet in underneath, everything else below, make it look good + make sense
+Make the four element institute hot and take them to the site in a new tab, go to the projects page https://fourelementinstitute.org/projects/ 
+Change the starburst to say “Click here to gain access to Dr. W’s 4 Element Self-Renewal System for FREE HERE”
+Takes them to the sign up page
+Signup page goes to getting started page https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
+Edit https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ so it doesn’t keep mentioning patreon
+Make the edits i think it needs to not be too redundant but also looks good, talk about it next week
+Make it easier to sign up
+Switch patreon links to the sign up page
+Start with the wellness check and the tabulator, then other stuff
+They have to make an account on growing holistically to get the tabulator
+The wellness check can be done by anybody
+Double check that joining gh is easy
+Go through the sign up process to make sure the text is good still
+Check that https://growingholistically.com/discover-your-4-element-personhood-score/ is correctly linked everywhere
+The entire learning program is going to be available for free on patreon
+See if there is a default password for everybody, don’t think so 
+Tell them to autosave password if they want to 
+Make a page to link to quick minutes, yoga, magazine, holistic advice, so they can be in the menu on the homepage
+Think about the best way to do this, don’t want to just link to patreon
+Make a page that links to the youtube playlist for them all, private urls
+One page for all like “other parts of the self renewal system” something like that
