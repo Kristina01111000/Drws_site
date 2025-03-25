@@ -186,13 +186,18 @@ For next week:
 
 
 
-
+BOOK STUFF
 - He will send me a new copy of the book with the new cover, put it on  https://growingholistically.com/free-book-sample/ 
 - When i get the new file have the cover, the copyright page, the preface, the table of contents, then the preface, and all of chapter one of the book
   Add partial book page to the freebies menu
 - Make the book sample file longer, so it doesn’t need to scroll on desktop
 - Switch the book file in the pdf copy in woocommerce when i get it, he is not selling the old one anymore, i will get in in about 3 weeks
 - When I get the new book, remove the old one from the store? Including the physical copies?
+- Is it going to be a soft cover for the physical copies? yes
+- When it's ready you want me to remove the old book from the site completely, correct? Not keep the physical copies up? Replacing it
+- 2 books now, book 1 is a shorter version, 
+- Pdf is ready
+- Blurb contact?
 
 
 
