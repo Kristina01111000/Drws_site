@@ -29,7 +29,7 @@ January 2025: 10 hour 45 min -> recieved
 
 February: 5 hour 50 min
 
-March: 7 hour 35 min
+March: 7 hour 50 min
 
 plugins im using on site:
 
