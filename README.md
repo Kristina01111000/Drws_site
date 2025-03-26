@@ -29,7 +29,7 @@ January 2025: 10 hour 45 min -> recieved
 
 February: 5 hour 50 min
 
-March: 7 hour 50 min
+March: 8 hour 10 min
 
 plugins im using on site:
 
@@ -206,8 +206,7 @@ BOOK STUFF
 
 - Put logos of the podcasts next to the links on podcast page
 Make a draft copy of the homepage first
-Remake the homepage with the text he sent in the email leave the first paragraph, put the sheet in underneath, everything else below, make it look good + make sense
-Make the four element institute hot and take them to the site in a new tab, go to the projects page https://fourelementinstitute.org/projects/ 
+
 Change the starburst to say “Click here to gain access to Dr. W’s 4 Element Self-Renewal System for FREE HERE”
 Takes them to the sign up page
 Signup page goes to getting started page https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
