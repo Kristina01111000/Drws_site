@@ -29,7 +29,7 @@ January 2025: 10 hour 45 min -> recieved
 
 February: 5 hour 50 min
 
-March: 8 hour 10 min
+March: 9 hour 10 min
 
 plugins im using on site:
 
@@ -207,18 +207,10 @@ BOOK STUFF
 - Put logos of the podcasts next to the links on podcast page
 Make a draft copy of the homepage first
 
-Change the starburst to say “Click here to gain access to Dr. W’s 4 Element Self-Renewal System for FREE HERE”
-Takes them to the sign up page
-Signup page goes to getting started page https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
-Edit https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ so it doesn’t keep mentioning patreon
-Make the edits i think it needs to not be too redundant but also looks good, talk about it next week
-Make it easier to sign up
-Switch patreon links to the sign up page
 Start with the wellness check and the tabulator, then other stuff
 They have to make an account on growing holistically to get the tabulator
 The wellness check can be done by anybody
 Double check that joining gh is easy
-Go through the sign up process to make sure the text is good still
 Check that https://growingholistically.com/discover-your-4-element-personhood-score/ is correctly linked everywhere
 The entire learning program is going to be available for free on patreon
 See if there is a default password for everybody, don’t think so 
