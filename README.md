@@ -219,3 +219,7 @@ Make a page to link to quick minutes, yoga, magazine, holistic advice, so they c
 Think about the best way to do this, don’t want to just link to patreon
 Make a page that links to the youtube playlist for them all, private urls
 One page for all like “other parts of the self renewal system” something like that
+
+3/27
+
+- hes working on the book
