@@ -29,7 +29,7 @@ January 2025: 10 hour 45 min -> recieved
 
 February: 5 hour 50 min
 
-March: 10 hour 40 min
+March: 10 hour 45 min
 
 plugins im using on site:
 
@@ -244,4 +244,3 @@ BOOK STUFF
 - https://growingholistically.com/register/ make a button instead of the bolded here
 - Check if the logout button works
 - Double check if the registration page is at the end or if it is at the beginning of the registration process
-- Change the logout page maybe, make the image smaller and centered
