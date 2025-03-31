@@ -223,3 +223,37 @@ One page for all like “other parts of the self renewal system” something lik
 3/27
 
 - hes working on the book
+Need to edit https://growingholistically.com/membership-account/membership-confirmation/ in line with what we talked about today
+He will send me a new copy of the book with the new cover, put it on  https://growingholistically.com/free-book-sample/ 
+When i get the new file have the cover, the copyright page, the preface, the table of contents, then the preface, and all of chapter one of the book
+Make the book sample file longer, so it doesn’t need to scroll on desktop
+Switch the book file in the pdf copy in woocommerce when i get it, he is not selling the old one anymore, i will get in in about 3 weeks
+When I get the new book, remove the old one from the store? Including the physical copies? YES
+Is it going to be a soft cover for the physical copies? yes
+When it's ready you want me to remove the old book from the site completely, correct? Not keep the physical copies up? Replacing it
+2 books now, book 1 is a shorter version, 
+Pdf is ready
+Blurb contact?
+Make the podcast info for coming out june 21stish https://thelaurajanelaytonshow.com/ 
+On new homepage edit starburst to say what he typed, also make it go to the top
+new starburst good? NO, Make button “Dr W’s Self-Renewal System – For FREE! ((Click Here) 
+Add the tabulator to the slides above line
+Center the title of the to do list
+On https://growingholistically.com/benefits-of-the-4-element-self-renewal-system/ 
+https://staging2.fourelementdoctor.com/book-a-consultation-with-dr-w/
+Copy paste the benefits section with the image icons
+If the text is different change it 
+Make a page that they can only access when they are registered and link the stuff on it from the homepage
+Put links to the youtube channel on this page
+Try a few style sheets to make it look good
+On new homepage remove the GH logo from the wellness check picture
+On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
+Add tabulator, wellness check, and personhood score at the top
+Change the links to the new page just like for the homepage
+Think about what will make thispage look good, all of the collections are looking kinda messy
+Make it similar to but not the same as the homepage
+Make it so that the wellness check is for anyone and the tabulator and other stuff is for people who have an account
+https://growingholistically.com/register/ make a button instead of the bolded here
+Check if the logout button works
+Double check if the registration page is at the end or if it is at the beginning of the registration process
+Change the logout page maybe, make the image smaller and centered
