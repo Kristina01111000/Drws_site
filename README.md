@@ -220,17 +220,15 @@ BOOK STUFF
 
 3/27
 
-- hes working on the book
 - Need to edit https://growingholistically.com/membership-account/membership-confirmation/ in line with what we talked about today
 - Make the podcast info for coming out june 21stish https://thelaurajanelaytonshow.com/ 
-- On new homepage edit starburst to say what he typed, also make it go to the top
 - new starburst good? NO, Make button “Dr W’s Self-Renewal System – For FREE! ((Click Here) 
 - Add the tabulator to the slides above line
 - Center the title of the to do list
 - On https://growingholistically.com/benefits-of-the-4-element-self-renewal-system/ 
-- https://staging2.fourelementdoctor.com/book-a-consultation-with-dr-w/
-- Copy paste the benefits section with the image icons
-- If the text is different change it 
+	- https://staging2.fourelementdoctor.com/book-a-consultation-with-dr-w/
+	- Copy paste the benefits section with the image icons
+	- If the text is different change it 
 - Make a page that they can only access when they are registered and link the stuff on it from the homepage
 - Put links to the youtube channel on this page
 - Try a few style sheets to make it look good
