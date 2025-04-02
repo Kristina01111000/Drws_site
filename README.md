@@ -31,7 +31,7 @@ February: 5 hour 50 min
 
 March: 10 hour 40 min
 
-April: 20 min
+April: 50 min
 
 plugins im using on site:
 
@@ -226,10 +226,7 @@ BOOK STUFF
 - Make the podcast info for coming out june 21stish https://thelaurajanelaytonshow.com/ 
 - Add the tabulator to the slides above line
 - Center the title of the to do list
-- On https://growingholistically.com/benefits-of-the-4-element-self-renewal-system/ 
-	- https://staging2.fourelementdoctor.com/book-a-consultation-with-dr-w/
-	- Copy paste the benefits section with the image icons
-	- If the text is different change it 
+
 - Make a page that they can only access when they are registered and link the stuff on it from the homepage
 - Put links to the youtube channel on this page
 - Try a few style sheets to make it look good
@@ -237,9 +234,7 @@ BOOK STUFF
 - On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
 - Add tabulator, wellness check, and personhood score at the top
 - Change the links to the new page just like for the homepage
-- Think about what will make thispage look good, all of the collections are looking kinda messy
+- Think about what will make this page look good, all of the collections are looking kinda messy
 - Make it similar to but not the same as the homepage
 - Make it so that the wellness check is for anyone and the tabulator and other stuff is for people who have an account
-- https://growingholistically.com/register/ make a button instead of the bolded here
-- Check if the logout button works
-- Double check if the registration page is at the end or if it is at the beginning of the registration process
+
