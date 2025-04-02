@@ -31,7 +31,7 @@ February: 5 hour 50 min
 
 March: 10 hour 40 min
 
-April: 1hour 20 min
+April: 1 hour 40 min
 
 plugins im using on site:
 
@@ -207,12 +207,7 @@ BOOK STUFF
 
 
 - Put logos of the podcasts next to the links on podcast page
-- Start with the wellness check and the tabulator, then other stuff
-- They have to make an account on growing holistically to get the tabulator
-- The wellness check can be done by anybody
-- Double check that joining gh is easy
 - Check that https://growingholistically.com/discover-your-4-element-personhood-score/ is correctly linked everywhere
-- The entire learning program is going to be available for free on patreon
 - See if there is a default password for everybody, don’t think so 
 - Tell them to autosave password if they want to 
 - Make a page to link to quick minutes, yoga, magazine, holistic advice, so they can be in the menu on the homepage
@@ -223,12 +218,5 @@ BOOK STUFF
 3/27
 
 - Make the podcast info for coming out june 21stish https://thelaurajanelaytonshow.com/ 
-- Make a page that they can only access when they are registered and link the stuff on it from the homepage
-- Put links to the youtube channel on this page
-- Try a few style sheets to make it look good
-- On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
-- Change the links to the new page just like for the homepage
-- Think about what will make this page look good, all of the collections are looking kinda messy
-- Make it similar to but not the same as the homepage
 - Make it so that the wellness check is for anyone and the tabulator and other stuff is for people who have an account
 
