@@ -31,7 +31,7 @@ February: 5 hour 50 min
 
 March: 10 hour 40 min
 
-April: 15 min
+April: 20 min
 
 plugins im using on site:
 
@@ -224,7 +224,6 @@ BOOK STUFF
 
 - Need to edit https://growingholistically.com/membership-account/membership-confirmation/ in line with what we talked about today
 - Make the podcast info for coming out june 21stish https://thelaurajanelaytonshow.com/ 
-- new starburst good? NO, Make button “Dr W’s Self-Renewal System – For FREE! ((Click Here) 
 - Add the tabulator to the slides above line
 - Center the title of the to do list
 - On https://growingholistically.com/benefits-of-the-4-element-self-renewal-system/ 
