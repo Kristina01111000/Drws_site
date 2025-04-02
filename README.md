@@ -31,7 +31,7 @@ February: 5 hour 50 min
 
 March: 10 hour 40 min
 
-April: 50 min
+April: 1hour 10 min
 
 plugins im using on site:
 
@@ -222,15 +222,10 @@ BOOK STUFF
 
 3/27
 
-- Need to edit https://growingholistically.com/membership-account/membership-confirmation/ in line with what we talked about today
 - Make the podcast info for coming out june 21stish https://thelaurajanelaytonshow.com/ 
-- Add the tabulator to the slides above line
-- Center the title of the to do list
-
 - Make a page that they can only access when they are registered and link the stuff on it from the homepage
 - Put links to the youtube channel on this page
 - Try a few style sheets to make it look good
-- On new homepage remove the GH logo from the wellness check picture
 - On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
 - Add tabulator, wellness check, and personhood score at the top
 - Change the links to the new page just like for the homepage
