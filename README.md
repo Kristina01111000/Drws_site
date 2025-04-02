@@ -1,30 +1,6 @@
 # Drws_site
 everything to do with drws site
 
-January 2024: 8 hour 45 min -> recieved
-
-February: 8 hour 45 min -> recieved
-
-March: 10 hour 30 min -> recieved
-
-April: 16 hour 0 min -> recieved
-
-May: 11 hour 30 min -> recieved
-
-June: 5 hour 0 min -> recieved
-
-July: 11 hour 00 min -> recieved
-
-August: 10 hour 0 min -> recieved
-
-September: 6 hour 0 min -> recieved
-
-October:  10 hour 15 min -> recieved
-
-November:  6 hour 45 min -> recieved
-
-December: 9 hour 30 min -> recieved
-
 January 2025: 10 hour 45 min -> recieved
 
 February: 5 hour 50 min
