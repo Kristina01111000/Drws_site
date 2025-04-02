@@ -31,7 +31,7 @@ February: 5 hour 50 min
 
 March: 10 hour 40 min
 
-April: 1hour 10 min
+April: 1hour 20 min
 
 plugins im using on site:
 
@@ -227,7 +227,6 @@ BOOK STUFF
 - Put links to the youtube channel on this page
 - Try a few style sheets to make it look good
 - On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
-- Add tabulator, wellness check, and personhood score at the top
 - Change the links to the new page just like for the homepage
 - Think about what will make this page look good, all of the collections are looking kinda messy
 - Make it similar to but not the same as the homepage
