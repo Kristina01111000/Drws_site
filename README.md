@@ -7,7 +7,7 @@ February: 5 hour 50 min
 
 March: 10 hour 40 min
 
-April: 1 hour 45 min
+April: 2 hour 10 min
 
 plugins im using on site:
 
@@ -195,4 +195,4 @@ BOOK STUFF
 
 - Make the podcast info for coming out june 21stish https://thelaurajanelaytonshow.com/ 
 - Make it so that the wellness check is for anyone and the tabulator and other stuff is for people who have an account
-
+- do the redirect during meeting
