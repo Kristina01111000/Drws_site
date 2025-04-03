@@ -7,7 +7,7 @@ February: 5 hour 50 min
 
 March: 10 hour 40 min
 
-April: 1 hour 40 min
+April: 1 hour 45 min
 
 plugins im using on site:
 
@@ -188,7 +188,7 @@ BOOK STUFF
 - Tell them to autosave password if they want to 
 - Make a page to link to quick minutes, yoga, magazine, holistic advice, so they can be in the menu on the homepage
 - Think about the best way to do this, don’t want to just link to patreon
-- Make a page that links to the youtube playlist for them all, private urls
+- Make a page that links to the youtube playlist for them all, private urls ->>>>>> all videos except 2 removed from youtube
 - One page for all like “other parts of the self renewal system” something like that
 
 3/27
