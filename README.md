@@ -235,5 +235,5 @@ BOOK STUFF
 - Send them to the frontpage? 
 - Posts for dr w? When he makes them? Articles by dr w, something like that, or dr w posts
 - Take the old emails and put them there
-- Put them on the header
+- Put them on the header, somewhere where it makes sense, and make them available to anyone who wants to read them
 - do the redirect 
