@@ -7,7 +7,7 @@ February: 5 hour 50 min
 
 March: 10 hour 40 min
 
-April: 3 hour 30 min
+April: 3 hour 40 min
 
 plugins im using on site:
 
@@ -200,11 +200,7 @@ BOOK STUFF
 
 4/3
 - Make the new page for the podcast coming out june 21stish https://thelaurajanelaytonshow.com/ -> need pdf copy of new book
-- Look into seeing if they have another membership thing that will work with peepso, try to get rid of pmp, its too long sign up process, see if learndash will stop nonusers from getting to the class
-- We don’t need people to pay for the site
-- He wants to get rid of the multiple signup pages
 - Ask stephen about the font on the fourelementdoctor site
-- Make the new homepage the frontpage
 - The youtube channel is https://www.youtube.com/@fourelementdoctor , need to be added by dr w
 - Quick minutes not private -> link from the site
 - Yoga, holistic advice, and the course is private
