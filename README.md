@@ -7,7 +7,7 @@ February: 5 hour 50 min
 
 March: 10 hour 40 min
 
-April: 3 hour 50 min
+April: 4 hour 30 min
 
 plugins im using on site:
 
@@ -207,26 +207,7 @@ BOOK STUFF
 - See if there is a way to make non-members go to a page that says join to get access
 - ‘Sorry you’re not a member yet, fill in the registration form below to join the site’
 - Change documentary link to youtube instead
-- List of pages allowed for non subscribers: (redirect exceptions), do this during the meeting so it's easier to check
-- Homepage https://growingholistically.com/ 
-	- frontpage
-- Wellnesscheck https://growingholistically.com/wellness-check/ 
-	- 4222
-- Benefits https://growingholistically.com/benefits-of-the-4-element-self-renewal-system/ 
-	- 4507
-- Getting started https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
-	- 4460
-- Documentary https://www.patreon.com/posts/four-element-88547506 
-	- Links to patreon, do you want it on the site? On youtube?
-- Contact us https://growingholistically.com/contact-us/ 
-	- 2080
-- About dr w https://growingholistically.com/about-dr-w/ 
-	- 2627
-- Login https://growingholistically.com/activity/ 
-	- 20
-- All register pages
-	- Done automatically
-- All the signup for email lists from podcasts, new ones, not the old ones unless you want the old ones added?
+
 - Send them to the frontpage? 
 - Posts for dr w? When he makes them? Articles by dr w, something like that, or dr w posts
 - Take the old emails and put them there
