@@ -201,14 +201,10 @@ BOOK STUFF
 4/3
 - Make the new page for the podcast coming out june 21stish https://thelaurajanelaytonshow.com/ -> need pdf copy of new book
 - The youtube channel is https://www.youtube.com/@fourelementdoctor , need to be added by dr w
-- Quick minutes not private -> link from the site
-- Yoga, holistic advice, and the course is private
-- Add links to playlists https://growingholistically.com/links-to-dr-ws-videos/ 
+
 - See if there is a way to make non-members go to a page that says join to get access
 - ‘Sorry you’re not a member yet, fill in the registration form below to join the site’
-- Change documentary link to youtube instead
 
-- Send them to the frontpage? 
 - Posts for dr w? When he makes them? Articles by dr w, something like that, or dr w posts
 - Take the old emails and put them there
 - Put them on the header, somewhere where it makes sense, and make them available to anyone who wants to read them
