@@ -7,7 +7,7 @@ February: 5 hour 50 min
 
 March: 10 hour 40 min
 
-April: 3 hour 40 min
+April: 3 hour 50 min
 
 plugins im using on site:
 
@@ -200,7 +200,6 @@ BOOK STUFF
 
 4/3
 - Make the new page for the podcast coming out june 21stish https://thelaurajanelaytonshow.com/ -> need pdf copy of new book
-- Ask stephen about the font on the fourelementdoctor site
 - The youtube channel is https://www.youtube.com/@fourelementdoctor , need to be added by dr w
 - Quick minutes not private -> link from the site
 - Yoga, holistic advice, and the course is private
