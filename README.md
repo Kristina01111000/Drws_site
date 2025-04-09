@@ -185,10 +185,6 @@ BOOK STUFF
 - Check that https://growingholistically.com/discover-your-4-element-personhood-score/ is correctly linked everywhere
 - See if there is a default password for everybody, don’t think so 
 - Tell them to autosave password if they want to 
-- Make a page to link to quick minutes, yoga, magazine, holistic advice, so they can be in the menu on the homepage
-- Think about the best way to do this, don’t want to just link to patreon
-- Make a page that links to the youtube playlist for them all, private urls ->>>>>> all videos except 2 removed from youtube
-- One page for all like “other parts of the self renewal system” something like that
 
 3/27
 
