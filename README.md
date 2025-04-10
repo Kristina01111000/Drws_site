@@ -7,7 +7,7 @@ February: 5 hour 50 min
 
 March: 10 hour 40 min
 
-April: 4 hour 30 min
+April: 4 hour 35 min
 
 plugins im using on site:
 
@@ -197,8 +197,6 @@ BOOK STUFF
 - Make the new page for the podcast coming out june 21stish https://thelaurajanelaytonshow.com/ -> need pdf copy of new book
 - The youtube channel is https://www.youtube.com/@fourelementdoctor , need to be added by dr w
 
-- See if there is a way to make non-members go to a page that says join to get access
-- ‘Sorry you’re not a member yet, fill in the registration form below to join the site’
 
 - Posts for dr w? When he makes them? Articles by dr w, something like that, or dr w posts
 - Take the old emails and put them there
