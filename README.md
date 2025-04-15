@@ -7,7 +7,7 @@ February: 5 hour 50 min
 
 March: 10 hour 40 min
 
-April: 6 hour 0 min
+April: 6 hour 10 min
 
 plugins im using on site:
 
@@ -205,6 +205,6 @@ BOOK STUFF
 - Make a sample poll with random stuff in it so we can see how they work
 - Can we connect the poll answers to the individual user?
 - Get an email started for users, for the documentary
-- Change wellness check to “avoidance of”
+- Change wellness check to “avoidance of” -> changed, need to put it on the website
 - Go over personhood score question
 	- a. got 4 element balance or "personhood" score - actually need help understanding what my actual score is, is it a number or total of all percentages?
