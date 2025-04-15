@@ -197,3 +197,4 @@ BOOK STUFF
 - Go over personhood score question
 	- a. got 4 element balance or "personhood" score - actually need help understanding what my actual score is, is it a number or total of all percentages?
  - 	he sent a document with the changes he wants
+ - 	send invoice tomorrow
