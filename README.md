@@ -7,7 +7,7 @@ February: 5 hour 50 min
 
 March: 10 hour 40 min
 
-April: 6 hour 25 min
+April: 6 hour 35 min
 
 plugins im using on site:
 
@@ -196,3 +196,4 @@ BOOK STUFF
 - Get an email started for users, for the documentary
 - Go over personhood score question
 	- a. got 4 element balance or "personhood" score - actually need help understanding what my actual score is, is it a number or total of all percentages?
+ - 	he sent a document with the changes he wants
