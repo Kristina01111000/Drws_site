@@ -7,7 +7,7 @@ February: 5 hour 50 min
 
 March: 10 hour 40 min
 
-April: 6 hour 10 min
+April: 6 hour 25 min
 
 plugins im using on site:
 
@@ -177,21 +177,10 @@ BOOK STUFF
 - Blurb contact?
 
 
-
 3/20
-
 
 - Put logos of the podcasts next to the links on podcast page
 - Check that https://growingholistically.com/discover-your-4-element-personhood-score/ is correctly linked everywhere
-- See if there is a default password for everybody, don’t think so 
-- Tell them to autosave password if they want to 
-
-3/27
-
-- Make the podcast info for coming out june 21stish https://thelaurajanelaytonshow.com/ 
-- Make it so that the wellness check is for anyone and the tabulator and other stuff is for people who have an account
-
-
 
 4/3
 - Make the new page for the podcast coming out june 21stish https://thelaurajanelaytonshow.com/ -> need pdf copy of new book
@@ -205,6 +194,5 @@ BOOK STUFF
 - Make a sample poll with random stuff in it so we can see how they work
 - Can we connect the poll answers to the individual user?
 - Get an email started for users, for the documentary
-- Change wellness check to “avoidance of” -> changed, need to put it on the website
 - Go over personhood score question
 	- a. got 4 element balance or "personhood" score - actually need help understanding what my actual score is, is it a number or total of all percentages?
