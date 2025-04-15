@@ -7,7 +7,7 @@ February: 5 hour 50 min
 
 March: 10 hour 40 min
 
-April: 5 hour 35 min
+April: 6 hour 0 min
 
 plugins im using on site:
 
@@ -204,7 +204,6 @@ BOOK STUFF
 - Make the podcast info for coming out june 21stish https://thelaurajanelaytonshow.com/ 
 - Make a sample poll with random stuff in it so we can see how they work
 - Can we connect the poll answers to the individual user?
-- get into the backend of youtube so i can make the playlists for advise and four element magazine and also make them private
 - Get an email started for users, for the documentary
 - Change wellness check to “avoidance of”
 - Go over personhood score question
