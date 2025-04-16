@@ -7,7 +7,7 @@ February: 5 hour 50 min -> sent
 
 March: 10 hour 40 min -> sent
 
-April: 6 hour 55 min
+April: 7 hour 30 min
 
 plugins im using on site:
 
@@ -189,8 +189,4 @@ BOOK STUFF
 - Take the old emails and put them there
 - Put them on the header, somewhere where it makes sense, and make them available to anyone who wants to read them
 
-4/10
-- Go over personhood score question
-	- a. got 4 element balance or "personhood" score - actually need help understanding what my actual score is, is it a number or total of all percentages?
- - 	he sent a document with the changes he wants
 
