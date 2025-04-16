@@ -3,9 +3,9 @@ everything to do with drws site
 
 January 2025: 10 hour 45 min -> recieved
 
-February: 5 hour 50 min
+February: 5 hour 50 min -> sent
 
-March: 10 hour 40 min
+March: 10 hour 40 min -> sent
 
 April: 6 hour 35 min
 
