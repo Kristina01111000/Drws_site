@@ -3,11 +3,11 @@ everything to do with drws site
 
 January 2025: 10 hour 45 min -> recieved
 
-February: 5 hour 50 min -> sent
+February: 5 hour 50 min -> recieved
 
-March: 10 hour 40 min -> sent
+March: 10 hour 40 min -> recieved
 
-April: 7 hour 30 min
+April: 8 hour 20 min
 
 plugins im using on site:
 
