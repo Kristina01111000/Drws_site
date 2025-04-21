@@ -7,7 +7,7 @@ February: 5 hour 50 min -> recieved
 
 March: 10 hour 40 min -> recieved
 
-April: 8 hour 25 min
+April: 8 hour 40 min
 
 plugins im using on site:
 
@@ -192,7 +192,6 @@ BOOK STUFF
 4/17
 - Make the podcast info for coming out june 21stish https://thelaurajanelaytonshow.com/ -> need the new copy of the book
 - He did two other podcasts last week, get info for them
--  He will send me edits for the documentary email -> try to send on monday or tuesday
 - Change wellness check to underline next to  1x , 2x, etc over to right
 	- https://growingholistically.com/wellness-check/ 
 - Added check spam to register page -> make check spam bold
