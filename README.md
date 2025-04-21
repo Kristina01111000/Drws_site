@@ -7,7 +7,7 @@ February: 5 hour 50 min -> recieved
 
 March: 10 hour 40 min -> recieved
 
-April: 8 hour 40 min
+April: 8 hour 45 min
 
 plugins im using on site:
 
@@ -211,4 +211,6 @@ BOOK STUFF
 - Make the personhood score a freebie
 - Put quotes are personhood score on the title https://growingholistically.com/discover-your-4-element-personhood-score/
 
-
+- look at podcasts list, get set up for when i get the book
+- look at new constant contact email for future
+- email stacy when tabulator instructions are ready, and give her link to page
