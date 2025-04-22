@@ -7,7 +7,7 @@ February: 5 hour 50 min -> recieved
 
 March: 10 hour 40 min -> recieved
 
-April: 9 hour 0 min
+April: 9 hour 10 min
 
 plugins im using on site:
 
@@ -194,10 +194,6 @@ BOOK STUFF
 - He did two other podcasts last week, get info for them
 - Change wellness check to underline next to  1x , 2x, etc over to right
 	- https://growingholistically.com/wellness-check/ 
-- Added check spam to register page -> make check spam bold
-	- https://growingholistically.com/register/ 
-- Added check spam folder to redirect page -> make check spam bold
-	- https://growingholistically.com/youve-been-redirected/ 
 - For personhood page
 	- Find out more about how to re-calibrate your balance by looking at the variety of cool things available at:
 	- Remove the https, just have the www
