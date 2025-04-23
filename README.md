@@ -7,7 +7,7 @@ February: 5 hour 50 min -> recieved
 
 March: 10 hour 40 min -> recieved
 
-April: 9 hour 40 min
+April: 9 hour 55 min
 
 plugins im using on site:
 
@@ -191,13 +191,5 @@ BOOK STUFF
 
 4/17
 
-- For personhood page
-	- Find out more about how to re-calibrate your balance by looking at the variety of cool things available at:
-	- Remove the https, just have the www
-	- Make the GH in the link capital
-	- If there is space put a paragraph break after the link
-	-  Add space on the first page
-	- In water paragraph make it rock & roll
-	- Fix edits in first paragraph
 - Add a paragraph or 2 explaining how to use the tabulator, add it to the page and to the actual tabulator
 - make sure the cellphone version is able to be accessed
