@@ -7,7 +7,7 @@ February: 5 hour 50 min -> recieved
 
 March: 10 hour 40 min -> recieved
 
-April: 9 hour 30 min
+April: 9 hour 40 min
 
 plugins im using on site:
 
@@ -191,8 +191,6 @@ BOOK STUFF
 
 4/17
 
-- Change wellness check to underline next to  1x , 2x, etc over to right
-	- https://growingholistically.com/wellness-check/ 
 - For personhood page
 	- Find out more about how to re-calibrate your balance by looking at the variety of cool things available at:
 	- Remove the https, just have the www
