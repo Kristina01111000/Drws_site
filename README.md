@@ -7,7 +7,7 @@ February: 5 hour 50 min -> recieved
 
 March: 10 hour 40 min -> recieved
 
-April: 9 hour 10 min
+April: 9 hour 15 min
 
 plugins im using on site:
 
@@ -209,4 +209,3 @@ BOOK STUFF
 
 - look at podcasts list, get set up for when i get the book
 - look at new constant contact email for future
-- - look at stacys comment
