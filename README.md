@@ -7,7 +7,7 @@ February: 5 hour 50 min -> recieved
 
 March: 10 hour 40 min -> recieved
 
-April: 9 hour 15 min
+April: 9 hour 30 min
 
 plugins im using on site:
 
@@ -190,8 +190,7 @@ BOOK STUFF
 - Put them on the header, somewhere where it makes sense, and make them available to anyone who wants to read them
 
 4/17
-- Make the podcast info for coming out june 21stish https://thelaurajanelaytonshow.com/ -> need the new copy of the book
-- He did two other podcasts last week, get info for them
+
 - Change wellness check to underline next to  1x , 2x, etc over to right
 	- https://growingholistically.com/wellness-check/ 
 - For personhood page
@@ -204,8 +203,3 @@ BOOK STUFF
 	- Fix edits in first paragraph
 - Add a paragraph or 2 explaining how to use the tabulator, add it to the page and to the actual tabulator
 - make sure the cellphone version is able to be accessed
-- Make the personhood score a freebie
-- Put quotes are personhood score on the title https://growingholistically.com/discover-your-4-element-personhood-score/
-
-- look at podcasts list, get set up for when i get the book
-- look at new constant contact email for future
