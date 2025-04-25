@@ -193,3 +193,37 @@ BOOK STUFF
 
 - Add a paragraph or 2 explaining how to use the tabulator, add it to the page and to the actual tabulator
 - make sure the cellphone version is able to be accessed
+
+
+
+
+4/24
+Make the podcast info -> need the new copy of the book
+coming out june 21stish https://thelaurajanelaytonshow.com/ 
+ SOUNDBITES WITH KIM GROSHEK - Podcast Interview: (NOTE: This was originally scheduled for March 26)
+XQ-SLESS: THE WELLNESS SUPPORT PODCAST WITH LAURA JANE LAYTON: Scheduled to be live on ~6.21.25
+DAD TALKS PODCAST WITH SCOTT MANOR AND ZACHARY MILLER: EMAIL dadtalks.2025@gmail.com   
+THE HEALERS CAFE WITH MARION BOLLIGER - 4/10/25 Podcast Interview -
+I will be the one to talk to diane about the instagram and facebook
+-> need the new copy of the book
+Look at the title https://growingholistically.com/discover-your-4-element-personhood-score/ 
+Make the spam folder sentence bold
+https://growingholistically.com/register/ 
+https://growingholistically.com/youve-been-redirected/ 
+Capitalize the S and the F
+For tabulator 
+https://growingholistically.com/join/ 
+https://growingholistically.com/the-four-element-scorecard/ 
+Add desktop and cellphone version on that page, direct links 
+Combine those two pages
+Add tabulator instructions to the tabulators 
+Change the months to month 1 month 2 month 3 etc instead of month names
+Also add to  https://growingholistically.com/the-four-element-scorecard/ 
+https://growingholistically.com/wellness-check/ 
+change wellness self new to wellness check
+Change link to the scorecard page, not join page
+Remove the 30 day challenge text, his scorecard tabulator 
+On the wellness check itself change the text at the bottom, no patreon
+Try dr w’s 30 day challenge using his scorecard/tabulator 
+Fix the bolded statement , don’t want to emphasize downloading it, maybe say take a screen shot, or to take a note of their score
+Change personhood score to the four element holistic balance score on the whole site, and the assessment
