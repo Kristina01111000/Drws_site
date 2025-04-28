@@ -7,7 +7,7 @@ February: 5 hour 50 min -> recieved
 
 March: 10 hour 40 min -> recieved
 
-April: 11 hour 40 min
+April: 12 hour 10 min
 
 plugins im using on site:
 
@@ -227,3 +227,7 @@ On the wellness check itself change the text at the bottom, no patreon
 Try dr w’s 30 day challenge using his scorecard/tabulator 
 Fix the bolded statement , don’t want to emphasize downloading it, maybe say take a screen shot, or to take a note of their score
 Change personhood score to the four element holistic balance score on the whole site, and the assessment
+
+
+
+made new email for next week? ask him on thursday
