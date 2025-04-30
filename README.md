@@ -7,7 +7,7 @@ February: 5 hour 50 min -> recieved
 
 March: 10 hour 40 min -> recieved
 
-April: 12 hour 35 min
+April: 12 hour 55 min
 
 plugins im using on site:
 
@@ -213,10 +213,6 @@ https://growingholistically.com/join/
 https://growingholistically.com/the-four-element-scorecard/ 
 Add desktop and cellphone version on that page, direct links 
 Combine those two pages
-Add tabulator instructions to the tabulators 
-Change the months to month 1 month 2 month 3 etc instead of month names
-Also add to  https://growingholistically.com/the-four-element-scorecard/ 
-Change personhood score to the four element holistic balance score on the whole site, and the assessment
 
 
 
