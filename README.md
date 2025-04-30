@@ -7,7 +7,7 @@ February: 5 hour 50 min -> recieved
 
 March: 10 hour 40 min -> recieved
 
-April: 12 hour 15 min
+April: 12 hour 35 min
 
 plugins im using on site:
 
@@ -207,10 +207,7 @@ THE HEALERS CAFE WITH MARION BOLLIGER - 4/10/25 Podcast Interview -
 I will be the one to talk to diane about the instagram and facebook
 -> need the new copy of the book
 Look at the title https://growingholistically.com/discover-your-4-element-personhood-score/ 
-Make the spam folder sentence bold
-https://growingholistically.com/register/ 
-https://growingholistically.com/youve-been-redirected/ 
-Capitalize the S and the F
+
 For tabulator 
 https://growingholistically.com/join/ 
 https://growingholistically.com/the-four-element-scorecard/ 
@@ -219,13 +216,6 @@ Combine those two pages
 Add tabulator instructions to the tabulators 
 Change the months to month 1 month 2 month 3 etc instead of month names
 Also add to  https://growingholistically.com/the-four-element-scorecard/ 
-https://growingholistically.com/wellness-check/ 
-change wellness self new to wellness check
-Change link to the scorecard page, not join page
-Remove the 30 day challenge text, his scorecard tabulator 
-On the wellness check itself change the text at the bottom, no patreon
-Try dr w’s 30 day challenge using his scorecard/tabulator 
-Fix the bolded statement , don’t want to emphasize downloading it, maybe say take a screen shot, or to take a note of their score
 Change personhood score to the four element holistic balance score on the whole site, and the assessment
 
 
