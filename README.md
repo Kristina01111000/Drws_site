@@ -7,7 +7,9 @@ February: 5 hour 50 min -> recieved
 
 March: 10 hour 40 min -> recieved
 
-April: 12 hour 55 min
+April: 13 hour 0 min
+
+May: 15 min
 
 plugins im using on site:
 
@@ -207,13 +209,6 @@ THE HEALERS CAFE WITH MARION BOLLIGER - 4/10/25 Podcast Interview -
 I will be the one to talk to diane about the instagram and facebook
 -> need the new copy of the book
 Look at the title https://growingholistically.com/discover-your-4-element-personhood-score/ 
-
-For tabulator 
-https://growingholistically.com/join/ 
-https://growingholistically.com/the-four-element-scorecard/ 
-Add desktop and cellphone version on that page, direct links 
-Combine those two pages
-
 
 
 made new email for next week? ask him on thursday
