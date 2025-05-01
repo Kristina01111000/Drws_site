@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min
 
-May: 15 min
+May: 55 min
 
 plugins im using on site:
 
