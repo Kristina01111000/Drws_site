@@ -202,7 +202,7 @@ BOOK STUFF
 4/24
 Make the podcast info -> need the new copy of the book
 coming out june 21stish https://thelaurajanelaytonshow.com/ 
- SOUNDBITES WITH KIM GROSHEK - Podcast Interview: (NOTE: This was originally scheduled for March 26)
+SOUNDBITES WITH KIM GROSHEK - Podcast Interview: (NOTE: This was originally scheduled for March 26)
 XQ-SLESS: THE WELLNESS SUPPORT PODCAST WITH LAURA JANE LAYTON: Scheduled to be live on ~6.21.25
 DAD TALKS PODCAST WITH SCOTT MANOR AND ZACHARY MILLER: EMAIL dadtalks.2025@gmail.com   
 THE HEALERS CAFE WITH MARION BOLLIGER - 4/10/25 Podcast Interview -
@@ -210,8 +210,6 @@ I will be the one to talk to diane about the instagram and facebook
 -> need the new copy of the book
 Look at the title https://growingholistically.com/discover-your-4-element-personhood-score/ 
 
-
-made new email for next week? ask him on thursday
 
 
 5/1
