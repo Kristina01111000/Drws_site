@@ -212,3 +212,15 @@ Look at the title https://growingholistically.com/discover-your-4-element-person
 
 
 made new email for next week? ask him on thursday
+
+
+5/1
+Figure out the titles for personhood score and tabulator too similar
+Holistic life tabulator
+Email him some options on monday so he can think about them
+Change it to scorecard-tabulator
+Send the email we went over on monday around noon
+Make more emails like the on e he send
+Make the podcast list page, there’s enough now
+Check on the other podcasts in the page he sent, when they are up, make an email for them
+
