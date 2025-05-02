@@ -123,11 +123,6 @@ Are you interested in seeing how the four elements impact your life? Consider tr
 11/7
 - Write some comments for the wellness check chat
 
-for next week:
-
-- For the freebies section, he's going to give me access to the newest version of the book, take the first chapter, or the first 5ish pages, look and see what makes the most sense
-- Check to see if anyone has taken the 30 day challenge download
-
 
   1/23/25
 - Figure out how to work the folders in constant contact, make it less confusing, figure out where archived emails go
@@ -143,7 +138,6 @@ For next week:
   
 2/27
 
-- He is going to make an email for drwalsdorf.com to send the emails from-> did this work??????
 - “4 Element Personhood Score” and tabulator on other sites
 	- Also on other websites
  - 	check all over this site also, i could have misssed some
