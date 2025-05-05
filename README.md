@@ -216,3 +216,5 @@ Make more emails like the on e he send
 Make the podcast list page, there’s enough now
 Check on the other podcasts in the page he sent, when they are up, make an email for them
 constant contact email issue site problem
+make the videos private on youtube and link to them from the iste
+ask about puttiing the private videos straight into the lesson, or just linking to the youtube playlist
