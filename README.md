@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min
 
-May: 1 hour 15 min
+May: 1 hour 30 min
 
 plugins im using on site:
 
@@ -207,9 +207,7 @@ Look at the title https://growingholistically.com/discover-your-4-element-person
 
 
 5/1
-Figure out the titles for personhood score and tabulator too similar
-Holistic life tabulator
-Email him some options on monday so he can think about them
+
 Change it to scorecard-tabulator
 Send the email we went over on monday around noon
 Make more emails like the on e he send
