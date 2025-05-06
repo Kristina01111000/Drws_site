@@ -208,15 +208,12 @@ Look at the title https://growingholistically.com/discover-your-4-element-person
 
 5/1
 
-Change it to scorecard-tabulator
-Send the email we went over on monday around noon
-Make more emails like the on e he send
-Make the podcast list page, there’s enough now
-Check on the other podcasts in the page he sent, when they are up, make an email for them
-make the videos private on youtube and link to them from the iste
-ask about puttiing the private videos straight into the lesson, or just linking to the youtube playlist
+- Make more emails like the one he sent
+- Make the podcast list page, there’s enough now, copy to other site?
+- Check on the other podcasts in the page he sent, when they are up, make an email for them
+- make the videos private on youtube and link to them from the iste
+- ask about puttiing the private videos straight into the lesson, or just linking to the youtube playlist
 
 new names:
-View your own "4 Elements in Me Graph”
-
-Use our "Life Balance Scorecard & Daily Tabulator"
+- View your own "4 Elements in Me Graph”
+- Use our "Life Balance Scorecard & Daily Tabulator"
