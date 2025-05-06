@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min
 
-May: 1 hour 30 min
+May: 1 hour 40 min
 
 plugins im using on site:
 
@@ -213,6 +213,10 @@ Send the email we went over on monday around noon
 Make more emails like the on e he send
 Make the podcast list page, there’s enough now
 Check on the other podcasts in the page he sent, when they are up, make an email for them
-constant contact email issue site problem
 make the videos private on youtube and link to them from the iste
 ask about puttiing the private videos straight into the lesson, or just linking to the youtube playlist
+
+new names:
+View your own "4 Elements in Me Graph”
+
+Use our "Life Balance Scorecard & Daily Tabulator"
