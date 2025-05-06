@@ -217,3 +217,6 @@ Look at the title https://growingholistically.com/discover-your-4-element-person
 new names:
 - View your own "4 Elements in Me Graph”
 - Use our "Life Balance Scorecard & Daily Tabulator"
+
+
+- double check that constant contact wasn't hacked
