@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min
 
-May: 3 hour 15 min
+May: 4 hour 0 min
 
 plugins im using on site:
 
@@ -211,7 +211,6 @@ Look at the title https://growingholistically.com/discover-your-4-element-person
 - Make more emails like the one he sent
 - Make the podcast list page, there’s enough now, copy to other site?
 - Check on the other podcasts in the page he sent, when they are up, make an email for them
-- make the videos private on youtube and link to them from the iste
 
 - ask about puttiing the private videos straight into the lesson, or just linking to the youtube playlist
 
