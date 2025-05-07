@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min
 
-May: 4 hour 30 min
+May: 4 hour 45 min
 
 plugins im using on site:
 
@@ -215,6 +215,6 @@ Look at the title https://growingholistically.com/discover-your-4-element-person
 - ask about puttiing the private videos straight into the lesson, or just linking to the youtube playlist
 
 new names:
-- View your own "4 Elements in Me Graph”
+- View your own "4 Elements in Me Graph” doneish
 - Use our "Life Balance Scorecard & Daily Tabulator" doneish
 
