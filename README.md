@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min
 
-May: 5 hour 0 min
+May: 5 hour 25 min
 
 plugins im using on site:
 
@@ -208,13 +208,8 @@ Look at the title https://growingholistically.com/discover-your-4-element-person
 
 5/1
 
-- Make more emails like the one he sent
 - Make the podcast list page, there’s enough now, copy to other site?
 - Check on the other podcasts in the page he sent, when they are up, make an email for them
 
-- ask about puttiing the private videos straight into the lesson, or just linking to the youtube playlist
-
-new names:
-- View your own "4 Elements in Me Graph” doneish
-- Use our "Life Balance Scorecard & Daily Tabulator" doneish
+5/8
 
