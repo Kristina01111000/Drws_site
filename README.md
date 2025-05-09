@@ -213,3 +213,4 @@ Look at the title https://growingholistically.com/discover-your-4-element-person
 
 5/8
 
+GH is replacing the patreon
