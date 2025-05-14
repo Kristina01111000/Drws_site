@@ -7,7 +7,7 @@ February: 5 hour 50 min -> recieved
 
 March: 10 hour 40 min -> recieved
 
-April: 13 hour 0 min
+April: 13 hour 0 min -> sent
 
 May: 6 hour 55 min
 
@@ -216,9 +216,6 @@ Look at the title https://growingholistically.com/discover-your-4-element-person
 GH is replacing the patreon
 - look at all the links he sent
 
-See if the title on the email can be bolded
-Change it  to “Dr. W, a podcast guest - again!”
-Think about other titles
 Now that the plan is not to push the patreon should I add the learning program videos to that page that the lessons are on?  YES
 For youtube, focus on the for patients series, four element yoga, 
 Figure out why border is not showing up on the https://growingholistically.com/four-element-yoga/  and fix it
