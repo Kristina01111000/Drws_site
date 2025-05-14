@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> sent
 
-May: 8 hour 30 min
+May: 8 hour 40 min
 
 plugins im using on site:
 
@@ -218,11 +218,7 @@ GH is replacing the patreon
 
 For youtube, focus on the for patients series, four element yoga, 
 Figure out why border is not showing up on the https://growingholistically.com/four-element-yoga/  and fix it
-Make the other bullet points be more centered
-https://growingholistically.com/four-element-yoga/ this page is going to be a helps with tab in the menu under the 
 change the four elements in me graph to “four elements in me” graph, do that on the site and in the pdf
-Add a link to quick minutes where it was, just a link to the youtube playlist
-Make a quick minutes page like the yoga page, put around 20 on it, with a description of them that's a couple sentences long, then link to the playlist below  them
 Think of any other things that should be added to the site b/c it is replacing the patreon account
 
 - sent podcast email
