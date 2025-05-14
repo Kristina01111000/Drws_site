@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> sent
 
-May: 6 hour 55 min
+May: 7 hour 30 min
 
 plugins im using on site:
 
@@ -216,7 +216,6 @@ Look at the title https://growingholistically.com/discover-your-4-element-person
 GH is replacing the patreon
 - look at all the links he sent
 
-Now that the plan is not to push the patreon should I add the learning program videos to that page that the lessons are on?  YES
 For youtube, focus on the for patients series, four element yoga, 
 Figure out why border is not showing up on the https://growingholistically.com/four-element-yoga/  and fix it
 Match the rest of the columns to help for your shoulder
@@ -226,10 +225,6 @@ https://growingholistically.com/four-element-yoga/ this page is going to be a he
 Put the stuff at the top of https://growingholistically.com/four-element-yoga/ on the benefits page at the bottom, 
 Switch the four element yoga page to just be about four element yoga, and link to it from the getting started page, and the menu under the course
 change the four elements in me graph to “four elements in me” graph, do that on the site and in the pdf
-Life Balance Scorecard & Daily Tabulator changes good?
-https://growingholistically.com/the-four-element-scorecard/ 
-Add the word holistic in a few places, not the title
-Get rid of link to patreon from the title
 Add a link to quick minutes where it was, just a link to the youtube playlist
 Make a quick minutes page like the yoga page, put around 20 on it, with a description of them that's a couple sentences long, then link to the playlist below  them
 Think of any other things that should be added to the site b/c it is replacing the patreon account
