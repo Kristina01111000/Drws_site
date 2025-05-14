@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> sent
 
-May: 9 hour 0 min
+May: 9 hour 30 min
 
 plugins im using on site:
 
@@ -213,7 +213,6 @@ Look at the title https://growingholistically.com/discover-your-4-element-person
 
 5/8
 
-- For youtube, focus on the for patients series, 
 - Figure out why border is not showing up on the https://growingholistically.com/four-element-yoga/  and fix it
 - change the four elements in me graph to “four elements in me” graph, do that on the site and in the pdf
 - Think of any other things that should be added to the site b/c it is replacing the patreon account
