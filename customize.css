@@ -54,12 +54,13 @@ body .wp-block-columns .wp-block-column {
 }
 
 
-// adds a small border around groups with the additional css class customgroup on homepage
+// adds a small border around groups with the additional css class customgroup 
 .customgroup{
-    padding: 10px;
-    border: 1px solid #ccc;
+    	padding: 10px;
+	margin: 0px 10px 5px;
+    	border: 3px solid #ccc;
+	border-radius: 10px;
 }
-
 // added padding to youtube videos
 .wp-block-embed-youtube {
     padding: 5% 10%;  
