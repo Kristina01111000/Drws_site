@@ -7,7 +7,7 @@ February: 5 hour 50 min -> recieved
 
 March: 10 hour 40 min -> recieved
 
-April: 13 hour 0 min -> sent
+April: 13 hour 0 min -> recieved
 
 May: 11 hour 25 min
 
@@ -222,26 +222,27 @@ Look at the title https://growingholistically.com/discover-your-4-element-person
 
 5/15
 For Next week:
-Make a quick minutes page like the yoga page, put 2 on it, with a description of them that's a couple sentences long, then link to the playlist on youtube below them
-change the four elements in me graph to “four elements in me” graph, do that on the site and in the pdf
-Match border of everything else to yoga page 
-Look into when dads podcast is coming out
-https://soundbits.simplecast.com/episodes/ancient-wisdom-meets-modern-healing-with-dr-howard-waldorf listen to it and see if it is worth sending an email out to everyone 
-Hes filming podcast with andrew from australia - get podcast name from him
-On gh i added lines on the menus to make them easier to read, do you like them? Make the drop down menu not look like paper, maybe change the menu color, maybe make them bigger and softer
-Watch the video https://growingholistically.com/the-four-element-scorecard/ and see if it is still good
-Change title, also fix the name on the page to scorecard/tabulator activities https://growingholistically.com/scorecard-activities/ 
-Same thing as above https://growingholistically.com/activities-more-detail/ 
-Move the holistic four element course onto the header menu, not the drop down, switch it back to “learning program” put before community
-Make page for four element nutrition, figure out what to put on it, using nutrition, nutrition and you
-Think of more header items, like nutrition, yoga, make the pages, he might send me something for it, yoga and you, make the pages 
-On https://growingholistically.com/benefits-of-the-4-element-self-renewal-system/ make the bullets line up better
-Also add the squares picture to the bottom to see if it adds anything
-For lessons, no text on top b/c cell phones
-Look again for origins lesson on youtube, email him if its not there 
-Make the green one bigger https://growingholistically.com/four-element-yoga/ 
-Make the pictures better also
-Email him to create text for the yoga and you page https://growingholistically.com/four-element-yoga/ , and email me the link to the podcast he filmed with the guy in australia, also text for the nutrition and you page, also text for the https://growingholistically.com/advice-for-patients/ page
-Find nutrition vidoes for the nutrition page
-https://growingholistically.com/links-to-dr-ws-videos/ make the links right, add it to the header menu “Dr. W’s video collection”
-Fix the links  https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
+- Make a quick minutes page like the yoga page, put 2 on it, with a description of them that's a couple sentences long, then link to the playlist on youtube below them
+- change the four elements in me graph to “four elements in me” graph, do that on the site and in the pdf
+- Match border of everything else to yoga page 
+- Look into when dads podcast is coming out
+- https://soundbits.simplecast.com/episodes/ancient-wisdom-meets-modern-healing-with-dr-howard-waldorf listen to it and see if it is worth sending an email out to everyone 
+- Hes filming podcast with andrew from australia - get podcast name from him
+- On gh i added lines on the menus to make them easier to read, do you like them? Make the drop down menu not look like paper, maybe change the menu color, maybe make them bigger and softer
+- Watch the video https://growingholistically.com/the-four-element-scorecard/ and see if it is still good
+- Change title, also fix the name on the page to scorecard/tabulator activities https://growingholistically.com/scorecard-activities/ 
+- Same thing as above https://growingholistically.com/activities-more-detail/ 
+- Move the holistic four element course onto the header menu, not the drop down, switch it back to “learning program” put before community
+- Make page for four element nutrition, figure out what to put on it, using nutrition, nutrition and you
+- Think of more header items, like nutrition, yoga, make the pages, he might send me something for it, yoga and you, make the pages 
+- On https://growingholistically.com/benefits-of-the-4-element-self-renewal-system/ make the bullets line up better
+- Also add the squares picture to the bottom to see if it adds anything
+- For lessons, no text on top b/c cell phones
+- Look again for origins lesson on youtube, email him if its not there 
+- Make the green one bigger https://growingholistically.com/four-element-yoga/ 
+- Make the pictures better also
+- Email him to create text for the yoga and you page https://growingholistically.com/four-element-yoga/ , and email me the link to the podcast he filmed with the guy in australia, also text for the nutrition and you page, also text for the https://growingholistically.com/advice-for-patients/ page
+- Find nutrition vidoes for the nutrition page
+- https://growingholistically.com/links-to-dr-ws-videos/ make the links right, add it to the header menu “Dr. W’s video collection”
+- Fix the links  https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
+- put the email five pages into the site
