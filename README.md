@@ -233,7 +233,6 @@ For Next week:
 - Change title, also fix the name on the page to scorecard/tabulator activities https://growingholistically.com/scorecard-activities/ 
 - Same thing as above https://growingholistically.com/activities-more-detail/ 
 - Move the holistic four element course onto the header menu, not the drop down, switch it back to “learning program” put before community
-- Make page for four element nutrition, figure out what to put on it, using nutrition, nutrition and you
 - On https://growingholistically.com/benefits-of-the-4-element-self-renewal-system/ make the bullets line up better
 - Also add the squares picture to the bottom to see if it adds anything
 - For lessons, no text on top b/c cell phones
@@ -244,9 +243,6 @@ For Next week:
 - Find nutrition vidoes for the nutrition page
 - https://growingholistically.com/links-to-dr-ws-videos/ make the links right, add it to the header menu “Dr. W’s video collection”
 - Fix the links  https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
-- put the email five pages into the site
-
-
 
 
 -> nutrition page ->>> waiting on response from him
