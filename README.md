@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> recieved
 
-May: 11 hour 45 min
+May: 11 hour 55 min
 
 plugins im using on site:
 
@@ -234,7 +234,6 @@ For Next week:
 - Same thing as above https://growingholistically.com/activities-more-detail/ 
 - Move the holistic four element course onto the header menu, not the drop down, switch it back to “learning program” put before community
 - Make page for four element nutrition, figure out what to put on it, using nutrition, nutrition and you
-- Think of more header items, like nutrition, yoga, make the pages, he might send me something for it, yoga and you, make the pages 
 - On https://growingholistically.com/benefits-of-the-4-element-self-renewal-system/ make the bullets line up better
 - Also add the squares picture to the bottom to see if it adds anything
 - For lessons, no text on top b/c cell phones
@@ -250,4 +249,6 @@ For Next week:
 
 
 
--> nutrition page started
+-> nutrition page ->>> waiting on response from him
+-> yoga page (3 documents in email)->>> need to start
+-> Holistic advice page ->>> need to make changes from document in email
