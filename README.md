@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> recieved
 
-May: 11 hour 25 min
+May: 11 hour 45 min
 
 plugins im using on site:
 
@@ -246,3 +246,8 @@ For Next week:
 - https://growingholistically.com/links-to-dr-ws-videos/ make the links right, add it to the header menu “Dr. W’s video collection”
 - Fix the links  https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
 - put the email five pages into the site
+
+
+
+
+-> nutrition page started
