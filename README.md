@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> recieved
 
-May: 12 hour 20 min
+May: 12 hour 45 min
 
 plugins im using on site:
 
@@ -253,5 +253,5 @@ For Next week:
 
 for tabulator: 
 - make colors match the logo (like on personhood score) -> changed the first sheet, waiting on confirmation
-- make the links open up in a new tab
+- make the links open up in a new tab  -> where are they not opening in the last tab?
 - fix the image on the page
