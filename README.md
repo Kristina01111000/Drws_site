@@ -252,5 +252,6 @@ For Next week:
 
 
 for tabulator: 
-make colors match the logo (like on personhood score) -> changed the first sheet, waiting on confirmation
-make the links open up in a new tab
+- make colors match the logo (like on personhood score) -> changed the first sheet, waiting on confirmation
+- make the links open up in a new tab
+- fix the image on the page
