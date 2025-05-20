@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> recieved
 
-May: 11 hour 55 min
+May: 12 hour 0 min
 
 plugins im using on site:
 
@@ -248,3 +248,9 @@ For Next week:
 -> nutrition page ->>> waiting on response from him
 -> yoga page (3 documents in email)->>> need to start
 -> Holistic advice page ->>> need to make changes from document in email
+
+
+
+for tabulator: 
+make colors match the logo (likek on personhood score)
+make the links open up in a new tab
