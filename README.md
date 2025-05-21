@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> recieved
 
-May: 13 hour 55 min
+May: 14 hour 55 min
 
 plugins im using on site:
 
@@ -230,24 +230,17 @@ For Next week:
 - Hes filming podcast with andrew from australia - get podcast name from him
 - On gh i added lines on the menus to make them easier to read, do you like them? Make the drop down menu not look like paper, maybe change the menu color, maybe make them bigger and softer
 - Watch the video https://growingholistically.com/the-four-element-scorecard/ and see if it is still good
-- Move the holistic four element course onto the header menu, not the drop down, switch it back to “learning program” put before community
 - On https://growingholistically.com/benefits-of-the-4-element-self-renewal-system/ make the bullets line up better
 - Also add the squares picture to the bottom to see if it adds anything
-- For lessons, no text on top b/c cell phones
 - Look again for origins lesson on youtube, email him if its not there 
 - Make the green one bigger https://growingholistically.com/four-element-yoga/ 
 - Make the pictures better also
-- Email him to create text for the yoga and you page https://growingholistically.com/four-element-yoga/ , and email me the link to the podcast he filmed with the guy in australia, also text for the nutrition and you page, also text for the https://growingholistically.com/advice-for-patients/ page
-- Find nutrition vidoes for the nutrition page
 - https://growingholistically.com/links-to-dr-ws-videos/ make the links right, add it to the header menu “Dr. W’s video collection”
 - Fix the links  https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
 
 
--> nutrition page ->>> waiting on response from him
-
 
 
 for tabulator: 
-- make colors match the logo (like on personhood score) -> changed the first sheet, waiting on confirmation
 - make the links open up in a new tab  -> where are they not opening in the last tab?
 - fix the image on the page
