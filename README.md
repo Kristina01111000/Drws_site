@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> recieved
 
-May: 12 hour 45 min
+May: 13 hour 30 min
 
 plugins im using on site:
 
@@ -246,7 +246,6 @@ For Next week:
 
 
 -> nutrition page ->>> waiting on response from him
--> yoga page (3 documents in email)->>> need to start
 -> Holistic advice page ->>> need to make changes from document in email
 
 
