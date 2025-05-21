@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> recieved
 
-May: 14 hour 55 min
+May: 15 hour 15 min
 
 plugins im using on site:
 
@@ -226,17 +226,12 @@ For Next week:
 - change the four elements in me graph to “four elements in me” graph, do that on the site and in the pdf
 - Match border of everything else to yoga page 
 - Look into when dads podcast is coming out
-- https://soundbits.simplecast.com/episodes/ancient-wisdom-meets-modern-healing-with-dr-howard-waldorf listen to it and see if it is worth sending an email out to everyone 
 - Hes filming podcast with andrew from australia - get podcast name from him
-- On gh i added lines on the menus to make them easier to read, do you like them? Make the drop down menu not look like paper, maybe change the menu color, maybe make them bigger and softer
 - Watch the video https://growingholistically.com/the-four-element-scorecard/ and see if it is still good
 - On https://growingholistically.com/benefits-of-the-4-element-self-renewal-system/ make the bullets line up better
 - Also add the squares picture to the bottom to see if it adds anything
-- Look again for origins lesson on youtube, email him if its not there 
 - Make the green one bigger https://growingholistically.com/four-element-yoga/ 
 - Make the pictures better also
-- https://growingholistically.com/links-to-dr-ws-videos/ make the links right, add it to the header menu “Dr. W’s video collection”
-- Fix the links  https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
 
 
 
