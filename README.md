@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> recieved
 
-May: 13 hour 30 min
+May: 13 hour 55 min
 
 plugins im using on site:
 
@@ -230,8 +230,6 @@ For Next week:
 - Hes filming podcast with andrew from australia - get podcast name from him
 - On gh i added lines on the menus to make them easier to read, do you like them? Make the drop down menu not look like paper, maybe change the menu color, maybe make them bigger and softer
 - Watch the video https://growingholistically.com/the-four-element-scorecard/ and see if it is still good
-- Change title, also fix the name on the page to scorecard/tabulator activities https://growingholistically.com/scorecard-activities/ 
-- Same thing as above https://growingholistically.com/activities-more-detail/ 
 - Move the holistic four element course onto the header menu, not the drop down, switch it back to “learning program” put before community
 - On https://growingholistically.com/benefits-of-the-4-element-self-renewal-system/ make the bullets line up better
 - Also add the squares picture to the bottom to see if it adds anything
@@ -246,7 +244,6 @@ For Next week:
 
 
 -> nutrition page ->>> waiting on response from him
--> Holistic advice page ->>> need to make changes from document in email
 
 
 
