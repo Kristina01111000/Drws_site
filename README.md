@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> recieved
 
-May: 15 hour 15 min
+May: 15 hour 30 min
 
 plugins im using on site:
 
@@ -224,13 +224,8 @@ Look at the title https://growingholistically.com/discover-your-4-element-person
 For Next week:
 - Make a quick minutes page like the yoga page, put 2 on it, with a description of them that's a couple sentences long, then link to the playlist on youtube below them
 - change the four elements in me graph to “four elements in me” graph, do that on the site and in the pdf
-- Match border of everything else to yoga page 
 - Look into when dads podcast is coming out
 - Hes filming podcast with andrew from australia - get podcast name from him
-- Watch the video https://growingholistically.com/the-four-element-scorecard/ and see if it is still good
-- On https://growingholistically.com/benefits-of-the-4-element-self-renewal-system/ make the bullets line up better
-- Also add the squares picture to the bottom to see if it adds anything
-- Make the green one bigger https://growingholistically.com/four-element-yoga/ 
 - Make the pictures better also
 
 
