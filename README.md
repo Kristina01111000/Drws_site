@@ -251,5 +251,6 @@ Four element magazine make a page for it, copy the text from videos page
 Need a new page for the self renewal system -> email him about this, it is on patreon, see if it is on youtube
 https://growingholistically.com/four-element-yoga/ get better thumbnail images
 For quick minutes page take a screenshot of the playlist and make it hot
-Send him an email to put the rest of the 4 element yoga videos onto the youtube, also the self renewal system videos are on youtube, paragraph for the quick minutes page https://growingholistically.com/quick-minutes/ 
 Make the forms online have a 1 - 5 slider, patients would grade certain issues in that context, he will send it to me wpforms, history form, patient narrative, volunteers for an exercise study, reasonably well-functioning seniors
+
+-> he sent an email for the nutrition page
