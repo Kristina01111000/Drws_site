@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> recieved
 
-May: 17 hour 25 min
+May: 18 hour 10 min
 
 plugins im using on site:
 
@@ -254,4 +254,4 @@ For quick minutes page take a screenshot of the playlist and make it hot
 Make the forms online have a 1 - 5 slider, patients would grade certain issues in that context, he will send it to me wpforms, history form, patient narrative, volunteers for an exercise study, reasonably well-functioning seniors
 
 -> he sent an email for the nutrition page
--> finish health history form
+-> finish health history form ->>>> waiting on feedback
