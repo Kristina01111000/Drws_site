@@ -238,7 +238,6 @@ for tabulator:
 5/22
 For next week:
 
-He’s going to send me the australian podcast name -Andrew white - in email
 https://growingholistically.com/nutrition-and-you/ remove the foot poem form the start of the pdf
 https://growingholistically.com/yoga-and-you-continued/ get a pdf of the text and put it on the page, get the yoga parts of the pdf out of the file he sent, get rid of the text
 https://growingholistically.com/links-to-dr-ws-videos/  
@@ -247,5 +246,4 @@ https://growingholistically.com/four-element-yoga/ get better thumbnail images
 For quick minutes page take a screenshot of the playlist and make it hot
 Make the forms online have a 1 - 5 slider, patients would grade certain issues in that context, he will send it to me wpforms, history form, patient narrative, volunteers for an exercise study, reasonably well-functioning seniors
 
--> he sent an email for the nutrition page
 -> finish health history form ->>>> waiting on feedback
