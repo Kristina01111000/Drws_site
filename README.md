@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> recieved
 
-May: 18 hour 40 min
+May: 19 hour 20 min
 
 plugins im using on site:
 
@@ -237,15 +237,12 @@ for tabulator:
 
 5/22
 For next week:
-https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit?gid=1517792507#gid=1517792507 switch the colors to be on one line only, make the yellow the darker yellow, make the words white, when done send it to stephen
+
 He’s going to send me the australian podcast name -Andrew white - in email
 https://growingholistically.com/nutrition-and-you/ remove the foot poem form the start of the pdf
 https://growingholistically.com/yoga-and-you-continued/ get a pdf of the text and put it on the page, get the yoga parts of the pdf out of the file he sent, get rid of the text
 https://growingholistically.com/links-to-dr-ws-videos/  
-Make a link for the self renewal system videos, 
-Make sure they are on youtube,if they aren’t there email him
 Four element magazine make a page for it, copy the text from videos page
-Need a new page for the self renewal system -> email him about this, it is on patreon, see if it is on youtube
 https://growingholistically.com/four-element-yoga/ get better thumbnail images
 For quick minutes page take a screenshot of the playlist and make it hot
 Make the forms online have a 1 - 5 slider, patients would grade certain issues in that context, he will send it to me wpforms, history form, patient narrative, volunteers for an exercise study, reasonably well-functioning seniors
