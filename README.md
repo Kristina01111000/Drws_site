@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> recieved
 
-May: 19 hour 40 min
+May: 19 hour 50 min
 
 plugins im using on site:
 
@@ -243,7 +243,5 @@ https://growingholistically.com/yoga-and-you-continued/ get a pdf of the text an
 https://growingholistically.com/links-to-dr-ws-videos/  
 Four element magazine make a page for it, copy the text from videos page
 https://growingholistically.com/four-element-yoga/ get better thumbnail images
-For quick minutes page take a screenshot of the playlist and make it hot
-Make the forms online have a 1 - 5 slider, patients would grade certain issues in that context, he will send it to me wpforms, history form, patient narrative, volunteers for an exercise study, reasonably well-functioning seniors
 
 -> finish health history form ->>>> waiting on feedback
