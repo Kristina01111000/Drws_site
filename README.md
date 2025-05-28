@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> recieved
 
-May: 19 hour 50 min
+May: 20 hour 10 min
 
 plugins im using on site:
 
@@ -238,8 +238,6 @@ for tabulator:
 5/22
 For next week:
 
-https://growingholistically.com/nutrition-and-you/ remove the foot poem form the start of the pdf
-https://growingholistically.com/yoga-and-you-continued/ get a pdf of the text and put it on the page, get the yoga parts of the pdf out of the file he sent, get rid of the text
 https://growingholistically.com/links-to-dr-ws-videos/  
 Four element magazine make a page for it, copy the text from videos page
 https://growingholistically.com/four-element-yoga/ get better thumbnail images
