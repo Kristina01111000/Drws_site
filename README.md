@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> recieved
 
-May: 20 hour 10 min
+May: 20 hour 30 min
 
 plugins im using on site:
 
@@ -238,8 +238,6 @@ for tabulator:
 5/22
 For next week:
 
-https://growingholistically.com/links-to-dr-ws-videos/  
-Four element magazine make a page for it, copy the text from videos page
 https://growingholistically.com/four-element-yoga/ get better thumbnail images
 
 -> finish health history form ->>>> waiting on feedback
