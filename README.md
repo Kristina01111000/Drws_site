@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> recieved
 
-May: 20 hour 30 min
+May: 22 hour 0 min
 
 plugins im using on site:
 
@@ -241,3 +241,28 @@ For next week:
 https://growingholistically.com/four-element-yoga/ get better thumbnail images
 
 -> finish health history form ->>>> waiting on feedback
+
+
+5/29
+Add pages to the https://growingholistically.com/links-to-dr-ws-videos/ page
+Quick minutes
+Magazine
+Self renewal ssystem 
+Add pages to the https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ page
+Send stephen the opy of the image of the tabulator for fourelementdoctor site
+Health history form, all medium on likert scale
+See if i can change the likert scale dot to green with css
+He is going to buy the basic plan
+Add the health history to the title, also the scale
+Add all of the other likert scales
+on nutrition page put the new pdf from  in , check images first https://docs.google.com/document/d/1G_GbkO_r_osaP9LwumLjTatTKPCaF7xT/edit?rtpof=true&sd=true&tab=t.0 
+Email him if there is a formatting error
+On yoga & you continued get a new pdf, the formatting is messed up
+Email him about fixing the formatting on the yoga & you continued page pdf
+He needs to get the renewal system videos and the four element magazine videos on youtube
+When i get the pdf fix it on the yoga & you continued page
+Change the thumbnails in the self renewal system, if i can’t find a better frame for the thumbnail 
+Change 4 Elements in Me Graph back to “4 element personhood score”
+For quick minutes page pick one good one to have on the page, 
+Pick the order of the playlist, put the best quick minute at the top
+
