@@ -245,13 +245,12 @@ https://growingholistically.com/four-element-yoga/ get better thumbnail images
 Add pages to the https://growingholistically.com/links-to-dr-ws-videos/ page
 Quick minutes
 Magazine
-Self renewal ssystem 
+Self renewal system 
 Add pages to the https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ page
 Send stephen the opy of the image of the tabulator for fourelementdoctor site
-Health history form, all medium on likert scale
+
 See if i can change the likert scale dot to green with css
-He is going to buy the basic plan
-Add the health history to the title, also the scale
+
 Add all of the other likert scales
 on nutrition page put the new pdf from  in , check images first https://docs.google.com/document/d/1G_GbkO_r_osaP9LwumLjTatTKPCaF7xT/edit?rtpof=true&sd=true&tab=t.0 
 Email him if there is a formatting error
