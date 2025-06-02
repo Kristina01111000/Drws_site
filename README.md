@@ -11,6 +11,8 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 20 min
 
+June: 10 min
+
 plugins im using on site:
 
 - peepso -> auto updates still not working, caused by something in the backend? still not working the way they should
@@ -263,3 +265,4 @@ Change 4 Elements in Me Graph back to “4 element personhood score”
 For quick minutes page pick one good one to have on the page, 
 Pick the order of the playlist, put the best quick minute at the top
 
+- look at the videos links in email
