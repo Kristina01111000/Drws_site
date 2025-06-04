@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 20 min
 
-June: 30 min
+June: 45 min
 
 plugins im using on site:
 
@@ -250,9 +250,6 @@ https://growingholistically.com/four-element-yoga/ get better thumbnail images
 - Self renewal system 
 - Add pages to the https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ page
 - Send stephen the opy of the image of the tabulator for fourelementdoctor site
-
-- See if i can change the likert scale dot to green with css
-
 
 - on nutrition page put the new pdf from  in , check images first https://docs.google.com/document/d/1G_GbkO_r_osaP9LwumLjTatTKPCaF7xT/edit?rtpof=true&sd=true&tab=t.0 
 - Email him if there is a formatting error
