@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 20 min
 
-June: 10 min
+June: 30 min
 
 plugins im using on site:
 
@@ -244,26 +244,26 @@ https://growingholistically.com/four-element-yoga/ get better thumbnail images
 
 
 5/29
-Add pages to the https://growingholistically.com/links-to-dr-ws-videos/ page
-Quick minutes
-Magazine
-Self renewal system 
-Add pages to the https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ page
-Send stephen the opy of the image of the tabulator for fourelementdoctor site
+- Add pages to the https://growingholistically.com/links-to-dr-ws-videos/ page
+- Quick minutes
+- Magazine
+- Self renewal system 
+- Add pages to the https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ page
+- Send stephen the opy of the image of the tabulator for fourelementdoctor site
 
-See if i can change the likert scale dot to green with css
+- See if i can change the likert scale dot to green with css
 
-Add all of the other likert scales
-on nutrition page put the new pdf from  in , check images first https://docs.google.com/document/d/1G_GbkO_r_osaP9LwumLjTatTKPCaF7xT/edit?rtpof=true&sd=true&tab=t.0 
-Email him if there is a formatting error
-On yoga & you continued get a new pdf, the formatting is messed up -> still need it
-He needs to get the renewal system videos and the four element magazine videos on youtube
+
+- on nutrition page put the new pdf from  in , check images first https://docs.google.com/document/d/1G_GbkO_r_osaP9LwumLjTatTKPCaF7xT/edit?rtpof=true&sd=true&tab=t.0 
+- Email him if there is a formatting error
+- On yoga & you continued get a new pdf, the formatting is messed up -> still need it
+- He needs to get the renewal system videos and the four element magazine videos on youtube
 - renewal is up, magazine is not
-When i get the pdf fix it on the yoga & you continued page
-Change the thumbnails in the self renewal system, if i can’t find a better frame for the thumbnail 
-Change 4 Elements in Me Graph back to “4 element personhood score”
-For quick minutes page pick one good one to have on the page, 
-Pick the order of the playlist, put the best quick minute at the top
+- When i get the pdf fix it on the yoga & you continued page
+- Change the thumbnails in the self renewal system, if i can’t find a better frame for the thumbnail 
+- Change 4 Elements in Me Graph back to “4 element personhood score”
+- For quick minutes page pick one good one to have on the page, 
+- Pick the order of the playlist, put the best quick minute at the top
 
 - look at the videos links in email
 - - do the right playlist, not the shorter one
