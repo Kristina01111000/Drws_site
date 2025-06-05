@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 20 min
 
-June: 2 hour 30 min
+June: 3 hour 50 min
 
 plugins im using on site:
 
@@ -252,4 +252,27 @@ https://growingholistically.com/four-element-yoga/ get better thumbnail images
 - On yoga & you continued get a new pdf, the formatting is messed up -> still need it
 - When i get the pdf fix it on the yoga & you continued page
 
+6/5
+For next week:
+Things i need from dr w:
+Yoga page pdf new version (or the file)
+Write  something for the health history form about what you are treating them for, they might have to sign something
+Add pages to the https://growingholistically.com/links-to-dr-ws-videos/ page
+Quick minutes
+Magazine
+Self renewal system 
+Add pages to the https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ page
+Go over changes https://growingholistically.com/health-history-form/  
+Add spaces above and below the 0 - 5 section
+Make the form visible for non-members
+Make the higher health goals centered
+Make the 0 - 5 text a different color, dark blue
+Change nutrition pdf  https://growingholistically.com/nutrition-and-you/
+Start at top and make the headings be on the correct page (140 looks bad)
+ 4 E magazine videos links in email, add them to youtube channel
+Then finish the magazine page
+Then finish the SRS page
+Publish the srs videos once they are named, unlisted, episode order
+Put yoga pdf on the yoga & you continued page
+Figure out the best way for him to get paid by people, probably paypal
 
