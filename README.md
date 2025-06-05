@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 20 min
 
-June: 2 hour 15 min
+June: 2 hour 30 min
 
 plugins im using on site:
 
@@ -251,6 +251,5 @@ https://growingholistically.com/four-element-yoga/ get better thumbnail images
 - Add pages to the https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ page
 - On yoga & you continued get a new pdf, the formatting is messed up -> still need it
 - When i get the pdf fix it on the yoga & you continued page
-- Change 4 Elements in Me Graph back to “4 element personhood score”
 
 
