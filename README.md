@@ -174,18 +174,6 @@ BOOK STUFF
 
 4/3
 - Make the new page for the podcast coming out june 21stish https://thelaurajanelaytonshow.com/ -> need pdf copy of new book
-- The youtube channel is https://www.youtube.com/@fourelementdoctor , need to be added by dr w
-- Posts for dr w? When he makes them? Articles by dr w, something like that, or dr w posts
-- Take the old emails and put them there
-- Put them on the header, somewhere where it makes sense, and make them available to anyone who wants to read them
-
-4/17
-
-- Add a paragraph or 2 explaining how to use the tabulator, add it to the page and to the actual tabulator
-- make sure the cellphone version is able to be accessed
-
-
-
 
 4/24
 Make the podcast info -> need the new copy of the book
@@ -196,14 +184,11 @@ DAD TALKS PODCAST WITH SCOTT MANOR AND ZACHARY MILLER: EMAIL dadtalks.2025@gmail
 THE HEALERS CAFE WITH MARION BOLLIGER - 4/10/25 Podcast Interview -
 I will be the one to talk to diane about the instagram and facebook
 -> need the new copy of the book
-Look at the title https://growingholistically.com/discover-your-4-element-personhood-score/ 
-
 
 
 5/1
 
 - Make the podcast list page, there’s enough now, copy to other site?
-- Check on the other podcasts in the page he sent, when they are up, make an email for them
 
 5/15
 For Next week:
