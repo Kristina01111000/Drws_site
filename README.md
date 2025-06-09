@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 20 min
 
-June: 3 hour 55 min
+June: 4 hour 5 min
 
 plugins im using on site:
 
@@ -269,7 +269,7 @@ Make the higher health goals centered
 Make the 0 - 5 text a different color, dark blue
 Change nutrition pdf  https://growingholistically.com/nutrition-and-you/
 Start at top and make the headings be on the correct page (140 looks bad)
- 4 E magazine videos links in email, add them to youtube channel
+ 4 E magazine videos links in email, add them to youtube channel -> can't go directly from the drive to youtube without an addon
 Then finish the magazine page
 Then finish the SRS page
 Publish the srs videos once they are named, unlisted, episode order
