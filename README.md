@@ -71,15 +71,12 @@ Notes:
     	- constant contact makes people choose which list to join if there is going to be more than 1 that they are added to, so only add them to one
 --------------------------------------------------------
 
-scorecard link:
-https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit#gid=1517792507
-
 - google doc for emails:https://docs.google.com/document/d/1Nc_WVsgZKdhpWaHZyDn81rw4y02Dlj2wB-O-q9ZnJXs/edit?usp=sharing
 
 For Emails:
 
 	- Send emails at 10 am on monday for newsletter
-	- Should focus on things added to the patreon, links and description, recipe?, seasonal blurb, makes sense to send it once a month
+	- Should focus on links and description, recipe?, seasonal blurb, makes sense to send it once a month
  	- set up the automated emails, only one per list
 	- test out email automation
 	- Have the email resend it after 3 days
@@ -115,9 +112,6 @@ For next week:
 
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
 
-4 element self assessment (With image of the assessment and also a hot link to it on GH):
-Are you interested in seeing how the four elements impact your life? Consider trying my 4E Holistic Self Assessment Tool.  It is a quick (5 minute), FREE, & fun way for you to see your unique balance of nature’s four elements! You score each question between 1 and 5 and once completed you will receive a pdf of several graphs showing how the elements balance within you!
-
   1/23/25
 - Figure out how to work the folders in constant contact, make it less confusing, figure out where archived emails go
 
@@ -129,29 +123,10 @@ For next week:
 	- Will need to setup the payments
 	- Will need to add the lessons
 	- Will need to make groups 
-  
-2/27
-
-- “4 Element Personhood Score” and tabulator on other sites
-	- Also on other websites
- - 	check all over this site also, i could have misssed some
-
-
-
-3/6
-
-- look at the new page edits to confirm
-  should be getting 1099 soon, not yet, ask on thursday
-
-
-
 
 3/13
 
 - Double check other sites are switched to tabulator
-- Next months email will be the documentary”dr w is very proud of this documentary that goes deep into exploring the wisdom of the four elements, when you have 30 minutes to spare it is worth seeing”
-
-
 
 BOOK STUFF
 - He will send me a new copy of the book with the new cover, put it on  https://growingholistically.com/free-book-sample/ 
@@ -165,7 +140,6 @@ BOOK STUFF
 - 2 books now, book 1 is a shorter version, 
 - Pdf is ready
 - Blurb contact?
-
 
 3/20
 
