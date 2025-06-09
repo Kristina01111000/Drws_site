@@ -118,12 +118,6 @@ For next week:
 4 element self assessment (With image of the assessment and also a hot link to it on GH):
 Are you interested in seeing how the four elements impact your life? Consider trying my 4E Holistic Self Assessment Tool.  It is a quick (5 minute), FREE, & fun way for you to see your unique balance of nature’s four elements! You score each question between 1 and 5 and once completed you will receive a pdf of several graphs showing how the elements balance within you!
 
-
-
-11/7
-- Write some comments for the wellness check chat
-
-
   1/23/25
 - Figure out how to work the folders in constant contact, make it less confusing, figure out where archived emails go
 
@@ -211,36 +205,15 @@ Look at the title https://growingholistically.com/discover-your-4-element-person
 - Make the podcast list page, there’s enough now, copy to other site?
 - Check on the other podcasts in the page he sent, when they are up, make an email for them
 
-5/8
-
-- Figure out why border is not showing up on the https://growingholistically.com/four-element-yoga/  and fix it
-- change the four elements in me graph to “four elements in me” graph, do that on the site and in the pdf
-- Think of any other things that should be added to the site b/c it is replacing the patreon account
-
-- sent podcast email
-
-
 5/15
 For Next week:
-- change the four elements in me graph to “four elements in me” graph, do that on the site and in the pdf
 - Look into when dads podcast is coming out
 - Hes filming podcast with andrew from australia - get podcast name from him
-- Make the pictures better also
-
-
-
-
-for tabulator: 
-- make the links open up in a new tab  -> where are they not opening in the last tab?
-- fix the image on the page
-
 
 5/22
 For next week:
 
 https://growingholistically.com/four-element-yoga/ get better thumbnail images
-
--> finish health history form ->>>> waiting on feedback
 
 
 5/29
