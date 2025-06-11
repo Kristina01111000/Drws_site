@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 15 min
 
-June: 4 hour 35 min
+June: 5 hour 15 min
 
 plugins im using on site:
 
@@ -205,7 +205,6 @@ For next week:
  - just one episode in my email, the other one is somewhere? look in the drive and see if i can download it
 - Then finish the magazine page
 - Then finish the SRS page
-- Publish the srs videos once they are named, unlisted, episode order
 - Put yoga pdf on the yoga & you continued page
 - Figure out the best way for him to get paid by people, probably paypal
 
