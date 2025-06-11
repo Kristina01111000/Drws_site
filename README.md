@@ -9,9 +9,9 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> recieved
 
-May: 22 hour 20 min
+May: 22 hour 15 min
 
-June: 4 hour 30 min
+June: 4 hour 35 min
 
 plugins im using on site:
 
@@ -97,6 +97,8 @@ When app is ready:
 
  
 - For fourelementinstitute and syracuse natural healing the security plugin caused a lockout again, look into getting a new one
+
+- https://www.youtube.com/@LeadingOurOwnWay/videos podcast link
 
 finish setting up monster insights?
 look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_locale=en_US
