@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 15 min
 
-June: 5 hour 15 min
+June: 6 hour 0 min
 
 plugins im using on site:
 
@@ -196,11 +196,7 @@ For next week:
 - Magazine
 - Self renewal system 
 - Add pages to the https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ page
-- Go over changes https://growingholistically.com/health-history-form/  
-	- Make the form visible for non-members
-	- Make the 0 - 5 text a different color, dark blue
-- Change nutrition pdf  https://growingholistically.com/nutrition-and-you/
-- Start at top and make the headings be on the correct page (140 looks bad)
+
 -  4 E magazine videos links in email, add them to youtube channel -> can't go directly from the drive to youtube without an addon
  - just one episode in my email, the other one is somewhere? look in the drive and see if i can download it
 - Then finish the magazine page
