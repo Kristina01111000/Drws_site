@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 15 min
 
-June: 6 hour 20 min
+June: 6 hour 35 min
 
 plugins im using on site:
 
@@ -192,7 +192,6 @@ For next week:
 - Yoga page pdf new version (or the file)
 - Write  something for the health history form about what you are treating them for, they might have to sign something
 - Add pages to the https://growingholistically.com/links-to-dr-ws-videos/ page
-- Quick minutes
 - Magazine
 - Self renewal system 
 - Add pages to the https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ page
