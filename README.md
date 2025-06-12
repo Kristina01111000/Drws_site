@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 15 min
 
-June: 6 hour 35 min
+June: 7 hour 25 min
 
 plugins im using on site:
 
@@ -202,3 +202,27 @@ For next week:
 - Put yoga pdf on the yoga & you continued page
 - Figure out the best way for him to get paid by people, probably paypal
 
+
+
+
+6/12
+For next week:
+Look at yoga pdf in email, put it on yoga nad you page
+Finish srs page?
+Finish magazine page?
+Fix links on homepage, benefits page, getting started page
+Put patient sign form on health history form in email
+Look at forwarded email he sends to podcasts to see if there are any changes i think he should make
+ On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
+ Make icons similar to the icons on the benefits page that say step 1, step 2, step 3, step 4, put them next to the things labeled on the page already, only 1 - 4, 
+Similar spacing to this 
+He will send me notes
+Step 4: Begin Dr. W’s 
+Then ‘And sprinkle in ’ in dinner plate 
+Then quick minutes
+“And 4 element too”
+“Got a health or pain problem?” watch some relevant videos
+Try emailing wp forms to see if editing the form so the selected value is in the middle is something they can make happen
+Put the magazine videos onto the youtube
+https://growingholistically.com/self-renewal-system/ make each video a hot link, also leave the youtube video on top, maybe make it smaller
+Ask him about the srs videos that aren’t approved yet
