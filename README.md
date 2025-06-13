@@ -9,7 +9,7 @@ March: 10 hour 40 min -> recieved
 
 April: 13 hour 0 min -> recieved
 
-May: 22 hour 15 min
+May: 22 hour 15 min -> recieved
 
 June: 7 hour 25 min
 
@@ -215,7 +215,7 @@ Put patient sign form on health history form in email
 Look at forwarded email he sends to podcasts to see if there are any changes i think he should make
  On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
  Make icons similar to the icons on the benefits page that say step 1, step 2, step 3, step 4, put them next to the things labeled on the page already, only 1 - 4, 
-Similar spacing to this 
+Similar spacing to the image 
 He will send me notes
 Step 4: Begin Dr. W’s 
 Then ‘And sprinkle in ’ in dinner plate 
