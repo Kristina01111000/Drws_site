@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 15 min -> recieved
 
-June: 7 hour 25 min
+June: 7 hour 40 min
 
 plugins im using on site:
 
@@ -211,7 +211,6 @@ Look at yoga pdf in email, put it on yoga nad you page
 Finish srs page?
 Finish magazine page?
 Fix links on homepage, benefits page, getting started page
-Put patient sign form on health history form in email
 Look at forwarded email he sends to podcasts to see if there are any changes i think he should make
  On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
  Make icons similar to the icons on the benefits page that say step 1, step 2, step 3, step 4, put them next to the things labeled on the page already, only 1 - 4, 
