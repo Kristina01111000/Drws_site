@@ -145,27 +145,28 @@ BOOK STUFF
 
 3/20
 
-- Put logos of the podcasts next to the links on podcast page
 - Check that https://growingholistically.com/discover-your-4-element-personhood-score/ is correctly linked everywhere
 
-4/3
-- Make the new page for the podcast coming out june 21stish https://thelaurajanelaytonshow.com/ -> need pdf copy of new book
 
 4/24
-Make the podcast info -> need the new copy of the book
 coming out june 21stish https://thelaurajanelaytonshow.com/ 
 SOUNDBITES WITH KIM GROSHEK - Podcast Interview: (NOTE: This was originally scheduled for March 26)
 XQ-SLESS: THE WELLNESS SUPPORT PODCAST WITH LAURA JANE LAYTON: Scheduled to be live on ~6.21.25
 DAD TALKS PODCAST WITH SCOTT MANOR AND ZACHARY MILLER: EMAIL dadtalks.2025@gmail.com   
 THE HEALERS CAFE WITH MARION BOLLIGER - 4/10/25 Podcast Interview -
+
+
 I will be the one to talk to diane about the instagram and facebook
--> need the new copy of the book
+
+
 
 
 5/1
 
 - Make the podcast list page, there’s enough now, copy to other site?
+- Put logos of the podcasts next to the links on podcast page
 
+  
 5/15
 For Next week:
 - Look into when dads podcast is coming out
@@ -183,8 +184,6 @@ https://growingholistically.com/four-element-yoga/ get better thumbnail images
 - Magazine
 - Self renewal system 
 - Add pages to the https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ page
-- On yoga & you continued get a new pdf, the formatting is messed up -> still need it
-- When i get the pdf fix it on the yoga & you continued page
 
 6/5
 For next week:
