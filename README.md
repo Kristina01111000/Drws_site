@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 15 min -> recieved
 
-June: 7 hour 40 min
+June: 8 hour 0 min
 
 plugins im using on site:
 
@@ -189,8 +189,6 @@ https://growingholistically.com/four-element-yoga/ get better thumbnail images
 6/5
 For next week:
 - Things i need from dr w:
-- Yoga page pdf new version (or the file)
-- Write  something for the health history form about what you are treating them for, they might have to sign something
 - Add pages to the https://growingholistically.com/links-to-dr-ws-videos/ page
 - Magazine
 - Self renewal system 
@@ -207,7 +205,6 @@ For next week:
 
 6/12
 For next week:
-Look at yoga pdf in email, put it on yoga nad you page
 Finish srs page?
 Finish magazine page?
 Fix links on homepage, benefits page, getting started page
