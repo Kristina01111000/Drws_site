@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 15 min -> recieved
 
-June: 8 hour 30 min
+June: 9 hour 0 min
 
 plugins im using on site:
 
@@ -208,16 +208,7 @@ Finish srs page?
 Finish magazine page?
 Fix links on homepage, benefits page, getting started page
 Look at forwarded email he sends to podcasts to see if there are any changes i think he should make
- On https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
- Make icons similar to the icons on the benefits page that say step 1, step 2, step 3, step 4, put them next to the things labeled on the page already, only 1 - 4, 
-Similar spacing to the image 
-He will send me notes
-Step 4: Begin Dr. W’s 
-Then ‘And sprinkle in ’ in dinner plate 
-Then quick minutes
-“And 4 element too”
-“Got a health or pain problem?” watch some relevant videos
-Try emailing wp forms to see if editing the form so the selected value is in the middle is something they can make happen
+
 Put the magazine videos onto the youtube
 https://growingholistically.com/self-renewal-system/ make each video a hot link, also leave the youtube video on top, maybe make it smaller
 Ask him about the srs videos that aren’t approved yet
