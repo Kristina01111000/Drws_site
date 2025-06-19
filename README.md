@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 15 min -> recieved
 
-June: 9 hour 10 min
+June: 10 hour 10 min
 
 plugins im using on site:
 
@@ -200,11 +200,9 @@ For next week:
 
 6/12
 For next week:
-Finish srs page?
 Finish magazine page?
 Fix links on homepage, benefits page, getting started page
 Look at forwarded email he sends to podcasts to see if there are any changes i think he should make
 
 Put the magazine videos onto the youtube
-https://growingholistically.com/self-renewal-system/ make each video a hot link, also leave the youtube video on top, maybe make it smaller
 Ask him about the srs videos that aren’t approved yet
