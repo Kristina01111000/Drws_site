@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 15 min -> recieved
 
-June: 9 hour 0 min
+June: 9 hour 10 min
 
 plugins im using on site:
 
@@ -193,10 +193,6 @@ For next week:
 - Self renewal system 
 - Add pages to the https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ page
 
--  4 E magazine videos links in email, add them to youtube channel -> can't go directly from the drive to youtube without an addon
-- Then finish the magazine page
-- Then finish the SRS page
-- Put yoga pdf on the yoga & you continued page
 - Figure out the best way for him to get paid by people, probably paypal
 
 
