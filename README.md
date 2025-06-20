@@ -209,31 +209,32 @@ Ask him about the srs videos that aren’t approved yet
 
 
 6/19
+
 For next week:
-Look at forwarded podcast email
-Email stephen that other people have been having problems with adobe
-On https://fourelementinstitute.org/ fix the email here link
-Add a picture or two to that page to break up the text
-Elements images
-On https://fourelementinstitute.org/holistic-renewal-campaign/ add images
-On https://fourelementinstitute.org/projects/ 
-get rid of the second balance bold
-Bold the whole phrase “reference system for balance”
-Fix the numbers of the projects, there are two 4’s
-Change project 2 to “academic applications from Physics to Chemistry, Medicine to Biomechanics, Politics to Economics, applying holistic concepts”
-Add a line https://fourelementinstitute.org/contact-us/ 
-Add a dropdown menu that has the projects on it and an other section
-He wants a new page for each project, he will write something and send it to me
-Add padding to all of the text on the site, figure out how to not have it for happen in cell phone view, write it in css and add it to all of the paragraphs, a little wider than the pdf page
-https://growingholistically.com/health-history-form/ 
-Add padding to the 0 - 5 so it is justified but close to center, see how it looks with cellphone view
-Connect health history form to email
-https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
-Make the step 1 - 4 buttons match the logo colors, start with yellow
-Add a link to the the SRS page, add a paragraph and button
-Make an image that says sprinkle and put it below the step buttons
-Try adding the text for the other three to images and see how it looks
-Sprinkle, watch cool videos, 4e yoga too, get advice
-https://growingholistically.com/self-renewal-system/ 
-Get the space between the image and text smaller, like half the size
-https://growingholistically.com/links-to-dr-ws-videos/ make sure all the text is the same size
+- Look at forwarded podcast email
+- Email stephen that other people have been having problems with adobe
+- On https://fourelementinstitute.org/ fix the email here link
+- Add a picture or two to that page to break up the text
+- Elements images
+- On https://fourelementinstitute.org/holistic-renewal-campaign/ add images
+- On https://fourelementinstitute.org/projects/ 
+- get rid of the second balance bold
+- Bold the whole phrase “reference system for balance”
+- Fix the numbers of the projects, there are two 4’s
+- Change project 2 to “academic applications from Physics to Chemistry, Medicine to Biomechanics, Politics to Economics, applying holistic concepts”
+- Add a line https://fourelementinstitute.org/contact-us/ 
+- Add a dropdown menu that has the projects on it and an other section
+- He wants a new page for each project, he will write something and send it to me
+- Add padding to all of the text on the site, figure out how to not have it for happen in cell phone view, write it in css and add it to all of the paragraphs, a little wider than the pdf page
+- https://growingholistically.com/health-history-form/ 
+- Add padding to the 0 - 5 so it is justified but close to center, see how it looks with cellphone view
+- Connect health history form to email
+- https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
+- Make the step 1 - 4 buttons match the logo colors, start with yellow
+- Add a link to the the SRS page, add a paragraph and button
+- Make an image that says sprinkle and put it below the step buttons
+- Try adding the text for the other three to images and see how it looks
+- Sprinkle, watch cool videos, 4e yoga too, get advice
+- https://growingholistically.com/self-renewal-system/ 
+- Get the space between the image and text smaller, like half the size
+- https://growingholistically.com/links-to-dr-ws-videos/ make sure all the text is the same size
