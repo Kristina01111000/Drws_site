@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 15 min -> recieved
 
-June: 12 hour 40 min
+June: 13 hour 40 min
 
 plugins im using on site:
 
@@ -212,14 +212,3 @@ Ask him about the srs videos that aren’t approved yet
 
 For next week:
 - Add padding to all of the text on the site, figure out how to not have it for happen in cell phone view, write it in css and add it to all of the paragraphs, a little wider than the pdf page
-- https://growingholistically.com/health-history-form/ 
-- Add padding to the 0 - 5 so it is justified but close to center, see how it looks with cellphone view
-- Connect health history form to email
-- https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ 
-- Make the step 1 - 4 buttons match the logo colors, start with yellow
-- Add a link to the the SRS page, add a paragraph and button
-- Make an image that says sprinkle and put it below the step buttons
-- Try adding the text for the other three to images and see how it looks
-- Sprinkle, watch cool videos, 4e yoga too, get advice
-- https://growingholistically.com/self-renewal-system/ 
-- Get the space between the image and text smaller, like half the size
