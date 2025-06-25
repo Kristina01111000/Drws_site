@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 15 min -> recieved
 
-June: 13 hour 40 min
+June: 14 hour 0 min
 
 plugins im using on site:
 
@@ -212,3 +212,8 @@ Ask him about the srs videos that aren’t approved yet
 
 For next week:
 - Add padding to all of the text on the site, figure out how to not have it for happen in cell phone view, write it in css and add it to all of the paragraphs, a little wider than the pdf page
+css for the padding, make it only work on big screens
+p {
+  margin-right: 20px;
+  margin-left: 20px;
+}
