@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 15 min -> recieved
 
-June: 12 hour 10 min
+June: 12 hour 40 min
 
 plugins im using on site:
 
@@ -211,9 +211,6 @@ Ask him about the srs videos that aren’t approved yet
 6/19
 
 For next week:
-- Look at forwarded podcast email
-- Email stephen that other people have been having problems with adobe
-
 - Add padding to all of the text on the site, figure out how to not have it for happen in cell phone view, write it in css and add it to all of the paragraphs, a little wider than the pdf page
 - https://growingholistically.com/health-history-form/ 
 - Add padding to the 0 - 5 so it is justified but close to center, see how it looks with cellphone view
@@ -226,4 +223,3 @@ For next week:
 - Sprinkle, watch cool videos, 4e yoga too, get advice
 - https://growingholistically.com/self-renewal-system/ 
 - Get the space between the image and text smaller, like half the size
-- https://growingholistically.com/links-to-dr-ws-videos/ make sure all the text is the same size
