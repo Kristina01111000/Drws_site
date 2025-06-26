@@ -208,3 +208,7 @@ wp-block-file__button{
 .wp-block-file:not(.wp-element-button) {
     font-size: 24px;
 }
+///////// makes the margin bigger in large screens
+@media all and (min-width: 699px) {
+
+	p { margin-right: 30px; margin-left: 30px; }}
