@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 15 min -> recieved
 
-June: 14 hour 15 min
+June: 15 hour 45 min
 
 plugins im using on site:
 
@@ -208,3 +208,10 @@ Put the magazine videos onto the youtube
 Ask him about the srs videos that aren’t approved yet
 
 
+6/26
+Make sure the contact form for 4einstitute works, send to just my email to make sure it works, and then switch it to staff@fourelementinstitute.org 
+Email Stephen to tell him to add the SRS topics slide to staging 5 under collection of videos, also the some words from dr w section starts with a question mark, and switch the video links not to patreon, need to link to youtube
+https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ make the circles and ovals buttons , make them bigger, make them all hot, add spacers between the text, make the buttons closer to the text, like above
+Copy virtual visit page from staging 5 https://staging5.fourelementdoctor.com/book-a-consultation-with-dr-w/ not until monday
+Health history form email sends to drwalsdorf@gmail.com, make the subject line “virtual visits health history form”
+Send email on monday for podcast
