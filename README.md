@@ -11,7 +11,7 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 15 min -> recieved
 
-June: 16 hour 20 min
+June: 16 hour 35 min
 
 plugins im using on site:
 
@@ -213,4 +213,3 @@ Ask him about the srs videos that aren’t approved yet
 - https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ make them all hot, make the buttons closer to the text, like above
 - Copy virtual visit page from staging 5 https://staging5.fourelementdoctor.com/book-a-consultation-with-dr-w/ not until monday
 - Health history form email sends to drwalsdorf@gmail.com, make the subject line “virtual visits health history form”
-- Send email on monday for podcast
