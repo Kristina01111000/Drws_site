@@ -11,7 +11,9 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 15 min -> recieved
 
-June: 16 hour 35 min
+June: 16 hour 30 min
+
+July: 15 min
 
 plugins im using on site:
 
@@ -212,4 +214,5 @@ Ask him about the srs videos that aren’t approved yet
 - Make sure the contact form for 4einstitute works, send to just my email to make sure it works, and then switch it to staff@fourelementinstitute.org 
 - https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ make them all hot, make the buttons closer to the text, like above
 - Copy virtual visit page from staging 5 https://staging5.fourelementdoctor.com/book-a-consultation-with-dr-w/ not until monday
-- Health history form email sends to drwalsdorf@gmail.com, make the subject line “virtual visits health history form”
+- Health history form email needs to send to drwalsdorf@gmail.com, make the subject line “virtual visits health history form”
+- neither of the forms go through to my email,  figure out why
