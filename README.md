@@ -179,21 +179,9 @@ For next week:
 
 https://growingholistically.com/four-element-yoga/ get better thumbnail images
 
-
-5/29
-- Add pages to the https://growingholistically.com/links-to-dr-ws-videos/ page
-- Quick minutes
-- Magazine
-- Self renewal system 
-- Add pages to the https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ page
-
 6/5
-For next week:
-- Things i need from dr w:
-- Add pages to the https://growingholistically.com/links-to-dr-ws-videos/ page
-- Magazine
-- Self renewal system 
-- Add pages to the https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ page
+
+
 
 - Figure out the best way for him to get paid by people, probably paypal
 
