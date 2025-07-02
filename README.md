@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min
 
-July: 1 hour 0 min
+July: 1 hour 10 min
 
 plugins im using on site:
 
@@ -200,5 +200,4 @@ Ask him about the srs videos that aren’t approved yet
 
 6/26
 - Make sure the contact form for 4einstitute works, send to just my email to make sure it works, and then switch it to staff@fourelementinstitute.org 
-- Health history form email needs to send to drwalsdorf@gmail.com, make the subject line “virtual visits health history form”
 - neither of the forms go through to my email,  figure out why
