@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min
 
-July: 1 hour 10 min
+July: 1 hour 25 min
 
 plugins im using on site:
 
@@ -195,9 +195,3 @@ Fix links on homepage, benefits page, getting started page
 Look at forwarded email he sends to podcasts to see if there are any changes i think he should make
 
 Put the magazine videos onto the youtube
-Ask him about the srs videos that aren’t approved yet
-
-
-6/26
-- Make sure the contact form for 4einstitute works, send to just my email to make sure it works, and then switch it to staff@fourelementinstitute.org 
-- neither of the forms go through to my email,  figure out why
