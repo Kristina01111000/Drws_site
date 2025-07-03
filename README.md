@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min
 
-July: 1 hour 25 min
+July: 3 hour 10 min
 
 plugins im using on site:
 
@@ -195,3 +195,24 @@ Fix links on homepage, benefits page, getting started page
 Look at forwarded email he sends to podcasts to see if there are any changes i think he should make
 
 Put the magazine videos onto the youtube
+
+
+7/3
+or next week:
+Virtual visits page?
+Ask about nc 2&3 and ba 2 episodes of SRS
+Look at podcast email in inbox to see if he should make any changes to get on podcasts, email him any comments
+Email stephen the forms
+Write a marketing thing for why they should do the learning program, like a blurb, for a post, an email
+https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ changes step 4 to the learning program
+https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ try to get they spacing between the title and the content to not be there, then switch all of it them to be like it, make the title bigger 
+Email stephen:
+Send him the forms 
+On https://fourelementdoctor.com/book-a-consultation-with-dr-w/, switch the “Nutritional & Herb Supports I prescribe” link to https://www.standardprocess.com/brands/whole-food-based-supplements 
+On https://fourelementdoctor.com/book-a-consultation-with-dr-w/, under program details the three surveys are all on 1 survey, linked here: https://growingholistically.com/health-history-form/ 
+Remove the “there are two other forms to sign section”
+ For health history form , add the file extensions into the file upload form, make the info text bigger with css, also check the words, can it flow better, see if the file upload words can go right below the title, see if i can add margins
+Add health history form to redirect exceptions
+Look at the "Force From Email" setting enabled in the WP Mail SMTP plugin. It makes 4Eins. Emails come from a weird email, figure out why the institute emails aren’t working correctly
+Make an excel sheet for the podcasts, columns, when filmed, podcast length, when posted, link to podcast, link to the site, grade column, so we can rate it, multiple grading columns
+make a virtual visit page like on virtual visit page https://fourelementdoctor.com/book-a-consultation-with-dr-w/  
