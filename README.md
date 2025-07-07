@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min
 
-July: 4 hour 15 min
+July: 5 hour 15 min
 
 plugins im using on site:
 
@@ -207,5 +207,4 @@ https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ cha
 https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ try to get they spacing between the title and the content to not be there, then switch all of it them to be like it, make the title bigger 
 
 Look at the "Force From Email" setting enabled in the WP Mail SMTP plugin. It makes 4Eins. Emails come from a weird email, figure out why the institute emails aren’t working correctly
-Make an excel sheet for the podcasts, columns, when filmed, podcast length, when posted, link to podcast, link to the site, grade column, so we can rate it, multiple grading columns
 make a virtual visit page like on virtual visit page https://fourelementdoctor.com/book-a-consultation-with-dr-w/  
