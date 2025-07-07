@@ -212,3 +212,12 @@ wp-block-file__button{
 @media all and (min-width: 699px) {
 
 	p { margin-right: 30px; margin-left: 30px; }}
+
+
+
+//////////makes the image file accepter on the health history form text bigger, have margins
+.wpforms-field-description{
+	font-size: 18px !important;
+	margin-right: 30px !important; 
+	margin-left: 30px !important; 
+	 }
