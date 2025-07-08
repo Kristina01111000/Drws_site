@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min
 
-July: 5 hour 45 min
+July: 6 hour 0 min
 
 plugins im using on site:
 
@@ -200,4 +200,4 @@ Put the magazine videos onto the youtube
 Write a marketing thing for why they should do the learning program, like a blurb, for a post, an email
 
 Look at the "Force From Email" setting enabled in the WP Mail SMTP plugin. It makes 4Eins. Emails come from a weird email, figure out why the institute emails aren’t working correctly
-make a virtual visit page like on virtual visit page https://fourelementdoctor.com/book-a-consultation-with-dr-w/  
+make youtube links open in new tab
