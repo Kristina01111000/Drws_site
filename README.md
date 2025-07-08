@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min
 
-July: 5 hour 15 min
+July: 5 hour 45 min
 
 plugins im using on site:
 
@@ -192,19 +192,12 @@ https://growingholistically.com/four-element-yoga/ get better thumbnail images
 For next week:
 Finish magazine page?
 Fix links on homepage, benefits page, getting started page
-Look at forwarded email he sends to podcasts to see if there are any changes i think he should make
-
 Put the magazine videos onto the youtube
 
 
 7/3
 
-Virtual visits page?
-Look at podcast email in inbox to see if he should make any changes to get on podcasts, email him any comments
-
 Write a marketing thing for why they should do the learning program, like a blurb, for a post, an email
-https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ changes step 4 to the learning program
-https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ try to get they spacing between the title and the content to not be there, then switch all of it them to be like it, make the title bigger 
 
 Look at the "Force From Email" setting enabled in the WP Mail SMTP plugin. It makes 4Eins. Emails come from a weird email, figure out why the institute emails aren’t working correctly
 make a virtual visit page like on virtual visit page https://fourelementdoctor.com/book-a-consultation-with-dr-w/  
