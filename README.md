@@ -180,9 +180,6 @@ For next week:
 https://growingholistically.com/four-element-yoga/ get better thumbnail images
 
 6/5
-
-
-
 - Figure out the best way for him to get paid by people, probably paypal
 
 
@@ -196,6 +193,12 @@ Put the magazine videos onto the youtube
 
 
 7/3
+
+add the videos from the srs file
+
+
+
+
+7/10
 Look at the "Force From Email" setting enabled in the WP Mail SMTP plugin. It makes 4Eins. Emails come from a weird email, figure out why the institute emails aren’t working correctly
 make the podcast page
-add the videos from the srs file
