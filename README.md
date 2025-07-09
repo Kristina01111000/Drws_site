@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min
 
-July: 6 hour 30 min
+July: 6 hour 20 min
 
 plugins im using on site:
 
@@ -196,6 +196,6 @@ Put the magazine videos onto the youtube
 
 
 7/3
-Write a marketing thing for why they should do the learning program, like a blurb, for a post, an email
 Look at the "Force From Email" setting enabled in the WP Mail SMTP plugin. It makes 4Eins. Emails come from a weird email, figure out why the institute emails aren’t working correctly
 make the podcast page
+add the videos from the srs file
