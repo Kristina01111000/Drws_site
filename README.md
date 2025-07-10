@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min
 
-July: 7 hour 40 min
+July: 9 hour 15 min
 
 plugins im using on site:
 
@@ -185,3 +185,13 @@ Fix links on homepage, benefits page, getting started page
 7/10
 Look at the "Force From Email" setting enabled in the WP Mail SMTP plugin. It makes 4Eins. Emails come from a weird email, figure out why the institute emails aren’t working correctly
 make the podcast page
+Listen to podcasts and grade them (for 17th)
+After, make a podcast page with them in the order from best to worst
+Send stephen link to the new 4e magazine playlist and page
+Think about how to get him on more podcasts
+Email the dad talks people and see if the episode is ever coming out, cc dr W, use not my email address, he recorded the podcast
+Email Dr. W will connect to square, instruction page https://wpforms.com/docs/how-to-install-and-use-the-square-addon-with-wpforms/ 
+https://growingholistically.com/four-element-magazine make them the other order, put earth on the top, one column,  look good on cellphone view
+Make sure the required parts of the health history form are required (red dots)
+Put the marketing blurb and send it on next monday around 11:30, not this one
+	Have you heard about Dr. W’s Holistic Learning Program? The Learning Program is aimed to help individuals at all levels of health knowledge to become the best they can be! This program is unique in its use of an ancient wisdom involving Nature’s four elements. Except for the first two lessons that quickly bring you up to speed on what Fire, Air, Water and Earth are really all about, each of the lessons of this Learning Program will help you apply this ancient wisdom to improving your life. 
