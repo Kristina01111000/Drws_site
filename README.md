@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min
 
-July: 6 hour 20 min
+July: 7 hour 40 min
 
 plugins im using on site:
 
@@ -164,40 +164,23 @@ I will be the one to talk to diane about the instagram and facebook
 
 
 5/1
-
 - Make the podcast list page, there’s enough now, copy to other site?
 - Put logos of the podcasts next to the links on podcast page
 
   
 5/15
-For Next week:
 - Look into when dads podcast is coming out
-- Hes filming podcast with andrew from australia - get podcast name from him
 
 5/22
-For next week:
-
 https://growingholistically.com/four-element-yoga/ get better thumbnail images
 
 6/5
 - Figure out the best way for him to get paid by people, probably paypal
 
 
-
-
 6/12
 For next week:
-Finish magazine page?
 Fix links on homepage, benefits page, getting started page
-Put the magazine videos onto the youtube
-
-
-7/3
-
-add the videos from the srs file
-
-
-
 
 7/10
 Look at the "Force From Email" setting enabled in the WP Mail SMTP plugin. It makes 4Eins. Emails come from a weird email, figure out why the institute emails aren’t working correctly
