@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min
 
-July: 9 hour 15 min
+July: 9 hour 45 min
 
 plugins im using on site:
 
@@ -176,11 +176,6 @@ https://growingholistically.com/four-element-yoga/ get better thumbnail images
 
 6/5
 - Figure out the best way for him to get paid by people, probably paypal
-
-
-6/12
-For next week:
-Fix links on homepage, benefits page, getting started page
 
 7/10
 Look at the "Force From Email" setting enabled in the WP Mail SMTP plugin. It makes 4Eins. Emails come from a weird email, figure out why the institute emails aren’t working correctly
