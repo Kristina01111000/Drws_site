@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min
 
-July: 11 hour 15 min
+July: 11 hour 35 min
 
 plugins im using on site:
 
@@ -96,6 +96,15 @@ When app is ready:
 	-  put page under programs tab in header
  	- add it to patreon
   	- another site?
+
+list of redirect exceptions:
+	- frontpage
+ 	- nutrition & you
+  	- yoga & you
+   	- links to dr w's videos
+    	- products page
+     	- others
+
 
  
 - For fourelementinstitute and syracuse natural healing the security plugin caused a lockout again, look into getting a new one
@@ -184,6 +193,6 @@ https://growingholistically.com/four-element-yoga/ get better thumbnail images
 - After, make a podcast page with them in the order from best to worst
 - Think about how to get him on more podcasts
 - Email Dr. W will connect to square, instruction page https://wpforms.com/docs/how-to-install-and-use-the-square-addon-with-wpforms/ -> waiting on him
-- Make sure the required parts of the health history form are required (red dots)
 - Put the marketing blurb and send it on next monday around 11:30, not this one
 	- Have you heard about Dr. W’s Holistic Learning Program? The Learning Program is aimed to help individuals at all levels of health knowledge to become the best they can be! This program is unique in its use of an ancient wisdom involving Nature’s four elements. Except for the first two lessons that quickly bring you up to speed on what Fire, Air, Water and Earth are really all about, each of the lessons of this Learning Program will help you apply this ancient wisdom to improving your life. 
+- talk aobut redirect exceptions
