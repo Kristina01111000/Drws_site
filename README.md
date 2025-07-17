@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min
 
-July: 12 hour 0 min
+July: 13 hour 10 min
 
 plugins im using on site:
 
@@ -197,3 +197,28 @@ https://growingholistically.com/four-element-yoga/ get better thumbnail images
 	- Have you heard about Dr. W’s Holistic Learning Program? The Learning Program is aimed to help individuals at all levels of health knowledge to become the best they can be! This program is unique in its use of an ancient wisdom involving Nature’s four elements. Except for the first two lessons that quickly bring you up to speed on what Fire, Air, Water and Earth are really all about, each of the lessons of this Learning Program will help you apply this ancient wisdom to improving your life. 
 - talk aobut redirect exceptions
 - double check that 40Q still works
+
+
+7/17
+For next week:
+Listen to podcasts and grade them
+After, make a podcast page with them in the order from best to worst (best at top)
+Put the marketing blurb and send it on Monday 21 or 28? around 11:30
+Have you heard about Dr. W’s Holistic Learning Program? The Learning Program is aimed to help individuals at all levels of health knowledge to become the best they can be! This program is unique in its use of an ancient wisdom involving Nature’s four elements. Except for the first two lessons that quickly bring you up to speed on what Fire, Air, Water and Earth are really all about, each of the lessons of this Learning Program will help you apply this ancient wisdom to improving your life. 
+Put email dates into the podcast pdf column E
+ fill out column H
+Make the force logout not work, let people be signed in indefinitely 
+Add tabulator and personhood score to redirect exceptions
+See if i can make the first video in the learning program an exception
+https://growingholistically.com/yoga-and-you-continued/ 
+This page is an exception, take a screen shot of the videos and make it link to a  new page that has all of the videos on it, so that non members can;t get to the youtube links
+Yoga & you videos, only for people who are logged into site
+ https://growingholistically.com/links-to-dr-ws-videos/ 
+Fix the yoga picture link to go the page, not patreon 
+https://growingholistically.com/four-element-yoga/ 
+https://growingholistically.com/self-renewal-system/
+Get the youtube link to just the intro video on the page
+Leave the intro video hot, with just the link to that specific video
+Take a screen grab like above, for the others videos that links to a page that is not an exception 
+Make the SRS page an exception
+Put the 40 and 80 question self assessment in to google drive so they don’t get lost, and give him access, also the other files like the tabulator etc
