@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min
 
-July: 11 hour 35 min
+July: 12 hour 0 min
 
 plugins im using on site:
 
@@ -196,3 +196,4 @@ https://growingholistically.com/four-element-yoga/ get better thumbnail images
 - Put the marketing blurb and send it on next monday around 11:30, not this one
 	- Have you heard about Dr. W’s Holistic Learning Program? The Learning Program is aimed to help individuals at all levels of health knowledge to become the best they can be! This program is unique in its use of an ancient wisdom involving Nature’s four elements. Except for the first two lessons that quickly bring you up to speed on what Fire, Air, Water and Earth are really all about, each of the lessons of this Learning Program will help you apply this ancient wisdom to improving your life. 
 - talk aobut redirect exceptions
+- double check that 40Q still works
