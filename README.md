@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min
 
-July: 13 hour 10 min
+July: 13 hour 20 min
 
 plugins im using on site:
 
