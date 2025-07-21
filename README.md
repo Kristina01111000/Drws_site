@@ -11,9 +11,9 @@ April: 13 hour 0 min -> recieved
 
 May: 22 hour 15 min -> recieved
 
-June: 16 hour 30 min
+June: 16 hour 30 min -> recieved
 
-July: 14 hour 20 min
+July: 14 hour 30 min
 
 plugins im using on site:
 
@@ -201,8 +201,6 @@ For next week:
 Listen to podcasts and grade them
 After, make a podcast page with them in the order from best to worst (best at top)
 
-Put email dates into the podcast pdf column E
- fill out column H
 Make the force logout not work, let people be signed in indefinitely 
 Add tabulator and personhood score to redirect exceptions
 See if i can make the first video in the learning program an exception
