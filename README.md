@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min
 
-July: 13 hour 30 min
+July: 14 hour 0 min
 
 plugins im using on site:
 
@@ -203,8 +203,7 @@ https://growingholistically.com/four-element-yoga/ get better thumbnail images
 For next week:
 Listen to podcasts and grade them
 After, make a podcast page with them in the order from best to worst (best at top)
-Put the marketing blurb and send it on Monday 21 or 28? around 11:30
-Have you heard about Dr. W’s Holistic Learning Program? The Learning Program is aimed to help individuals at all levels of health knowledge to become the best they can be! This program is unique in its use of an ancient wisdom involving Nature’s four elements. Except for the first two lessons that quickly bring you up to speed on what Fire, Air, Water and Earth are really all about, each of the lessons of this Learning Program will help you apply this ancient wisdom to improving your life. 
+
 Put email dates into the podcast pdf column E
  fill out column H
 Make the force logout not work, let people be signed in indefinitely 
