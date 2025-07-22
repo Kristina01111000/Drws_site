@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min -> recieved
 
-July: 14 hour 30 min
+July: 15 hour 30 min
 
 plugins im using on site:
 
@@ -201,14 +201,12 @@ For next week:
 Listen to podcasts and grade them
 After, make a podcast page with them in the order from best to worst (best at top)
 
-Make the force logout not work, let people be signed in indefinitely 
 Add tabulator and personhood score to redirect exceptions
 See if i can make the first video in the learning program an exception
 https://growingholistically.com/yoga-and-you-continued/ 
 This page is an exception, take a screen shot of the videos and make it link to a  new page that has all of the videos on it, so that non members can;t get to the youtube links
 Yoga & you videos, only for people who are logged into site
- https://growingholistically.com/links-to-dr-ws-videos/ 
-Fix the yoga picture link to go the page, not patreon 
+
 https://growingholistically.com/four-element-yoga/ 
 https://growingholistically.com/self-renewal-system/
 Get the youtube link to just the intro video on the page
