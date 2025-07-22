@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min -> recieved
 
-July: 15 hour 30 min
+July: 15 hour 40 min
 
 plugins im using on site:
 
@@ -201,8 +201,6 @@ For next week:
 Listen to podcasts and grade them
 After, make a podcast page with them in the order from best to worst (best at top)
 
-Add tabulator and personhood score to redirect exceptions
-See if i can make the first video in the learning program an exception
 https://growingholistically.com/yoga-and-you-continued/ 
 This page is an exception, take a screen shot of the videos and make it link to a  new page that has all of the videos on it, so that non members can;t get to the youtube links
 Yoga & you videos, only for people who are logged into site
