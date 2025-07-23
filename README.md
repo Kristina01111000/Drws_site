@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min -> recieved
 
-July: 16 hour 20 min
+July: 16 hour 35 min
 
 plugins im using on site:
 
@@ -200,13 +200,6 @@ https://growingholistically.com/four-element-yoga/ get better thumbnail images
 For next week:
 Listen to podcasts and grade them DONE:  2 / 7
 After, make a podcast page with them in the order from best to worst (best at top)
-
-https://growingholistically.com/self-renewal-system/
-Get the youtube link to just the intro video on the page
-Leave the intro video hot, with just the link to that specific video
-Take a screen grab like above, for the others videos that links to a page that is not an exception 
-Make the SRS page an exception
-
 
 look at the channel video for 4edoctor on youtube
 look at post he sent in email
