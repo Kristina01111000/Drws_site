@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min -> recieved
 
-July: 17 hour 50 min
+July: 18 hour 10 min
 
 plugins im using on site:
 
@@ -195,8 +195,8 @@ https://growingholistically.com/four-element-yoga/ get better thumbnail images
 
 7/17
 For next week:
-Listen to podcasts and grade them DONE:  4 / 7
-After, make a podcast page with them in the order from best to worst (best at top)
+- Listen to podcasts and grade them DONE:  5 / 7
+- After, make a podcast page with them in the order from best to worst (best at top)
 
-look at the channel video for 4edoctor on youtube
-look at post he sent in email
+- look at the channel video for 4edoctor on youtube
+- look at post he sent in email
