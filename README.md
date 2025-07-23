@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min -> recieved
 
-July: 16 hour 0 min
+July: 16 hour 20 min
 
 plugins im using on site:
 
@@ -201,11 +201,6 @@ For next week:
 Listen to podcasts and grade them DONE:  2 / 7
 After, make a podcast page with them in the order from best to worst (best at top)
 
-https://growingholistically.com/yoga-and-you-continued/ 
-This page is an exception, take a screen shot of the videos and make it link to a  new page that has all of the videos on it, so that non members can;t get to the youtube links
-Yoga & you videos, only for people who are logged into site
-
-https://growingholistically.com/four-element-yoga/ 
 https://growingholistically.com/self-renewal-system/
 Get the youtube link to just the intro video on the page
 Leave the intro video hot, with just the link to that specific video
