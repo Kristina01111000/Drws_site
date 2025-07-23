@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min -> recieved
 
-July: 16 hour 35 min
+July: 16 hour 45 min
 
 plugins im using on site:
 
@@ -188,9 +188,6 @@ https://growingholistically.com/four-element-yoga/ get better thumbnail images
 
 7/10
 - Look at the "Force From Email" setting enabled in the WP Mail SMTP plugin. It makes 4Eins. Emails come from a weird email, figure out why the institute emails aren’t working correctly
-- make the podcast page
-- Listen to podcasts and grade them (for 17th)
-- After, make a podcast page with them in the order from best to worst
 - Think about how to get him on more podcasts
 - Email Dr. W will connect to square, instruction page https://wpforms.com/docs/how-to-install-and-use-the-square-addon-with-wpforms/ -> waiting on him
 
