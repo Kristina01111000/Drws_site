@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min -> recieved
 
-July: 15 hour 40 min
+July: 15 hour 50 min
 
 plugins im using on site:
 
@@ -211,8 +211,6 @@ Get the youtube link to just the intro video on the page
 Leave the intro video hot, with just the link to that specific video
 Take a screen grab like above, for the others videos that links to a page that is not an exception 
 Make the SRS page an exception
-Put the 40 and 80 question self assessment in to google drive so they don’t get lost, and give him access, also the other files like the tabulator etc
-
 
 
 look at the channel video for 4edoctor on youtube
