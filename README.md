@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min -> recieved
 
-July: 20 hour 55 min
+July: 21 hour 15 min
 
 plugins im using on site:
 
@@ -202,16 +202,15 @@ For next week:
 - look at post he sent in email
 
 7/24
-For next week:
-Send email monday around 10:30
-https://growingholistically.com/nutrition-and-you/ make the padding on the whole site like this page when there are a lot of big paragraphs
-https://growingholistically.com/benefits-of-the-4-element-self-renewal-system/ these paddings are good, keep in mind what the page looks like
-https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ this page is also good
-https://growingholistically.com/youve-been-redirected/ remove the hot youtube link
-In intro video put link to GH first and 4 element doctor site, put the patreon link at the bottom
-Make a new account to see if new members show up in the PMP link https://growingholistically.com/wp-admin/admin.php?page=pmpro-orders 
-Look at users page and delete ones that have been pending for a long time
-Look and see if there is a plugin that will show the users registration date on the users page
-Dr. W Podcast list he wants the host name in column B and switch the order to have the most recent at the top
-Take a new image form https://growingholistically.com/self-renewal-topics-videos/ and put it in here https://growingholistically.com/self-renewal-system/ add a black border to the image
-https://growingholistically.com/four-element-yoga/ add a black box around the image
+- For next week:
+- Send email monday around 10:30
+- https://growingholistically.com/nutrition-and-you/ make the padding on the whole site like this page when there are a lot of big paragraphs
+- https://growingholistically.com/benefits-of-the-4-element-self-renewal-system/ these paddings are good, keep in mind what the page looks like
+- https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ this page is also good
+- https://growingholistically.com/youve-been-redirected/ remove the hot youtube link
+- In intro video put link to GH first and 4 element doctor site, put the patreon link at the bottom
+- Make a new account to see if new members show up in the PMP link https://growingholistically.com/wp-admin/admin.php?page=pmpro-orders 
+
+- Dr. W Podcast list he wants the host name in column B and switch the order to have the most recent at the top
+- Take a new image form https://growingholistically.com/self-renewal-topics-videos/ and put it in here https://growingholistically.com/self-renewal-system/ add a black border to the image
+- https://growingholistically.com/four-element-yoga/ add a black box around the image
