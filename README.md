@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min -> recieved
 
-July: 21 hour 15 min
+July: 21 hour 25 min
 
 plugins im using on site:
 
@@ -203,7 +203,7 @@ For next week:
 
 7/24
 - For next week:
-- Send email monday around 10:30
+- Send email monday around 10:30 -> scheduled to auto send
 - https://growingholistically.com/nutrition-and-you/ make the padding on the whole site like this page when there are a lot of big paragraphs
 - https://growingholistically.com/benefits-of-the-4-element-self-renewal-system/ these paddings are good, keep in mind what the page looks like
 - https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ this page is also good
