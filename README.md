@@ -177,9 +177,6 @@ I will be the one to talk to diane about the instagram and facebook
 - Put logos of the podcasts next to the links on podcast page
 
   
-5/15
-- Look into when dads podcast is coming out
-
 5/22
 https://growingholistically.com/four-element-yoga/ get better thumbnail images
 
@@ -195,11 +192,8 @@ https://growingholistically.com/four-element-yoga/ get better thumbnail images
 
 7/17
 For next week:
-- Listen to podcasts and grade them DONE:  7 / 7
-- After, make a podcast page with them in the order from best to worst (best at top)
+-make a podcast page with them in the order from best to worst (best at top)
 
-- look at the channel video for 4edoctor on youtube
-- look at post he sent in email
 
 7/24
 - For next week:
