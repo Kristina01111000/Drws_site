@@ -112,7 +112,6 @@ list of redirect exceptions:
 - https://www.youtube.com/@LeadingOurOwnWay/videos podcast link
 
 finish setting up monster insights?
-look into https://wpforms.com/docs/how-to-use-lite-connect-for-wpforms/?utm_locale=en_US
 
 6/27
 - Add some lesson chats, at least 2 for each level
@@ -125,8 +124,6 @@ For next week:
 
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
 
-  1/23/25
-- Figure out how to work the folders in constant contact, make it less confusing, figure out where archived emails go
 
 
 1/30
@@ -137,9 +134,6 @@ For next week:
 	- Will need to add the lessons
 	- Will need to make groups 
 
-3/13
-
-- Double check other sites are switched to tabulator
 
 BOOK STUFF
 - He will send me a new copy of the book with the new cover, put it on  https://growingholistically.com/free-book-sample/ 
@@ -154,46 +148,16 @@ BOOK STUFF
 - Pdf is ready
 - Blurb contact?
 
-3/20
-
-- Check that https://growingholistically.com/discover-your-4-element-personhood-score/ is correctly linked everywhere
-
-
-4/24
-coming out june 21stish https://thelaurajanelaytonshow.com/ 
-SOUNDBITES WITH KIM GROSHEK - Podcast Interview: (NOTE: This was originally scheduled for March 26)
-XQ-SLESS: THE WELLNESS SUPPORT PODCAST WITH LAURA JANE LAYTON: Scheduled to be live on ~6.21.25
-DAD TALKS PODCAST WITH SCOTT MANOR AND ZACHARY MILLER: EMAIL dadtalks.2025@gmail.com   
-THE HEALERS CAFE WITH MARION BOLLIGER - 4/10/25 Podcast Interview -
-
-
-I will be the one to talk to diane about the instagram and facebook
-
-
-
-
 5/1
 - Make the podcast list page, there’s enough now, copy to other site?
 - Put logos of the podcasts next to the links on podcast page
 
   
-5/22
-https://growingholistically.com/four-element-yoga/ get better thumbnail images
-
-6/5
-- Figure out the best way for him to get paid by people, probably paypal
 
 7/10
 - Look at the "Force From Email" setting enabled in the WP Mail SMTP plugin. It makes 4Eins. Emails come from a weird email, figure out why the institute emails aren’t working correctly
 - Think about how to get him on more podcasts
 - Email Dr. W will connect to square, instruction page https://wpforms.com/docs/how-to-install-and-use-the-square-addon-with-wpforms/ -> waiting on him
-
-
-
-7/17
-For next week:
--make a podcast page with them in the order from best to worst (best at top)
-
 
 7/24
 - For next week:
@@ -206,3 +170,5 @@ For next week:
 - look at the leading your own way email stuff in inbox
 - make email for leading your own way,
 - make the podcast page on the site
+- make a podcast page with them in the order from best to worst (best at top)
+- listen to leading your own way and grade it
