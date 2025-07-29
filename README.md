@@ -204,3 +204,5 @@ For next week:
 - Make a new account to see if new members show up in the PMP link https://growingholistically.com/wp-admin/admin.php?page=pmpro-orders 
 - https://growingholistically.com/four-element-yoga/ add a black box around the image
 - look at the leading your own way email stuff in inbox
+- make email for leading your own way,
+- make the podcast page on the site
