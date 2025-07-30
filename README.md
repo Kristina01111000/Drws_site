@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min -> recieved
 
-July: 22 hour 30 min
+July: 22 hour 40 min
 
 plugins im using on site:
 
@@ -162,12 +162,11 @@ BOOK STUFF
 7/24
 - For next week:
 
-- In intro video put link to GH first and 4 element doctor site, put the patreon link at the bottom
 - Make a new account to see if new members show up in the PMP link https://growingholistically.com/wp-admin/admin.php?page=pmpro-orders 
-- https://growingholistically.com/four-element-yoga/ add a black box around the image
+
 - look at the leading your own way email stuff in inbox
 - make email for leading your own way,
 - make the podcast page on the site
 - make a podcast page with them in the order from best to worst (best at top)
 - listen to leading your own way and grade it
-- - check on the issue with the confirmation emails not working
+- check on the issue with the confirmation emails not working
