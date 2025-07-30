@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min -> recieved
 
-July: 22 hour 40 min
+July: 23 hour 0 min
 
 plugins im using on site:
 
@@ -149,7 +149,6 @@ BOOK STUFF
 - Blurb contact?
 
 5/1
-- Make the podcast list page, there’s enough now, copy to other site?
 - Put logos of the podcasts next to the links on podcast page
 
   
@@ -164,9 +163,5 @@ BOOK STUFF
 
 - Make a new account to see if new members show up in the PMP link https://growingholistically.com/wp-admin/admin.php?page=pmpro-orders 
 
-- look at the leading your own way email stuff in inbox
-- make email for leading your own way,
-- make the podcast page on the site
-- make a podcast page with them in the order from best to worst (best at top)
 - listen to leading your own way and grade it
 - check on the issue with the confirmation emails not working
