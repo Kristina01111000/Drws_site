@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min -> recieved
 
-July: 22 hour 0 min
+July: 22 hour 30 min
 
 plugins im using on site:
 
@@ -161,9 +161,7 @@ BOOK STUFF
 
 7/24
 - For next week:
-- https://growingholistically.com/nutrition-and-you/ make the padding on the whole site like this page when there are a lot of big paragraphs
-- https://growingholistically.com/benefits-of-the-4-element-self-renewal-system/ these paddings are good, keep in mind what the page looks like
-- https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ this page is also good
+
 - In intro video put link to GH first and 4 element doctor site, put the patreon link at the bottom
 - Make a new account to see if new members show up in the PMP link https://growingholistically.com/wp-admin/admin.php?page=pmpro-orders 
 - https://growingholistically.com/four-element-yoga/ add a black box around the image
@@ -172,3 +170,4 @@ BOOK STUFF
 - make the podcast page on the site
 - make a podcast page with them in the order from best to worst (best at top)
 - listen to leading your own way and grade it
+- - check on the issue with the confirmation emails not working
