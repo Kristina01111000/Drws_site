@@ -15,6 +15,8 @@ June: 16 hour 30 min -> recieved
 
 July: 24 hour 15 min
 
+August: 5 min
+
 plugins im using on site:
 
 - peepso -> auto updates still not working, caused by something in the backend? still not working the way they should
@@ -159,7 +161,7 @@ BOOK STUFF
 
 7/31
 Listen to and score the leading our own way podcast
-Send email about leading our own way podcast on monday around 10:30
+Send email about leading our own way podcast on monday around 10:30 -> scheduled
 Check that stripe still works 
 Finish the health history form, add stripe to it
 For email edit out the day and time, send on monday at 10:30, have part one in one email , then send out part two next week, if you’re really interested to hear part 2 you can click here :),  tell them there is a part two coming next week, for next one say this is part two, if you wanna hear part one here is a link to part one also
