@@ -13,7 +13,7 @@ May: 22 hour 15 min -> recieved
 
 June: 16 hour 30 min -> recieved
 
-July: 23 hour 0 min
+July: 24 hour 15 min
 
 plugins im using on site:
 
@@ -156,12 +156,16 @@ BOOK STUFF
 7/10
 - Look at the "Force From Email" setting enabled in the WP Mail SMTP plugin. It makes 4Eins. Emails come from a weird email, figure out why the institute emails aren’t working correctly
 - Think about how to get him on more podcasts
-- Email Dr. W will connect to square, instruction page https://wpforms.com/docs/how-to-install-and-use-the-square-addon-with-wpforms/ -> waiting on him
 
-7/24
-- For next week:
-
-- Make a new account to see if new members show up in the PMP link https://growingholistically.com/wp-admin/admin.php?page=pmpro-orders 
-
-- listen to leading your own way and grade it
-- check on the issue with the confirmation emails not working
+7/31
+Listen to and score the leading our own way podcast
+Send email about leading our own way podcast on monday around 10:30
+Check that stripe still works 
+Finish the health history form, add stripe to it
+For email edit out the day and time, send on monday at 10:30, have part one in one email , then send out part two next week, if you’re really interested to hear part 2 you can click here :),  tell them there is a part two coming next week, for next one say this is part two, if you wanna hear part one here is a link to part one also
+Thumbs up his podcast host
+Email peepso to see if they can add a column sort for registration date, have PMP, but we have a free site so we don’t use them b/c they make signing up too long
+Email DR W: possible banner change for the youtube channel
+Add a black box around image in https://growingholistically.com/self-renewal-system/ try putting it in two columns, same style as yoga page
+Make podcast page after https://fourelementdoctor.com/dr-w-on-podcasts/ 
+Add podcast page to syracuse natural healing, add to side bar, under directions page, watch dr. W on podcasts here, add a link to DrWalsdorf.com, want to learn more about Dr W and his mission check out drwalsdorf.com
