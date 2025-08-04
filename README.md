@@ -15,7 +15,7 @@ June: 16 hour 30 min -> recieved
 
 July: 24 hour 15 min
 
-August: 5 min
+August: 50 min
 
 plugins im using on site:
 
@@ -171,3 +171,6 @@ Email DR W: possible banner change for the youtube channel
 Add a black box around image in https://growingholistically.com/self-renewal-system/ try putting it in two columns, same style as yoga page
 Make podcast page after https://fourelementdoctor.com/dr-w-on-podcasts/ 
 Add podcast page to syracuse natural healing, add to side bar, under directions page, watch dr. W on podcasts here, add a link to DrWalsdorf.com, want to learn more about Dr W and his mission check out drwalsdorf.com
+
+
+- figure out why php is not working on syrnatheal site
