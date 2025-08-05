@@ -15,7 +15,7 @@ June: 16 hour 30 min -> recieved
 
 July: 24 hour 15 min
 
-August: 1 hour 0 min
+August: 1 hour 5 min
 
 plugins im using on site:
 
@@ -173,3 +173,4 @@ Add podcast page to syracuse natural healing, add to side bar, under directions 
 
 
 - figure out why php is not working on syrnatheal site
+- syr site locks out when the security plugin is on still
