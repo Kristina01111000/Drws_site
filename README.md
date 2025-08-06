@@ -15,7 +15,7 @@ June: 16 hour 30 min -> recieved
 
 July: 24 hour 15 min
 
-August: 1 hour 10 min
+August: 1 hour 20 min
 
 plugins im using on site:
 
@@ -163,10 +163,8 @@ BOOK STUFF
 Listen to and score the leading our own way podcast
 Check that stripe still works 
 Finish the health history form, add stripe to it
-For email edit out the day and time, send on monday at 10:30, have part one in one email , then send out part two next week, if you’re really interested to hear part 2 you can click here :),  tell them there is a part two coming next week, for next one say this is part two, if you wanna hear part one here is a link to part one also
 Thumbs up his podcast host
 Email peepso to see if they can add a column sort for registration date, have PMP, but we have a free site so we don’t use them b/c they make signing up too long
-Email DR W: possible banner change for the youtube channel
 Add a black box around image in https://growingholistically.com/self-renewal-system/ try putting it in two columns, same style as yoga page
 Make podcast page after https://fourelementdoctor.com/dr-w-on-podcasts/ 
 Add podcast page to syracuse natural healing, add to side bar, under directions page, watch dr. W on podcasts here, add a link to DrWalsdorf.com, want to learn more about Dr W and his mission check out drwalsdorf.com
