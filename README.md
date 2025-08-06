@@ -15,7 +15,7 @@ June: 16 hour 30 min -> recieved
 
 July: 24 hour 15 min
 
-August: 1 hour 55 min
+August: 2 hour 15 min
 
 plugins im using on site:
 
@@ -160,7 +160,6 @@ BOOK STUFF
 7/31
 Listen to and score the leading our own way podcast
 Thumbs up his podcast host
-Add podcast page to syracuse natural healing, add to side bar, under directions page, watch dr. W on podcasts here, add a link to DrWalsdorf.com, want to learn more about Dr W and his mission check out drwalsdorf.com
 
 
 - figure out why php is not working on syrnatheal site
