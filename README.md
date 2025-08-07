@@ -15,7 +15,7 @@ June: 16 hour 30 min -> recieved
 
 July: 24 hour 15 min
 
-August: 3 hour 10 min
+August: 3 hour 20 min
 
 plugins im using on site:
 
@@ -176,5 +176,5 @@ Deactivate all the plugins on saturday to see if the php will be fixed
 Look at https://growingholistically.com/self-renewal-system/ add more white space to the edges of the picture, make the black line thinner, like 50% thinner
 https://growingholistically.com/podcasts-with-dr-w/ add more padding , add the dots between each one
 Look into if the copy for leading our own way, make a section for it on the podcast page
-Drive folder is empty, get copy from podcast site?, email diane if i find it
+Drive folder is empty, get copy from podcast site?, email diane if i find it -> emailed her text from spotify page
 https://syracusenaturalhealing.com/podcasts-with-dr-w/ see if i can change the color of the link to podcast in the sidebar to purple or something different to make it stand out more, also make it bigger
