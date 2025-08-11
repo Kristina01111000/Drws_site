@@ -15,7 +15,7 @@ June: 16 hour 30 min -> recieved
 
 July: 24 hour 15 min
 
-August: 3 hour 30 min
+August: 3 hour 35 min
 
 plugins im using on site:
 
@@ -171,7 +171,6 @@ Thumbs up his podcast host
 Check that stripe is connected, check on monday to see if the connection stuff worked, email him about it on monday
 Finish the health history form, check that stripe works
 Check  https://fourelementdoctor.com/dr-w-on-podcasts/  for paragraph for leading your own way
-Send for part 2 on monday at 10:30
 Deactivate all the plugins on saturday to see if the php will be fixed
 Look at https://growingholistically.com/self-renewal-system/ add more white space to the edges of the picture, make the black line thinner, like 50% thinner
 https://growingholistically.com/podcasts-with-dr-w/ add more padding , add the dots between each one
