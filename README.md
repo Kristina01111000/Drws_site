@@ -15,7 +15,7 @@ June: 16 hour 30 min -> recieved
 
 July: 24 hour 15 min
 
-August: 3 hour 40 min
+August: 4 hour 0 min
 
 plugins im using on site:
 
@@ -168,9 +168,6 @@ Thumbs up his podcast host
 
 
 8/7
-Finish the health history form, check that stripe works
-Check  https://fourelementdoctor.com/dr-w-on-podcasts/  for paragraph for leading your own way
 Look at https://growingholistically.com/self-renewal-system/ add more white space to the edges of the picture, make the black line thinner, like 50% thinner
 https://growingholistically.com/podcasts-with-dr-w/ add more padding , add the dots between each one
-Look into if the copy for leading our own way, make a section for it on the podcast page =-> working on it
 https://syracusenaturalhealing.com/podcasts-with-dr-w/ see if i can change the color of the link to podcast in the sidebar to purple or something different to make it stand out more, also make it bigger
