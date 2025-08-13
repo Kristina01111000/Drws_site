@@ -15,7 +15,7 @@ June: 16 hour 30 min -> recieved
 
 July: 24 hour 15 min
 
-August: 4 hour 30 min
+August: 4 hour 50 min
 
 plugins im using on site:
 
@@ -167,5 +167,3 @@ Thumbs up his podcast host
 - audio message for email again
 
 
-8/7
-https://syracusenaturalhealing.com/podcasts-with-dr-w/ see if i can change the color of the link to podcast in the sidebar to purple or something different to make it stand out more, also make it bigger
