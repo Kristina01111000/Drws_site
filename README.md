@@ -15,7 +15,7 @@ June: 16 hour 30 min -> recieved
 
 July: 24 hour 15 min
 
-August: 4 hour 50 min
+August: 5 hour 55 min
 
 plugins im using on site:
 
@@ -166,4 +166,21 @@ Thumbs up his podcast host
 - syr site locks out when the security plugin is on still
 - audio message for email again
 
+8/14
+For next week:
+Health history form ? stripe check tomorrow to see if it is fixed
+For next podcast email send it at 3:45
+Back up syrnathealing, make a staging site, confirm with him before fixing it
+Check the domain verification on wpforms for stripe
+Look at youtube look for a different intro video for the channel, he doesn’t like the current video, come up with a few options, one where he is wearing a doctor jacket
+https://growingholistically.com/podcasts-with-dr-w/ make part two be after a bullet and some spacing, not a comma
+Same on syr site also
+Add podcasts page link to the video page also
+Add podcast page link to the sidebar above check out dr w’s book
+See if audio can be put onto GH site for email links
+He will send me audio files, give him feedback on them, he's experimenting with tone etc
+Make a chart like i did for podcasts
+They’re promo pieces to get them go to GH
+Think of where in the menu the page with audio files should go
+Add a small widget with dr w audio and dr w video/podcasts
 
