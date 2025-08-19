@@ -15,7 +15,7 @@ June: 16 hour 30 min -> recieved
 
 July: 24 hour 15 min
 
-August: 6 hour 15 min
+August: 6 hour 30 min
 
 plugins im using on site:
 
@@ -169,7 +169,7 @@ Thumbs up his podcast host
 8/14
 For next week:
 For next podcast email send it at 3:45
-Back up syrnathealing, make a staging site, confirm with him before fixing it
+Back up syrnathealing, make a staging site, confirm with him before fixing it -> can't change the php on the staging site w/p changing it onthe actual site :(
 Look at youtube look for a different intro video for the channel, he doesn’t like the current video, come up with a few options, one where he is wearing a doctor jacket
 https://growingholistically.com/podcasts-with-dr-w/ make part two be after a bullet and some spacing, not a comma
 Same on syr site also
