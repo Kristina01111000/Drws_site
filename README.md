@@ -15,7 +15,7 @@ June: 16 hour 30 min -> recieved
 
 July: 24 hour 15 min
 
-August: 6 hour 45 min
+August: 7 hour 0 min
 
 plugins im using on site:
 
@@ -174,7 +174,7 @@ Same on syr site also
 Add podcasts page link to the video page also
 Add podcast page link to the sidebar above check out dr w’s book
 See if audio can be put onto GH site for email links
-He will send me audio files, give him feedback on them, he's experimenting with tone etc -> emailed him about it -> he sent them
+He will send me audio files, give him feedback on them, he's experimenting with tone etc -> emailed him about it -> he sent them -> working on it
 
 Think of where in the menu the page with audio files should go
 Add a small widget with dr w audio and dr w video/podcasts
