@@ -15,7 +15,7 @@ June: 16 hour 30 min -> recieved
 
 July: 24 hour 15 min
 
-August: 7 hour 35 min
+August: 8 hour 0 min
 
 plugins im using on site:
 
@@ -168,11 +168,6 @@ Thumbs up his podcast host
 
 8/14
 For next podcast email send it at 3:45
-Look at youtube look for a different intro video for the channel, he doesn’t like the current video, come up with a few options, one where he is wearing a doctor jacket
-
-Add podcasts page link to the video page also
-See if audio can be put onto GH site for email links
-He will send me audio files, give him feedback on them, he's experimenting with tone etc -> emailed him about it -> he sent them -> working on it, think of other columns for the sheets file
 
 Think of where in the menu the page with audio files should go
 
