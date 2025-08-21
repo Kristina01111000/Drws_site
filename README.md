@@ -164,12 +164,10 @@ Thumbs up his podcast host
 
 - figure out why php is not working on syrnatheal site
 - syr site locks out when the security plugin is on still
-- audio message for email again
 
 8/14
 For next podcast email send it at 3:45
 
-Think of where in the menu the page with audio files should go
 
 8/21
 For next week:
@@ -180,7 +178,6 @@ Make a list of 4-5 that are good enough to put on the site and send them to him
 Come up with any topics that he could do better on and send them to him so he can rerecord one 
 Double check that corrupt files aren't the only one with that file name, and then delete them
 Work on php
-Remove the extra podcast widget
 Think of how to make the podcast stand out more on the menu
 He does not want the audio files linked anywhere in the menus
 
