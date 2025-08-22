@@ -15,7 +15,7 @@ June: 16 hour 30 min -> recieved
 
 July: 24 hour 15 min
 
-August: 8 hour 30 min
+August: 8 hour 35 min
 
 plugins im using on site:
 
@@ -180,4 +180,5 @@ Double check that corrupt files aren't the only one with that file name, and the
 Work on php
 Think of how to make the podcast stand out more on the menu
 He does not want the audio files linked anywhere in the menus
-
+keep rating the audio files, keep a list of  what he should rerecord
+send invoice on monday 
