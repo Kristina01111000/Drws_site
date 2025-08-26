@@ -155,7 +155,6 @@ BOOK STUFF
 
 7/10
 - Look at the "Force From Email" setting enabled in the WP Mail SMTP plugin. It makes 4Eins. Emails come from a weird email, figure out why the institute emails aren’t working correctly
-- Think about how to get him on more podcasts
 
 7/31
 Listen to and score the leading our own way podcast
