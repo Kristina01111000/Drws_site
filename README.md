@@ -15,7 +15,7 @@ June: 16 hour 30 min -> recieved
 
 July: 24 hour 15 min -> sent
 
-August: 8 hour 40 min
+August: 9 hour 15 min
 
 plugins im using on site:
 
@@ -160,22 +160,13 @@ BOOK STUFF
 Listen to and score the leading our own way podcast
 Thumbs up his podcast host
 
-
-- figure out why php is not working on syrnatheal site
-- syr site locks out when the security plugin is on still
-
 8/14
 For next podcast email send it at 3:45
 
 
 8/21
-For next week:
-Change the srysite podcast page to match GH podcast page?
-New youtube channel trailer? Put the documentary as the channel trailer for now, he is considering making a promo video
+
 Finish feedback on audio files
 Make a list of 4-5 that are good enough to put on the site and send them to him
 Come up with any topics that he could do better on and send them to him so he can rerecord one 
-Double check that corrupt files aren't the only one with that file name, and then delete them
-Work on php
-Think of how to make the podcast stand out more on the menu
 keep rating the audio files, keep a list of  what he should rerecord
