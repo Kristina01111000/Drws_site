@@ -15,7 +15,7 @@ June: 16 hour 30 min -> recieved
 
 July: 24 hour 15 min -> sent
 
-August: 9 hour 15 min
+August: 10 hour 10 min
 
 plugins im using on site:
 
@@ -166,7 +166,4 @@ For next podcast email send it at 3:45
 
 8/21
 
-Finish feedback on audio files
-Make a list of 4-5 that are good enough to put on the site and send them to him
-Come up with any topics that he could do better on and send them to him so he can rerecord one 
-keep rating the audio files, keep a list of  what he should rerecord
+Finish feedback on audio files only 9 left
