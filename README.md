@@ -15,7 +15,7 @@ June: 16 hour 30 min -> recieved
 
 July: 24 hour 15 min -> sent
 
-August: 10 hour 10 min
+August: 10 hour 40 min
 
 plugins im using on site:
 
@@ -164,6 +164,3 @@ Thumbs up his podcast host
 For next podcast email send it at 3:45
 
 
-8/21
-
-Finish feedback on audio files only 9 left
