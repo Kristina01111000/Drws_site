@@ -164,3 +164,18 @@ Thumbs up his podcast host
 For next podcast email send it at 3:45
 
 
+8/28
+For next week:
+Continue working on php issue
+Prepare email with audio file
+Update the podcast list with email from dr w
+Figure out why the book goes to the homepage when you try to view the cart, tell him when it is done
+Make a page on GH that has the book a consultation section from https://fourelementdoctor.com/book-a-consultation-with-dr-w/ then link to health history form
+“Interested? click here to begin the process by filling out the health history form” above the link
+Make sure the cost is shown before the form link
+Figure out how to change the email and phone number in the confirmation of payment, change it to staff@growingholistically.com, remove the phone number
+Fwd: Your Growing Holistically receipt
+Try to remove the appointment plugin from staging site
+Also remove the 2:30 appt from the staging site booking calendar to see if i can, keep him posted about it
+Send dr w an email if someone passes the quizzes, set it up, or
+Set up certificates for people who pass the quizzes, bring it into the office to get some credit  “show this to Harpinder at the front desk to get your office credit”
