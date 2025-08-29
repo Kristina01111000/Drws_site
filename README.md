@@ -179,3 +179,7 @@ Try to remove the appointment plugin from staging site
 Also remove the 2:30 appt from the staging site booking calendar to see if i can, keep him posted about it
 Send dr w an email if someone passes the quizzes, set it up, or
 Set up certificates for people who pass the quizzes, bring it into the office to get some credit  “show this to Harpinder at the front desk to get your office credit”
+
+
+
+resend the invoice
