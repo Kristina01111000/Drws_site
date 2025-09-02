@@ -17,6 +17,8 @@ July: 24 hour 15 min -> sent
 
 August: 12 hour 0 min
 
+September: 5 min
+
 plugins im using on site:
 
 - peepso -> auto updates still not working, caused by something in the backend? still not working the way they should
@@ -168,7 +170,6 @@ For next podcast email send it at 3:45
 For next week:
 Continue working on php issue
 Prepare email with audio file
-Update the podcast list with email from dr w
 Figure out why the book goes to the homepage when you try to view the cart, tell him when it is done
 Make a page on GH that has the book a consultation section from https://fourelementdoctor.com/book-a-consultation-with-dr-w/ then link to health history form
 “Interested? click here to begin the process by filling out the health history form” above the link
