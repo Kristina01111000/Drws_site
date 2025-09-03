@@ -17,7 +17,7 @@ July: 24 hour 15 min -> sent
 
 August: 12 hour 0 min
 
-September: 2 hour 20 min
+September: 2 hour 35 min
 
 plugins im using on site:
 
@@ -168,9 +168,6 @@ For next podcast email send it at 3:45
 
 8/28
 Continue working on php issue
-Prepare email with audio file
-
-
 Try to remove the appointment plugin from staging site
 Also remove the 2:30 appt from the staging site booking calendar to see if i can, keep him posted about it
 
