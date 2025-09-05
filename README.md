@@ -175,20 +175,20 @@ Also remove the 2:30 appt from the staging site booking calendar to see if i can
 
 9/4
 For next week:
-Look at 4einstitute site page, he wants a form
- that has 3 options was invited; would like to participate, invited and not interested, interested and would like to be involved, what sounds best 
-email, 
-name, 
-questions about the process text box 
-Other things i think should be there
-https://fourelementinstitute.org/honorariums/ 
-Get email ready for September 16th podcast
-Work on php for syracuse natural healing
-Make a new design for the audio email where the text only goes to the size of the picture, shorter, i have a new audio series im trying to make work , in the email, keep the green style, the whole things should be smaller, try to send it to him tomorrow so he can look at it
-Maybe make the quizzes shorter? Make quiz 1 shorter, put all of the quizzes down to 5? Save the questions
-For the certificate, make it look better, add the logo, center text, 
-Send him a  copy of the completed pdf, then make a copy for each quiz
-Make a certificate for the course
-Reassess all the menu changes on GH next week
-https://growingholistically.com/self-renewal-system/ make the video a little smaller, leave it big enough that it is easy to see
-https://growingholistically.com/self-renewal-system/ make the click here link go the videos page for the srs, anyone who isn’t logged in will be sent to the register page
+- Look at 4einstitute site page, he wants a form
+-  that has 3 options was invited; would like to participate, invited and not interested, interested and would like to be involved, what sounds best 
+- email, 
+- name, 
+- questions about the process text box 
+- Other things i think should be there
+- https://fourelementinstitute.org/honorariums/ 
+- Get email ready for September 16th podcast
+- Work on php for syracuse natural healing
+- Make a new design for the audio email where the text only goes to the size of the picture, shorter, i have a new audio series im trying to make work , in the email, keep the green style, the whole things should be smaller, try to - send it to him tomorrow so he can look at it
+- Maybe make the quizzes shorter? Make quiz 1 shorter, put all of the quizzes down to 5? Save the questions
+- For the certificate, make it look better, add the logo, center text, 
+- Send him a  copy of the completed pdf, then make a copy for each quiz
+- Make a certificate for the course
+- Reassess all the menu changes on GH next week
+- https://growingholistically.com/self-renewal-system/ make the video a little smaller, leave it big enough that it is easy to see
+- https://growingholistically.com/self-renewal-system/ make the click here link go the videos page for the srs, anyone who isn’t logged in will be sent to the register page
