@@ -17,7 +17,7 @@ July: 24 hour 15 min -> sent
 
 August: 12 hour 0 min
 
-September: 4 hour 5 min
+September: 4 hour 50 min
 
 plugins im using on site:
 
@@ -167,7 +167,6 @@ For next podcast email send it at 3:45
 
 
 8/28
-Continue working on php issue
 Try to remove the appointment plugin from staging site
 Also remove the 2:30 appt from the staging site booking calendar to see if i can, keep him posted about it
 
@@ -183,7 +182,6 @@ For next week:
 - Other things i think should be there
 - https://fourelementinstitute.org/honorariums/ 
 - Get email ready for September 16th podcast
-- Work on php for syracuse natural healing
 - Make a new design for the audio email where the text only goes to the size of the picture, shorter, i have a new audio series im trying to make work , in the email, keep the green style, the whole things should be smaller, try to - send it to him tomorrow so he can look at it
 - Maybe make the quizzes shorter? Make quiz 1 shorter, put all of the quizzes down to 5? Save the questions
 - For the certificate, make it look better, add the logo, center text, 
@@ -192,3 +190,6 @@ For next week:
 - Reassess all the menu changes on GH next week
 - https://growingholistically.com/self-renewal-system/ make the video a little smaller, leave it big enough that it is easy to see
 - https://growingholistically.com/self-renewal-system/ make the click here link go the videos page for the srs, anyone who isn’t logged in will be sent to the register page
+
+
+- pretty sure php is working!
