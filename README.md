@@ -189,6 +189,8 @@ For next week:
 - Reassess all the menu changes on GH next week
 - https://growingholistically.com/self-renewal-system/ make the video a little smaller, leave it big enough that it is easy to see
 - https://growingholistically.com/self-renewal-system/ make the click here link go the videos page for the srs, anyone who isn’t logged in will be sent to the register page
+- ask about invoice
 
-
-- pretty sure php is working!
+9/11
+- need to finish omwow podcast email
+- 
