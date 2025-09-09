@@ -17,7 +17,7 @@ July: 24 hour 15 min -> sent
 
 August: 12 hour 0 min
 
-September: 5 hour 0 min
+September: 5 hour 15 min
 
 plugins im using on site:
 
@@ -181,8 +181,7 @@ For next week:
 - questions about the process text box 
 - Other things i think should be there
 - https://fourelementinstitute.org/honorariums/ 
-- Get email ready for September 16th podcast
-- Make a new design for the audio email where the text only goes to the size of the picture, shorter, i have a new audio series im trying to make work , in the email, keep the green style, the whole things should be smaller, try to - send it to him tomorrow so he can look at it
+
 - Maybe make the quizzes shorter? Make quiz 1 shorter, put all of the quizzes down to 5? Save the questions
 - For the certificate, make it look better, add the logo, center text, 
 - Send him a  copy of the completed pdf, then make a copy for each quiz
