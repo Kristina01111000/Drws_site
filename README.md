@@ -17,7 +17,7 @@ July: 24 hour 15 min -> sent still didn't recieve?
 
 August: 12 hour 0 min
 
-September: 5 hour 15 min
+September: 5 hour 45 min
 
 plugins im using on site:
 
@@ -170,26 +170,13 @@ For next podcast email send it at 3:45
 Try to remove the appointment plugin from staging site
 Also remove the 2:30 appt from the staging site booking calendar to see if i can, keep him posted about it
 
-
-
 9/4
 For next week:
-- Look at 4einstitute site page, he wants a form
--  that has 3 options was invited; would like to participate, invited and not interested, interested and would like to be involved, what sounds best 
-- email, 
-- name, 
-- questions about the process text box 
-- Other things i think should be there
-- https://fourelementinstitute.org/honorariums/ 
 
 - Maybe make the quizzes shorter? Make quiz 1 shorter, put all of the quizzes down to 5? Save the questions
 - For the certificate, make it look better, add the logo, center text, 
 - Send him a  copy of the completed pdf, then make a copy for each quiz
 - Make a certificate for the course
-- Reassess all the menu changes on GH next week
-- https://growingholistically.com/self-renewal-system/ make the video a little smaller, leave it big enough that it is easy to see
-- https://growingholistically.com/self-renewal-system/ make the click here link go the videos page for the srs, anyone who isn’t logged in will be sent to the register page
-- ask about invoice
 
 9/11
 - need to finish omwow podcast email
