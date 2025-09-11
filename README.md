@@ -15,7 +15,7 @@ June: 16 hour 30 min -> recieved
 
 July: 24 hour 15 min -> sent still didn't recieve?
 
-August: 12 hour 0 min
+August: 12 hour 0 min -> sent
 
 September: 6 hour 55 min
 
