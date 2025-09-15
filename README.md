@@ -17,7 +17,7 @@ July: 24 hour 15 min -> recieved
 
 August: 12 hour 0 min -> recieved
 
-September: 6 hour 55 min
+September: 7 hour 10 min
 
 plugins im using on site:
 
@@ -182,7 +182,7 @@ For next week:
 9/11
 - need to finish omwow podcast email
 - For next week:
-Finish onwow podcast email 16th
+Finish onwow podcast email 16th -> listen to it to make sure it is good enough to send out an email
 Find a new audio file that has more oomph for the first email and fix the email to match it, get one that is more upbeat
 Add some text to the page saying glad you made it, something else that sounds good, heres a quick audio from dr w
 Remove the 2:30 appointments from from the plugin
