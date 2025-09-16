@@ -17,7 +17,7 @@ July: 24 hour 15 min -> recieved
 
 August: 12 hour 0 min -> recieved
 
-September: 7 hour 10 min
+September: 7 hour 55 min
 
 plugins im using on site:
 
@@ -180,9 +180,7 @@ For next week:
 - Make a certificate for the course
 
 9/11
-- need to finish omwow podcast email
 - For next week:
-Finish onwow podcast email 16th -> listen to it to make sure it is good enough to send out an email
 Find a new audio file that has more oomph for the first email and fix the email to match it, get one that is more upbeat
 Add some text to the page saying glad you made it, something else that sounds good, heres a quick audio from dr w
 Remove the 2:30 appointments from from the plugin
@@ -190,5 +188,4 @@ Try adding direct links to the lessons in th ddropdown from dr ws learning progr
 Look at size of video https://growingholistically.com/self-renewal-system/ make the size different for different screen sizes? If not make it big again
 Check on that plugin for the certificates, he pays so it should work
 Put "congratulations for passing this lessons quiz” as the title
-Add the logo to the quiz certificate
 https://fourelementinstitute.org/honorariums/ send form to drwalsdorf@gmail.com 
