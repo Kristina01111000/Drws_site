@@ -17,7 +17,7 @@ July: 24 hour 15 min -> recieved
 
 August: 12 hour 0 min -> recieved
 
-September: 8 hour 30 min
+September: 8 hour 40 min
 
 plugins im using on site:
 
@@ -181,9 +181,5 @@ For next week:
 
 9/11
 For next week:
-
-- Try adding direct links to the lessons in th ddropdown from dr ws learning program
-- Look at size of video https://growingholistically.com/self-renewal-system/ make the size different for different screen sizes? If not make it big again
-- Check on that plugin for the certificates, he pays so it should work
 - Put "congratulations for passing this lessons quiz” as the title
 - https://fourelementinstitute.org/honorariums/ send form to drwalsdorf@gmail.com 
