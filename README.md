@@ -17,7 +17,7 @@ July: 24 hour 15 min -> recieved
 
 August: 12 hour 0 min -> recieved
 
-September: 8 hour 40 min
+September: 9 hour 15 min
 
 plugins im using on site:
 
@@ -163,23 +163,13 @@ BOOK STUFF
 Listen to and score the leading our own way podcast
 Thumbs up his podcast host
 
-8/14
-For next podcast email send it at 3:45
-
-
-8/28
-Try to remove the appointment plugin from staging site
-Also remove the 2:30 appt from the staging site booking calendar to see if i can, keep him posted about it
-
 9/4
 For next week:
 
 - Maybe make the quizzes shorter? Make quiz 1 shorter, put all of the quizzes down to 5? Save the questions
-- For the certificate, make it look better, add the logo, center text, 
 - Send him a  copy of the completed pdf, then make a copy for each quiz
 - Make a certificate for the course
 
 9/11
 For next week:
-- Put "congratulations for passing this lessons quiz” as the title
 - https://fourelementinstitute.org/honorariums/ send form to drwalsdorf@gmail.com 
