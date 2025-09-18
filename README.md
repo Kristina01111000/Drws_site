@@ -17,7 +17,7 @@ July: 24 hour 15 min -> recieved
 
 August: 12 hour 0 min -> recieved
 
-September: 9 hour 55 min
+September: 10 hour 40 min
 
 plugins im using on site:
 
@@ -173,7 +173,6 @@ For next week:
 
 
 9/18
-Self renewal system video - upload it to youtube and put it on the site homepage, make it the intro video on youtube also, email him when its done
 For certificates make the logo smaller and send him the pdf
 Try to make the logo text a little bit lower from the icon, like in the 4 element doctor logo
 Smaller also
