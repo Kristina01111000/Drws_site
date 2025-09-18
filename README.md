@@ -17,7 +17,7 @@ July: 24 hour 15 min -> recieved
 
 August: 12 hour 0 min -> recieved
 
-September: 9 hour 15 min
+September: 9 hour 55 min
 
 plugins im using on site:
 
@@ -170,3 +170,14 @@ For next week:
 9/11
 For next week:
 - https://fourelementinstitute.org/honorariums/ send form to drwalsdorf@gmail.com 
+
+
+9/18
+Self renewal system video - upload it to youtube and put it on the site homepage, make it the intro video on youtube also, email him when its done
+For certificates make the logo smaller and send him the pdf
+Try to make the logo text a little bit lower from the icon, like in the 4 element doctor logo
+Smaller also
+For text remove the “this show that” just start with you passed
+Send audio email on monday around 10:30
+See if i can make the audio file louder on the site, its pretty quiet
+On header menu change lesson numbers to numbers
