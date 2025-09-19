@@ -180,4 +180,6 @@ For text remove the “this show that” just start with you passed
 Send audio email on monday around 10:30
 See if i can make the audio file louder on the site, its pretty quiet
 On header menu change lesson numbers to numbers
-- check on the thumbnail 
+- check on the thumbnail
+- put new thumbnail in
+- look into uploading 2nd version of the video with a different thumbnail
