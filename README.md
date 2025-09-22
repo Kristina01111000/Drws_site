@@ -17,7 +17,7 @@ July: 24 hour 15 min -> recieved
 
 August: 12 hour 0 min -> recieved
 
-September: 10 hour 55 min
+September: 11 hour 0 min
 
 plugins im using on site:
 
@@ -165,12 +165,10 @@ For next week:
 
 - Maybe make the quizzes shorter? Make quiz 1 shorter, put all of the quizzes down to 5? Save the questions
 - Send him a  copy of the completed pdf, then make a copy for each quiz
-- Make a certificate for the course
+
 
 9/11
 For next week:
-- https://fourelementinstitute.org/honorariums/ send form to drwalsdorf@gmail.com 
-
 
 9/18
 For certificates make the logo smaller and send him the pdf
@@ -181,3 +179,5 @@ On header menu change lesson numbers to numbers
 - check on the thumbnail
 - put new thumbnail in
 - look into uploading 2nd version of the video with a different thumbnail
+
+- https://fourelementinstitute.org/honorariums/ send form to drwalsdorf@gmail.com 
