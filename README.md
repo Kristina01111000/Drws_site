@@ -17,7 +17,7 @@ July: 24 hour 15 min -> recieved
 
 August: 12 hour 0 min -> recieved
 
-September: 10 hour 45 min
+September: 10 hour 55 min
 
 plugins im using on site:
 
@@ -177,8 +177,6 @@ For certificates make the logo smaller and send him the pdf
 Try to make the logo text a little bit lower from the icon, like in the 4 element doctor logo
 Smaller also
 For text remove the “this show that” just start with you passed
-Send audio email on monday around 10:30
-See if i can make the audio file louder on the site, its pretty quiet
 On header menu change lesson numbers to numbers
 - check on the thumbnail
 - put new thumbnail in
