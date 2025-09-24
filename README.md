@@ -17,7 +17,7 @@ July: 24 hour 15 min -> recieved
 
 August: 12 hour 0 min -> recieved
 
-September: 11 hour 0 min
+September: 11 hour 10 min
 
 plugins im using on site:
 
@@ -165,10 +165,6 @@ For next week:
 
 - Maybe make the quizzes shorter? Make quiz 1 shorter, put all of the quizzes down to 5? Save the questions
 - Send him a  copy of the completed pdf, then make a copy for each quiz
-
-
-9/11
-For next week:
 
 9/18
 For certificates make the logo smaller and send him the pdf
