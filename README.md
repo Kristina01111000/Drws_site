@@ -17,7 +17,7 @@ July: 24 hour 15 min -> recieved
 
 August: 12 hour 0 min -> recieved
 
-September: 11 hour 10 min
+September: 11 hour 20 min
 
 plugins im using on site:
 
@@ -167,11 +167,7 @@ For next week:
 - Send him a  copy of the completed pdf, then make a copy for each quiz
 
 9/18
-For certificates make the logo smaller and send him the pdf
-Try to make the logo text a little bit lower from the icon, like in the 4 element doctor logo
-Smaller also
-For text remove the “this show that” just start with you passed
-On header menu change lesson numbers to numbers
+
 - check on the thumbnail
 - put new thumbnail in
 - look into uploading 2nd version of the video with a different thumbnail
