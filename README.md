@@ -17,7 +17,7 @@ July: 24 hour 15 min -> recieved
 
 August: 12 hour 0 min -> recieved
 
-September: 11 hour 20 min
+September: 11 hour 35 min
 
 plugins im using on site:
 
@@ -168,8 +168,6 @@ For next week:
 
 9/18
 
-- check on the thumbnail
-- put new thumbnail in
 - look into uploading 2nd version of the video with a different thumbnail
 
 - https://fourelementinstitute.org/honorariums/ send form to drwalsdorf@gmail.com 
