@@ -17,7 +17,7 @@ July: 24 hour 15 min -> recieved
 
 August: 12 hour 0 min -> recieved
 
-September: 11 hour 35 min
+September: 11 hour 45 min
 
 plugins im using on site:
 
@@ -166,8 +166,4 @@ For next week:
 - Maybe make the quizzes shorter? Make quiz 1 shorter, put all of the quizzes down to 5? Save the questions
 - Send him a  copy of the completed pdf, then make a copy for each quiz
 
-9/18
 
-- look into uploading 2nd version of the video with a different thumbnail
-
-- https://fourelementinstitute.org/honorariums/ send form to drwalsdorf@gmail.com 
