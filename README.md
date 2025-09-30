@@ -186,3 +186,4 @@ For homepage add pizzaz to the join here button, add more buttons, have 3 total,
 	bigger font, centered, two lines, different color, sticks out and blends into the page, try yellow gold
 Figure out how to underline the joining is free at the bottom
 
+look into fixing the certificates
