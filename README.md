@@ -19,6 +19,8 @@ August: 12 hour 0 min -> recieved
 
 September: 13 hour 20 min
 
+October: 30 min
+
 plugins im using on site:
 
 - peepso -> auto updates still not working, caused by something in the backend? still not working the way they should
@@ -171,9 +173,7 @@ For next week:
 Put a transcript under the audio file 
 Play around with audacity for volume increases
 Fix the  https://fourelementinstitute.org/honorariums/  form, its not going to his email,have it go to hwalsdorf@earthlink.net
-See if i can make the lesson menu parts left justified, see if i can get lesson 9 on two lines
-Add an extra space after the colon in the lesson menu
-Send peepso asking them to be able to filter user page by date
+
 Figure out how to easily export user date from the site to sort it by date
 Admin columns pro costs 80 a year
 Look into having some of the courses cost money
