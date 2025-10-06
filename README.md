@@ -19,7 +19,7 @@ August: 12 hour 0 min -> recieved
 
 September: 13 hour 20 min
 
-October: 30 min
+October: 40 min
 
 plugins im using on site:
 
@@ -187,3 +187,5 @@ For homepage add pizzaz to the join here button, add more buttons, have 3 total,
 Figure out how to underline the joining is free at the bottom
 
 look into fixing the certificates
+
+talk about the ai doc, look it over also
