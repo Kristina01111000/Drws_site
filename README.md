@@ -188,4 +188,4 @@ Figure out how to underline the joining is free at the bottom
 
 look into fixing the certificates
 
-talk about the ai doc, look it over also
+talk about the ai doc, look it over also, talk about tiktok
