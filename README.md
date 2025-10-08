@@ -19,7 +19,7 @@ August: 12 hour 0 min -> recieved
 
 September: 13 hour 20 min
 
-October: 40 min
+October:1 hour 0 min
 
 plugins im using on site:
 
@@ -170,16 +170,12 @@ For next week:
 
 9/25
 For next week:
-Put a transcript under the audio file 
-Play around with audacity for volume increases
 Fix the  https://fourelementinstitute.org/honorariums/  form, its not going to his email,have it go to hwalsdorf@earthlink.net
 
 Figure out how to easily export user date from the site to sort it by date
 Admin columns pro costs 80 a year
 Look into having some of the courses cost money
 quiz certificate https://growingholistically.com/quizzes/quiz-1/  
-add more space for the logo on top and right
-Add more space between bottom two lines
 Change the title of quiz to four elements, not just elements
 After emailing him, add the same certificate to the other quizzes
 For homepage add pizzaz to the join here button, add more buttons, have 3 total, add below tabulator section and above words from dr w
@@ -189,3 +185,4 @@ Figure out how to underline the joining is free at the bottom
 look into fixing the certificates
 
 talk about the ai doc, look it over also, talk about tiktok
+- look at the homepage
