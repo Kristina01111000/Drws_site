@@ -19,7 +19,7 @@ August: 12 hour 0 min -> recieved
 
 September: 13 hour 20 min
 
-October:1 hour 0 min
+October:1 hour 20 min
 
 plugins im using on site:
 
