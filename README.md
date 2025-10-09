@@ -19,7 +19,7 @@ August: 12 hour 0 min -> recieved
 
 September: 13 hour 20 min
 
-October:1 hour 20 min
+October: 2 hour 45 min
 
 plugins im using on site:
 
@@ -186,3 +186,18 @@ look into fixing the certificates
 
 talk about the ai doc, look it over also, talk about tiktok
 - look at the homepage
+
+
+
+10/9
+Put a transcript under the audio file?
+If certificate is all set, add it to the other quizzes
+For homepage add pizzaz to the join here button, add more buttons, have 3 total, add below tabulator section and above words from dr w
+bigger font, centered, two lines, different color, sticks out and blends into the page, try yellow gold
+Dr w might start a podcast, come up with some podcast ideas, 6 or 7, what would the podcast description be, good for audio and video 
+Change the title of the quiz to the four elements, add a paragraph page between the last two sentences, put linebreak after the word desk
+Put the certificate onto all of them
+Think about the text in the buttons on the front page
+Read through the ai thing again, see if there are anythings that i missed
+Add just the frontpage and lesson 1 of the course to the exceptions list
+In lesson 1 add a button to the join here page
