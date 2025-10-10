@@ -190,8 +190,8 @@ talk about the ai doc, look it over also, talk about tiktok
 
 
 10/9
-Put a transcript under the audio file?
-If certificate is all set, add it to the other quizzes
+Put a transcript under the audio file? on fb/ insta
+If certificate is all set, add it to the other quizzes, yes add it
 For homepage add pizzaz to the join here button, add more buttons, have 3 total, add below tabulator section and above words from dr w
 bigger font, centered, two lines, different color, sticks out and blends into the page, try yellow gold
 Dr w might start a podcast, come up with some podcast ideas, 6 or 7, what would the podcast description be, good for audio and video 
