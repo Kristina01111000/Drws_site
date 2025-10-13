@@ -174,16 +174,7 @@ Fix the  https://fourelementinstitute.org/honorariums/  form, its not going to h
 
 Figure out how to easily export user date from the site to sort it by date
 Admin columns pro costs 80 a year
-Look into having some of the courses cost money
-quiz certificate https://growingholistically.com/quizzes/quiz-1/  
-Change the title of quiz to four elements, not just elements
-After emailing him, add the same certificate to the other quizzes
-For homepage add pizzaz to the join here button, add more buttons, have 3 total, add below tabulator section and above words from dr w
-	bigger font, centered, two lines, different color, sticks out and blends into the page, try yellow gold
 Figure out how to underline the joining is free at the bottom
-
-look into fixing the certificates
-
 talk about the ai doc, look it over also, talk about tiktok
 - look at the homepage
 
