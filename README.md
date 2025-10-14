@@ -19,7 +19,7 @@ August: 12 hour 0 min -> recieved
 
 September: 13 hour 20 min
 
-October: 2 hour 45 min
+October: 3 hour 0 min
 
 plugins im using on site:
 
@@ -181,7 +181,6 @@ talk about the ai doc, look it over also, talk about tiktok
 
 
 10/9
-- Dr w might start a podcast, come up with some podcast ideas, 6 or 7, what would the podcast description be, good for audio and video 
 - Change the title of the quiz to the four elements, add a paragraph page between the last two sentences, put linebreak after the word desk
 - Put the certificate onto all of them
 - Think about the text in the buttons on the front page
