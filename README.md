@@ -174,9 +174,7 @@ Fix the  https://fourelementinstitute.org/honorariums/  form, its not going to h
 
 Figure out how to easily export user date from the site to sort it by date
 Admin columns pro costs 80 a year
-Figure out how to underline the joining is free at the bottom
-talk about the ai doc, look it over also, talk about tiktok
-- look at the homepage
+
 
 
 
