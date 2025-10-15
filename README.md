@@ -17,9 +17,9 @@ July: 24 hour 15 min -> recieved
 
 August: 12 hour 0 min -> recieved
 
-September: 13 hour 20 min
+September: 13 hour 30 min -> sent
 
-October: 3 hour 0 min
+October: 3 hour 15 min
 
 plugins im using on site:
 
@@ -187,3 +187,4 @@ talk about the ai doc, look it over also, talk about tiktok
 - Read through the ai thing again, see if there are anythings that i missed
 - Add just the frontpage and lesson 1 of the course to the exceptions list
 - In lesson 1 add a button to the join here page
+- talk about the app for learndash
