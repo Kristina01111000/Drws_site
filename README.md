@@ -43,7 +43,7 @@ plugins im using on site:
 
 https://www.ssllabs.com/ssltest
 
-copy of redirect exceptions: 5070,frontpage,4222,4507,4460,2080,2627,20,3866,5443,5156,5050,5344,2586,351,5451,6132,6141
+copy of redirect exceptions: 5070,frontpage,4222,4507,4460,2080,2627,20,3866,5443,5156,5050,5344,2586,351,5451,6132,6141,350
 
 speed test:
 https://developers.google.com/speed/pagespeed/insights/
@@ -114,8 +114,6 @@ list of redirect exceptions:
 - For fourelementinstitute and syracuse natural healing the security plugin caused a lockout again, look into getting a new one
 
 - https://www.youtube.com/@LeadingOurOwnWay/videos podcast link
-
-finish setting up monster insights?
 
 6/27
 - Add some lesson chats, at least 2 for each level
