@@ -19,7 +19,7 @@ August: 12 hour 0 min -> recieved
 
 September: 13 hour 30 min -> sent
 
-October: 5 hour 25 min
+October: 5 hour 30 min
 
 plugins im using on site:
 
@@ -174,15 +174,6 @@ Fix the  https://fourelementinstitute.org/honorariums/  form, its not going to h
 
 Figure out how to easily export user date from the site to sort it by date
 Admin columns pro costs 80 a year
-
-
-
-
-10/9
-
-- Think about the text in the buttons on the front page
-- Read through the ai thing again, see if there are anythings that i missed
-- talk about the app for learndash
 
 
 10/16
