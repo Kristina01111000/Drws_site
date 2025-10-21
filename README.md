@@ -152,9 +152,6 @@ BOOK STUFF
 - Pdf is ready
 - Blurb contact?
 
-
-  
-
 7/10
 - Look at the "Force From Email" setting enabled in the WP Mail SMTP plugin. It makes 4Eins. Emails come from a weird email, figure out why the institute emails aren’t working correctly
 
@@ -162,19 +159,9 @@ BOOK STUFF
 Listen to and score the leading our own way podcast
 Thumbs up his podcast host
 
-9/4
-For next week:
-
-- Maybe make the quizzes shorter? Make quiz 1 shorter, put all of the quizzes down to 5? Save the questions
-- Send him a  copy of the completed pdf, then make a copy for each quiz
-
 9/25
 For next week:
 Fix the  https://fourelementinstitute.org/honorariums/  form, its not going to his email,have it go to hwalsdorf@earthlink.net
-
-Figure out how to easily export user date from the site to sort it by date
-Admin columns pro costs 80 a year
-
 
 10/16
 - Double check that the first episode is good enough, is it good enough that people will join after watching it, or should they have to join to be able to see it, if it not amazing, then remove it from redirect exceptions 
