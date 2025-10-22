@@ -19,7 +19,7 @@ August: 12 hour 0 min -> recieved
 
 September: 13 hour 30 min -> sent
 
-October: 5 hour 30 min
+October: 6 hour 30 min
 
 plugins im using on site:
 
@@ -160,10 +160,3 @@ Thumbs up his podcast host
 9/25
 For next week:
 Fix the  https://fourelementinstitute.org/honorariums/  form, its not going to his email,have it go to hwalsdorf@earthlink.net
-
-10/16
-- Double check that the first episode is good enough, is it good enough that people will join after watching it, or should they have to join to be able to see it, if it not amazing, then remove it from redirect exceptions 
--  remove any text that says the first one is free, homepage, benefits, patient page
-- Add a playlist of all the podcasts that dr w has been  to youtube, add that link to the site, make sure they are linked from best to worst
-- Watch some videos and see how it would be to turn them into podcasts, audio and video podcast, what would help it do better as a podcast, what would the viewer ignore it in this video, podcasts feel more conversational
-- Look into making changes on the site to make it look better
