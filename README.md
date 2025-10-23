@@ -19,7 +19,7 @@ August: 12 hour 0 min -> recieved
 
 September: 13 hour 30 min -> sent
 
-October: 6 hour 30 min
+October: 7 hour 45 min
 
 plugins im using on site:
 
@@ -160,3 +160,10 @@ Thumbs up his podcast host
 9/25
 For next week:
 Fix the  https://fourelementinstitute.org/honorariums/  form, its not going to his email,have it go to hwalsdorf@earthlink.net
+
+
+10/23
+Update on 4eyoga people response
+Add new podcast to list, he is filming on tuesday
+Come up for some potential topics for an email to send -> he is going to do this, not me
+Figure out the gradient that dr w and stephen are talking about , get feedback from stephen, new icons, figure text color, with the gradient, take colors from the logos , get clarification from stephen 
