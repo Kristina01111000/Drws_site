@@ -167,3 +167,4 @@ Update on 4eyoga people response
 Add new podcast to list, he is filming on tuesday
 Come up for some potential topics for an email to send -> he is going to do this, not me
 Figure out the gradient that dr w and stephen are talking about , get feedback from stephen, new icons, figure text color, with the gradient, take colors from the logos , get clarification from stephen 
+- come up with some bugreport questions for stephen
