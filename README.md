@@ -126,16 +126,11 @@ For next week:
 
 - Fix the footer image -> need a new footer image that is a lot bigger, the width should be as wide as my screen and the height should be as be as long as the footer is in cellphone view
 
-
-
-1/30
-For next week:
-
 - Think about making the peepso site need people to join for $, not yet but maybe in the future, don’t do it until i get the green light from him
 	- Will need to setup the payments
 	- Will need to add the lessons
 	- Will need to make groups 
-
+- he is considering selling lessons
 
 BOOK STUFF
 - He will send me a new copy of the book with the new cover, put it on  https://growingholistically.com/free-book-sample/ 
@@ -155,7 +150,7 @@ BOOK STUFF
 
 7/31
 Listen to and score the leading our own way podcast
-Thumbs up his podcast host
+
 
 9/25
 For next week:
