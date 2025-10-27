@@ -17,7 +17,7 @@ July: 24 hour 15 min -> recieved
 
 August: 12 hour 0 min -> recieved
 
-September: 13 hour 30 min -> sent
+September: 13 hour 30 min -> recieved
 
 October: 7 hour 55 min
 
@@ -160,5 +160,7 @@ Fix the  https://fourelementinstitute.org/honorariums/  form, its not going to h
 10/23
 - Update on 4eyoga people response
 - Add new podcast to list, he is filming on tuesday
+- add onwow podcast to GH
+- add omwow podcast to SYRNAT
 - Come up for some potential topics for an email to send -> he is going to do this, not me
 - Figure out the gradient that dr w and stephen are talking about , get feedback from stephen, new icons, figure text color, with the gradient, take colors from the logos , get clarification from stephen 
