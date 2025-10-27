@@ -19,7 +19,7 @@ August: 12 hour 0 min -> recieved
 
 September: 13 hour 30 min -> recieved
 
-October: 7 hour 55 min
+October: 8 hour 5 min
 
 plugins im using on site:
 
@@ -159,7 +159,6 @@ Fix the  https://fourelementinstitute.org/honorariums/  form, its not going to h
 
 10/23
 - Update on 4eyoga people response
-- Add new podcast to list, he is filming on tuesday
 - add onwow podcast to GH
 - add omwow podcast to SYRNAT
 - Come up for some potential topics for an email to send -> he is going to do this, not me
