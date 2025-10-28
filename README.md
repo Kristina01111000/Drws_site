@@ -19,7 +19,7 @@ August: 12 hour 0 min -> recieved
 
 September: 13 hour 30 min -> recieved
 
-October: 8 hour 5 min
+October: 8 hour 15 min
 
 plugins im using on site:
 
@@ -162,4 +162,6 @@ Fix the  https://fourelementinstitute.org/honorariums/  form, its not going to h
 - add onwow podcast to GH
 - add omwow podcast to SYRNAT
 - Come up for some potential topics for an email to send -> he is going to do this, not me
-- Figure out the gradient that dr w and stephen are talking about , get feedback from stephen, new icons, figure text color, with the gradient, take colors from the logos , get clarification from stephen 
+- Figure out the gradient that dr w and stephen are talking about , get feedback from stephen, new icons, figure text color, with the gradient, take colors from the logos , get clarification from stephen
+
+- ask about email 
