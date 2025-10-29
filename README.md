@@ -19,7 +19,7 @@ August: 12 hour 0 min -> recieved
 
 September: 13 hour 30 min -> recieved
 
-October: 8 hour 30 min
+October: 9 hour 0 min
 
 plugins im using on site:
 
@@ -161,10 +161,6 @@ Fix the  https://fourelementinstitute.org/honorariums/  form, its not going to h
 - Update on 4eyoga people response
 - add onwow podcast to GH
 - add omwow podcast to SYRNAT
-- Figure out the gradient that dr w and stephen are talking about , get feedback from stephen, new icons, figure text color, with the gradient, take colors from the logos , get clarification from stephen
-"Hey Kristina,
-Yes, we are bouncing around an idea to have a reduced icon/logo similar to his Dr. W logo for all of his sites, so they all have a resemblance to each other. This would not replace the logo you are using now, but replace it when the user starts scrolling.
-
 Have you ever seen those sticky headers where the logo reduces in size when the user scrolls? Something akin to that.
 
 Maybe we can also add a sticky footer (really minimal) that highlights things across all of his sites too, like “Check out our App here,” or “Dr. W will be on this podcast Nov 10.”"
