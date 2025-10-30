@@ -227,3 +227,20 @@ wp-block-file__button{
   .menu-item ul {
         text-align: left;
     }
+
+
+
+///////////makes sticky footer, not on mobile
+@media all and (min-width: 699px) {
+
+	.gc-footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        /* Add other styling like background-color, padding, etc. */
+    }
+
+body {
+        padding-bottom: 100px ;
+    }
+}
