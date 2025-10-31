@@ -151,21 +151,6 @@ BOOK STUFF
 7/31
 Listen to and score the leading our own way podcast
 
-
-9/25
-For next week:
-Fix the  https://fourelementinstitute.org/honorariums/  form, its not going to his email,have it go to hwalsdorf@earthlink.net
-
-
-10/23
-- Update on 4eyoga people response
-- add onwow podcast to GH
-- add omwow podcast to SYRNAT
-Have you ever seen those sticky headers where the logo reduces in size when the user scrolls? Something akin to that.
-
-Maybe we can also add a sticky footer (really minimal) that highlights things across all of his sites too, like “Check out our App here,” or “Dr. W will be on this podcast Nov 10.”"
-- ask about email 
-
 10/30
 For next week:
 - https://fourelementinstitute.org/honorariums/ think of a way to better sell this to potential honorariums, fix the … , make the lines with the … tighter with the number above it, do what seems best
@@ -177,4 +162,6 @@ For next week:
 - Add some blank space on all on all sides of the icon
 - Also save another icon with the text moved down farther, like the 4 E doctor icon
 - Monday and Wednesday nudge him about the email blast in the morning, probably an autumn 4 elements thing
+- add onwow podcast to GH
+- add omwow podcast to SYRNAT
 
