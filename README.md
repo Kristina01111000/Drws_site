@@ -19,7 +19,7 @@ August: 12 hour 0 min -> recieved
 
 September: 13 hour 30 min -> recieved
 
-October: 10 hour 5 min
+October: 10 hour 15 min
 
 plugins im using on site:
 
@@ -168,13 +168,13 @@ Maybe we can also add a sticky footer (really minimal) that highlights things ac
 
 10/30
 For next week:
-https://fourelementinstitute.org/honorariums/ think of a way to better sell this to potential honorariums, fix the … , make the lines with the … tighter with the number above it, do what seems best
-Make buttons for different sizes of screen, make them look good, add the dashes back to the desktop buttons
-Try making a widget darker green like the leaf,  gradient, make the text readable
-Look into finding a pop up that stays for like 10 seconds then goes away
-Make the footer not sticky, add podcast page to the link, make it sticky again next week, send him a screenshot of it
-Leave the sticky header
-Add some blank space on all on all sides of the icon
-Also save another icon with the text moved down farther, like the 4 E doctor icon
-Monday and Wednesday nudge him about the email blast in the morning, probably an autumn 4 elements thing
+- https://fourelementinstitute.org/honorariums/ think of a way to better sell this to potential honorariums, fix the … , make the lines with the … tighter with the number above it, do what seems best
+- Make buttons for different sizes of screen, make them look good, add the dashes back to the desktop buttons
+- Try making a widget darker green like the leaf,  gradient, make the text readable
+- Look into finding a pop up that stays for like 10 seconds then goes away
+- Make the footer not sticky, add podcast page to the link, make it sticky again next week, send him a screenshot of it
+- Leave the sticky header
+- Add some blank space on all on all sides of the icon
+- Also save another icon with the text moved down farther, like the 4 E doctor icon
+- Monday and Wednesday nudge him about the email blast in the morning, probably an autumn 4 elements thing
 
