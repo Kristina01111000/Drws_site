@@ -19,7 +19,7 @@ August: 12 hour 0 min -> recieved
 
 September: 13 hour 30 min -> recieved
 
-October: 10 hour 15 min
+October: 10 hour 20 min
 
 plugins im using on site:
 
@@ -161,7 +161,7 @@ For next week:
 - Leave the sticky header
 - Add some blank space on all on all sides of the icon
 - Also save another icon with the text moved down farther, like the 4 E doctor icon
-- Monday and Wednesday nudge him about the email blast in the morning, probably an autumn 4 elements thing
+- Wednesday nudge him about the email blast in the morning, probably an autumn 4 elements thing
 - add onwow podcast to GH
 - add omwow podcast to SYRNAT
 
