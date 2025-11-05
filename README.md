@@ -21,7 +21,7 @@ September: 13 hour 30 min -> recieved
 
 October: 10 hour 15 min
 
-November: 50 min
+November: 1 hour 0 min
 
 plugins im using on site:
 
@@ -157,8 +157,6 @@ Listen to and score the leading our own way podcast
 For next week:
 - https://fourelementinstitute.org/honorariums/ think of a way to better sell this to potential honorariums, fix the … , make the lines with the … tighter with the number above it, do what seems best
 - Make buttons for different sizes of screen, make them look good, add the dashes back to the desktop buttons
-- Try making a widget darker green like the leaf,  gradient, make the text readable
-- Look into finding a pop up that stays for like 10 seconds then goes away
 - add onwow podcast to GH
 - add omwow podcast to SYRNAT
 
