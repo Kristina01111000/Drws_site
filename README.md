@@ -19,7 +19,9 @@ August: 12 hour 0 min -> recieved
 
 September: 13 hour 30 min -> recieved
 
-October: 10 hour 20 min
+October: 10 hour 15 min
+
+November: 50 min
 
 plugins im using on site:
 
@@ -157,11 +159,6 @@ For next week:
 - Make buttons for different sizes of screen, make them look good, add the dashes back to the desktop buttons
 - Try making a widget darker green like the leaf,  gradient, make the text readable
 - Look into finding a pop up that stays for like 10 seconds then goes away
-- Make the footer not sticky, add podcast page to the link, make it sticky again next week, send him a screenshot of it
-- Leave the sticky header
-- Add some blank space on all on all sides of the icon
-- Also save another icon with the text moved down farther, like the 4 E doctor icon
-- Wednesday nudge him about the email blast in the morning, probably an autumn 4 elements thing
 - add onwow podcast to GH
 - add omwow podcast to SYRNAT
 
