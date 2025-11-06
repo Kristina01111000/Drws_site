@@ -21,7 +21,7 @@ September: 13 hour 30 min -> recieved
 
 October: 10 hour 15 min
 
-November: 1 hour 20 min
+November: 1 hour 50 min
 
 plugins im using on site:
 
@@ -155,7 +155,6 @@ Listen to and score the leading our own way podcast
 
 10/30
 For next week:
-- Make buttons for different sizes of screen, make them look good, add the dashes back to the desktop buttons
 - add onwow podcast to GH
 - add omwow podcast to SYRNAT
 
