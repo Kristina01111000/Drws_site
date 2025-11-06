@@ -21,7 +21,7 @@ September: 13 hour 30 min -> recieved
 
 October: 10 hour 15 min
 
-November: 1 hour 50 min
+November: 3 hour 0 min
 
 plugins im using on site:
 
@@ -157,4 +157,15 @@ Listen to and score the leading our own way podcast
 For next week:
 - add onwow podcast to GH
 - add omwow podcast to SYRNAT
+
+11/6
+Look into why the constant contact email had different text for mine and his emails
+Check for any dates in the four element institute site, switch it to next year
+Make the header menu items not so far from the logo
+Make the footer font the same size as the menu font
+On cell phone view make the text less narrow, fix that in the css pretty easily
+For the GH logo go ⅓  between the space on the 2 icons, closer than the big space
+Figure out why the buttons are going onto 3 lines so quickly
+For pop up, right now have the personhood score link, make one , make it look like how i think is should look like
+Make the self renewal system into a course, for now only for administrators
 
