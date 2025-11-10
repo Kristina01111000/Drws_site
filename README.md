@@ -159,15 +159,14 @@ For next week:
 - add omwow podcast to SYRNAT
 
 11/6
-Look into why the constant contact email had different text for mine and his emails
-Check for any dates in the four element institute site, switch it to next year
-Make the header menu items not so far from the logo
-Make the footer font the same size as the menu font
-On cell phone view make the text less narrow, fix that in the css pretty easily, set it to 600 px, remove the padding below that
-For the GH logo go ⅓  between the space on the 2 icons, closer than the big space
-Figure out why the buttons are going onto 3 lines so quickly
-For pop up, right now have the personhood score link, make one , make it look like how i think is should look like
-Make the self renewal system into a course, for now only for administrators
-patreon links?
+- Look into why the constant contact email had different text for mine and his emails
+- Check for any dates in the four element institute site, switch it to next year
+- Make the header menu items not so far from the logo
+- Make the footer font the same size as the menu font
+- On cell phone view make the text less narrow, fix that in the css pretty easily, set it to 600 px, remove the padding below that
+- For the GH logo go ⅓  between the space on the 2 icons, closer than the big space
+- Figure out why the buttons are going onto 3 lines so quickly
+- For pop up, right now have the personhood score link, make one , make it look like how i think is should look like
+- Make the self renewal system into a course, for now only for administrators
 
 - find out if cellphone view is good now, fix the rest of the pages if it is
