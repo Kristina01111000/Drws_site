@@ -21,7 +21,7 @@ September: 13 hour 30 min -> recieved
 
 October: 10 hour 15 min
 
-November: 3 hour 10 min
+November: 3 hour 30 min
 
 plugins im using on site:
 
@@ -169,3 +169,5 @@ Figure out why the buttons are going onto 3 lines so quickly
 For pop up, right now have the personhood score link, make one , make it look like how i think is should look like
 Make the self renewal system into a course, for now only for administrators
 patreon links?
+
+- find out if cellphone view is good now, fix the rest of the pages if it is
