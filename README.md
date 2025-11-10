@@ -21,7 +21,7 @@ September: 13 hour 30 min -> recieved
 
 October: 10 hour 15 min
 
-November: 3 hour 0 min
+November: 3 hour 10 min
 
 plugins im using on site:
 
@@ -168,4 +168,4 @@ For the GH logo go ⅓  between the space on the 2 icons, closer than the big sp
 Figure out why the buttons are going onto 3 lines so quickly
 For pop up, right now have the personhood score link, make one , make it look like how i think is should look like
 Make the self renewal system into a course, for now only for administrators
-
+patreon links?
