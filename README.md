@@ -150,13 +150,13 @@ BOOK STUFF
 7/10
 - Look at the "Force From Email" setting enabled in the WP Mail SMTP plugin. It makes 4Eins. Emails come from a weird email, figure out why the institute emails aren’t working correctly
 
-7/31
-Listen to and score the leading our own way podcast
-
 10/30
 For next week:
 - add onwow podcast to GH
 - add omwow podcast to SYRNAT
+- 
+Listen to and score the leading our own way podcast
+
 
 11/6
 - Look into why the constant contact email had different text for mine and his emails
