@@ -21,7 +21,7 @@ September: 13 hour 30 min -> recieved
 
 October: 10 hour 15 min
 
-November: 4 hour 0 min
+November: 5 hour 30 min
 
 plugins im using on site:
 
@@ -160,10 +160,4 @@ Listen to and score the leading our own way podcast
 
 11/6
 - Look into why the constant contact email had different text for mine and his emails
-
-- Make the header menu items not so far from the logo
-- Make the footer font the same size as the menu font
-- For pop up, right now have the personhood score link, make one , make it look like how i think is should look like
-- Make the self renewal system into a course, for now only for administrators
-
 - find out if cellphone view is good now, fix the rest of the pages if it is
