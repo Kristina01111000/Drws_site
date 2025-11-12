@@ -134,10 +134,11 @@ body .wp-block-columns .wp-block-column {
 	background-image: url(https://growingholistically.com/wp-content/uploads/2023/10/editedgreenheader5.png);
 	background-size: 100%;
 }		
-// added footer image
+// added footer image, change font size
 .gc-footer__bottom{	 
 	background-image: url(https://growingholistically.com/wp-content/uploads/2023/10/editedgreenheader5.png);
 	background-size: 100%;
+	font-size: 20px;
 }
 
 
