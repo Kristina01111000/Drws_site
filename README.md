@@ -21,7 +21,7 @@ September: 13 hour 30 min -> recieved
 
 October: 10 hour 15 min
 
-November: 5 hour 30 min
+November: 6 hour 25 min
 
 plugins im using on site:
 
@@ -161,3 +161,19 @@ Listen to and score the leading our own way podcast
 11/6
 - Look into why the constant contact email had different text for mine and his emails
 - find out if cellphone view is good now, fix the rest of the pages if it is
+
+
+11/13
+On footer see if i can center the podcast with dr w, maybe put it into the second menu?
+Make quizzes for every lesson, in the SRS, aim for 6 to 10 questions
+No certificates for now
+Titles first, four element self renewal system
+Switch other titles to lesson 1, 2, remove the srs part
+Put the lessons in a different order, body 1, nutrition 1, breathing 1, neural flow 1, then 2, then 3
+Add a sentence for each lesson
+Look for other episodes on youtube, in the google drive
+Brainstorm  some challenges that people can do 
+Try popupally then if the popups work switch to optinmonster, maybe switch to pro next week
+Look up what user activity by cohort means on google analytics, 
+add the four element doctor gmail to the google analytics page
+See what user engagement, click, and call to action click means, on this page https://analytics.google.com/analytics/web/?authuser=0#/a236624784p326003549/reports/explorer?r=top-events&params=_r.explorerCard..selmet%3D%5B%22eventCount%22%5D%26_r.explorerCard..seldim%3D%5B%22eventName%22%5D%26_u..nav%3Dmaui 
