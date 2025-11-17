@@ -172,7 +172,7 @@ Listen to and score the leading our own way podcast
 - Put the lessons in a different order, body 1, nutrition 1, breathing 1, neural flow 1, then 2, then 3
 - Add a sentence for each lesson
 - Look for other episodes on youtube, in the google drive
-- Brainstorm  some challenges that people can do 
+- Brainstorm  some challenges that people can do , 30 day, maybe a nutrition chanllenge? a list of 4e snacks or meals they can make? yoga challenge
 - Try popupally then if the popups work switch to optinmonster, maybe switch to pro next week
 - Look up what user activity by cohort means on google analytics, 
 - add the four element doctor gmail to the google analytics page
