@@ -21,7 +21,7 @@ September: 13 hour 30 min -> recieved
 
 October: 10 hour 15 min
 
-November: 6 hour 25 min
+November: 6 hour 40 min
 
 plugins im using on site:
 
@@ -167,9 +167,6 @@ Listen to and score the leading our own way podcast
 - On footer see if i can center the podcast with dr w, maybe put it into the second menu?
 - Make quizzes for every lesson, in the SRS, aim for 6 to 10 questions
 - No certificates for now, maybe add them later
-- Titles first, four element self renewal system
-- Switch other titles to lesson 1, 2, remove the srs part
-- Put the lessons in a different order, body 1, nutrition 1, breathing 1, neural flow 1, then 2, then 3
 - Add a sentence for each lesson
 - Look for other episodes on youtube, in the google drive
 - Brainstorm  some challenges that people can do , 30 day, maybe a nutrition chanllenge? a list of 4e snacks or meals they can make? yoga challenge
