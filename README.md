@@ -166,7 +166,7 @@ Listen to and score the leading our own way podcast
 11/13
 - On footer see if i can center the podcast with dr w, maybe put it into the second menu?
 - Make quizzes for every lesson, in the SRS, aim for 6 to 10 questions
-- No certificates for now, maybe add them later
+- fix body alignment 2/3 in the course, and also in the youtube playlist
 - Add a sentence for each lesson
 - Look for other episodes on youtube, in the google drive
 - Brainstorm  some challenges that people can do , 30 day, maybe a nutrition chanllenge? a list of 4e snacks or meals they can make? yoga challenge
