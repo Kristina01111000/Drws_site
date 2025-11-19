@@ -21,7 +21,7 @@ September: 13 hour 30 min -> recieved
 
 October: 10 hour 15 min
 
-November: 7 hour 0 min
+November: 7 hour 15 min
 
 plugins im using on site:
 
@@ -164,10 +164,8 @@ Listen to and score the leading our own way podcast
 
 
 11/13
-- On footer see if i can center the podcast with dr w, maybe put it into the second menu?
 - Make quizzes for every lesson, in the SRS, aim for 6 to 10 questions
 - Add a sentence for each lesson
-- Brainstorm  some challenges that people can do , 30 day, maybe a nutrition chanllenge? a list of 4e snacks or meals they can make? yoga challenge
 - Try popupally then if the popups work switch to optinmonster, maybe switch to pro next week
 - Look up what user activity by cohort means on google analytics, 
 - add the four element doctor gmail to the google analytics page
