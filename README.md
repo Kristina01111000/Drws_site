@@ -21,7 +21,7 @@ September: 13 hour 30 min -> recieved
 
 October: 10 hour 15 min -> recieved
 
-November: 8 hour 35 min
+November: 9 hour 55 min
 
 plugins im using on site:
 
@@ -169,3 +169,17 @@ Listen to and score the leading our own way podcast
 - Look up what user activity by cohort means on google analytics, 
 - add the four element doctor gmail to the google analytics page
 - See what user engagement, click, and call to action click means, on this page https://analytics.google.com/analytics/web/?authuser=0#/a236624784p326003549/reports/explorer?r=top-events&params=_r.explorerCard..selmet%3D%5B%22eventCount%22%5D%26_r.explorerCard..seldim%3D%5B%22eventName%22%5D%26_u..nav%3Dmaui 
+
+
+
+11/20
+For next week:
+Make the rest of the quizzes
+Try to center the whole footer, try to make one part of the footer menu be bolded, make the podcast one have more space, try adding dashes for more space
+Look at different popup plugins again, see if any are good that are free
+For SRS course changed lesson to part for all of them
+Body alignment and breathing lesson 3 , life balance add all 3 of them too the end of each module, make sure they’re good enough before i put them on the site and in the youtube playlist ,  https://drive.google.com/drive/folders/1MTAwAevJKBM0dZRqfQiX9n1Njrr5v07x?usp=sharing 
+Make a list of which videos use the old music and which use the new music in the intro, think about which intro is better for the lessons , look for any big inconsistencies, look at the intro and the end of the videos, what can be better, what should be fine tuned because he's updating them anyways
+Figure out why there was a spike in users on sunday the 16th
+Make a calendar on google drive to put any relevant emails and social media posts, podcasts published , anything else i can think of , dr w giving out his booklet starting this week, keep track of how many he gave out, from this date on booklets were given out in the office
+No meeting on thanksgiving
