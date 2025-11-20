@@ -21,7 +21,7 @@ September: 13 hour 30 min -> recieved
 
 October: 10 hour 15 min -> recieved
 
-November: 8 hour 0 min
+November: 8 hour 15 min
 
 plugins im using on site:
 
@@ -166,7 +166,6 @@ Listen to and score the leading our own way podcast
 11/13
 - Make quizzes for every lesson, in the SRS, aim for 6 to 10 questions, no intro, BA 1 done
 - Add a sentence for each lesson
-- Try popupally then if the popups work switch to optinmonster, maybe switch to pro next week
 - Look up what user activity by cohort means on google analytics, 
 - add the four element doctor gmail to the google analytics page
 - See what user engagement, click, and call to action click means, on this page https://analytics.google.com/analytics/web/?authuser=0#/a236624784p326003549/reports/explorer?r=top-events&params=_r.explorerCard..selmet%3D%5B%22eventCount%22%5D%26_r.explorerCard..seldim%3D%5B%22eventName%22%5D%26_u..nav%3Dmaui 
