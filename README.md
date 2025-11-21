@@ -174,7 +174,7 @@ Listen to and score the leading our own way podcast
 
 11/20
 For next week:
-- Make the rest of the quizzes
+- Make the rest of the quizzes, did first 2
 - Try to center the whole footer, try to make one part of the footer menu be bolded, make the podcast one have more space, try adding dashes for more space
 - Look at different popup plugins again, see if any are good that are free
 - Body alignment and breathing lesson 3 , life balance add all 3 of them too the end of each module, make sure they’re good enough before i put them on the site and in the youtube playlist ,  https://drive.google.com/drive/folders/1MTAwAevJKBM0dZRqfQiX9n1Njrr5v07x?usp=sharing 
