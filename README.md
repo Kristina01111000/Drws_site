@@ -23,7 +23,7 @@ October: 10 hour 15 min -> recieved
 
 November: 9 hour 55 min
 
-December: 45 min
+December: 1 hour 10 min
 
 plugins im using on site:
 
@@ -176,6 +176,6 @@ Listen to and score the leading our own way podcast
 
 11/20
 For next week:
-- Make the rest of the quizzes, did first 2
+- Make the rest of the quizzes, did first 3
 - Body alignment and breathing lesson 3 , life balance add all 3 of them too the end of each module, make sure they’re good enough before i put them on the site and in the youtube playlist ,  https://drive.google.com/drive/folders/1MTAwAevJKBM0dZRqfQiX9n1Njrr5v07x?usp=sharing 
 - Make a list of which videos use the old music and which use the new music in the intro, think about which intro is better for the lessons , look for any big inconsistencies, look at the intro and the end of the videos, what can be better, what should be fine tuned because he's updating them anyways
