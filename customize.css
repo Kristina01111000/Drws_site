@@ -245,3 +245,14 @@ body {
         padding-bottom: 100px ;
     }
 }
+
+					//doesnt work, trying to center footer menu
+					.gc-footer__menu{
+						text-align: center;
+					}
+					
+					.menu-item{
+						display: inline-block; 
+					  margin: 0 auto; 
+					}
+					///// doesn't work
