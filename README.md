@@ -23,6 +23,8 @@ October: 10 hour 15 min -> recieved
 
 November: 9 hour 55 min
 
+December: 15 min
+
 plugins im using on site:
 
 - peepso -> auto updates still not working, caused by something in the backend? still not working the way they should
@@ -175,7 +177,6 @@ Listen to and score the leading our own way podcast
 11/20
 For next week:
 - Make the rest of the quizzes, did first 2
-- Try to center the whole footer, try to make one part of the footer menu be bolded, make the podcast one have more space, try adding dashes for more space
 - Look at different popup plugins again, see if any are good that are free
 - Body alignment and breathing lesson 3 , life balance add all 3 of them too the end of each module, make sure they’re good enough before i put them on the site and in the youtube playlist ,  https://drive.google.com/drive/folders/1MTAwAevJKBM0dZRqfQiX9n1Njrr5v07x?usp=sharing 
 - Make a list of which videos use the old music and which use the new music in the intro, think about which intro is better for the lessons , look for any big inconsistencies, look at the intro and the end of the videos, what can be better, what should be fine tuned because he's updating them anyways
