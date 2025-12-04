@@ -23,7 +23,7 @@ October: 10 hour 15 min -> recieved
 
 November: 9 hour 55 min
 
-December: 3 hour 35 min
+December: 4 hour 5 min
 
 plugins im using on site:
 
@@ -177,8 +177,8 @@ Listen to and score the leading our own way podcast
 11/20
 For next week:
 - Make the rest of the quizzes, did first 3
-- Make a list of which videos use the old music and which use the new music in the intro, think about which intro is better for the lessons , look for any big inconsistencies, look at the intro and the end of the videos, what can be better, what should be fine tuned because he's updating them anyways
 
 
 no life balance part 1 on google drive
 issues with some quizzes
+all of them have the old music?
