@@ -23,7 +23,7 @@ October: 10 hour 15 min -> recieved
 
 November: 9 hour 55 min
 
-December: 1 hour 40 min
+December: 3 hour 20 min
 
 plugins im using on site:
 
@@ -181,3 +181,4 @@ For next week:
 
 
 no life balance part 1 on google drive
+issues with some quizzes
