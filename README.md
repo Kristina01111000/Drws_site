@@ -23,7 +23,7 @@ October: 10 hour 15 min -> recieved
 
 November: 9 hour 55 min
 
-December: 4 hour 15 min
+December: 5 hour 25 min
 
 plugins im using on site:
 
@@ -182,3 +182,14 @@ For next week:
 no life balance part 1 on google drive
 issues with some quizzes
 all of them have the old music?
+
+
+12/4
+Life balance part 1 -> Does not exist
+Fix order of youtube playlist for srs
+Change youtube srs titles from episode to lesson
+Change srs on site and quizzes to lesson from part
+Fix quizzes -> add write in essays for the quizzes i had problems with
+Think of ways to get the 4 element documentary film out there, focus on srs instead, newyears challenge for the srs, post one every week , create a good post for a new years challenge, to be posted before new years for hype
+Check on solstice email/post
+Keep track on the calendar going forward
