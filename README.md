@@ -193,3 +193,4 @@ Fix quizzes -> add write in essays for the quizzes i had problems with
 Think of ways to get the 4 element documentary film out there, focus on srs instead, newyears challenge for the srs, post one every week , create a good post for a new years challenge, to be posted before new years for hype
 Check on solstice email/post
 Keep track on the calendar going forward
+email him about the solstice paragraphs at some point
