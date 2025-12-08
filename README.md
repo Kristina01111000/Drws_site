@@ -169,7 +169,6 @@ Listen to and score the leading our own way podcast
 - Add a sentence for each lesson
 - Look up what user activity by cohort means on google analytics, 
 - add the four element doctor gmail to the google analytics page
-- See what user engagement, click, and call to action click means, on this page https://analytics.google.com/analytics/web/?authuser=0#/a236624784p326003549/reports/explorer?r=top-events&params=_r.explorerCard..selmet%3D%5B%22eventCount%22%5D%26_r.explorerCard..seldim%3D%5B%22eventName%22%5D%26_u..nav%3Dmaui 
 
 12/4
 Life balance part 1 -> Does not exist
