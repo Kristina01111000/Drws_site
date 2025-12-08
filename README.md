@@ -166,23 +166,10 @@ Listen to and score the leading our own way podcast
 
 
 11/13
-- Make quizzes for every lesson, in the SRS, aim for 6 to 10 questions, no intro, BA 1 done NC 1 done
 - Add a sentence for each lesson
 - Look up what user activity by cohort means on google analytics, 
 - add the four element doctor gmail to the google analytics page
 - See what user engagement, click, and call to action click means, on this page https://analytics.google.com/analytics/web/?authuser=0#/a236624784p326003549/reports/explorer?r=top-events&params=_r.explorerCard..selmet%3D%5B%22eventCount%22%5D%26_r.explorerCard..seldim%3D%5B%22eventName%22%5D%26_u..nav%3Dmaui 
-
-
-
-11/20
-For next week:
-- Make the rest of the quizzes, did first 3
-
-
-no life balance part 1 on google drive
-issues with some quizzes
-all of them have the old music?
-
 
 12/4
 Life balance part 1 -> Does not exist
