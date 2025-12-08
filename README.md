@@ -83,6 +83,8 @@ Notes:
   	- to change an edited image, after editing go the the page and replace it with another then switch back
    	- recheck that constant contact is connected to the site every month or so, just look at lists in backend
     	- constant contact makes people choose which list to join if there is going to be more than 1 that they are added to, so only add them to one
+	- changing the footer not necessary
+	- talk about popups again in 3 months
 --------------------------------------------------------
 
 - google doc for emails:https://docs.google.com/document/d/1Nc_WVsgZKdhpWaHZyDn81rw4y02Dlj2wB-O-q9ZnJXs/edit?usp=sharing
