@@ -23,7 +23,7 @@ October: 10 hour 15 min -> recieved
 
 November: 9 hour 55 min
 
-December: 5 hour 35 min
+December: 6 hour 10 min
 
 plugins im using on site:
 
@@ -176,6 +176,5 @@ Listen to and score the leading our own way podcast
 Fix order of youtube playlist for srs
 Change youtube srs titles from episode to lesson
 Change srs on site and quizzes to lesson from part
-Fix quizzes -> add write in essays for the quizzes i had problems with
 
 
