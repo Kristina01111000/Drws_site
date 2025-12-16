@@ -179,7 +179,7 @@ Change srs on site and quizzes to lesson from part
 
 12/11
 For next week:
-Change titles on youtube and site and quizzes to lesson , from part
+Change titles on youtube and site and quizzes to lesson , from part, episode
 Look to see if conscious man podcast posted _> not yet
 Come up with potential posts for the new year new you challenge?
 Think about potential titles, new holistic you challenge, “The Holistic You Challenge”
