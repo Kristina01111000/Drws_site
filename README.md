@@ -23,7 +23,7 @@ October: 10 hour 15 min -> recieved
 
 November: 9 hour 55 min
 
-December: 7 hour 45 min
+December: 8 hour 50 min
 
 plugins im using on site:
 
@@ -175,3 +175,18 @@ Listen to and score the leading our own way podcast
 12/4
 Fix order of youtube playlist for srs
 
+12/18
+
+For next week:
+Look for image of light on bigstock for solstice email, today one that is already bought
+Add email to constant contact, later today, if its not there talk to him at 9:00 tomorrow
+Try to add him to the analytics for syrnaturalhealing
+Change SRS on youtube to match the site https://www.youtube.com/playlist?list=PLZjR4wgTPVeW_RtMa2cYThytRu37Mp6hZ 
+Add link to SRS course above virtual visits, call it short Dr. W’s video lessons
+Make the SRS public for people who sign in
+Make the first 3 videos available to anyone who goes there, also make course page public
+Create some action steps for each video, try to get three
+Add something to the homepage “start our 3 month “Holistic You New Year’s Challenge” click here” make it live on sunday or monday before our next tuesday meeting, link to the first lesson
+Maybe make the homepage video the intro to the srs
+Make a page about the new years challenge
+Write the post post for the first
