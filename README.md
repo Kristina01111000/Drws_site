@@ -23,7 +23,7 @@ October: 10 hour 15 min -> recieved
 
 November: 9 hour 55 min
 
-December: 7 hour 30 min
+December: 7 hour 45 min
 
 plugins im using on site:
 
@@ -175,6 +175,3 @@ Listen to and score the leading our own way podcast
 12/4
 Fix order of youtube playlist for srs
 
-12/11
-For next week:
-Come up with potential posts for the new year new you challenge?
