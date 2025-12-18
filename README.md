@@ -23,7 +23,7 @@ October: 10 hour 15 min -> recieved
 
 November: 9 hour 55 min
 
-December: 7 hour 0 min
+December: 7 hour 30 min
 
 plugins im using on site:
 
@@ -174,12 +174,7 @@ Listen to and score the leading our own way podcast
 
 12/4
 Fix order of youtube playlist for srs
-Change youtube srs titles from episode to lesson
-Change srs on site and quizzes to lesson from part
 
 12/11
 For next week:
-Change titles on youtube and site and quizzes to lesson , from part, episode
-Look to see if conscious man podcast posted _> not yet
 Come up with potential posts for the new year new you challenge?
-Think about potential titles, new holistic you challenge, “The Holistic You Challenge”
