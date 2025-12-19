@@ -23,7 +23,7 @@ October: 10 hour 15 min -> recieved
 
 November: 9 hour 55 min
 
-December: 8 hour 50 min
+December: 9 hour 15 min
 
 plugins im using on site:
 
@@ -178,8 +178,6 @@ Fix order of youtube playlist for srs
 12/18
 
 For next week:
-Look for image of light on bigstock for solstice email, today one that is already bought
-Add email to constant contact, later today, if its not there talk to him at 9:00 tomorrow
 Try to add him to the analytics for syrnaturalhealing
 Change SRS on youtube to match the site https://www.youtube.com/playlist?list=PLZjR4wgTPVeW_RtMa2cYThytRu37Mp6hZ 
 Add link to SRS course above virtual visits, call it short Dr. W’s video lessons
