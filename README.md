@@ -182,7 +182,7 @@ Try to add him to the analytics for syrnaturalhealing
 Change SRS on youtube to match the site https://www.youtube.com/playlist?list=PLZjR4wgTPVeW_RtMa2cYThytRu37Mp6hZ 
 Add link to SRS course above virtual visits, call it short Dr. W’s video lessons
 Make the SRS public for people who sign in
-Make the first 3 videos available to anyone who goes there, also make course page public
+Make the first 3 videos available to anyone who goes there, also make course page public, intro, and lessons 1 for earth and water
 Create some action steps for each video, try to get three
 Add something to the homepage “start our 3 month “Holistic You New Year’s Challenge” click here” make it live on sunday or monday before our next tuesday meeting, link to the first lesson
 Maybe make the homepage video the intro to the srs
