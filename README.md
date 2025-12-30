@@ -184,3 +184,16 @@ Add link to SRS course above virtual visits, call it short Dr. W’s video lesso
 Make the first 3 videos available to anyone who goes there, also make course page public, intro, and lessons 1 for earth and water
 Create some action steps for each video, try to get three
 Write the post post for the first
+
+
+12/30
+For next week:
+Fix body alignment so people don’t need to do the intro to view it
+Fix heading on email from “can you feel the sun”
+Get the email ready to send on thursday @ 3:30, set it up tomorrow around 4 
+Change all the titles to new holistic me new years challenge
+Go over all the quizzes again, see what i can do to make them better
+Figure out how to get people from app to give them an account on GH, different levels of membership
+Might change the tag line for GH, something about four element lifestyle
+Look up how to send another user verification email to the people who haven’t, does one already exist, see if i can add another one after two weeks, total of 3
+
