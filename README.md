@@ -188,8 +188,6 @@ Write the post post for the first
 
 12/30
 For next week:
-Fix body alignment so people don’t need to do the intro to view it
-Fix heading on email from “can you feel the sun”
 Get the email ready to send on thursday @ 3:30, set it up tomorrow around 4 
 Change all the titles to new holistic me new years challenge
 Go over all the quizzes again, see what i can do to make them better
