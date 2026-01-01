@@ -25,6 +25,8 @@ November: 9 hour 55 min
 
 December: 12 hour 20 min
 
+January 2026: 15 min
+
 plugins im using on site:
 
 - peepso -> auto updates still not working, caused by something in the backend? still not working the way they should
@@ -188,7 +190,7 @@ Write the post post for the first
 
 12/30
 For next week:
-Get the email ready to send on thursday @ 3:30, set it up tomorrow around 4 
+Get the email ready to send on thursday the 8th
 Change all the titles to new holistic me new years challenge
 Go over all the quizzes again, see what i can do to make them better
 Figure out how to get people from app to give them an account on GH, different levels of membership
