@@ -197,3 +197,4 @@ Figure out how to get people from app to give them an account on GH, different l
 Might change the tag line for GH, something about four element lifestyle
 Look up how to send another user verification email to the people who haven’t, does one already exist, see if i can add another one after two weeks, total of 3
 
+email sent on the 1st
