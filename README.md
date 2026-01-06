@@ -198,3 +198,4 @@ Might change the tag line for GH, something about four element lifestyle
 Look up how to send another user verification email to the people who haven’t, does one already exist, see if i can add another one after two weeks, total of 3
 
 email sent on the 1st
+he tested the virtual visits form today
