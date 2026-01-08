@@ -25,7 +25,7 @@ November: 9 hour 55 min
 
 December: 12 hour 20 min
 
-January 2026: 55 min
+January 2026: 2 hour 0 min
 
 plugins im using on site:
 
@@ -193,3 +193,13 @@ Go over all the quizzes again, see what i can do to make them better
 Figure out how to get people from app to give them an account on GH, different levels of membership
 
 
+1/8
+For next week: 
+Fix the constant contact error that just showed up
+Write the rest of the emails for the new years challenge
+Ask about audio book stuff next week
+Look into other payment options that take a smaller percentage, stripe takes about 10%
+Fix the breathing quiz to do the exercise and asking how they felt after the exercises 
+Did you find it difficult to do the breathing exercise, did you understand the breathing exercise
+How much mental clutter do you feel when you are breathing, score 1 - 5, suggest that none of them are wrong
+Think about more onboarding questions for the app
