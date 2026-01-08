@@ -25,7 +25,7 @@ November: 9 hour 55 min
 
 December: 12 hour 20 min
 
-January 2026: 15 min
+January 2026: 55 min
 
 plugins im using on site:
 
@@ -183,19 +183,13 @@ For next week:
 Try to add him to the analytics for syrnaturalhealing
 Add link to SRS course above virtual visits, call it short Dr. W’s video lessons
 
-Make the first 3 videos available to anyone who goes there, also make course page public, intro, and lessons 1 for earth and water
 Create some action steps for each video, try to get three
 Write the post post for the first
 
 
 12/30
 For next week:
-Get the email ready to send on thursday the 8th
-Change all the titles to new holistic me new years challenge
 Go over all the quizzes again, see what i can do to make them better
 Figure out how to get people from app to give them an account on GH, different levels of membership
-Might change the tag line for GH, something about four element lifestyle
-Look up how to send another user verification email to the people who haven’t, does one already exist, see if i can add another one after two weeks, total of 3
 
-email sent on the 1st
-he tested the virtual visits form today
+
