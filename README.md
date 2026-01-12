@@ -196,7 +196,7 @@ Figure out how to get people from app to give them an account on GH, different l
 1/8
 For next week: 
 Fix the constant contact error that just showed up
-Write the rest of the emails for the new years challenge
+Write the next 5 emails for the new years challenge
 Ask about audio book stuff next week
 Look into other payment options that take a smaller percentage, stripe takes about 10%
 Fix the breathing quiz to do the exercise and asking how they felt after the exercises 
