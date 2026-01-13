@@ -183,9 +183,6 @@ For next week:
 Try to add him to the analytics for syrnaturalhealing
 Add link to SRS course above virtual visits, call it short Dr. W’s video lessons
 
-Create some action steps for each video, try to get three
-Write the post post for the first
-
 
 12/30
 For next week:
