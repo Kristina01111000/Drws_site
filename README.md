@@ -25,7 +25,7 @@ November: 9 hour 55 min
 
 December: 12 hour 25 min
 
-January 2026: 3 hour 25 min
+January 2026: 4 hour 20 min
 
 plugins im using on site:
 
@@ -189,3 +189,12 @@ For next week:
 Go over all the quizzes again, see what i can do to make them better
 Figure out how to get people from app to give them an account on GH, different levels of membership
 
+1/15
+For next week:
+Do the youtube collaboration link in forwarded email from dr w and todd
+Double check that i can’t see what email dr w logs into with the youtube channel
+Add the podcast with todd to the playlist
+Schedule lesson 3 email, change it to match the week 4 title 
+Schedule lesson 4 email
+Make the other emails, try to not have them be so repetitive 
+Look into why stripe is taking 6% instead of 3%, ill try to reset it, could be messed up when wordpress was set up
