@@ -23,7 +23,7 @@ October: 10 hour 15 min -> recieved
 
 November: 9 hour 55 min
 
-December: 12 hour 20 min
+December: 12 hour 25 min
 
 January 2026: 3 hour 25 min
 
@@ -189,7 +189,3 @@ For next week:
 Go over all the quizzes again, see what i can do to make them better
 Figure out how to get people from app to give them an account on GH, different levels of membership
 
-
-1/8
-For next week: 
-Fix the constant contact error that just showed up
