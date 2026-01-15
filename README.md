@@ -25,7 +25,7 @@ November: 9 hour 55 min
 
 December: 12 hour 20 min
 
-January 2026: 2 hour 45 min
+January 2026: 3 hour 25 min
 
 plugins im using on site:
 
@@ -193,4 +193,3 @@ Figure out how to get people from app to give them an account on GH, different l
 1/8
 For next week: 
 Fix the constant contact error that just showed up
-Write the next 5 emails for the new years challenge
