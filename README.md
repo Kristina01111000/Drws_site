@@ -25,7 +25,7 @@ November: 9 hour 55 min
 
 December: 12 hour 20 min
 
-January 2026: 2 hour 40 min
+January 2026: 2 hour 45 min
 
 plugins im using on site:
 
@@ -194,7 +194,3 @@ Figure out how to get people from app to give them an account on GH, different l
 For next week: 
 Fix the constant contact error that just showed up
 Write the next 5 emails for the new years challenge
-Ask about audio book stuff next week
-Look into other payment options that take a smaller percentage, stripe takes about 10%
-Think about more onboarding questions for the app
-- check on conscious man podcast email
