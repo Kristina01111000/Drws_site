@@ -21,9 +21,9 @@ September: 13 hour 30 min -> recieved
 
 October: 10 hour 15 min -> recieved
 
-November: 9 hour 55 min
+November: 9 hour 55 min -> sent
 
-December: 12 hour 25 min
+December: 12 hour 35 min -> sent
 
 January 2026: 4 hour 45 min
 
@@ -197,3 +197,4 @@ Add the podcast with todd to the playlist
 
 Make the other emails, try to not have them be so repetitive 
 Look into why stripe is taking 6% instead of 3%, ill try to reset it, could be messed up when wordpress was set up
+-> still looking
