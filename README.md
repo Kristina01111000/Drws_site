@@ -198,3 +198,5 @@ Add the podcast with todd to the playlist
 Make the other emails, try to not have them be so repetitive 
 Look into why stripe is taking 6% instead of 3%, ill try to reset it, could be messed up when wordpress was set up
 -> still looking
+
+tax stuff ready soon
