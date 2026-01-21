@@ -25,7 +25,7 @@ November: 9 hour 55 min -> sent
 
 December: 12 hour 35 min -> sent
 
-January 2026: 4 hour 45 min
+January 2026: 5 hour 0 min
 
 plugins im using on site:
 
@@ -196,7 +196,6 @@ Double check that i can’t see what email dr w logs into with the youtube chann
 Add the podcast with todd to the playlist
 
 Make the other emails, try to not have them be so repetitive 
-Look into why stripe is taking 6% instead of 3%, ill try to reset it, could be messed up when wordpress was set up
--> still looking
+
 
 tax stuff ready soon
