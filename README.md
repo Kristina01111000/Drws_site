@@ -25,7 +25,7 @@ November: 9 hour 55 min -> sent
 
 December: 12 hour 35 min -> sent
 
-January 2026: 5 hour 0 min
+January 2026: 5 hour 20 min
 
 plugins im using on site:
 
@@ -194,8 +194,6 @@ For next week:
 Do the youtube collaboration link in forwarded email from dr w and todd
 Double check that i can’t see what email dr w logs into with the youtube channel
 Add the podcast with todd to the playlist
-
-Make the other emails, try to not have them be so repetitive 
 
 
 tax stuff ready soon
