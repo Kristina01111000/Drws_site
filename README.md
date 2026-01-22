@@ -25,7 +25,7 @@ November: 9 hour 55 min -> sent
 
 December: 12 hour 35 min -> sent
 
-January 2026: 5 hour 20 min
+January 2026: 5 hour 35 min
 
 plugins im using on site:
 
@@ -188,12 +188,5 @@ Add link to SRS course above virtual visits, call it short Dr. W’s video lesso
 For next week:
 Go over all the quizzes again, see what i can do to make them better
 Figure out how to get people from app to give them an account on GH, different levels of membership
-
-1/15
-For next week:
-Do the youtube collaboration link in forwarded email from dr w and todd
-Double check that i can’t see what email dr w logs into with the youtube channel
-Add the podcast with todd to the playlist
-
 
 tax stuff ready soon
