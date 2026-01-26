@@ -25,7 +25,7 @@ November: 9 hour 55 min -> sent
 
 December: 12 hour 35 min -> sent
 
-January 2026: 6 hour 25 min
+January 2026: 6 hour 40 min
 
 plugins im using on site:
 
@@ -197,5 +197,3 @@ For next week:
 Start getting an app email ready
 Add conscious man to the website GH and Syr nat
 Send something to stephen and diane so they can put it on 4 element doctor one, send him a cc
-Schedule the email for next week
-Ask about if he logged into google account, ask if he logged into stripe to see the fee breakdown on monday/tuesday
