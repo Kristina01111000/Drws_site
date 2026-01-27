@@ -25,7 +25,7 @@ November: 9 hour 55 min -> sent
 
 December: 12 hour 35 min -> sent
 
-January 2026: 6 hour 40 min
+January 2026: 6 hour 50 min
 
 plugins im using on site:
 
@@ -199,4 +199,5 @@ Add conscious man to the website GH and Syr nat, and other ones? get confirmatio
 Send something to stephen and diane so they can put it on 4 element doctor one, send him a cc
 
 - update social media calendar woth emails and the podcast
+- fix podcast list name of conscious man host
 check and see if the quizzes go through to the info for non adminstrators, new lesson
