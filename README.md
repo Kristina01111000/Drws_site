@@ -195,7 +195,7 @@ tax stuff ready soon
 1/22
 For next week:
 Start getting an app email ready
-Add conscious man to the website GH and Syr nat
+Add conscious man to the website GH and Syr nat, and other ones? get confirmationfrom him tehn send to diane and stepehen
 Send something to stephen and diane so they can put it on 4 element doctor one, send him a cc
 
 
