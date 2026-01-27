@@ -198,5 +198,5 @@ Start getting an app email ready
 Add conscious man to the website GH and Syr nat, and other ones? get confirmationfrom him tehn send to diane and stepehen
 Send something to stephen and diane so they can put it on 4 element doctor one, send him a cc
 
-
+- update social media calendar woth emails and the podcast
 check and see if the quizzes go through to the info for non adminstrators, new lesson
