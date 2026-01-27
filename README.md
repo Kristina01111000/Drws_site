@@ -197,3 +197,6 @@ For next week:
 Start getting an app email ready
 Add conscious man to the website GH and Syr nat
 Send something to stephen and diane so they can put it on 4 element doctor one, send him a cc
+
+
+check and see if the quizzes go through to the info for non adminstrators, new lesson
