@@ -25,7 +25,7 @@ November: 9 hour 55 min -> sent
 
 December: 12 hour 35 min -> sent
 
-January 2026: 7 hour 15 min
+January 2026: 8 hour 15 min
 
 plugins im using on site:
 
@@ -198,3 +198,26 @@ Start getting an app email ready
 
 - update social media calendar woth emails and the podcast
 check and see if the quizzes go through to the info for non adminstrators, new lesson
+
+
+1/29
+For next week:
+Send email about podcasts to diane and stephen, also images, link to page, tell tehm to put the podcasts in 
+Put the podcasts onto syr natural healing
+Work on email for the app announcement 
+Schedule the email later today for Monday at 3:30
+Email him about stripe breakdown
+https://growingholistically.com/links-to-dr-ws-videos/ change the podcast image, switch it to the image from the healers cafe podcast, edit it to fit with the other images
+Update the site
+Add a video to the register page, look on bigstock, make the register page look better
+https://growingholistically.com/register/ 
+Add a video of him talking, look at them and add one
+Send him some links of videos that i think would be good
+Look at the redirect page
+For learndash, see if people could only get the certificate if they are signed in
+For the learning program, make it so the first lesson is available to anybody
+Make the learning program first quiz shorter
+Make it so people who aren’t signed in cannot take the quiz
+Make the lessons in learning program available to everybody, leave the srs to the first three
+No meeting next week, he's in florida
+
