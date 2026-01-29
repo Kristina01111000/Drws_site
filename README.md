@@ -25,7 +25,7 @@ November: 9 hour 55 min -> sent
 
 December: 12 hour 35 min -> sent
 
-January 2026: 6 hour 50 min
+January 2026: 7 hour 15 min
 
 plugins im using on site:
 
@@ -195,9 +195,6 @@ tax stuff ready soon
 1/22
 For next week:
 Start getting an app email ready
-Add conscious man to the website GH and Syr nat, and other ones? get confirmationfrom him tehn send to diane and stepehen
-Send something to stephen and diane so they can put it on 4 element doctor one, send him a cc
 
 - update social media calendar woth emails and the podcast
-- fix podcast list name of conscious man host
 check and see if the quizzes go through to the info for non adminstrators, new lesson
