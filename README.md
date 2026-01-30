@@ -25,7 +25,7 @@ November: 9 hour 55 min -> sent
 
 December: 12 hour 35 min -> sent
 
-January 2026: 8 hour 15 min
+January 2026: 8 hour 25 min
 
 plugins im using on site:
 
@@ -202,7 +202,6 @@ check and see if the quizzes go through to the info for non adminstrators, new l
 
 1/29
 For next week:
-Send email about podcasts to diane and stephen, also images, link to page, tell tehm to put the podcasts in 
 Put the podcasts onto syr natural healing
 Work on email for the app announcement 
 Schedule the email later today for Monday at 3:30
