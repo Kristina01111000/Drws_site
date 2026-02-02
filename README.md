@@ -25,7 +25,9 @@ November: 9 hour 55 min -> sent
 
 December: 12 hour 35 min -> sent
 
-January 2026: 8 hour 25 min
+January 2026: 8 hour 30 min
+
+february: 5 min
 
 plugins im using on site:
 
@@ -204,7 +206,6 @@ check and see if the quizzes go through to the info for non adminstrators, new l
 For next week:
 Put the podcasts onto syr natural healing
 Work on email for the app announcement 
-Schedule the email later today for Monday at 3:30
 Email him about stripe breakdown
 https://growingholistically.com/links-to-dr-ws-videos/ change the podcast image, switch it to the image from the healers cafe podcast, edit it to fit with the other images
 Update the site
