@@ -21,9 +21,9 @@ September: 13 hour 30 min -> recieved
 
 October: 10 hour 15 min -> recieved
 
-November: 9 hour 55 min -> sent
+November: 9 hour 55 min -> recieved
 
-December: 12 hour 35 min -> sent
+December: 12 hour 35 min -> recieved
 
 January 2026: 8 hour 30 min
 
