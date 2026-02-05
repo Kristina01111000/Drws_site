@@ -197,3 +197,4 @@ Make it so people who aren’t signed in cannot take the quiz
 Make the lessons in learning program available to everybody, leave the srs to the first three
 No meeting next week, he's in florida
 
+Next meeting 2/12
