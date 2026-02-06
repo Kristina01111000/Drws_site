@@ -172,8 +172,6 @@ tax stuff ready soon
 
 1/22
 For next week:
-Start getting an app email ready
-
 - update social media calendar woth emails and the podcast
 check and see if the quizzes go through to the info for non adminstrators, new lesson
 
