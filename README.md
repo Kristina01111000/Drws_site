@@ -3,7 +3,7 @@ everything to do with drws site
 
 January 2026: 8 hour 30 min
 
-february: 5 min
+february: 20 min
 
 plugins im using on site:
 
@@ -183,11 +183,9 @@ Work on email for the app announcement
 Email him about stripe breakdown
 https://growingholistically.com/links-to-dr-ws-videos/ change the podcast image, switch it to the image from the healers cafe podcast, edit it to fit with the other images
 Update the site
-Add a video to the register page, look on bigstock, make the register page look better
-https://growingholistically.com/register/ 
-Add a video of him talking, look at them and add one
+
 Send him some links of videos that i think would be good
-Look at the redirect page
+
 For learndash, see if people could only get the certificate if they are signed in
 For the learning program, make it so the first lesson is available to anybody
 Make the learning program first quiz shorter
