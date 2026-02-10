@@ -136,11 +136,7 @@ BOOK STUFF
 
 10/30
 For next week:
-- add onwow podcast to GH
 - add omwow podcast to SYRNAT
-- 
-Listen to and score the leading our own way podcast
-
 
 11/6
 - Look into why the constant contact email had different text for mine and his emails
@@ -152,8 +148,6 @@ Listen to and score the leading our own way podcast
 - Look up what user activity by cohort means on google analytics, 
 - add the four element doctor gmail to the google analytics page
 
-12/4
-Fix order of youtube playlist for srs
 
 12/18
 
