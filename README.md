@@ -3,7 +3,7 @@ everything to do with drws site
 
 January 2026: 8 hour 30 min
 
-february: 1 hour 0 min
+february: 1 hour 10 min
 
 plugins im using on site:
 
@@ -182,4 +182,4 @@ Make the learning program first quiz shorter
 Make it so people who aren’t signed in cannot take the quiz
 Make the lessons in learning program available to everybody, leave the srs to the first three
 
-Next meeting 2/12
+2/12
