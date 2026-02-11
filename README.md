@@ -138,10 +138,6 @@ BOOK STUFF
 For next week:
 - add omwow podcast to SYRNAT
 
-11/6
-- Look into why the constant contact email had different text for mine and his emails
-- find out if cellphone view is good now, fix the rest of the pages if it is
-
 
 11/13
 - Add a sentence for each lesson
@@ -153,12 +149,9 @@ For next week:
 
 For next week:
 Try to add him to the analytics for syrnaturalhealing
-Add link to SRS course above virtual visits, call it short Dr. W’s video lessons
-
 
 12/30
 For next week:
-Go over all the quizzes again, see what i can do to make them better
 Figure out how to get people from app to give them an account on GH, different levels of membership
 
 tax stuff ready soon
