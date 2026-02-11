@@ -3,7 +3,7 @@ everything to do with drws site
 
 January 2026: 8 hour 30 min
 
-february: 20 min
+february: 1 hour 0 min
 
 plugins im using on site:
 
@@ -174,17 +174,12 @@ check and see if the quizzes go through to the info for non adminstrators, new l
 For next week:
 Put the podcasts onto syr natural healing
 Work on email for the app announcement 
-Email him about stripe breakdown
-https://growingholistically.com/links-to-dr-ws-videos/ change the podcast image, switch it to the image from the healers cafe podcast, edit it to fit with the other images
 Update the site
 
-Send him some links of videos that i think would be good
 
 For learndash, see if people could only get the certificate if they are signed in
-For the learning program, make it so the first lesson is available to anybody
 Make the learning program first quiz shorter
 Make it so people who aren’t signed in cannot take the quiz
 Make the lessons in learning program available to everybody, leave the srs to the first three
-No meeting next week, he's in florida
 
 Next meeting 2/12
