@@ -3,7 +3,7 @@ everything to do with drws site
 
 January 2026: 8 hour 30 min
 
-february: 1 hour 50 min
+february: 2 hour 45 min
 
 plugins im using on site:
 
@@ -170,3 +170,18 @@ Update the site
 
 
 2/12
+
+For next week:
+Send email at 3:30 on monday, add the correct video link
+Write next email 
+Fix the margin/spacing on https://syracusenaturalhealing.com/podcasts-with-dr-w/ 
+Double check the learndash confirmations match what he wants
+Figure out how to push him up on google seo, so syracuse natural healing 
+On  https://growingholistically.com/youve-been-redirected/ make the space between the title and paragraph smaller
+Add text to make people aware they have to sign in to take the quiz, “if you are a Dr. W patient, please make an account now so you can take the quiz”, put beneath the video, add a link to the register page that opens in a new tab so its easy for them to join
+Learndash questions / confirmations
+You wanted the learning program available to everybody 
+You wanted the learning program quizzes available to only people who are signed in
+You wanted the SRS first 3 available to anybody, lessons and quiz
+You wanted the SRS 4 + available to only people who are signed in
+
