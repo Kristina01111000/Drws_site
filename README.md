@@ -3,7 +3,7 @@ everything to do with drws site
 
 January 2026: 8 hour 30 min
 
-february: 1 hour 10 min
+february: 1 hour 50 min
 
 plugins im using on site:
 
@@ -165,14 +165,8 @@ check and see if the quizzes go through to the info for non adminstrators, new l
 
 1/29
 For next week:
-Put the podcasts onto syr natural healing
 Work on email for the app announcement 
 Update the site
 
-
-For learndash, see if people could only get the certificate if they are signed in
-Make the learning program first quiz shorter
-Make it so people who aren’t signed in cannot take the quiz
-Make the lessons in learning program available to everybody, leave the srs to the first three
 
 2/12
