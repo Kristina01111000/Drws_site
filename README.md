@@ -3,7 +3,7 @@ everything to do with drws site
 
 January 2026: 8 hour 30 min
 
-february: 2 hour 45 min
+february: 3 hour 0 min
 
 plugins im using on site:
 
@@ -172,7 +172,6 @@ Update the site
 2/12
 
 For next week:
-Send email at 3:30 on monday, add the correct video link
 Write next email 
 Fix the margin/spacing on https://syracusenaturalhealing.com/podcasts-with-dr-w/ 
 Double check the learndash confirmations match what he wants
