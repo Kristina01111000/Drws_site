@@ -3,7 +3,7 @@ everything to do with drws site
 
 January 2026: 8 hour 30 min
 
-february: 3 hour 0 min
+february: 3 hour 20 min
 
 plugins im using on site:
 
