@@ -3,7 +3,7 @@ everything to do with drws site
 
 January 2026: 8 hour 30 min
 
-february: 4 hour 20 min
+february: 4 hour 25 min
 
 plugins im using on site:
 
@@ -174,7 +174,6 @@ Update the site
 For next week:
 Fix the margin/spacing on https://syracusenaturalhealing.com/podcasts-with-dr-w/ 
 Figure out how to push him up on google seo, so syracuse natural healing 
-Add text to make people aware they have to sign in to take the quiz, “if you are a Dr. W patient, please make an account now so you can take the quiz”, put beneath the video, add a link to the register page that opens in a new tab so its easy for them to join
 Learndash questions / confirmations
 You wanted the learning program available to everybody 
 You wanted the learning program quizzes available to only people who are signed in
