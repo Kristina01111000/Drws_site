@@ -3,7 +3,7 @@ everything to do with drws site
 
 January 2026: 8 hour 30 min
 
-february: 4 hour 25 min
+february: 5 hour 0 min
 
 plugins im using on site:
 
@@ -180,3 +180,16 @@ You wanted the learning program quizzes available to only people who are signed 
 You wanted the SRS first 3 available to anybody, lessons and quiz
 You wanted the SRS 4 + available to only people who are signed in
 
+2/19
+For next week:
+Work on seo for SYR NAT
+Also for syr nat, i think the ¡ should be removed from the sidebar, i like it, but is stands out in a bad way YES, also make it smaller
+Back pain, sinus trouble, neck pain headaches, migraines, spine issues
+Schedule week 7 email
+Make week 8 email
+Find a different picture of him for https://growingholistically.com/links-to-dr-ws-videos/ 
+Homepage: remove the four element magazine, 
+put in the podcast one at the bottom
+Change the order to what makes sense
+Look into making a second widget for cell phone view so the logo isn’t giant
+Look into making the logo bigger for just cell phone view, if i can’t make the logo bigger for everyone
