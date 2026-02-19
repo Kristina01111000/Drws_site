@@ -3,7 +3,7 @@ everything to do with drws site
 
 January 2026: 8 hour 30 min
 
-february: 5 hour 0 min
+february: 5 hour 15 min
 
 plugins im using on site:
 
@@ -185,7 +185,6 @@ For next week:
 Work on seo for SYR NAT
 Also for syr nat, i think the ¡ should be removed from the sidebar, i like it, but is stands out in a bad way YES, also make it smaller
 Back pain, sinus trouble, neck pain headaches, migraines, spine issues
-Schedule week 7 email
 Make week 8 email
 Find a different picture of him for https://growingholistically.com/links-to-dr-ws-videos/ 
 Homepage: remove the four element magazine, 
