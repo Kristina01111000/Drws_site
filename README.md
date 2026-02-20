@@ -162,13 +162,6 @@ For next week:
 - update social media calendar woth emails and the podcast
 check and see if the quizzes go through to the info for non adminstrators, new lesson
 
-
-1/29
-For next week:
-Work on email for the app announcement 
-Update the site
-
-
 2/12
 
 For next week:
