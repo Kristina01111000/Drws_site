@@ -3,7 +3,7 @@ everything to do with drws site
 
 January 2026: 8 hour 30 min
 
-february: 5 hour 15 min
+february: 5 hour 25 min
 
 plugins im using on site:
 
@@ -149,10 +149,6 @@ For next week:
 
 For next week:
 Try to add him to the analytics for syrnaturalhealing
-
-12/30
-For next week:
-Figure out how to get people from app to give them an account on GH, different levels of membership
 
 tax stuff ready soon
 
