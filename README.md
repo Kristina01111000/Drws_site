@@ -3,7 +3,7 @@ everything to do with drws site
 
 January 2026: 8 hour 30 min
 
-february: 5 hour 25 min
+February: 5 hour 25 min
 
 plugins im using on site:
 
@@ -181,3 +181,4 @@ put in the podcast one at the bottom
 Change the order to what makes sense
 Look into making a second widget for cell phone view so the logo isn’t giant
 Look into making the logo bigger for just cell phone view, if i can’t make the logo bigger for everyone
+go over the other pages, think of any changes
