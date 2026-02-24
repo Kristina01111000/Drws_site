@@ -172,7 +172,6 @@ You wanted the SRS 4 + available to only people who are signed in
 2/19
 For next week:
 Work on seo for SYR NAT
-Also for syr nat, i think the ¡ should be removed from the sidebar, i like it, but is stands out in a bad way YES, also make it smaller
 Back pain, sinus trouble, neck pain headaches, migraines, spine issues
 Make week 8 email
 Find a different picture of him for https://growingholistically.com/links-to-dr-ws-videos/ 
