@@ -3,7 +3,7 @@ everything to do with drws site
 
 January 2026: 8 hour 30 min
 
-February: 5 hour 25 min
+February: 5 hour 30 min
 
 plugins im using on site:
 
@@ -171,7 +171,7 @@ You wanted the SRS 4 + available to only people who are signed in
 
 2/19
 For next week:
-Work on seo for SYR NAT
+Work on seo for SYR NAT -> added chiropractor twice, check on seo tomorrow
 Back pain, sinus trouble, neck pain headaches, migraines, spine issues
 Make week 8 email
 Find a different picture of him for https://growingholistically.com/links-to-dr-ws-videos/ 
