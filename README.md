@@ -3,7 +3,7 @@ everything to do with drws site
 
 January 2026: 8 hour 30 min
 
-February: 5 hour 40 min
+February: 6 hour 30 min
 
 plugins im using on site:
 
@@ -171,11 +171,6 @@ You wanted the SRS 4 + available to only people who are signed in
 
 2/19
 For next week:
-Make week 8 email
-Find a different picture of him for https://growingholistically.com/links-to-dr-ws-videos/ 
-Homepage: remove the four element magazine, 
-put in the podcast one at the bottom
-Change the order to what makes sense
 Look into making a second widget for cell phone view so the logo isn’t giant
 Look into making the logo bigger for just cell phone view, if i can’t make the logo bigger for everyone
 go over the other pages, think of any changes
