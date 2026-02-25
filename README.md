@@ -3,7 +3,7 @@ everything to do with drws site
 
 January 2026: 8 hour 30 min
 
-February: 5 hour 30 min
+February: 5 hour 40 min
 
 plugins im using on site:
 
@@ -162,7 +162,7 @@ check and see if the quizzes go through to the info for non adminstrators, new l
 
 For next week:
 Fix the margin/spacing on https://syracusenaturalhealing.com/podcasts-with-dr-w/ 
-Figure out how to push him up on google seo, so syracuse natural healing 
+
 Learndash questions / confirmations
 You wanted the learning program available to everybody 
 You wanted the learning program quizzes available to only people who are signed in
@@ -171,8 +171,6 @@ You wanted the SRS 4 + available to only people who are signed in
 
 2/19
 For next week:
-Work on seo for SYR NAT -> added chiropractor twice, check on seo tomorrow
-Back pain, sinus trouble, neck pain headaches, migraines, spine issues
 Make week 8 email
 Find a different picture of him for https://growingholistically.com/links-to-dr-ws-videos/ 
 Homepage: remove the four element magazine, 
