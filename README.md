@@ -174,3 +174,4 @@ For next week:
 Look into making a second widget for cell phone view so the logo isn’t giant
 Look into making the logo bigger for just cell phone view, if i can’t make the logo bigger for everyone
 go over the other pages, think of any changes
+- check to see if the logo looks better in cell phone view after the night
