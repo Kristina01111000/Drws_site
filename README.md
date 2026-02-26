@@ -3,7 +3,7 @@ everything to do with drws site
 
 January 2026: 8 hour 30 min
 
-February: 6 hour 30 min
+February: 7 hour 0 min
 
 plugins im using on site:
 
@@ -171,7 +171,5 @@ You wanted the SRS 4 + available to only people who are signed in
 
 2/19
 For next week:
-Look into making a second widget for cell phone view so the logo isn’t giant
-Look into making the logo bigger for just cell phone view, if i can’t make the logo bigger for everyone
 go over the other pages, think of any changes
-- check to see if the logo looks better in cell phone view after the night
+check on php update
