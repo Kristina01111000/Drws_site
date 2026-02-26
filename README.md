@@ -3,7 +3,7 @@ everything to do with drws site
 
 January 2026: 8 hour 30 min
 
-February: 7 hour 0 min
+February: 7 hour 40 min
 
 plugins im using on site:
 
@@ -173,3 +173,13 @@ You wanted the SRS 4 + available to only people who are signed in
 For next week:
 go over the other pages, think of any changes
 check on php update
+
+2/26
+For next week:
+- Keep working seo for syracuse natural healing 
+- Publish week 8 email, its the last one
+- Work on the cell phone view logo
+- Ask him if he edited the photos on google search
+- Think of other things to make the office site better, more dynamic, like a regular update, every week or so, add a video, to the homepage, maybe 4 e yoga? “Video health tip of the week from dr w”
+- Come up with a list of potential videos to cycle through
+
