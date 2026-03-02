@@ -181,4 +181,4 @@ For next week:
 - Ask him if he edited the photos on google search
 - Think of other things to make the office site better, more dynamic, like a regular update, every week or so, add a video, to the homepage, maybe 4 e yoga? “Video health tip of the week from dr w”
 - Come up with a list of potential videos to cycle through
-
+- email sent
