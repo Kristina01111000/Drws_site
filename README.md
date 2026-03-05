@@ -5,7 +5,7 @@ January 2026: 8 hour 30 min
 
 February: 7 hour 45 min
 
-March: 15 min
+March: 1 hour 0 min
 
 plugins im using on site:
 
@@ -179,6 +179,3 @@ check on php update
 2/26
 For next week:
 - Keep working seo for syracuse natural healing 
-- Work on the cell phone view logo
-- Think of other things to make the office site better, more dynamic, like a regular update, every week or so, add a video, to the homepage, maybe 4 e yoga? “Video health tip of the week from dr w”
-- Come up with a list of potential videos to cycle through
