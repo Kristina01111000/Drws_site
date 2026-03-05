@@ -5,7 +5,7 @@ January 2026: 8 hour 30 min
 
 February: 7 hour 45 min
 
-March: 1 hour 0 min
+March: 1 hour 20 min
 
 plugins im using on site:
 
@@ -178,4 +178,14 @@ check on php update
 
 2/26
 For next week:
-- Keep working seo for syracuse natural healing 
+- Keep working seo for syracuse natural healing
+
+3/5
+For next week:
+Fix the php issue for GH and syr
+Did you get into the business profile of university chiropractic? The images look the same
+I think adding some new google reviews should help with the seo, so i’ll add one with my google account and ill see if my mom will also
+See why the video isnt loading for dr w on syracuse natural healing
+Try changing the video every monday, cycle through them
+Take a picture of mobile view for the GH site for next week
+
