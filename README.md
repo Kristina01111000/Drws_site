@@ -193,3 +193,4 @@ The php upgrade started causing a problem for the site yesterday, i have put it 
  I don’t know if it's related, but is the gecko license is wrong? It says its invalid, that started this morning, im still looking into that https://peepso.com/profile/?hwalsdorf/edd/licenses/ it says that it should still be good until February next year
 He just paid for it? 
 - check to see if the video loaded on sry nat healing
+- did the php issue on gh get fixed by updating?
