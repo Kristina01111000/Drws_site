@@ -5,7 +5,7 @@ January 2026: 8 hour 30 min
 
 February: 7 hour 45 min
 
-March: 1 hour 20 min
+March: 2 hour 20 min
 
 plugins im using on site:
 
@@ -183,14 +183,9 @@ For next week:
 3/5
 For next week:
 Fix the php issue for GH and syr
-Did you get into the business profile of university chiropractic? The images look the same
 I think adding some new google reviews should help with the seo, so i’ll add one with my google account and ill see if my mom will also
-See why the video isnt loading for dr w on syracuse natural healing
-Try changing the video every monday, cycle through them
 Take a picture of mobile view for the GH site for next week
 
 The php upgrade started causing a problem for the site yesterday, i have put it back to 8.1 to figure out what the issue is. I'm actively working on it. The front end of the site was fine, but it prevented working in the backend of the site. I think it's a plugin update issue? 
  I don’t know if it's related, but is the gecko license is wrong? It says its invalid, that started this morning, im still looking into that https://peepso.com/profile/?hwalsdorf/edd/licenses/ it says that it should still be good until February next year
 He just paid for it? 
-- check to see if the video loaded on sry nat healing
-- did the php issue on gh get fixed by updating?
