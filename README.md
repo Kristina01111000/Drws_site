@@ -171,11 +171,6 @@ You wanted the learning program quizzes available to only people who are signed 
 You wanted the SRS first 3 available to anybody, lessons and quiz
 You wanted the SRS 4 + available to only people who are signed in
 
-2/19
-For next week:
-go over the other pages, think of any changes
-check on php update
-
 2/26
 For next week:
 - Keep working seo for syracuse natural healing
@@ -189,4 +184,4 @@ Take a picture of mobile view for the GH site for next week
 The php upgrade started causing a problem for the site yesterday, i have put it back to 8.1 to figure out what the issue is. I'm actively working on it. The front end of the site was fine, but it prevented working in the backend of the site. I think it's a plugin update issue? 
  I don’t know if it's related, but is the gecko license is wrong? It says its invalid, that started this morning, im still looking into that https://peepso.com/profile/?hwalsdorf/edd/licenses/ it says that it should still be good until February next year
 He just paid for it? 
--> sent in peepso ticket
+-> sent in peepso ticket, no response as of 5 pm wednesday
