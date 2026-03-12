@@ -5,7 +5,7 @@ January 2026: 8 hour 30 min
 
 February: 7 hour 45 min
 
-March: 3 hour 45 min
+March: 4 hour 35 min
 
 plugins im using on site:
 
@@ -186,3 +186,17 @@ The php upgrade started causing a problem for the site yesterday, i have put it 
 He just paid for it? 
 -> sent in peepso ticket, no response as of 5 pm wednesday
 -> tehy said it was caused by paypal communication wrong
+
+
+3/12
+For next week:
+Did you get into the business profile of university chiropractic? The images look the same -> email him about this on monday
+Make the GH logo in mobile a little smaller, but still readable
+https://syracusenaturalhealing.com/  is having php issues again 
+The debug file says its caused by the booking plugin, 
+I looked into the booking plugin and they say its compatible with php 8, but everytime i update it, it makes the site crash, i’m not sure if its being updated still
+Should I look into different booking plugins?
+See if i can fix the booking plugin, maybe there is a  premium version of it
+He’s ok with paying for it
+See if quizzes are tracked for the SRS, doesn’t appear to be
+
