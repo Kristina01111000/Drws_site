@@ -5,7 +5,7 @@ January 2026: 8 hour 30 min
 
 February: 7 hour 45 min
 
-March: 3 hour 15 min
+March: 3 hour 45 min
 
 plugins im using on site:
 
@@ -185,3 +185,4 @@ The php upgrade started causing a problem for the site yesterday, i have put it 
  I don’t know if it's related, but is the gecko license is wrong? It says its invalid, that started this morning, im still looking into that https://peepso.com/profile/?hwalsdorf/edd/licenses/ it says that it should still be good until February next year
 He just paid for it? 
 -> sent in peepso ticket, no response as of 5 pm wednesday
+-> tehy said it was caused by paypal communication wrong
