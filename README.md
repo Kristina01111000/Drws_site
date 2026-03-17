@@ -199,4 +199,4 @@ See if i can fix the booking plugin, maybe there is a  premium version of it
 He’s ok with paying for it
 See if quizzes are tracked for the SRS, doesn’t appear to be
 
-send invoice on monday
+send invoice after call on thursday
