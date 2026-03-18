@@ -5,7 +5,7 @@ January 2026: 8 hour 30 min
 
 February: 7 hour 45 min
 
-March: 5 hour 5 min
+March: 5 hour 25 min
 
 plugins im using on site:
 
@@ -195,7 +195,10 @@ The debug file says its caused by the booking plugin,
 I looked into the booking plugin and they say its compatible with php 8, but everytime i update it, it makes the site crash, i’m not sure if its being updated still
 Should I look into different booking plugins?
 See if i can fix the booking plugin, maybe there is a  premium version of it
-He’s ok with paying for it
+He’s ok with paying for it -> buying the pro version will probably fix teh issue
+
+
+
 See if quizzes are tracked for the SRS, doesn’t appear to be
 
 send invoice after call on thursday
