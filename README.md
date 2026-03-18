@@ -5,7 +5,7 @@ January 2026: 8 hour 30 min
 
 February: 7 hour 45 min
 
-March: 4 hour 45 min
+March: 5 hour 5 min
 
 plugins im using on site:
 
@@ -190,7 +190,6 @@ He just paid for it?
 
 3/12
 For next week:
-Make the GH logo in mobile a little smaller, but still readable
 https://syracusenaturalhealing.com/  is having php issues again 
 The debug file says its caused by the booking plugin, 
 I looked into the booking plugin and they say its compatible with php 8, but everytime i update it, it makes the site crash, i’m not sure if its being updated still
