@@ -5,7 +5,7 @@ January 2026: 8 hour 30 min
 
 February: 7 hour 45 min
 
-March: 5 hour 25 min
+March: 6 hour 20 min
 
 plugins im using on site:
 
@@ -202,3 +202,18 @@ He’s ok with paying for it -> buying the pro version will probably fix teh iss
 See if quizzes are tracked for the SRS, doesn’t appear to be
 
 send invoice after call on thursday
+
+3/19
+For next week:
+Adding a paywall back to GH
+Make a coupon code for patients, as they sign up they will need to use it
+“DrWPatients”
+Look at the paper the 4EYoga people made and add any edits
+Look into 4e cards on the paper, digital shuffle and pick a card https://drive.google.com/file/d/1d0uga3EP81jkCelI9nSxbPUq1SUBRdRl/view 
+Look into how it would work, and how much it would cost
+My job is to integrate it into the site, maybe downloadable feature, maybe just on the site
+They got into the business account, need to change the pictures
+Did he write the email for the next few weeks
+I have the plugin pro version, put it on syracuse natural healing, and test it
+If there are any make a document for harpinder to tell her about them
+
