@@ -5,7 +5,7 @@ January 2026: 8 hour 30 min
 
 February: 7 hour 45 min
 
-March: 6 hour 20 min
+March: 6 hour 30 min
 
 plugins im using on site:
 
@@ -217,3 +217,4 @@ Did he write the email for the next few weeks
 I have the plugin pro version, put it on syracuse natural healing, and test it
 If there are any make a document for harpinder to tell her about them
 
+i put the new booking plugin onto the staging site
