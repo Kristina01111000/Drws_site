@@ -1,9 +1,9 @@
 # Drws_site
 everything to do with drws site
 
-January 2026: 8 hour 30 min
+January 2026: 8 hour 30 min -> sent
 
-February: 7 hour 45 min
+February: 7 hour 45 min -> sent
 
 March: 6 hour 15 min
 
