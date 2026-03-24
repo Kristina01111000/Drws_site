@@ -5,7 +5,7 @@ January 2026: 8 hour 30 min -> sent
 
 February: 7 hour 45 min -> sent
 
-March: 6 hour 15 min
+March: 6 hour 30 min
 
 plugins im using on site:
 
@@ -214,6 +214,6 @@ Look into how it would work, and how much it would cost
 My job is to integrate it into the site, maybe downloadable feature, maybe just on the site
 They got into the business account, need to change the pictures
 Did he write the email for the next few weeks
-If there are any make a document for harpinder to tell her about them
+If there are any make a document for harpinder to tell her about them -> doesn;t look like any changes for harpinder to worry about
 
 i put the new booking plugin onto the staging site
