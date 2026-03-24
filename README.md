@@ -214,8 +214,6 @@ Look into how it would work, and how much it would cost
 My job is to integrate it into the site, maybe downloadable feature, maybe just on the site
 They got into the business account, need to change the pictures
 Did he write the email for the next few weeks
-I have the plugin pro version, put it on syracuse natural healing, and test it
 If there are any make a document for harpinder to tell her about them
 
 i put the new booking plugin onto the staging site
-need to send invoive for jan + feb
