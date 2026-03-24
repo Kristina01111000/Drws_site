@@ -217,3 +217,6 @@ Did he write the email for the next few weeks
 If there are any make a document for harpinder to tell her about them -> doesn;t look like any changes for harpinder to worry about
 
 i put the new booking plugin onto the staging site
+
+
+talk about site tools traffic on site ground
