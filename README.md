@@ -5,7 +5,7 @@ January 2026: 8 hour 30 min -> sent
 
 February: 7 hour 45 min -> sent
 
-March: 7 hour 0 min
+March: 8 hour 0 min
 
 plugins im using on site:
 
@@ -218,3 +218,24 @@ i put the new booking plugin onto the staging site, the php is still messing up 
 
 
 talk about site tools traffic on site ground
+
+
+
+3/26
+For next week:
+Did you get into the business profile of university chiropractic? The images look the same? 
+Adding a paywall back to GH
+Make a coupon code for patients, as they sign up they will need to use it
+“DrWPatients”
+Look for plugins that could help with the random flashcard app, because an app could be expensive
+Look into flutterflow, other things that could be used for the flashcard app
+He wants a shuffling animation, and a card flip animation, look for ways that a card could be chosen
+Look into things like paddypost, to make it easier to post things to social media, links in email
+Still work on php for the site
+He sent me the password for paid memberships pro
+On wednesday go through the site and see if there are any missed “free” parts
+Talk about next week any of the pages that he wants removed from free access to anyone
+https://www.paidmembershipspro.com/membership-account/ 
+To add paywalls back to the site i need to get the free version of paid memberships pro, the link is below
+Plus: Complete Your Membership Checkout 
+Is “DrWPatients” the code you want for the free version?
