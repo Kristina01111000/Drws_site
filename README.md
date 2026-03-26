@@ -5,7 +5,7 @@ January 2026: 8 hour 30 min -> sent
 
 February: 7 hour 45 min -> sent
 
-March: 6 hour 30 min
+March: 7 hour 0 min
 
 plugins im using on site:
 
@@ -212,11 +212,9 @@ Look at the paper the 4EYoga people made and add any edits
 Look into 4e cards on the paper, digital shuffle and pick a card https://drive.google.com/file/d/1d0uga3EP81jkCelI9nSxbPUq1SUBRdRl/view 
 Look into how it would work, and how much it would cost
 My job is to integrate it into the site, maybe downloadable feature, maybe just on the site
-They got into the business account, need to change the pictures
-Did he write the email for the next few weeks
-If there are any make a document for harpinder to tell her about them -> doesn;t look like any changes for harpinder to worry about
 
-i put the new booking plugin onto the staging site
+
+i put the new booking plugin onto the staging site, the php is still messing up the plugin, but the site doesn;t crash when it is updateed, still at 7.4
 
 
 talk about site tools traffic on site ground
