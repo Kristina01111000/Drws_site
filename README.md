@@ -1,9 +1,9 @@
 # Drws_site
 everything to do with drws site
 
-January 2026: 8 hour 30 min -> sent
+January 2026: 8 hour 30 min -> recieved
 
-February: 7 hour 45 min -> sent
+February: 7 hour 45 min -> recieved
 
 March: 8 hour 0 min
 
