@@ -5,7 +5,7 @@ January 2026: 8 hour 30 min -> recieved
 
 February: 7 hour 45 min -> recieved
 
-March: 8 hour 0 min
+March: 8 hour 30 min
 
 plugins im using on site:
 
@@ -231,7 +231,6 @@ Look for plugins that could help with the random flashcard app, because an app c
 Look into flutterflow, other things that could be used for the flashcard app
 He wants a shuffling animation, and a card flip animation, look for ways that a card could be chosen
 Look into things like paddypost, to make it easier to post things to social media, links in email
-Still work on php for the site
 He sent me the password for paid memberships pro
 On wednesday go through the site and see if there are any missed “free” parts
 Talk about next week any of the pages that he wants removed from free access to anyone
