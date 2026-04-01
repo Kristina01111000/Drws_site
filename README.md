@@ -7,6 +7,8 @@ February: 7 hour 45 min -> recieved
 
 March: 8 hour 30 min
 
+April: 1 hour
+
 plugins im using on site:
 
 - peepso -> auto updates still not working, caused by something in the backend? still not working the way they should
@@ -29,7 +31,7 @@ plugins im using on site:
 
 https://www.ssllabs.com/ssltest
 
-copy of redirect exceptions: 5070,frontpage,4222,4507,4460,2080,2627,20,3866,5443,5156,5050,5344,2586,351,5451,6132,6141,350
+copy of redirect exceptions: 5070,frontpage,4222,4507,4460,2080,2627,20,3866,5443,5156,5050,5344,2586,351,5451,6132,6141,350,2611
 
 speed test:
 https://developers.google.com/speed/pagespeed/insights/
