@@ -7,7 +7,7 @@ February: 7 hour 45 min -> recieved
 
 March: 8 hour 30 min
 
-April: 1 hour
+April: 1 hour 40 min
 
 plugins im using on site:
 
@@ -225,18 +225,6 @@ talk about site tools traffic on site ground
 
 3/26
 For next week:
-Did you get into the business profile of university chiropractic? The images look the same? 
-Adding a paywall back to GH
-Make a coupon code for patients, as they sign up they will need to use it
-“DrWPatients”
-Look for plugins that could help with the random flashcard app, because an app could be expensive
-Look into flutterflow, other things that could be used for the flashcard app
-He wants a shuffling animation, and a card flip animation, look for ways that a card could be chosen
-Look into things like paddypost, to make it easier to post things to social media, links in email
-He sent me the password for paid memberships pro
+
 On wednesday go through the site and see if there are any missed “free” parts
-Talk about next week any of the pages that he wants removed from free access to anyone
-https://www.paidmembershipspro.com/membership-account/ 
-To add paywalls back to the site i need to get the free version of paid memberships pro, the link is below
-Plus: Complete Your Membership Checkout 
-Is “DrWPatients” the code you want for the free version?
+
