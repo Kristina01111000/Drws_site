@@ -7,7 +7,7 @@ February: 7 hour 45 min -> recieved
 
 March: 8 hour 30 min
 
-April: 1 hour 40 min
+April: 2 hour 50 min
 
 plugins im using on site:
 
@@ -228,3 +228,13 @@ For next week:
 
 On wednesday go through the site and see if there are any missed “free” parts
 
+4/2
+For next week:
+Start preparing a page for the app from the site, + slides etc
+Going to try doing social posts on constant contact
+Look into multichannel campaigns for things like the new years email blasts
+Make a popup with the code so people can join for free, put the patients one and make another one for non-patients, so it's free for anyone who wants to join for now, the all others code is good for six free months, 
+Other code Free6MonthTrial
+Activate it on Monday 
+Set up payment processors another time
+Double check that the podcast page is an exception
