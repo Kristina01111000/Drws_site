@@ -7,7 +7,7 @@ February: 7 hour 45 min -> recieved
 
 March: 8 hour 30 min
 
-April: 2 hour 50 min
+April: 3 hour 0 min
 
 plugins im using on site:
 
@@ -235,6 +235,6 @@ Going to try doing social posts on constant contact
 Look into multichannel campaigns for things like the new years email blasts
 Make a popup with the code so people can join for free, put the patients one and make another one for non-patients, so it's free for anyone who wants to join for now, the all others code is good for six free months, 
 Other code Free6MonthTrial
-Activate it on Monday 
+Activate it on Monday, make sure it words
 Set up payment processors another time
 Double check that the podcast page is an exception
