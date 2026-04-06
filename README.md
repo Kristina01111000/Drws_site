@@ -237,4 +237,3 @@ Make a popup with the code so people can join for free, put the patients one and
 Other code Free6MonthTrial
 Activate it on Monday, make sure it words
 Set up payment processors another time
-Double check that the podcast page is an exception
