@@ -7,7 +7,7 @@ February: 7 hour 45 min -> recieved
 
 March: 8 hour 30 min
 
-April: 4 hour 30 min
+April: 5 hour 30 min
 
 plugins im using on site:
 
@@ -230,3 +230,12 @@ Going to try doing social posts on constant contact
 Look into multichannel campaigns for things like the new years email blasts
 
 Set up payment processors another time
+
+4/9
+For next week:
+Start preparing a page for the app from the site, + slides etc
+Set up payment processors another time
+Fix front page, its not going to be free anymore
+Test stripe connection, right now its on sandbox mode
+Email him when i figure out stripe, with what he needs to fix it
+Double check if there is a way to make a 6 month free, instead of one month or a year, or 3 months, contact developers
