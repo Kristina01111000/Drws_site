@@ -238,4 +238,4 @@ Set up payment processors another time
 Fix front page, its not going to be free anymore
 Test stripe connection, right now its on sandbox mode
 Email him when i figure out stripe, with what he needs to fix it
-Double check if there is a way to make a 6 month free, instead of one month or a year, or 3 months, contact developers
+Double check if there is a way to make a 6 month free, instead of one month or a year, or 3 months, contact developers, or make the first payment after 6 months
