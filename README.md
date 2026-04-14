@@ -203,7 +203,6 @@ He’s ok with paying for it -> buying the pro version will probably fix teh iss
 
 See if quizzes are tracked for the SRS, doesn’t appear to be
 
-
 3/19
 For next week:
 Adding a paywall back to GH
@@ -212,24 +211,14 @@ Make a coupon code for patients, as they sign up they will need to use it
 
 My job is to integrate it into the site, maybe downloadable feature, maybe just on the site
 
-
-
-talk about site tools traffic on site ground
-
-
-
 3/26
 For next week:
-
 On wednesday go through the site and see if there are any missed “free” parts
 
 4/2
 For next week:
-Start preparing a page for the app from the site, + slides etc
 Going to try doing social posts on constant contact
 Look into multichannel campaigns for things like the new years email blasts
-
-Set up payment processors another time
 
 4/9
 For next week:
