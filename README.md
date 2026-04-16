@@ -7,7 +7,7 @@ February: 7 hour 45 min -> recieved
 
 March: 8 hour 30 min
 
-April: 5 hour 30 min
+April: 6 hour 0 min
 
 plugins im using on site:
 
@@ -225,6 +225,3 @@ For next week:
 Start preparing a page for the app from the site, + slides etc
 Set up payment processors another time
 Fix front page, its not going to be free anymore
-Test stripe connection, right now its on sandbox mode
-Email him when i figure out stripe, with what he needs to fix it
-Double check if there is a way to make a 6 month free, instead of one month or a year, or 3 months, contact developers, or make the first payment after 6 months
