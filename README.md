@@ -7,7 +7,7 @@ February: 7 hour 45 min -> recieved
 
 March: 8 hour 30 min
 
-April: 6 hour 0 min
+April: 6 hour 45 min
 
 plugins im using on site:
 
@@ -225,3 +225,15 @@ For next week:
 Start preparing a page for the app from the site, + slides etc
 Set up payment processors another time
 Fix front page, its not going to be free anymore
+
+4/16
+For next week:
+Start preparing a page for the app from the site, + slides etc
+Page for 4 e yoga app? Will learn more next week
+Finish stripe setup
+Fix the front page, it's not going to be free anymore, how much? 
+$5 a month $40 a year for the site
+Write it everywhere, 
+Make sure to remove the frees, except around the code 
+Email him a reminder on monday to make sure he sets up stripe with his wife’s phone
+
