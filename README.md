@@ -7,7 +7,7 @@ February: 7 hour 45 min -> recieved
 
 March: 8 hour 30 min
 
-April: 7 hour 0 min
+April: 7 hour 30 min
 
 plugins im using on site:
 
@@ -235,6 +235,4 @@ Fix the front page, it's not going to be free anymore, how much?
 $5 a month $40 a year for the site
 Write it everywhere, 
 Make sure to remove the frees, except around the code 
-Email him a reminder on monday to make sure he sets up stripe with his wife’s phone
 
-made sarah an editor account
