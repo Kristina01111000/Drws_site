@@ -7,7 +7,7 @@ February: 7 hour 45 min -> recieved
 
 March: 8 hour 30 min
 
-April: 7 hour 30 min
+April: 8 hour 0 min
 
 plugins im using on site:
 
@@ -229,8 +229,8 @@ Fix front page, its not going to be free anymore
 4/16
 For next week:
 Start preparing a page for the app from the site, + slides etc
-Page for 4 e yoga app? Will learn more next week
-Finish stripe setup
+
+Finish stripe setup -> need access to the PMP site so i can look at documentation for the setup wizard
 Fix the front page, it's not going to be free anymore, how much? 
 $5 a month $40 a year for the site
 Write it everywhere, 
