@@ -7,7 +7,7 @@ February: 7 hour 45 min -> recieved
 
 March: 8 hour 30 min
 
-April: 8 hour 0 min
+April: 8 hour 30 min
 
 plugins im using on site:
 
@@ -230,7 +230,7 @@ Fix front page, its not going to be free anymore
 For next week:
 Start preparing a page for the app from the site, + slides etc
 
-Finish stripe setup -> need access to the PMP site so i can look at documentation for the setup wizard
+ need access to the PMP site so i can look at documentation for the setup wizard
 Fix the front page, it's not going to be free anymore, how much? 
 $5 a month $40 a year for the site
 Write it everywhere, 
