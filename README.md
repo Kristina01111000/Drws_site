@@ -7,7 +7,7 @@ February: 7 hour 45 min -> recieved
 
 March: 8 hour 30 min
 
-April: 8 hour 30 min
+April: 9 hour 15 min
 
 plugins im using on site:
 
@@ -236,3 +236,4 @@ $5 a month $40 a year for the site
 Write it everywhere, 
 Make sure to remove the frees, except around the code 
 
+PMP still not working
