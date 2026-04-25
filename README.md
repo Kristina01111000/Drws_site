@@ -211,18 +211,9 @@ Make a coupon code for patients, as they sign up they will need to use it
 
 My job is to integrate it into the site, maybe downloadable feature, maybe just on the site
 
-3/26
-For next week:
-On wednesday go through the site and see if there are any missed “free” parts
-
-4/2
-For next week:
-Going to try doing social posts on constant contact
-Look into multichannel campaigns for things like the new years email blasts
 
 4/9
 For next week:
-Start preparing a page for the app from the site, + slides etc
 Set up payment processors another time
 Fix front page, its not going to be free anymore
 
