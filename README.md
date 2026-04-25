@@ -7,7 +7,7 @@ February: 7 hour 45 min -> recieved
 
 March: 8 hour 30 min
 
-April: 9 hour 35 min
+April: 10 hour 00 min
 
 plugins im using on site:
 
@@ -138,24 +138,12 @@ BOOK STUFF
 7/10
 - Look at the "Force From Email" setting enabled in the WP Mail SMTP plugin. It makes 4Eins. Emails come from a weird email, figure out why the institute emails aren’t working correctly
 
-10/30
-For next week:
-- add omwow podcast to SYRNAT
 
 
 11/13
 - Add a sentence for each lesson
 - Look up what user activity by cohort means on google analytics, 
 - add the four element doctor gmail to the google analytics page
-
-
-12/18
-
-For next week:
-Try to add him to the analytics for syrnaturalhealing
-
-tax stuff ready soon
-
 
 1/22
 For next week:
@@ -173,16 +161,9 @@ You wanted the learning program quizzes available to only people who are signed 
 You wanted the SRS first 3 available to anybody, lessons and quiz
 You wanted the SRS 4 + available to only people who are signed in
 
-2/26
-For next week:
-- Keep working seo for syracuse natural healing
 
 3/5
 For next week:
-Fix the php issue for GH and syr -> working on it
-I think adding some new google reviews should help with the seo, so i’ll add one with my google account and ill see if my mom will also
-Take a picture of mobile view for the GH site for next week
-
 The php upgrade started causing a problem for the site yesterday, i have put it back to 8.1 to figure out what the issue is. I'm actively working on it. The front end of the site was fine, but it prevented working in the backend of the site. I think it's a plugin update issue? 
  I don’t know if it's related, but is the gecko license is wrong? It says its invalid, that started this morning, im still looking into that https://peepso.com/profile/?hwalsdorf/edd/licenses/ it says that it should still be good until February next year
 He just paid for it? 
