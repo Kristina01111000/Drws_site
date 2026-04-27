@@ -171,16 +171,6 @@ He just paid for it?
 -> tehy said it was caused by paypal communication wrong
 
 
-3/12
-For next week:
-https://syracusenaturalhealing.com/  is having php issues again 
-The debug file says its caused by the booking plugin, 
-I looked into the booking plugin and they say its compatible with php 8, but everytime i update it, it makes the site crash, i’m not sure if its being updated still
-Should I look into different booking plugins?
-See if i can fix the booking plugin, maybe there is a  premium version of it
-He’s ok with paying for it -> buying the pro version will probably fix teh issue
-
-
 
 See if quizzes are tracked for the SRS, doesn’t appear to be
 
@@ -202,7 +192,6 @@ Fix front page, its not going to be free anymore
 For next week:
 Start preparing a page for the app from the site, + slides etc
 
- need access to the PMP site so i can look at documentation for the setup wizard
 Fix the front page, it's not going to be free anymore, how much? 
 $5 a month $40 a year for the site
 Write it everywhere, 
