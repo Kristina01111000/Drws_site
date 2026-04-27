@@ -7,7 +7,7 @@ February: 7 hour 45 min -> recieved
 
 March: 8 hour 30 min
 
-April: 10 hour 30 min
+April: 11 hour 15 min
 
 plugins im using on site:
 
@@ -210,8 +210,9 @@ Make sure to remove the frees, except around the code
 
 PMP still not working
 
-on 4/26 the card plugin made the backend crash
-
 
 new to do list:
 https://docs.google.com/spreadsheets/d/1XZiBz1Z-8vM59BIuiMeroBYs2-pwb8oSRBjm3BCT9go/edit?gid=0#gid=0 
+
+
+card oracle messes with learndash, so it will not work
