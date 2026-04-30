@@ -7,7 +7,7 @@ February: 7 hour 45 min -> recieved
 
 March: 8 hour 30 min
 
-April: 11 hour 30 min
+April: 12 hour 45 min
 
 plugins im using on site:
 
@@ -203,3 +203,31 @@ PMP still not working
 new to do list:
 https://docs.google.com/spreadsheets/d/1XZiBz1Z-8vM59BIuiMeroBYs2-pwb8oSRBjm3BCT9go/edit?gid=0#gid=0 
 look at otherplugins
+
+
+4/30
+For next week:
+PMP - delete the files in backend
+Confirming the payment levels
+Dr W Patient, free with code DrWPatient
+ThreeMonthsFree, $40 per year, free six months with code Free3MonthTrial
+Change all the stuff that says free on the homepage
+Think about social media comments/ description with link to GH
+Make a blurb for the youtube description for the site  “Learn more about the four elements at growingholistically.com”
+Make 24 pages, one for each card she has, use to make the random choice happen https://wordpress.org/plugins/better-random-redirect/ 
+Probably use https://wordpress.org/plugins/folders/ if this is the way to go
+Make virtual visits page public? Yes 
+ Partial redo of homepage
+Add a section about the virtual visits on the homepage near the top, 
+also add a link near the top
+switch links to dr w videos page in the text
+A bigger section about virtual visits in the self renewal system below 
+https://growingholistically.com/links-to-dr-ws-videos/ page
+Put freebies at the top
+Put courses in the partially free (first three lessons)
+Add a section about  join to get access to the self renewal program
+See the listing of topics, add a join here button for three months for free
+Add a link to virtual visits
+Think about header and moving stuff
+Look into seeing external views on youtube videos, in the external source views section in the analytics
+Additional potential names for the learning program, like videos lessons, something else? For the drop down menu, and homepage
