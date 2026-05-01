@@ -7,7 +7,9 @@ February: 7 hour 45 min -> recieved
 
 March: 8 hour 30 min
 
-April: 12 hour 45 min
+April: 14 hour 45 min
+
+May: 15 min
 
 plugins im using on site:
 
@@ -231,3 +233,6 @@ Add a link to virtual visits
 Think about header and moving stuff
 Look into seeing external views on youtube videos, in the external source views section in the analytics
 Additional potential names for the learning program, like videos lessons, something else? For the drop down menu, and homepage
+
+
+call with sarah today
