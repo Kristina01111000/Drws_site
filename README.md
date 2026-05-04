@@ -9,7 +9,7 @@ March: 8 hour 30 min
 
 April: 14 hour 45 min
 
-May: 2 hour 45 min
+May: 3 hour 45 min
 
 plugins im using on site:
 
@@ -234,5 +234,5 @@ Think about header and moving stuff
 Look into seeing external views on youtube videos, in the external source views section in the analytics
 Additional potential names for the learning program, like videos lessons, something else? For the drop down menu, and homepage
 
-
-call with sarah today
+--> switch the register to the PMP register, from peepso register!
+https://growingholistically.com/login/ -> is pmp, might fix issue
