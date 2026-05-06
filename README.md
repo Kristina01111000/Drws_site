@@ -9,7 +9,7 @@ March: 8 hour 30 min
 
 April: 14 hour 45 min
 
-May: 5 hour 45 min
+May: 6 hour 45 min
 
 plugins im using on site:
 
@@ -238,3 +238,7 @@ Additional potential names for the learning program, like videos lessons, someth
 https://growingholistically.com/login/ -> is pmp, might fix issue
 ---> added all of pmp pages to exceptionlist
 ---> make sure all of the sign up links go to https://growingholistically.com/membership-account/membership-levels/ 
+
+
+
+Need to edit home page
