@@ -9,7 +9,7 @@ March: 8 hour 30 min
 
 April: 14 hour 45 min
 
-May: 7 hour 15 min
+May: 7 hour 30 min
 
 plugins im using on site:
 
@@ -242,3 +242,4 @@ https://growingholistically.com/login/ -> is pmp, might fix issue
 
 
 Need to edit home page
+check all the login and register links
