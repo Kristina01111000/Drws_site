@@ -9,7 +9,7 @@ March: 8 hour 30 min
 
 April: 14 hour 45 min
 
-May: 7 hour 45 min
+May: 9 hour 5 min
 
 plugins im using on site:
 
@@ -243,3 +243,26 @@ https://growingholistically.com/login/ -> is pmp, might fix issue
 
 Need to edit home page
 check all the login and register links
+
+
+5/7
+For next week:
+Change youtube comment to remove the free section
+Think about what to put in the description on tiktok
+For youtube videos have a sentence for each video, slowly work my way back
+For cards app: hide date, leave the cards category, for comment section say something like “Did this card inspire you? Share your inspiration-feelings-experience”
+Check on comment reporting 
+Share with sarah
+It will not be free
+Think about where it will go on the menu
+See if there is a way to send people a notice when their free membership is going to expire
+Figure out text to put on the virtual visits page b/c he doesn’t want a bunch of virtual visits
+https://growingholistically.com/temp-homepage-2/ text here above the self renewal system heading, new video is coming at some point
+Check PMP for a money back guarantee
+Remove the tabulator from the freebies, hide the page from non-members, fix all of the places that say its free
+Figure out where the best place to link it will be
+Add the free videos to the freebies link, free videos page, put the links to the videos on it
+Say the first three videos in the courses are free, 
+On homepage “Access to Dr. W’s collection of videos”
+Only put the stuff that they get access to when they join
+On the pictures, some link to patreon, fix that
