@@ -9,7 +9,7 @@ March: 8 hour 30 min
 
 April: 14 hour 45 min
 
-May: 6 hour 45 min
+May: 7 hour 15 min
 
 plugins im using on site:
 
