@@ -266,3 +266,7 @@ Say the first three videos in the courses are free,
 On homepage “Access to Dr. W’s collection of videos”
 Only put the stuff that they get access to when they join
 On the pictures, some link to patreon, fix that
+
+
+
+no news on the new text for the GH homepage
