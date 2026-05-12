@@ -9,7 +9,7 @@ March: 8 hour 30 min -> sent
 
 April: 14 hour 45 min -> sent
 
-May: 9 hour 5 min
+May: 9 hour 30 min
 
 plugins im using on site:
 
@@ -270,3 +270,4 @@ On the pictures, some link to patreon, fix that
 
 
 no news on the new text for the GH homepage
+see if i heard from sarah
