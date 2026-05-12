@@ -9,7 +9,7 @@ March: 8 hour 30 min -> sent
 
 April: 14 hour 45 min -> sent
 
-May: 9 hour 30 min
+May: 9 hour 50 min
 
 plugins im using on site:
 
@@ -271,3 +271,7 @@ On the pictures, some link to patreon, fix that
 
 no news on the new text for the GH homepage
 see if i heard from sarah
+for posts, 
+center the title, 
+hide the date and the previous button
+do the changes on https://growingholistically.com/2026/05/01/water-body-movement-of-fascia/ first, then after she confirms do the rest
