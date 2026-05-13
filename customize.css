@@ -256,3 +256,17 @@ body {
 					  margin: 0 auto; 
 					}
 					///// doesn't work
+
+
+
+
+/// for posts pages, hides date, centers title, hides the previous button
+.entry-date{
+	display: none;
+}
+.entry-header{
+	text-align: center;
+}
+.post-navigation{
+	display: none;
+}
