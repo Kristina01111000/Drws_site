@@ -9,7 +9,7 @@ March: 8 hour 30 min -> sent
 
 April: 14 hour 45 min -> sent
 
-May: 9 hour 50 min
+May: 9 hour 55 min
 
 plugins im using on site:
 
@@ -259,7 +259,7 @@ See if there is a way to send people a notice when their free membership is goin
 Figure out text to put on the virtual visits page b/c he doesn’t want a bunch of virtual visits
 https://growingholistically.com/temp-homepage-2/ text here above the self renewal system heading, new video is coming at some point
 Check PMP for a money back guarantee
-Remove the tabulator from the freebies, hide the page from non-members, fix all of the places that say its free
+ the tabulator, fix all of the places that say its free
 Figure out where the best place to link it will be
 Add the free videos to the freebies link, free videos page, put the links to the videos on it
 Say the first three videos in the courses are free, 
