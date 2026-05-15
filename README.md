@@ -9,7 +9,7 @@ March: 8 hour 30 min -> sent
 
 April: 14 hour 45 min -> sent
 
-May: 10 hour 30 min
+May: 10 hour 40 min
 
 plugins im using on site:
 
@@ -262,7 +262,7 @@ Say the first three videos in the courses are free,
 Only put the stuff that they get access to when they join
 
 
-
+changes video page to free videos wihth the others labeled
 
 no news on the new text for the GH homepage
 see if i heard from sarah
