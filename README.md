@@ -9,7 +9,7 @@ March: 8 hour 30 min -> sent
 
 April: 14 hour 45 min -> sent
 
-May: 10 hour 40 min
+May: 11 hour 20 min
 
 plugins im using on site:
 
@@ -270,3 +270,17 @@ for posts,
 center the title, 
 hide the date and the previous button
 do the changes on https://growingholistically.com/2026/05/01/water-body-movement-of-fascia/ first, then after she confirms do the rest
+
+
+5/14
+For next week:
+Format text on https://growingholistically.com/temp-homepage-2/
+Look at the text and pull out the good parts that will play well with the words from dr w section, email him when its ready
+Add a click here for info with a dropdown text box that talks about how much it costs
+Clean up  https://growingholistically.com/links-to-dr-ws-videos/ 
+Make “join to get access" to hot to the registration page
+For the cards  do title like this, email dr w and sarah once its done, want less space between the two titles
+https://growingholistically.com/4-element-card/ change title to the 4e oracle cards 
+Make https://growingholistically.com/4-element-card/ free for everyone, but the cards not, need to be signed in to get cards
+Look over the redirect page, make it better to match edits to site https://growingholistically.com/youve-been-redirected/  , fix the login link, make the text friendlier 
+For the cards page, make it look better
