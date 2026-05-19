@@ -282,3 +282,4 @@ https://growingholistically.com/4-element-card/ change title to the 4e oracle ca
 Make https://growingholistically.com/4-element-card/ free for everyone, but the cards not, need to be signed in to get cards
 Look over the redirect page, make it better to match edits to site https://growingholistically.com/youve-been-redirected/  , fix the login link, make the text friendlier 
 For the cards page, make it look better
+emailed sarah about the image for the cards page
