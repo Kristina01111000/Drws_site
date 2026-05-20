@@ -9,7 +9,7 @@ March: 8 hour 30 min -> sent
 
 April: 14 hour 45 min -> sent
 
-May: 12 hour 0 min
+May: 12 hour 30 min
 
 plugins im using on site:
 
@@ -262,8 +262,6 @@ Say the first three videos in the courses are free,
 Only put the stuff that they get access to when they join
 
 
-changes video page to free videos wihth the others labeled
-
 no news on the new text for the GH homepage
 see if i heard from sarah
 for posts, 
@@ -274,8 +272,6 @@ do the changes on https://growingholistically.com/2026/05/01/water-body-movement
 
 5/14
 For next week:
-Format text on https://growingholistically.com/temp-homepage-2/
-Look at the text and pull out the good parts that will play well with the words from dr w section, email him when its ready
 Add a click here for info with a dropdown text box that talks about how much it costs
 Make https://growingholistically.com/4-element-card/ free for everyone, but the cards not, need to be signed in to get cards
 Look over the redirect page, make it better to match edits to site https://growingholistically.com/youve-been-redirected/  , fix the login link, make the text friendlier 
