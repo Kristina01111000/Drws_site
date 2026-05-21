@@ -9,7 +9,7 @@ March: 8 hour 30 min -> sent
 
 April: 14 hour 45 min -> sent
 
-May: 12 hour 30 min
+May: 13 hour 20 min
 
 plugins im using on site:
 
@@ -277,3 +277,9 @@ Make https://growingholistically.com/4-element-card/ free for everyone, but the 
 Look over the redirect page, make it better to match edits to site https://growingholistically.com/youve-been-redirected/  , fix the login link, make the text friendlier 
 For the cards page, make it look better
 emailed sarah about the image for the cards page
+
+
+5/21
+For next week:
+Fix spacing on the card app pages
+Add anchor to the learning program to the free videos link anchor to The first three lessons are available for free:
