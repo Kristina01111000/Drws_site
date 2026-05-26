@@ -9,7 +9,7 @@ March: 8 hour 30 min -> sent
 
 April: 14 hour 45 min -> sent
 
-May: 14 hour 0 min
+May: 14 hour 05 min
 
 plugins im using on site:
 
@@ -287,3 +287,4 @@ Add anchor to the learning program to the free videos link anchor to The first t
 
 
 check that the same card doesn't come up multiple times when clicking on card app
+check on homepage text
