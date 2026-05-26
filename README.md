@@ -9,7 +9,7 @@ March: 8 hour 30 min -> sent
 
 April: 14 hour 45 min -> sent
 
-May: 13 hour 20 min
+May: 14 hour 0 min
 
 plugins im using on site:
 
@@ -283,3 +283,7 @@ emailed sarah about the image for the cards page
 For next week:
 Fix spacing on the card app pages
 Add anchor to the learning program to the free videos link anchor to The first three lessons are available for free:
+
+
+
+check that the same card doesn't come up multiple times when clicking on card app
