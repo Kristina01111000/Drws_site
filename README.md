@@ -303,3 +303,4 @@ Add the text he sent to the homepage
 Fix menu dropdown color
 Look at homepage on cell phone to see if i think any changes should be made
 
+- asked for access to the google doc that sarah was working on
