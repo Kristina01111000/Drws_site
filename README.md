@@ -11,6 +11,10 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
+June: 15 min
+
+
+
 plugins im using on site:
 
 - peepso -> auto updates still not working, caused by something in the backend? still not working the way they should
@@ -303,4 +307,4 @@ Add the text he sent to the homepage
 Fix menu dropdown color
 Look at homepage on cell phone to see if i think any changes should be made
 
-- asked for access to the google doc that sarah was working on
+- look at the google doc that sarah sent, + make changes
