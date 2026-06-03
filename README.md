@@ -11,7 +11,7 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
-June: 30 min
+June: 1 hour 15 min
 
 
 
@@ -298,11 +298,9 @@ remove grey background?
 
 5/28
 For next week:
-Make the space between the two title cards smaller, will have to use css
-For the main card space, add space between picture and text below it
-For the main card space, add text dr w sent
+
 See if i can make the header menu font smaller on the desktop view, but the same on cell phone menu 
-Add the text he sent to the homepage
+
 Fix menu dropdown color
 Look at homepage on cell phone to see if i think any changes should be made
 
