@@ -11,7 +11,7 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
-June: 15 min
+June: 30 min
 
 
 
@@ -298,7 +298,6 @@ remove grey background?
 
 5/28
 For next week:
-Remove the grey background for the cards
 Make the space between the two title cards smaller, will have to use css
 For the main card space, add space between picture and text below it
 For the main card space, add text dr w sent
