@@ -11,7 +11,7 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
-June: 1 hour 15 min
+June: 1 hour 40 min
 
 
 
@@ -304,4 +304,3 @@ See if i can make the header menu font smaller on the desktop view, but the same
 Fix menu dropdown color
 Look at homepage on cell phone to see if i think any changes should be made
 
-- look at the google doc that sarah sent, + make changes
