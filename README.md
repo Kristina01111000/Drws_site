@@ -11,7 +11,7 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
-June: 2 hour 0 min
+June: 3 hour 20 min
 
 
 
@@ -306,3 +306,33 @@ Look at homepage on cell phone to see if i think any changes should be made
 
 talk about the thumbnail image of the youtube video
 change the comment section for the youtube videos
+
+
+6/4
+
+For next week:
+background for the cards? Try adding a border, see if it looks better
+Make the space between the two title cards smaller, css might work???
+Make a popup for the free gift instead of a button  “FREE GIFT for those who want to sign up for the Growing Holistically’s biweekly UPLIFT video.” maybe change text?
+Chapter 9  + 10 nutrition, he will send it to me
+https://growingholistically.com/nutrition-and-you/ update chapter 9
+Look at document he sent me
+SEE EXCERPTS FROM DR. W’S NEWEST BOOK – “THE FOUR ELEMENT CODE”!! = Link to table of contents and first chapter. -> link to shop page, add first chapter of book to shop page, and table of contents
+If you do not wish to become a member of Growing Holistically, you can choose to purchase: Dr. W’s Holistic Learning Program w/o joining for $30.00 Dr. W’s Self Renewal video series w/o joining for $20.00 Both are included as part of Membership benefits Click here to purchase one or both. -> figure out if the same course can be visible to members and to people who bought it, or make a second course for people who buy it only, that is not visible to members
+Make sure that “drwpatient” code makes it last a year
+Not doing free 3 month trial anymore -> remove all of that on sign up page, and remove the code
+Life Balance Scorecard & Daily Tabulator we are going to put it in the bullet points, think of the best name, Weekly Life Balance scorecard
+Change it everywhere , look at all the pages
+For bullet list on homepage:
+Discounts on Dr. W’s books, and “4 Element Yoga props” -> more
+Four Element Personal Coaching programs ->Add coming soon
+Put podcasts at the bottom
+For words from dr w remove the 4 e institute paragraph on word doc
+Glance at the other site links to see if there are any changes i would make
+He will send 4 element yoga icon
+Fix health topics link
+https://growingholistically.com/the-four-element-scorecard/ clean up this page, put download at the top
+Push the page to top of health topics
+Change self renewal topics tto self renewal videos
+https://growingholistically.com/self-renewal-system/ change to self renewal videos
+ Change the colors to every 7 days instead of 4 https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit?gid=1517792507#gid=1517792507 
