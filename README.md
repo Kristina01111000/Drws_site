@@ -11,7 +11,7 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
-June: 1 hour 40 min
+June: 2 hour 0 min
 
 
 
@@ -304,3 +304,5 @@ See if i can make the header menu font smaller on the desktop view, but the same
 Fix menu dropdown color
 Look at homepage on cell phone to see if i think any changes should be made
 
+talk about the thumbnail image of the youtube video
+change the comment section for the youtube videos
