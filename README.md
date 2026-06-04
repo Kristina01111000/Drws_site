@@ -11,7 +11,7 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
-June: 3 hour 20 min
+June: 3 hour 40 min
 
 
 
