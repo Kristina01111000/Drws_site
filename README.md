@@ -11,7 +11,7 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
-June: 3 hour 40 min
+June: 3 hour 45 min
 
 
 
@@ -336,3 +336,5 @@ Push the page to top of health topics
 Change self renewal topics tto self renewal videos
 https://growingholistically.com/self-renewal-system/ change to self renewal videos
  Change the colors to every 7 days instead of 4 https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit?gid=1517792507#gid=1517792507 
+
+remove all of the tabulator
