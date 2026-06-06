@@ -338,3 +338,5 @@ https://growingholistically.com/self-renewal-system/ change to self renewal vide
  Change the colors to every 7 days instead of 4 https://docs.google.com/spreadsheets/d/1boqAM_8NBEV09Uq_KDDhTZ4vUAS0WwAquNfRpROXE64/edit?gid=1517792507#gid=1517792507 
 
 remove all of the tabulator
+
+-> phone call at 1:30 today
