@@ -11,7 +11,7 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
-June: 4 hour 25 min
+June: 4 hour 30 min
 
 
 
@@ -350,3 +350,5 @@ Remake the site homepage to look like 4elifestyle
 Use the same colors
 Put his video at the top
 Make a staging site to do this on
+
+-> staging site made
