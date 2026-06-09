@@ -11,7 +11,7 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
-June: 4 hour 30 min
+June: 5 hour 30 min
 
 
 
@@ -352,3 +352,4 @@ Put his video at the top
 Make a staging site to do this on
 
 -> staging site made
+-> divi set up
