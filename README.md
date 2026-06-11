@@ -11,7 +11,7 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
-June: 6 hour 45 min
+June: 8 hour 0 min
 
 
 
@@ -350,3 +350,50 @@ https://4elementlifestyle.com/
 
 
 6/11
+For next week:
+Make staging site main site
+He will send me text to put on the images that are on 4elifestyle, 
+Find the images on bigstock, download them
+Change the 4 element personhood score to the 4 element balance score (only on homepage for now)
+On homepage, 
+make learning program blue, change the colors, he wants variety
+Use that blue in more places
+For elemental thinking, living, add the picture of the woman making a heart with her hands, make background blue
+Remove the whitespace between the squares
+Make book promo smaller, put image of book inside the colored square, shorter text, make book 50% the size it is
+Change “getting started” to “check out“
+Make 4e yoga look better, he will send the yoga picture, 
+remove the picture of him
+4 element nutrition, make background better, add a nice picture
+Make a page for the holistic advice links, he will send me the text for them, they will be behind the paywall
+Put the score card inside the personal growth box
+Copy words from dr w to the site, still in columns, make it look pretty
+Put about dr w like on 4elefistyle below that
+Add multiple join here buttons to the site after editing it
+Look for backgrounds on bigstock
+Add the orange somewhere from 4elifestyle
+Link to benefits page somewhere, also getting started
+Set up the learning program so they can buy it individually or so they can join the site and get it
+Set it up so all of the pages that are for ‘members only’ are checked on the page editor to be only for members
+For the header menu:	make them all two lines
+Dr. W’s Wellness Advice 
+All of the body system listing shown(pages i make) in the homepage
+Virtual visits
+Health Topics 	 	
+Nutrition
+Yoga & Body Awareness. 
+Breathing: Stress & Anxiety. 
+This month’s topic, with an archive of other months topics, 
+start with spices article
+Put learning program and self renewal program here
+4 Element Yoga. 
+No dropdown, takes them to the yoga page
+A Spiritual You 
+Put oracle cards in this link
+New page -> 4 element astrology
+New page -> Personal Growth-> page from dr w talking about spiritual you
+About GH & Community
+Link to activity page
+Sign in button
+Anything else
+About growing holistically
