@@ -11,7 +11,7 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
-June: 6 hour 30 min
+June: 6 hour 45 min
 
 
 
@@ -347,3 +347,6 @@ https://4elementlifestyle.com/
 
 -> staging site made
 -> divi set up
+
+
+6/11
