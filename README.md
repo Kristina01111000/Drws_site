@@ -351,7 +351,7 @@ https://4elementlifestyle.com/
 
 6/11
 For next week:
-Make staging site main site
+Make staging site main site -> only when its ready
 He will send me text to put on the images that are on 4elifestyle, 
 Find the images on bigstock, download them
 Change the 4 element personhood score to the 4 element balance score (only on homepage for now)
