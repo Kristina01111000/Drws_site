@@ -11,7 +11,7 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
-June: 8 hour 30 min
+June: 9 hour 0 min
 
 
 
@@ -401,3 +401,4 @@ About growing holistically
 
 -> latest draft in email
 -> spacing easy to fix in divi
+-> look at header changes
