@@ -11,7 +11,7 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
-June: 10 hour 0 min
+June: 11 hour 30 min
 
 
 
@@ -402,3 +402,14 @@ About growing holistically
 -> latest draft in email
 -> spacing easy to fix in divi
 -> look at header changes
+
+
+6/18
+For next week:
+Come up with ideas for a dr ws garden page
+Make all of the widths go all the way across on the homepage
+Everything on homepage should be centered
+For personal and spiritual growth box, put an image in the background
+Put yoga image in background also
+Seperate our mission from about dr w
+Think about what should be taken off the menu, look at about gh specifically
