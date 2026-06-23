@@ -11,7 +11,7 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
-June: 12 hour 0 min
+June: 12 hour 30 min
 
 
 
@@ -417,3 +417,5 @@ Think about what should be taken off the menu, look at about gh specifically
 
 look into learndash notifications for the 21 day challenge sydney is doing on insta and the site
 look into i cloud images from stephen -> 2023 month 5/6
+
+_ migrated the site
