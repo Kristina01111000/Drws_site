@@ -11,7 +11,7 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
-June: 12 hour 30 min
+June: 12 hour 45 min
 
 
 
@@ -419,3 +419,4 @@ look into learndash notifications for the 21 day challenge sydney is doing on in
 look into i cloud images from stephen -> 2023 month 5/6
 
 _ migrated the site->>>>> check on wp forms tomorrow
+- check how the heading looks
