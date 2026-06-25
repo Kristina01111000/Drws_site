@@ -11,7 +11,7 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
-June: 13 hour 15 min
+June: 14 hour 45 min
 
 
 
@@ -417,4 +417,24 @@ Think about what should be taken off the menu, look at about gh specifically
 
 look into learndash notifications for the 21 day challenge sydney is doing on insta and the site
 look into i cloud images from stephen -> 2023 month 5/6
+
+
+6/25
+For next week:
+Finish homepage
+White text for dark green background
+Make light green background a darker green, with white font
+Make the fonts bigger, like 14 or 16
+For get you r 4 element balance score section switch the picture to the side, put the button below the image
+Get the white out of the book image
+For element images, make them go widescreen, then put the text on a background that matches the image, make text white, leave a space between the text and the next image
+For heading switch to with dr w as your guide, make the drw part smaller text, make other part bigger
+Center the buttons
+Get the yoga icon, flower of some sort
+Try the orange in spice it up, 
+Change 4 element personhood score to your 4 element balance score
+Put dr ws videos page under health topics, remove the stuff on the page from header
+On yoga and you page , remove free wording, put the image up higher, after the three bullet points, after image put “click here for more”,links to  
+put the three paragraphs On the yoga and you continued page, 
+Look up how to send reminder emails when someone hasn't finished a lesson (for yoga challenge)
 
