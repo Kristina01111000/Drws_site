@@ -11,7 +11,7 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
-June: 14 hour 45 min
+June: 15 hour 0 min
 
 
 
@@ -438,3 +438,4 @@ On yoga and you page , remove free wording, put the image up higher, after the t
 put the three paragraphs On the yoga and you continued page, 
 Look up how to send reminder emails when someone hasn't finished a lesson (for yoga challenge)
 
+- movement on book
