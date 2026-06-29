@@ -11,7 +11,7 @@ April: 14 hour 45 min -> sent
 
 May: 15 hour 15 min
 
-June: 15 hour 0 min
+June: 15 hour 10 min
 
 
 
@@ -426,7 +426,7 @@ White text for dark green background
 Make light green background a darker green, with white font
 Make the fonts bigger, like 14 or 16
 For get you r 4 element balance score section switch the picture to the side, put the button below the image
-Get the white out of the book image
+
 For element images, make them go widescreen, then put the text on a background that matches the image, make text white, leave a space between the text and the next image
 For heading switch to with dr w as your guide, make the drw part smaller text, make other part bigger
 Center the buttons
