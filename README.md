@@ -411,8 +411,6 @@ Make all of the widths go all the way across on the homepage
 Everything on homepage should be centered
 For personal and spiritual growth box, put an image in the background
 Put yoga image in background also
-Seperate our mission from about dr w
-Think about what should be taken off the menu, look at about gh specifically
 
 
 look into learndash notifications for the 21 day challenge sydney is doing on insta and the site
