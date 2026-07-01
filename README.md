@@ -13,7 +13,7 @@ May: 15 hour 15 min
 
 June: 15 hour 30 min
 
-July: 1 hour 15 min
+July: 2 hour 15 min
 
 
 
@@ -409,8 +409,7 @@ About growing holistically
 6/18
 For next week:
 Come up with ideas for a dr ws garden page
-Make all of the widths go all the way across on the homepage
-Everything on homepage should be centered
+
 For personal and spiritual growth box, put an image in the background
 Put yoga image in background also
 
@@ -426,7 +425,6 @@ Finish homepage
 For heading switch to with dr w as your guide, make the drw part smaller text, make other part bigger
 
 Change 4 element personhood score to your 4 element balance score
-Put dr ws videos page under health topics, remove the stuff on the page from header
 On yoga and you page , remove free wording, put the image up higher, after the three bullet points, after image put “click here for more”,links to  
 put the three paragraphs On the yoga and you continued page, 
 Look up how to send reminder emails when someone hasn't finished a lesson (for yoga challenge)
