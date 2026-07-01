@@ -13,7 +13,7 @@ May: 15 hour 15 min
 
 June: 15 hour 30 min
 
-July: 0 hour 40 min
+July: 1 hour 15 min
 
 
 
@@ -423,9 +423,8 @@ look into i cloud images from stephen -> 2023 month 5/6
 For next week:
 Finish homepage
 
-For element images, make them go widescreen, then put the text on a background that matches the image, make text white, leave a space between the text and the next image
 For heading switch to with dr w as your guide, make the drw part smaller text, make other part bigger
-Center the buttons
+
 Change 4 element personhood score to your 4 element balance score
 Put dr ws videos page under health topics, remove the stuff on the page from header
 On yoga and you page , remove free wording, put the image up higher, after the three bullet points, after image put “click here for more”,links to  
