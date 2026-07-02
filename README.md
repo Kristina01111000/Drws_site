@@ -13,7 +13,7 @@ May: 15 hour 15 min
 
 June: 15 hour 30 min
 
-July: 2 hour 15 min
+July: 3 hour 45 min
 
 
 
@@ -430,3 +430,62 @@ put the three paragraphs On the yoga and you continued page,
 Look up how to send reminder emails when someone hasn't finished a lesson (for yoga challenge)
 
 - movement on book
+
+
+
+7/2
+
+For next week:
+Make pay courses live: $20 self renewal, $35 for learning program
+Add text about buying the course vs joining the site to the homepage
+the 4 element personhood score to your personal “4 element balance score” (only on homepage for now) is this a final change in the title?
+Changes the text color of the highlighted header section, try burgundy
+notions motions and potions page: make them have different pages
+Make spiritual you page, use lorem ipsum until he gets me text, link to oracle cards on it
+For header add bullet points in front of the header menu • 
+Try to get the second line of header menu things pushed in a little bit
+Add a join here link under getting started https://growingholistically.com/membership-account/membership-levels/ 
+Rework the benefits page https://growingholistically.com/benefits-of-the-4-element-self-renewal-system/ add it to the end of the getting started page
+there will be an about growing holistically page at some point
+Make the https://growingholistically.com/about-dr-w/ page look better
+Membership levels
+He wants one membership level, where his patients have the code, everyone else has to pay for it
+https://growingholistically.com/membership-account/membership-checkout/?pmpro_level=3 add reminder to patients about the code here
+For the cost, $10 for a month and $80 for a year
+Edit all of the membership levels pages
+https://growingholistically.com/wellness-check/ check why all of the text isn’t loading at the bottom
+Make the smallest text on the pages be 18px
+ Change the name of notions motions and potions to dr w’s holistic wellness advice
+Make a new page called holistic wellness counseling, add it above the virtual visits link on header, blank page for now
+On https://growingholistically.com/4-element-card/ page add a space between the 4 element, fix button color
+For the cards hide the stuff at the top https://growingholistically.com/2026/05/01/earth-body-align-the-spine/ 
+https://growingholistically.com/links-to-dr-ws-videos/
+Put quick minutes and podcasts to the top, add text saying they are available to nonmembers
+Pages they need to be members for:
+https://growingholistically.com/the-four-element-scorecard/
+https://growingholistically.com/courses/dr-ws-holistic-four-element-course/
+https://growingholistically.com/self-renewal-system/
+https://growingholistically.com/advice-for-patients/
+https://growingholistically.com/four-element-magazine/
+https://growingholistically.com/yoga-you-videos/
+All the pages that link from notions motions and potions page
+https://growingholistically.com/virtual-visits-with-dr-w/
+https://growingholistically.com/4-element-card/
+App pages that link from yoga page
+
+
+Pages they don’t need to be members for:
+https://growingholistically.com/wellness-check/
+https://growingholistically.com/discover-your-4-element-personhood-score/
+Both bought courses (but they need to buy it)
+https://growingholistically.com/podcasts-with-dr-w/
+https://growingholistically.com/quick-minutes/
+https://growingholistically.com/notions-motions-potions/
+https://growingholistically.com/four-element-yoga/
+
+
+Archive the really old pages
+Link the actual videos onto the 10 pages for holistic advice
+For homepage images make one image for each with the text added, add some more space above the text, add space between each element and the next one, make the earth orange 
+On homepage learning program section, link to learning program, make sure it says they have to join, or buy the other one
+For yoga section switch back to the menu green,  look for a different shade of green, take screengrabs and leave it in a folder
