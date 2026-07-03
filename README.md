@@ -13,7 +13,7 @@ May: 15 hour 15 min
 
 June: 15 hour 30 min
 
-July: 3 hour 45 min
+July: 3 hour 50 min
 
 
 
@@ -488,4 +488,3 @@ Archive the really old pages
 Link the actual videos onto the 10 pages for holistic advice
 For homepage images make one image for each with the text added, add some more space above the text, add space between each element and the next one, make the earth orange 
 On homepage learning program section, link to learning program, make sure it says they have to join, or buy the other one
-For yoga section switch back to the menu green,  look for a different shade of green, take screengrabs and leave it in a folder
