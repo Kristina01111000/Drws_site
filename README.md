@@ -5,13 +5,13 @@ January 2026: 8 hour 30 min -> recieved
 
 February: 7 hour 45 min -> recieved
 
-March: 8 hour 30 min -> sent
+March: 8 hour 30 min -> recieved
 
-April: 14 hour 45 min -> sent
+April: 14 hour 45 min -> recieved
 
-May: 15 hour 15 min
+May: 15 hour 15 min -> sent
 
-June: 15 hour 30 min
+June: 15 hour 30 min -> sent
 
 July: 3 hour 50 min
 
