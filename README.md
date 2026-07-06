@@ -9,9 +9,9 @@ March: 8 hour 30 min -> recieved
 
 April: 14 hour 45 min -> recieved
 
-May: 15 hour 15 min -> sent
+May: 15 hour 15 min -> recieved
 
-June: 15 hour 30 min -> sent
+June: 15 hour 30 min -> recieved
 
 July: 3 hour 50 min
 
