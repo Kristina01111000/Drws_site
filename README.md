@@ -13,7 +13,7 @@ May: 15 hour 15 min -> recieved
 
 June: 15 hour 30 min -> recieved
 
-July: 3 hour 50 min
+July: 4 hour 30 min
 
 
 
@@ -439,7 +439,6 @@ For next week:
 Make pay courses live: $20 self renewal, $35 for learning program
 Add text about buying the course vs joining the site to the homepage
 the 4 element personhood score to your personal “4 element balance score” (only on homepage for now) is this a final change in the title?
-Changes the text color of the highlighted header section, try burgundy
 notions motions and potions page: make them have different pages
 Make spiritual you page, use lorem ipsum until he gets me text, link to oracle cards on it
 For header add bullet points in front of the header menu • 
@@ -454,7 +453,7 @@ https://growingholistically.com/membership-account/membership-checkout/?pmpro_le
 For the cost, $10 for a month and $80 for a year
 Edit all of the membership levels pages
 https://growingholistically.com/wellness-check/ check why all of the text isn’t loading at the bottom
-Make the smallest text on the pages be 18px
+
  Change the name of notions motions and potions to dr w’s holistic wellness advice
 Make a new page called holistic wellness counseling, add it above the virtual visits link on header, blank page for now
 On https://growingholistically.com/4-element-card/ page add a space between the 4 element, fix button color
@@ -484,7 +483,6 @@ https://growingholistically.com/notions-motions-potions/
 https://growingholistically.com/four-element-yoga/
 
 
-Archive the really old pages
 Link the actual videos onto the 10 pages for holistic advice
 For homepage images make one image for each with the text added, add some more space above the text, add space between each element and the next one, make the earth orange 
 On homepage learning program section, link to learning program, make sure it says they have to join, or buy the other one
