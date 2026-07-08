@@ -13,7 +13,7 @@ May: 15 hour 15 min -> recieved
 
 June: 15 hour 30 min -> recieved
 
-July: 6 hour 35 min
+July: 7 hour 30 min
 
 
 
@@ -449,10 +449,7 @@ For the cost, $10 for a month and $80 for a year
 Edit all of the membership levels pages
 https://growingholistically.com/wellness-check/ check why all of the text isn’t loading at the bottom
 
- Change the name of notions motions and potions to dr w’s holistic wellness advice
-Make a new page called holistic wellness counseling, add it above the virtual visits link on header, blank page for now
-On https://growingholistically.com/4-element-card/ page add a space between the 4 element, fix button color
-For the cards hide the stuff at the top https://growingholistically.com/2026/05/01/earth-body-align-the-spine/ 
+
 https://growingholistically.com/links-to-dr-ws-videos/
 Put quick minutes and podcasts to the top, add text saying they are available to nonmembers
 Pages they need to be members for:
@@ -478,4 +475,3 @@ https://growingholistically.com/notions-motions-potions/
 https://growingholistically.com/four-element-yoga/
 
 
-On homepage learning program section, link to learning program, make sure it says they have to join, or buy the other one
