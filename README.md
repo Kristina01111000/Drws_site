@@ -13,7 +13,7 @@ May: 15 hour 15 min -> recieved
 
 June: 15 hour 30 min -> recieved
 
-July: 4 hour 30 min
+July: 6 hour 15 min
 
 
 
