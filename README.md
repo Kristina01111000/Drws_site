@@ -13,7 +13,7 @@ May: 15 hour 15 min -> recieved
 
 June: 15 hour 30 min -> recieved
 
-July: 7 hour 30 min
+July: 8 hour 30 min
 
 
 
@@ -475,3 +475,26 @@ https://growingholistically.com/notions-motions-potions/
 https://growingholistically.com/four-element-yoga/
 
 
+7/9
+For next week:
+https://growingholistically.com/nutrition/ and https://growingholistically.com/nutrition-and-you/ edit them together
+Fix the links on nutrition and you, make them thumbnails of the video, remove the green buttons
+Add a join here button
+“Begin your Four Element Nutrition adventure now by joining growing holistically”
+put the book chapter at the bottom
+Try to change the black background of the pdf
+Add a section with a quick link to the getting started page
+He will send me the yoga icon
+Homepage Add section from benefits page with dr w as your guide section below our mission above the footer
+Homepage add getting started link in the getting started dark green section going to the getting started page
+Fix orange section, all of the columns are next to each other
+Put the courses in a different box, make it oblong
+For the fire picture make the color the dark orange of the candle
+More heading space for all of the pictures, double it 
+Try to make the text go further across the page on the homepage
+Make two membership levels, one yearly, one monthly
+Try the burgundy on the homepage
+Look into a font for the header that is thinner, same size 
+https://growingholistically.com/dr-ws-holistic-wellness-advice/ 
+Remove the numbers
+Add space between all of them
