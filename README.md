@@ -13,7 +13,7 @@ May: 15 hour 15 min -> recieved
 
 June: 15 hour 30 min -> recieved
 
-July: 9 hour 25 min
+July: 9 hour 30 min
 
 
 
@@ -491,7 +491,6 @@ Fix orange section, all of the columns are next to each other
 Put the courses in a different box, make it oblong
 For the fire picture make the color the dark orange of the candle
 More heading space for all of the pictures, double it 
-Try to make the text go further across the page on the homepage
 Make two membership levels, one yearly, one monthly
 Try the burgundy on the homepage
 Look into a font for the header that is thinner, same size 
