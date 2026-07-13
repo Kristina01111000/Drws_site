@@ -497,3 +497,5 @@ Look into a font for the header that is thinner, same size
 https://growingholistically.com/dr-ws-holistic-wellness-advice/ 
 Remove the numbers
 Add space between all of them
+
+get the header menu fixed
