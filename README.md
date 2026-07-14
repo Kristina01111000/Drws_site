@@ -13,7 +13,7 @@ May: 15 hour 15 min -> recieved
 
 June: 15 hour 30 min -> recieved
 
-July: 9 hour 30 min
+July: 9 hour 45 min
 
 
 
@@ -484,7 +484,6 @@ Add a join here button
 put the book chapter at the bottom
 Try to change the black background of the pdf
 Add a section with a quick link to the getting started page
-He will send me the yoga icon
 Homepage Add section from benefits page with dr w as your guide section below our mission above the footer
 Homepage add getting started link in the getting started dark green section going to the getting started page
 Fix orange section, all of the columns are next to each other
