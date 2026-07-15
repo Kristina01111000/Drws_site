@@ -13,7 +13,7 @@ May: 15 hour 15 min -> recieved
 
 June: 15 hour 30 min -> recieved
 
-July: 9 hour 45 min
+July: 10 hour 15 min
 
 
 
@@ -497,4 +497,3 @@ https://growingholistically.com/dr-ws-holistic-wellness-advice/
 Remove the numbers
 Add space between all of them
 
-get the header menu fixed
