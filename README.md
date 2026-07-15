@@ -13,7 +13,7 @@ May: 15 hour 15 min -> recieved
 
 June: 15 hour 30 min -> recieved
 
-July: 11 hour 15 min
+July: 11 hour 30 min
 
 
 
@@ -489,8 +489,6 @@ Homepage add getting started link in the getting started dark green section goin
 Fix orange section, all of the columns are next to each other
 Put the courses in a different box, make it oblong
 For the fire picture make the color the dark orange of the candle
-
-Make two membership levels, one yearly, one monthly
 
 Look into a font for the header that is thinner, same size 
 https://growingholistically.com/dr-ws-holistic-wellness-advice/ 
