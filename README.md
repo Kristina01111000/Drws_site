@@ -13,7 +13,7 @@ May: 15 hour 15 min -> recieved
 
 June: 15 hour 30 min -> recieved
 
-July: 11 hour 30 min
+July: 12 hour 0 min
 
 
 
@@ -491,7 +491,5 @@ Put the courses in a different box, make it oblong
 For the fire picture make the color the dark orange of the candle
 
 Look into a font for the header that is thinner, same size 
-https://growingholistically.com/dr-ws-holistic-wellness-advice/ 
-Remove the numbers
-Add space between all of them
+
 
