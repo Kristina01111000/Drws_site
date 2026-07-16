@@ -13,7 +13,7 @@ May: 15 hour 15 min -> recieved
 
 June: 15 hour 30 min -> recieved
 
-July: 12 hour 45 min
+July: 13 hour 0 min
 
 
 
@@ -477,9 +477,7 @@ https://growingholistically.com/four-element-yoga/
 
 7/9
 For next week:
-Fix the links on nutrition and you, make them thumbnails of the video, remove the green buttons
 Add a join here button
-“Begin your Four Element Nutrition adventure now by joining growing holistically”
 
 Add a section with a quick link to the getting started page
 Homepage Add section from benefits page with dr w as your guide section below our mission above the footerPut the courses in a different box, make it oblong
