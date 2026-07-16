@@ -13,7 +13,7 @@ May: 15 hour 15 min -> recieved
 
 June: 15 hour 30 min -> recieved
 
-July: 13 hour 0 min
+July: 14 hour 20 min
 
 
 
@@ -485,4 +485,43 @@ For the fire picture make the color the dark orange of the candle
 
 Look into a font for the header that is thinner, same size 
 
+7/16
+For next week:
+Ask sarah about the yoga instagram challenge
+For home page 
+Make the padding wider on everything
+add a title to the ordered list “Might any of these sound like you?” Or “Do any of these sound like you?”
+Center the ordered list
+Fix the padding under the book image
+Fix the padding on the get your balance score section
+Also change image on challenge score section to an image of the test
+Make personal / spiritual growth burgundy background
+For the images, make them shorted on the phone, 
+For title take out the colon
+He likes the background colors of the text boxes
+Change the text colors
+Fire yellow
+Air blue
+Water red
+Earth green
+https://growingholistically.com/a-spiritual-you/ change name to Engaging Your Higher Self
+Look on bigstock photo for some images
+Bold the title
+https://growingholistically.com/nutrition-and-you/
+Add another image to break up the text
+https://growingholistically.com/nutrition-and-you/ 
+Begin your Four Element Nutrition adventure now!  Make a likn to join
+Find different thumbnail images, it looks like a black eye
+Make the image not be right against text in desktop mode
+Get rid of the bad line off of the sign up page, membership checkout, make the codes last a long time
+10 pages:
+Add the videos from Sarah.NOTIONS MOTIONS POTIONS .docx to the 10 pages
+Just have notions and potions on the pages, remove potions and postures
+Make a chart for the 10 pages
+Look at https://growingholistically.com/why-join-growing-holistically/ 
+link to each section from homepage
+Each goes to a different page
+Have the text on that page
+Have a join button 
+He will send the second word doc
 
