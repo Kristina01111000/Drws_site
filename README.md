@@ -13,7 +13,7 @@ May: 15 hour 15 min -> recieved
 
 June: 15 hour 30 min -> recieved
 
-July: 14 hour 20 min
+July: 15 hour 0 min
 
 
 
@@ -496,7 +496,7 @@ Fix the padding under the book image
 Fix the padding on the get your balance score section
 Also change image on challenge score section to an image of the test
 Make personal / spiritual growth burgundy background
-For the images, make them shorted on the phone, 
+For the images, make them shorter on the phone, 
 For title take out the colon
 He likes the background colors of the text boxes
 Change the text colors
@@ -525,3 +525,4 @@ Have the text on that page
 Have a join button 
 He will send the second word doc
 
+- added elemental coaching page, sans images, added it to homepage
