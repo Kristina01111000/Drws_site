@@ -13,7 +13,7 @@ May: 15 hour 15 min -> recieved
 
 June: 15 hour 30 min -> recieved
 
-July: 15 hour 30 min
+July: 16 hour 30 min
 
 
 
@@ -487,18 +487,7 @@ Look into a font for the header that is thinner, same size
 
 7/16
 For next week:
-For home page 
-Make the padding wider on everything
-Center the ordered list
-Make personal / spiritual growth burgundy background
-For the images, make them shorter on the phone, 
-For title take out the colon
-He likes the background colors of the text boxes
-Change the text colors
-Fire yellow
-Air blue
-Water red
-Earth green
+
 https://growingholistically.com/a-spiritual-you/ change name to Engaging Your Higher Self
 Look on bigstock photo for some images
 Bold the title
