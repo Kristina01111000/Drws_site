@@ -13,7 +13,7 @@ May: 15 hour 15 min -> recieved
 
 June: 15 hour 30 min -> recieved
 
-July: 17 hour 15 min
+July: 18 hour 15 min
 
 
 
@@ -479,7 +479,6 @@ https://growingholistically.com/four-element-yoga/
 For next week:
 Add a join here button
 
-Add a section with a quick link to the getting started page
 Homepage Add section from benefits page with dr w as your guide section below our mission above the footerPut the courses in a different box, make it oblong
 For the fire picture make the color the dark orange of the candle
 
@@ -488,16 +487,8 @@ Look into a font for the header that is thinner, same size
 7/16
 For next week:
 
-https://growingholistically.com/a-spiritual-you/ change name to Engaging Your Higher Self
-Look on bigstock photo for some images
-Bold the title
-https://growingholistically.com/nutrition-and-you/
-Add another image to break up the text
 https://growingholistically.com/nutrition-and-you/ 
 Begin your Four Element Nutrition adventure now!  Make a likn to join
-Find different thumbnail images, it looks like a black eye
-Make the image not be right against text in desktop mode
-Get rid of the bad line off of the sign up page, membership checkout, make the codes last a long time
 10 pages:
 Add the videos from Sarah.NOTIONS MOTIONS POTIONS .docx to the 10 pages
 Just have notions and potions on the pages, remove potions and postures
