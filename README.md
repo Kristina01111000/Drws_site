@@ -13,7 +13,7 @@ May: 15 hour 15 min -> recieved
 
 June: 15 hour 30 min -> recieved
 
-July: 18 hour 15 min
+July: 18 hour 30 min
 
 
 
@@ -492,7 +492,6 @@ Begin your Four Element Nutrition adventure now!  Make a likn to join
 10 pages:
 Add the videos from Sarah.NOTIONS MOTIONS POTIONS .docx to the 10 pages
 Just have notions and potions on the pages, remove potions and postures
-Make a chart for the 10 pages
 Look at https://growingholistically.com/why-join-growing-holistically/ 
 link to each section from homepage
 Each goes to a different page
