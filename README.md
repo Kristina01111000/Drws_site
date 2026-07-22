@@ -13,7 +13,7 @@ May: 15 hour 15 min -> recieved
 
 June: 15 hour 30 min -> recieved
 
-July: 15 hour 0 min
+July: 15 hour 30 min
 
 
 
@@ -487,14 +487,9 @@ Look into a font for the header that is thinner, same size
 
 7/16
 For next week:
-Ask sarah about the yoga instagram challenge
 For home page 
 Make the padding wider on everything
-add a title to the ordered list “Might any of these sound like you?” Or “Do any of these sound like you?”
 Center the ordered list
-Fix the padding under the book image
-Fix the padding on the get your balance score section
-Also change image on challenge score section to an image of the test
 Make personal / spiritual growth burgundy background
 For the images, make them shorter on the phone, 
 For title take out the colon
