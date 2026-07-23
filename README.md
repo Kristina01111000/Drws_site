@@ -13,7 +13,7 @@ May: 15 hour 15 min -> recieved
 
 June: 15 hour 30 min -> recieved
 
-July: 18 hour 30 min
+July: 18 hour 45 min
 
 
 
@@ -500,3 +500,4 @@ Have a join button
 He will send the second word doc
 
 - added elemental coaching page, sans images, added it to homepage
+- look into why emails are bouncing
