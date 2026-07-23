@@ -13,7 +13,7 @@ May: 15 hour 15 min -> recieved
 
 June: 15 hour 30 min -> recieved
 
-July: 18 hour 45 min
+July: 20 hour 45 min
 
 
 
@@ -501,3 +501,39 @@ He will send the second word doc
 
 - added elemental coaching page, sans images, added it to homepage
 - look into why emails are bouncing
+
+
+7/23
+For Next week
+Remove the cart from the header
+For homepage:
+Make all the buttons like the gold button for the book
+Make the text size 19
+Make sure all the buttons link out
+Make the sizing between all of the panels like the sizing for the gold section (10px)(double check that is it 10 px before doing it)
+Make all of the headings bold
+Make the text left justified if it will make the padding smaller on everything
+Make text get bigger when mouse hovers on it, to show it is a link
+In the book one cake the column with the book image closer to the text
+In so much to discover section add an image with stars as the background
+In the do any of these sound like you heading centered, text left justified, 
+Make the text bolder
+Email stephen about a doodad to link out from
+Make text get bigger when mouse hovers on it, to show it is a link
+
+
+For the images desktop:make the text black and the background white for cell phone: make the text white on black screen, make element names bold
+For elemental coaching make the font size the same
+4 element nutrition make the picture and the text closer
+Holistic advice section, bring columns together, make the columns look better, try to make the columns together and left justified
+Add a spiritual image under spiritual you, seperate from scorecard
+Put a picture of the scorecard in 
+Switch personhood score to balance score on the javascript file
+For notions and motions, remove potions everywhere, 
+Work on the yoga card things, introductory videos etc https://growingholistically.com/using-4-element-yoga-cards-for-personal-growth-self-healing/ remove the ////// when done
+https://growingholistically.com/a-spiritual-you/ add padding to images
+Change the title back to “a spiritual you”, subtitle with engaging your higher self
+See if i can fix padding on the right or readd the menu to that side
+Try to bring the first menu thing up, it has a big gap when it is open
+https://growingholistically.com/elemental-coaching/ Make a new contact form for elemental coaching page , switch container to package, remove book section at bottom
+For the chart, remove potions for now, add the new pages, in order 
