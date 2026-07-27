@@ -1,19 +1,19 @@
 # Drws_site
 everything to do with drws site
 
-January 2026: 8 hour 30 min -> recieved
+January 2026: 8 hour 30 min -> received
 
-February: 7 hour 45 min -> recieved
+February: 7 hour 45 min -> received
 
-March: 8 hour 30 min -> recieved
+March: 8 hour 30 min -> received
 
-April: 14 hour 45 min -> recieved
+April: 14 hour 45 min -> received
 
-May: 15 hour 15 min -> recieved
+May: 15 hour 15 min -> received
 
-June: 15 hour 30 min -> recieved
+June: 15 hour 30 min -> received
 
-July: 20 hour 45 min
+July: 21 hour 0 min
 
 
 
@@ -505,35 +505,37 @@ He will send the second word doc
 
 7/23
 For Next week
-Remove the cart from the header
-For homepage:
-Make all the buttons like the gold button for the book
-Make the text size 19
-Make sure all the buttons link out
-Make the sizing between all of the panels like the sizing for the gold section (10px)(double check that is it 10 px before doing it)
-Make all of the headings bold
-Make the text left justified if it will make the padding smaller on everything
-Make text get bigger when mouse hovers on it, to show it is a link
-In the book one cake the column with the book image closer to the text
-In so much to discover section add an image with stars as the background
-In the do any of these sound like you heading centered, text left justified, 
-Make the text bolder
-Email stephen about a doodad to link out from
-Make text get bigger when mouse hovers on it, to show it is a link
+- Remove the cart from the header
+- For homepage:
+	- Make all the buttons like the gold button for the book
+	- Make the text size 19
+	- Make sure all the buttons link out
+	- Make the sizing between all of the panels like the sizing for the gold section (10px)(double check that is it 10 px before doing it)
+	- Make all of the headings bold
+	- Make the text left justified if it will make the padding smaller on everything
+	- Make text get bigger when mouse hovers on it, to show it is a link
+	- In the book one cake the column with the book image closer to the text
+	- In so much to discover section add an image with stars as the background
+	- In the do any of these sound like you heading centered, text left justified, 
+	- Make the text bolder
+	- Email stephen about a doodad to link out from
+	- Make text get bigger when mouse hovers on it, to show it is a link
 
 
-For the images desktop:make the text black and the background white for cell phone: make the text white on black screen, make element names bold
-For elemental coaching make the font size the same
-4 element nutrition make the picture and the text closer
-Holistic advice section, bring columns together, make the columns look better, try to make the columns together and left justified
-Add a spiritual image under spiritual you, seperate from scorecard
-Put a picture of the scorecard in 
-Switch personhood score to balance score on the javascript file
-For notions and motions, remove potions everywhere, 
-Work on the yoga card things, introductory videos etc https://growingholistically.com/using-4-element-yoga-cards-for-personal-growth-self-healing/ remove the ////// when done
-https://growingholistically.com/a-spiritual-you/ add padding to images
-Change the title back to “a spiritual you”, subtitle with engaging your higher self
-See if i can fix padding on the right or readd the menu to that side
-Try to bring the first menu thing up, it has a big gap when it is open
-https://growingholistically.com/elemental-coaching/ Make a new contact form for elemental coaching page , switch container to package, remove book section at bottom
-For the chart, remove potions for now, add the new pages, in order 
+- For the images desktop:make the text black and the background white for cell phone: make the text white on black screen, make element names bold
+- For elemental coaching make the font size the same
+- 4 element nutrition make the picture and the text closer
+- Holistic advice section, bring columns together, make the columns look better, try to make the columns together and left justified
+- Add a spiritual image under spiritual you, seperate from scorecard
+- Put a picture of the scorecard in 
+- Switch personhood score to balance score on the javascript file
+- For notions and motions, remove potions everywhere, 
+- Work on the yoga card things, introductory videos etc https://growingholistically.com/using-4-element-yoga-cards-for-personal-growth-self-healing/ remove the ////// when done
+- https://growingholistically.com/a-spiritual-you/ add padding to images
+- Change the title back to “a spiritual you”, subtitle with engaging your higher self
+- See if i can fix padding on the right or readd the menu to that side
+- Try to bring the first menu thing up, it has a big gap when it is open
+- https://growingholistically.com/elemental-coaching/ Make a new contact form for elemental coaching page , switch container to package, remove book section at bottom
+- For the chart, remove potions for now, add the new pages, in order 
+-  Videos for spiritual you playlist https://drive.google.com/drive/folders/1eZoSf_NBfGAhAuKfJJCgmF-EskXfmVuP
+- Add background like stephen maed https://fourelementdoctor.com/00testforkristina/ 
