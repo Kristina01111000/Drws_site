@@ -13,7 +13,7 @@ May: 15 hour 15 min -> received
 
 June: 15 hour 30 min -> received
 
-July: 21 hour 10 min
+July: 21 hour 15 min
 
 
 
@@ -538,5 +538,6 @@ For Next week
 - https://growingholistically.com/elemental-coaching/ Make a new contact form for elemental coaching page , switch container to package, remove book section at bottom
 - For the chart, remove potions for now, add the new pages, in order 
 -  Videos for spiritual you playlist https://drive.google.com/drive/folders/1eZoSf_NBfGAhAuKfJJCgmF-EskXfmVuP
-- Add background like stephen maed https://fourelementdoctor.com/00testforkristina/ 
-- change menu like sarah said in email
+- Add background like stephen made https://fourelementdoctor.com/00testforkristina/ 
+
+- check that the courses are set up to be bought
