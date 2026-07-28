@@ -13,7 +13,7 @@ May: 15 hour 15 min -> received
 
 June: 15 hour 30 min -> received
 
-July: 21 hour 0 min
+July: 21 hour 10 min
 
 
 
@@ -539,3 +539,4 @@ For Next week
 - For the chart, remove potions for now, add the new pages, in order 
 -  Videos for spiritual you playlist https://drive.google.com/drive/folders/1eZoSf_NBfGAhAuKfJJCgmF-EskXfmVuP
 - Add background like stephen maed https://fourelementdoctor.com/00testforkristina/ 
+- change menu like sarah said in email
