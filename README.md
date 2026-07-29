@@ -13,7 +13,7 @@ May: 15 hour 15 min -> received
 
 June: 15 hour 30 min -> received
 
-July: 23 hour 45 min
+July: 25 hour 15 min
 
 
 
@@ -522,21 +522,8 @@ For Next week
 	- Make text get bigger when mouse hovers on it, to show it is a link
 
 
-- For the images desktop:make the text black and the background white for cell phone: make the text white on black screen, make element names bold
-- For elemental coaching make the font size the same
-- 4 element nutrition make the picture and the text closer
-- Holistic advice section, bring columns together, make the columns look better, try to make the columns together and left justified
-- Add a spiritual image under spiritual you, seperate from scorecard
-- Put a picture of the scorecard in 
 - Switch personhood score to balance score on the javascript file
 - For notions and motions, remove potions everywhere, 
-- Work on the yoga card things, introductory videos etc https://growingholistically.com/using-4-element-yoga-cards-for-personal-growth-self-healing/ remove the ////// when done
-- https://growingholistically.com/a-spiritual-you/ add padding to images
-- Change the title back to “a spiritual you”, subtitle with engaging your higher self
-- See if i can fix padding on the right or readd the menu to that side
-- https://growingholistically.com/elemental-coaching/ Make a new contact form for elemental coaching page , switch container to package, remove book section at bottom
-- For the chart, remove potions for now, add the new pages, in order 
 -  Videos for spiritual you playlist https://drive.google.com/drive/folders/1eZoSf_NBfGAhAuKfJJCgmF-EskXfmVuP
-- Add background like stephen made https://fourelementdoctor.com/00testforkristina/ 
 
 - check that the courses are set up to be bought
