@@ -13,7 +13,7 @@ May: 15 hour 15 min -> received
 
 June: 15 hour 30 min -> received
 
-July: 21 hour 15 min
+July: 22 hour 15 min
 
 
 
@@ -534,7 +534,6 @@ For Next week
 - https://growingholistically.com/a-spiritual-you/ add padding to images
 - Change the title back to “a spiritual you”, subtitle with engaging your higher self
 - See if i can fix padding on the right or readd the menu to that side
-- Try to bring the first menu thing up, it has a big gap when it is open
 - https://growingholistically.com/elemental-coaching/ Make a new contact form for elemental coaching page , switch container to package, remove book section at bottom
 - For the chart, remove potions for now, add the new pages, in order 
 -  Videos for spiritual you playlist https://drive.google.com/drive/folders/1eZoSf_NBfGAhAuKfJJCgmF-EskXfmVuP
