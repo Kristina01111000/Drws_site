@@ -275,3 +275,11 @@ body {
 
 
 /// original grey color for the background of the cards DCE4DC
+
+/// everything before is from when we were using gecko
+.post-meta{
+	display: none;
+}
+ .et-cart-info  {
+    display: none !important;
+}
