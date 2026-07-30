@@ -13,7 +13,7 @@ May: 15 hour 15 min -> received
 
 June: 15 hour 30 min -> received
 
-July: 25 hour 15 min
+July: 27 hour 0 min
 
 
 
@@ -527,3 +527,74 @@ For Next week
 -  Videos for spiritual you playlist https://drive.google.com/drive/folders/1eZoSf_NBfGAhAuKfJJCgmF-EskXfmVuP
 
 - check that the courses are set up to be bought
+
+  
+7/30
+For next week:
+Stephen notes on front page
+Smaller, bolder menu font. Tighten up the line spacing between the secondary menu items. Try an eggplant color for the menu font
+Make sure buttons stay on one line on small cell phones, get it here button size for margins
+The green Background Behind the video. Try to mimic the green from the ribbon behind the photo’s left should (Dr. W’s right) Sample the brighter green, try both of them
+Discover your Unique 4E Section
+Add white to the margins on the left and right
+Add space below the button the height of the button
+‘so much to discover so much to gain’ ‘with dr ws holistic self renewal system’
+Book Section
+Space (use the button height) above and below the book, 
+flush text to the left. 
+Make 1 column text close to image
+Add green to the margins
+Try to make book image smaller
+FAWE section
+Try a faint light blue for each element, 
+add space above the photos and below the fourth line of text 
+So Much to Discover Section
+Try a color in the margins
+Add the button height space above and below the content
+Background image? 
+Do any of these sound like you? Section
+Maybe add a light background photo to the section. Really ghosted back
+Add the button height space above and below the content
+Add them into a submenu type thing, try to keep it in the same panel
+Dr. W’s Learning Program 
+Add the button height space above and below the content
+Try finding one image on Big stock that shows the outline of a human’s head on a black or dark background and add it to the section’s background image
+Remove the dr w part, put ‘our video learning program’
+Put something in the text put something that relates it to the system
+Yoga Section
+Add the button height space above and below the content. Maybe Try
+A two column layout, logo on left and text flushed right on the right.
+Add eggplant at the side
+Elemental Coaching Section
+Try the eggplant color in the margins
+Add the button height space above and below the content
+Nutrition Section
+Text flush left and move the image to the right and experiment with a text wrap around the image
+Move it to one column
+Advice Section
+Maybe use the buttons from last week’s Demo but make them smaller
+Add the button height space above and below the content
+Image of dr w section stephen made
+Scorecard Section
+Add the button height space above and below the content
+Flush the headline to the left
+Try the scorecard as the background
+Spiritual Growth Section
+Keep centered x
+Add the button height space above and below the content. Center the button
+Mission Section
+Maybe make Dr. W’s photo a little larger
+Make it 2 columns, put image in text wrap with about dr w section, image to the right of the text
+Footer, maybe make the social icons smaller and white. Presently they’re in a default divi footer, if you use the theme builder and create a global footer it will delete the default on. 
+We can look into some google fonts for the headlines and Navigation
+For “Dr. W's Holistic Advice for…” delete it and replace it with the image and background stephen sent then take them to the page
+Make weekly scorecard free to use
+https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ edit the name of the scorecard , change the name to holistic self renewal system, not 4 element on this page only
+Change personhood score to balance score
+https://growingholistically.com/a-spiritual-you/ use the rectangle image , wrap the text, write a couple sentences about the video, try cropping the logo out, don’t leave it hthat wasy if it looks bad, add a playlist with all the videos, get the video links to go to the video on youtube, figure out the titles of the videos for youtube, add the videos to youtube, sarah and sydney can write descriptions 
+https://growingholistically.com/yoga-you-videos/ make the page look better
+Try to figure out how to get him into the youtube account 
+Make all of the titles centered on the whole site, make them bold too
+https://growingholistically.com/membership-account/membership-levels/ make the discount code part red, “if you are a patient of dr w select yearly and remember to add your discount code to the next page”
+Check that the discount code works
+Add a join here button to the welcome page https://growingholistically.com/login/ 
