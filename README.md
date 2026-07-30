@@ -13,7 +13,7 @@ May: 15 hour 15 min -> received
 
 June: 15 hour 30 min -> received
 
-July: 27 hour 0 min
+July: 27 hour 15 min
 
 
 
@@ -589,8 +589,6 @@ Footer, maybe make the social icons smaller and white. Presently they’re in a 
 We can look into some google fonts for the headlines and Navigation
 For “Dr. W's Holistic Advice for…” delete it and replace it with the image and background stephen sent then take them to the page
 Make weekly scorecard free to use
-https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ edit the name of the scorecard , change the name to holistic self renewal system, not 4 element on this page only
-Change personhood score to balance score
 https://growingholistically.com/a-spiritual-you/ use the rectangle image , wrap the text, write a couple sentences about the video, try cropping the logo out, don’t leave it hthat wasy if it looks bad, add a playlist with all the videos, get the video links to go to the video on youtube, figure out the titles of the videos for youtube, add the videos to youtube, sarah and sydney can write descriptions 
 https://growingholistically.com/yoga-you-videos/ make the page look better
 Try to figure out how to get him into the youtube account 
