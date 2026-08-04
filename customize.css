@@ -283,3 +283,8 @@ body {
  .et-cart-info  {
     display: none !important;
 }
+// centers and bolds site titles
+.main_title {
+	text-align: center !important;
+	font-weight: bold;
+}
