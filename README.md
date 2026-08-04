@@ -15,7 +15,7 @@ June: 15 hour 30 min -> received
 
 July: 27 hour 45 min -> sent
 
-August: 1 hour 55 min
+August: 2 hour 50 min
 
 
 
@@ -534,19 +534,10 @@ For Next week
 7/30
 For next week:
 Stephen notes on front page
-Smaller, bolder menu font. Tighten up the line spacing between the secondary menu items. Try an eggplant color for the menu font
 Make sure buttons stay on one line on small cell phones, get it here button size for margins
 The green Background Behind the video. Try to mimic the green from the ribbon behind the photo’s left should (Dr. W’s right) Sample the brighter green, try both of them
-Discover your Unique 4E Section
-Add white to the margins on the left and right
-Add space below the button the height of the button
-‘so much to discover so much to gain’ ‘with dr ws holistic self renewal system’
-Book Section
-Space (use the button height) above and below the book, 
-flush text to the left. 
-Make 1 column text close to image
-Add green to the margins
-Try to make book image smaller
+
+
 FAWE section
 Try a faint light blue for each element, 
 add space above the photos and below the fourth line of text 
@@ -594,7 +585,6 @@ Make weekly scorecard free to use
 https://growingholistically.com/a-spiritual-you/ use the rectangle image , wrap the text, write a couple sentences about the video, try cropping the logo out, don’t leave it hthat wasy if it looks bad, add a playlist with all the videos, get the video links to go to the video on youtube, figure out the titles of the videos for youtube, add the videos to youtube, sarah and sydney can write descriptions 
 https://growingholistically.com/yoga-you-videos/ make the page look better
 Try to figure out how to get him into the youtube account 
-Make all of the titles centered on the whole site, make them bold too
-https://growingholistically.com/membership-account/membership-levels/ make the discount code part red, “if you are a patient of dr w select yearly and remember to add your discount code to the next page”
+
 Check that the discount code works
 Add a join here button to the welcome page https://growingholistically.com/login/ 
