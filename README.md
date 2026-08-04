@@ -15,7 +15,7 @@ June: 15 hour 30 min -> received
 
 July: 27 hour 45 min -> sent
 
-August: 2 hour 50 min
+August: 3 hour 40 min
 
 
 
@@ -538,49 +538,6 @@ Make sure buttons stay on one line on small cell phones, get it here button size
 The green Background Behind the video. Try to mimic the green from the ribbon behind the photo’s left should (Dr. W’s right) Sample the brighter green, try both of them
 
 
-FAWE section
-Try a faint light blue for each element, 
-add space above the photos and below the fourth line of text 
-So Much to Discover Section
-Try a color in the margins
-Add the button height space above and below the content
-Background image? 
-Do any of these sound like you? Section
-Maybe add a light background photo to the section. Really ghosted back
-Add the button height space above and below the content
-Add them into a submenu type thing, try to keep it in the same panel
-Dr. W’s Learning Program 
-Add the button height space above and below the content
-Try finding one image on Big stock that shows the outline of a human’s head on a black or dark background and add it to the section’s background image
-Remove the dr w part, put ‘our video learning program’
-Put something in the text put something that relates it to the system
-Yoga Section
-Add the button height space above and below the content. Maybe Try
-A two column layout, logo on left and text flushed right on the right.
-Add eggplant at the side
-Elemental Coaching Section
-Try the eggplant color in the margins
-Add the button height space above and below the content
-Nutrition Section
-Text flush left and move the image to the right and experiment with a text wrap around the image
-Move it to one column
-Advice Section
-Maybe use the buttons from last week’s Demo but make them smaller
-Add the button height space above and below the content
-Image of dr w section stephen made
-Scorecard Section
-Add the button height space above and below the content
-Flush the headline to the left
-Try the scorecard as the background
-Spiritual Growth Section
-Keep centered x
-Add the button height space above and below the content. Center the button
-Mission Section
-Maybe make Dr. W’s photo a little larger
-Make it 2 columns, put image in text wrap with about dr w section, image to the right of the text
-Footer, maybe make the social icons smaller and white. Presently they’re in a default divi footer, if you use the theme builder and create a global footer it will delete the default on. 
-We can look into some google fonts for the headlines and Navigation
-For “Dr. W's Holistic Advice for…” delete it and replace it with the image and background stephen sent then take them to the page
 Make weekly scorecard free to use
 https://growingholistically.com/a-spiritual-you/ use the rectangle image , wrap the text, write a couple sentences about the video, try cropping the logo out, don’t leave it hthat wasy if it looks bad, add a playlist with all the videos, get the video links to go to the video on youtube, figure out the titles of the videos for youtube, add the videos to youtube, sarah and sydney can write descriptions 
 https://growingholistically.com/yoga-you-videos/ make the page look better
