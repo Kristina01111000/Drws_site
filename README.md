@@ -15,7 +15,7 @@ June: 15 hour 30 min -> received
 
 July: 27 hour 45 min -> sent
 
-August: 3 hour 40 min
+August: 5 hour 0 min
 
 
 
@@ -533,14 +533,9 @@ For Next week
   
 7/30
 For next week:
-Stephen notes on front page
-Make sure buttons stay on one line on small cell phones, get it here button size for margins
-The green Background Behind the video. Try to mimic the green from the ribbon behind the photo’s left should (Dr. W’s right) Sample the brighter green, try both of them
-
 
 Make weekly scorecard free to use
-https://growingholistically.com/a-spiritual-you/ use the rectangle image , wrap the text, write a couple sentences about the video, try cropping the logo out, don’t leave it hthat wasy if it looks bad, add a playlist with all the videos, get the video links to go to the video on youtube, figure out the titles of the videos for youtube, add the videos to youtube, sarah and sydney can write descriptions 
-https://growingholistically.com/yoga-you-videos/ make the page look better
+
 Try to figure out how to get him into the youtube account 
 
 Check that the discount code works
