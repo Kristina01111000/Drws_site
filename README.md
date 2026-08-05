@@ -15,7 +15,7 @@ June: 15 hour 30 min -> received
 
 July: 27 hour 45 min -> sent
 
-August: 5 hour 0 min
+August: 5 hour 10 min
 
 
 
@@ -539,4 +539,3 @@ Make weekly scorecard free to use
 Try to figure out how to get him into the youtube account 
 
 Check that the discount code works
-Add a join here button to the welcome page https://growingholistically.com/login/ 
