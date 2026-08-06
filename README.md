@@ -15,7 +15,7 @@ June: 15 hour 30 min -> received
 
 July: 27 hour 45 min -> sent
 
-August: 5 hour 15 min
+August: 7 hour 20 min
 
 
 
@@ -539,3 +539,32 @@ Make weekly scorecard free to use
 Try to figure out how to get him into the youtube account 
 
 Check that the discount code works
+
+
+8/6
+For Next week:
+Put the spiritual you videos on youtube, write titles + descriptions
+Make page listing spiritual you videos
+Double check that pages are only available to members are set correctly
+https://growingholistically.com/yoga-you-videos/ make the page look better
+Padding for homepage :: top : 20 px, bottom is 30 px switch everything to this
+For homepage spacing:
+The space above the titles = “Discover you own…”
+THe space below the buttons = The space below the button on the “so much to discover” section
+Want that spacing above and below the pictures, 
+For the pictures, make the line spacing smaller
+For video section, put the darker green line by his shoulder as the background
+For so much to discover section get the holistic self renewal system part on one line for desktop
+Do any of these sound like you, add images that relate to them , link the pages, make is left justified, but not starting at the edge on desktop, add padding only on desktop, link the pages that are done
+Get the two columns together for book
+Switch yoga image, textured background, also do any of these sound like you, elemental coaching
+For the scorecard make the background look better, maybe add another color at the sides and the top and bottom
+Make the icons in the footer smaller, take off the feed, take off x icons
+FOR DESKTOP: ALL OF THEM LIKE THE LEARNING PROGRAM ONE, keep the same for the cellphone view
+For menu, spread out the menu on desktop
+Switch spiritual you back to a spiritual you
+Get the sub-menu lines all on one line , make the font smaller than the normal menu, get the submenu closer to the top
+https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ add a button below the first 2 paragraphs, add button “i’m ready to join”
+https://growingholistically.com/dr-ws-holistic-wellness-advice/ unpublish this page
+https://growingholistically.com/membership-account/membership-levels/ make second line burgundy, 
+The email for sarah is set up
