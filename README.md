@@ -15,7 +15,7 @@ June: 15 hour 30 min -> received
 
 July: 27 hour 45 min -> sent
 
-August: 7 hour 20 min
+August: 7 hour 45 min
 
 
 
@@ -568,3 +568,6 @@ https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ add
 https://growingholistically.com/dr-ws-holistic-wellness-advice/ unpublish this page
 https://growingholistically.com/membership-account/membership-levels/ make second line burgundy, 
 The email for sarah is set up
+
+
+make sure dr w got into youtube and added sarah and sydney
