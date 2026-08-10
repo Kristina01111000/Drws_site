@@ -15,7 +15,7 @@ June: 15 hour 30 min -> received
 
 July: 27 hour 45 min -> sent
 
-August: 7 hour 45 min
+August: 8 hour 0 min
 
 
 
@@ -571,3 +571,4 @@ The email for sarah is set up
 
 
 make sure dr w got into youtube and added sarah and sydney
+double check the buttons link out correctly
