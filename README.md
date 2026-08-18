@@ -596,3 +596,5 @@ Sarah and sydney are in charge of vimeo
 Free videos are going to stay on youtube
 I am going to switch the links to vimeo for the non free videos 
 Wait until they figure out the architecture of vimeo 
+
+make the page for their paragraphs, email sydney for hers
