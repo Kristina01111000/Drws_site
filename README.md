@@ -15,7 +15,7 @@ June: 15 hour 30 min -> received
 
 July: 27 hour 45 min -> sent
 
-August: 10 hour 15 min
+August: 10 hour 45 min
 
 
 
@@ -581,15 +581,12 @@ double check the buttons link out correctly
 For next week:
 Vimeo?
 Finish the form for sarah (the different price points are ugly right now)
-For homepage weekly scorecard challenge part, decrease padding, decrease the space between the lines on it, try a few different font colors and see if they look better
-For dr w 4 element approach switch the image to be on the bottom in cell phone view, making the images smaller in cell phone view
 Change tablet view of the homepage to be similar to the cellphone view
 I can’t get the text in the drop down menu closer to the header, I looked all over the divi notes and I also tried css. Should I ask Stephen  how to do it?
 Make an about Growing Holistically page, link it on the getting started menu, put “about us”, about dr w, about our staff in dropdown under it
 Send him an email about the about growing holistically page
 Email sarah and sydney about the elemental coaching page, say dr w said something was changing about the page, what changes should i make to it? Email for clarification
 Add their bios to the elemental coaching page
-https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ make the buttons the same color
 When i get an image of the app start a homepage section about it saying coming soon
 Email him about getting it, also about checking cellphone view
 Sarah and sydney are in charge of vimeo
