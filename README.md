@@ -13,9 +13,9 @@ May: 15 hour 15 min -> received
 
 June: 15 hour 30 min -> received
 
-July: 27 hour 45 min -> sent
+July: 27 hour 45 min -> recieved
 
-August: 11 hour 45 min
+August: 12 hour 45 min
 
 
 
@@ -589,3 +589,25 @@ Sarah and sydney are in charge of vimeo
 Free videos are going to stay on youtube
 I am going to switch the links to vimeo for the non free videos 
 Wait until they figure out the architecture of vimeo 
+
+
+8/20
+For next week:
+Change the link in the footer for the dr w page to about us
+For the elemental coaching page, have a “learn more about our coaches” button below the book your session button. Have it link to the coaches section on the about us page, https://growingholistically.com/elemental-coaching/ 
+On the about us page add a button that says “book a session with our elemental coaches” https://growingholistically.com/about-us/ 
+Add section about growing holistically on the about us page -> email dr w about this 
+Add the documentary to the freebies section
+Add a coupon code for the app people? Have a download on the site for people who join GH?
+On homepage for the “our mission” section, start it with “The mission of Growing holistically is to…”
+https://growingholistically.com/four-element-yoga/ add posture somewhere in the first paragraph - posture too -
+https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ change the links out pages text to tie into what the buttons say, add it to the header to the linked page
+https://growingholistically.com/self-renewal-system/ remove the free section in there
+ Also switch the self renewal topics to 
+Search free in the site and remove it on all the pages 
+Search for patreon also and remove it 
+Email sarah and sydney about bios, images, and vimeo videos
+Change the homepage video to the vimeo version when it is ready
+On homepage switch the “so much to discover link” to go to the getting started page
+Add a few new places to join here on the homepage? Try adding 2, one that just say join here
+Fix the footer menu
