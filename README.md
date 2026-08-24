@@ -15,7 +15,7 @@ June: 15 hour 30 min -> received
 
 July: 27 hour 45 min -> recieved
 
-August: 12 hour 45 min
+August: 13 hour 0 min
 
 
 
@@ -611,5 +611,3 @@ Change the homepage video to the vimeo version when it is ready
 On homepage switch the “so much to discover link” to go to the getting started page
 Add a few new places to join here on the homepage? Try adding 2, one that just say join here
 Fix the footer menu
-
-- add page from email onto site
