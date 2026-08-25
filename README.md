@@ -610,7 +610,10 @@ Email sarah and sydney about bios, images, and vimeo videos
 Change the homepage video to the vimeo version when it is ready
 On homepage switch the “so much to discover link” to go to the getting started page
 Add a few new places to join here on the homepage? Try adding 2, one that just say join here
-Fix the footer menu
+
 
 Code- FIRSTSESSION  FOR $150 OFF.
 (This is for people who want to purchase a 3 or 6 session package.. AFTER they have their evaluation session.) -> private, do not list anywhere on the site
+
+
+- check on peepso update
