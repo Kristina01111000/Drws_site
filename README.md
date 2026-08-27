@@ -15,7 +15,7 @@ June: 15 hour 30 min -> received
 
 July: 27 hour 45 min -> received
 
-August: 14 hour 45 min
+August: 15 hour 30 min
 
 
 
@@ -602,11 +602,7 @@ https://growingholistically.com/four-element-yoga/ add posture somewhere in the 
 https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ change the links out pages text to tie into what the buttons say, add it to the header to the linked page
 https://growingholistically.com/self-renewal-system/ remove the free section in there
  Also switch the self renewal topics to 
-Search free in the site and remove it on all the pages 
-Email sarah and sydney about bios, images, and vimeo videos
-Change the homepage video to the vimeo version when it is ready
-On homepage switch the “so much to discover link” to go to the getting started page
-Add a few new places to join here on the homepage? Try adding 2, one that just say join here
+
 
 
 Code- FIRSTSESSION  FOR $150 OFF.
