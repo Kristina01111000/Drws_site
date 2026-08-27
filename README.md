@@ -15,7 +15,7 @@ June: 15 hour 30 min -> received
 
 July: 27 hour 45 min -> received
 
-August: 15 hour 30 min
+August: 16 hour 0 min
 
 
 
