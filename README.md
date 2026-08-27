@@ -15,7 +15,7 @@ June: 15 hour 30 min -> received
 
 July: 27 hour 45 min -> received
 
-August: 16 hour 0 min
+August: 16 hour 15 min
 
 
 
@@ -607,3 +607,4 @@ https://growingholistically.com/self-renewal-system/ remove the free section in 
 
 Code- FIRSTSESSION  FOR $150 OFF.
 (This is for people who want to purchase a 3 or 6 session package.. AFTER they have their evaluation session.) -> private, do not list anywhere on the site
+-> need wpforms pro
