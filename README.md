@@ -15,7 +15,7 @@ June: 15 hour 30 min -> received
 
 July: 27 hour 45 min -> received
 
-August: 17 hour 30 min
+August: 17 hour 15 min
 
 
 
@@ -612,7 +612,6 @@ Code- FIRSTSESSION  FOR $150 OFF.
 
 8/27
 For next week:
-Email sarah and sydney about bios, images,
 Coupon code needs wp-forms-pro (400 a year :( )
 Make a different form for this instead of a coupon code, make the sessions 150 cheaper, give the link to sarah and sydney
 Change the homepage video to the vimeo version when it is ready
