@@ -627,3 +627,4 @@ Add the section from the about growing holistically section on the homepage to t
 https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ make the step 1 etc buttons images so they don't squish down, keep all the steps on one line 
 https://growingholistically.com/membership-account/membership-levels/ bold the discount code sentence, also put it on its own line change with a discount code  to -> and have a discount code, change pick the → select yearly membership
 
+- need to make sure that the pages are bolcked to non members
