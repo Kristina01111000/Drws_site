@@ -15,7 +15,7 @@ June: 15 hour 30 min -> received
 
 July: 27 hour 45 min -> received
 
-August: 17 hour 15 min
+August: 17 hour 30 min
 
 
 
@@ -628,3 +628,5 @@ https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ mak
 https://growingholistically.com/membership-account/membership-levels/ bold the discount code sentence, also put it on its own line change with a discount code  to -> and have a discount code, change pick the → select yearly membership
 
 - need to make sure that the pages are bolcked to non members
+
+- see about constant contact for sarah
