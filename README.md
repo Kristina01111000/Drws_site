@@ -559,18 +559,11 @@ For the pictures, make the line spacing smaller
 For video section, put the darker green line by his shoulder as the background
 For so much to discover section get the holistic self renewal system part on one line for desktop
 Do any of these sound like you, add images that relate to them , link the pages, make is left justified, but not starting at the edge on desktop, add padding only on desktop, link the pages that are done
-Get the two columns together for book
-Switch yoga image, textured background, also do any of these sound like you, elemental coaching
 For the scorecard make the background look better, maybe add another color at the sides and the top and bottom
 Make the icons in the footer smaller, take off the feed, take off x icons
-FOR DESKTOP: ALL OF THEM LIKE THE LEARNING PROGRAM ONE, keep the same for the cellphone view
-For menu, spread out the menu on desktop
-Switch spiritual you back to a spiritual you
-Get the sub-menu lines all on one line , make the font smaller than the normal menu, get the submenu closer to the top
-https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ add a button below the first 2 paragraphs, add button “i’m ready to join”
-https://growingholistically.com/dr-ws-holistic-wellness-advice/ unpublish this page
+
 https://growingholistically.com/membership-account/membership-levels/ make second line burgundy, 
-The email for sarah is set up
+
 
 
 make sure dr w got into youtube and added sarah and sydney
