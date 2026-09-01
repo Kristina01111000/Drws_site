@@ -17,6 +17,9 @@ July: 27 hour 45 min -> received
 
 August: 17 hour 30 min
 
+September: 15 min
+ 
+
 
 
 plugins im using on site:
@@ -630,3 +633,5 @@ https://growingholistically.com/membership-account/membership-levels/ bold the d
 - need to make sure that the pages are bolcked to non members
 
 - see about constant contact for sarah
+
+- added the two book pages for dr w
