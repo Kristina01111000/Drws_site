@@ -17,7 +17,7 @@ July: 27 hour 45 min -> received
 
 August: 17 hour 30 min
 
-September: 15 min
+September: 1 hour 15 min
  
 
 
@@ -620,13 +620,7 @@ Make a different form for this instead of a coupon code, make the sessions 150 c
 Change the homepage video to the vimeo version when it is ready
 SRS drafts visible in team library
 Put the video on the homepage onto vimeo and then put it on the site
-Think about the first sentence “Still in practice as a holistic chiropractor, for over 35 years  Dr. W has been on a mission to ” 
-His holistic nutrition model  → His Holistic Nutrition model 
-the 4 Element Yoga he created → and the 4 Element Yoga he developed – as well as 
-[learn more]  → full dr w bio → link to the dr w bio page
-Put the full dr w bio on a new page called “dr w bio”
-On about us page change the dr w part to the same section as the homepage dr w’s mission
-Add the section from the about growing holistically section on the homepage to the top of about us page, labeled about growing holistically 
+
 https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ make the step 1 etc buttons images so they don't squish down, keep all the steps on one line 
 https://growingholistically.com/membership-account/membership-levels/ bold the discount code sentence, also put it on its own line change with a discount code  to -> and have a discount code, change pick the → select yearly membership
 
