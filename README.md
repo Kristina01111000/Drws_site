@@ -17,7 +17,7 @@ July: 27 hour 45 min -> received
 
 August: 17 hour 30 min
 
-September: 1 hour 15 min
+September: 2 hour 15 min
  
 
 
@@ -608,14 +608,7 @@ Code- FIRSTSESSION  FOR $150 OFF.
 
 8/27
 For next week:
-Coupon code needs wp-forms-pro (400 a year :( )
-Make a different form for this instead of a coupon code, make the sessions 150 cheaper, give the link to sarah and sydney
-Change the homepage video to the vimeo version when it is ready
-SRS drafts visible in team library
-Put the video on the homepage onto vimeo and then put it on the site
 
-https://growingholistically.com/get-started-with-the-4e-self-renewal-system/ make the step 1 etc buttons images so they don't squish down, keep all the steps on one line 
-https://growingholistically.com/membership-account/membership-levels/ bold the discount code sentence, also put it on its own line change with a discount code  to -> and have a discount code, change pick the → select yearly membership
 
 - need to make sure that the pages are bolcked to non members
 
