@@ -17,7 +17,7 @@ July: 27 hour 45 min -> received
 
 August: 17 hour 30 min
 
-September: 2 hour 15 min
+September: 2 hour 45 min
  
 
 
@@ -615,3 +615,6 @@ For next week:
 - see about constant contact for sarah
 
 - added the two book pages for dr w
+
+9/3
+- double check vimeo
