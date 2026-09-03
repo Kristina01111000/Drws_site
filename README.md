@@ -17,7 +17,7 @@ July: 27 hour 45 min -> received
 
 August: 17 hour 30 min
 
-September: 2 hour 45 min
+September: 3 hour 45 min
  
 
 
@@ -618,3 +618,19 @@ For next week:
 
 9/3
 - double check vimeo
+
+For next week:
+Edits to 2nd coaching form?
+Maybe edit his book so the bold parts don’t unbold, just one chapter
+Ask him about the scorecard, for the two urls i made for QR codes
+GH.com/book_offer
+GH.com/book_app 
+Make a new code for sarah and sydney – coachingdiscount3 - make it half price for 3 months, also make one for 1 month - coachingdiscount1 - 
+Add a sentence to membership levels page to remind people to use it of they have it https://growingholistically.com/membership-account/membership-levels/ 
+https://growingholistically.com/membership-account/membership-checkout/?pmpro_level=3 see if I can remove the second line saying it is $10 , and the one that says $80, ask their support if there is a way to get it off the  page
+https://growingholistically.com/hello-again/ switch to -> how many additional sessions would you like? 
+– happy to see youre interested in more sessions, here is a 150 dollar discount, paragraph under hello again
+Switch it to the email that sarah gave me, add drwalsdorf@gmail, also mine, sydney
+For homepage video put the bottom line back on
+https://growingholistically.com/get-started-with-the-4e-self-renewal-system/  make the buttons not squish weirdly,  sprinkle
+Under the ancient wisdom button add the self next to the renewal section, add a spacer above the bullet points
