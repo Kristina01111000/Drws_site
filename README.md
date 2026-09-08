@@ -620,7 +620,6 @@ For next week:
 - double check vimeo
 
 For next week:
-Edits to 2nd coaching form?
 Maybe edit his book so the bold parts don’t unbold, just one chapter
 Ask him about the scorecard, for the two urls i made for QR codes
 GH.com/book_offer
