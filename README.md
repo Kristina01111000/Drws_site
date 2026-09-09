@@ -17,7 +17,7 @@ July: 27 hour 45 min -> received
 
 August: 17 hour 30 min
 
-September: 5 hour 15 min
+September: 5 hour 30 min
  
 
 
@@ -623,8 +623,7 @@ For next week:
 Maybe edit his book so the bold parts don’t unbold, just one chapter
 Ask him about the scorecard, 
 
-https://growingholistically.com/hello-again/ switch to -> how many additional sessions would you like? 
-Switch it to the email that sarah gave me, add drwalsdorf@gmail, also mine, sydney
+https://growingholistically.com/hello-again/ switch to -> Switch it to the email that sarah gave me, add drwalsdorf@gmail, also mine, sydney
 
 https://growingholistically.com/get-started-with-the-4e-self-renewal-system/  make the buttons not squish weirdly,  sprinkle
 Under the ancient wisdom button add the self next to the renewal section, add a spacer above the bullet points
