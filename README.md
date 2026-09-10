@@ -17,7 +17,7 @@ July: 27 hour 45 min -> received
 
 August: 17 hour 30 min
 
-September: 5 hour 30 min
+September: 6 hour 0 min
  
 
 
@@ -630,3 +630,16 @@ Under the ancient wisdom button add the self next to the renewal section, add a 
 
 add book image to page https://growingholistically.com/readersdiscount/
 added code
+
+9/10
+For next week:
+Finish the hello again form email set up
+Make a googledoc with all of the orphan links ie hello again, the links for the book
+https://growingholistically.com/the-four-element-scorecard/ edit this page 
+https://growingholistically.com/readersdiscount/ add a join button
+Make more codes so people can get a discount code from S&S every month
+Delete discount code 3
+https://growingholistically.com/membership-account/membership-levels/ make it not red
+If you were given a discount code by one of our Elemental Coaches you should select the monthly membership. → change second line to this
+Download the needed videos from vimeo to put them on the site
+Create a folder on vimeo called website, 
