@@ -629,7 +629,7 @@ https://growingholistically.com/get-started-with-the-4e-self-renewal-system/  ma
 Under the ancient wisdom button add the self next to the renewal section, add a spacer above the bullet points
 
 add book image to page https://growingholistically.com/readersdiscount/
-added code
+
 
 9/10
 For next week:
