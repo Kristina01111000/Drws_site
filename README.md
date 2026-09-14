@@ -617,11 +617,9 @@ For next week:
 - added the two book pages for dr w
 
 9/3
-- double check vimeo
 
-For next week:
-Maybe edit his book so the bold parts don’t unbold, just one chapter
-Ask him about the scorecard, 
+
+
 
 https://growingholistically.com/hello-again/ switch to -> Switch it to the email that sarah gave me, add drwalsdorf@gmail, also mine, sydney
 
