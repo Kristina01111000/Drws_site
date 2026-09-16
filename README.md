@@ -17,7 +17,7 @@ July: 27 hour 45 min -> received
 
 August: 17 hour 30 min
 
-September: 7 hour 0 min
+September: 7 hour 30 min
  
 
 
@@ -633,12 +633,7 @@ add book image to page https://growingholistically.com/readersdiscount/
 For next week:
 Finish the hello again form email set up
 Make a googledoc with all of the orphan links ie hello again, the links for the book
-https://growingholistically.com/the-four-element-scorecard/ edit this page 
-https://growingholistically.com/readersdiscount/ add a join button
-Make more codes so people can get a discount code from S&S every month
-Delete discount code 3
-https://growingholistically.com/membership-account/membership-levels/ make it not red
-If you were given a discount code by one of our Elemental Coaches you should select the monthly membership. → change second line to this
+
 
 
 - made guided journeys page
