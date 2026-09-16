@@ -17,7 +17,7 @@ July: 27 hour 45 min -> received
 
 August: 17 hour 30 min
 
-September: 7 hour 30 min
+September: 8 hour 15 min
  
 
 
@@ -632,7 +632,6 @@ add book image to page https://growingholistically.com/readersdiscount/
 9/10
 For next week:
 Finish the hello again form email set up
-Make a googledoc with all of the orphan links ie hello again, the links for the book
 
 
 
