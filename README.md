@@ -17,7 +17,7 @@ July: 27 hour 45 min -> received
 
 August: 17 hour 30 min
 
-September: 6 hour 30 min
+September: 6 hour 45 min
  
 
 
@@ -643,3 +643,4 @@ Download the needed videos from vimeo to put them on the site
 Create a folder on vimeo called website, 
 
 - made guided journeys page
+- talk about click up
