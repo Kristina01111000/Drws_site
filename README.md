@@ -17,7 +17,7 @@ July: 27 hour 45 min -> received
 
 August: 17 hour 30 min
 
-September: 8 hour 15 min
+September: 9 hour 0 min
  
 
 
