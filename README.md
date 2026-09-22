@@ -17,7 +17,7 @@ July: 27 hour 45 min -> received
 
 August: 17 hour 30 min
 
-September: 10 hour 0 min
+September: 10 hour 15 min
  
 
 
@@ -649,3 +649,5 @@ https://growingholistically.com/membership-account/membership-levels/ make the d
 https://growingholistically.com/readersdiscount/ pur four element code in title into quotation marks, take out the comma, make “help you become the best you can be” italicized, add the book picture when i get it
 https://growingholistically.com/the-four-element-scorecard/ put the video on vimeo
 Delete the old podcast pages
+- make the page and link from the homepage the "im young and feel the world is out of balance" section 
+- change the image of the book and also the text  on the homepage 
