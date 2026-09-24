@@ -17,7 +17,7 @@ July: 27 hour 45 min -> received
 
 August: 17 hour 30 min
 
-September: 12 hour 15 min
+September: 15 hour 0 min
  
 
 
@@ -635,17 +635,7 @@ Finish the hello again form email set up
 
 
 
-- made guided journeys page
-- talk about click up
-
 
 9/17
 For next week:
-https://growingholistically.com/guided-journeys/ put it under health topics also, guided meditation journey 
-https://app.clickup.com/90141656879/my-work/today send sarah and sydney the email and password, try to change the name
-Email sarah and sydney about the vimeo videos, and putting them into the team library folders, if they have uploaded them
-Put all the video on the site linked from vimeo, include a jump to video section
-https://growingholistically.com/membership-account/membership-levels/ make the dr w section red, but not the coaches section
-https://growingholistically.com/readersdiscount/ pur four element code in title into quotation marks, take out the comma, make “help you become the best you can be” italicized, add the book picture when i get it
-https://growingholistically.com/the-four-element-scorecard/ put the video on vimeo
 Delete the old podcast pages
