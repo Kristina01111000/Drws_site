@@ -17,7 +17,7 @@ July: 27 hour 45 min -> received
 
 August: 17 hour 30 min
 
-September: 17 hour 30 min
+September: 17 hour 45 min
  
 
 
@@ -669,3 +669,6 @@ Set all of the oracle cards for just members
 Edit https://growingholistically.com/4-element-card/ to say this is only for members at the top ‘Here’s a great thing we have for our members to make the 4 elements fun’
 https://growingholistically.com/yoga-you-videos/ change to bullet points, make the videos links to the right, add 15px to the spacer below all of the videos
 Learning program lesson introduction video good
+
+
+- look at vimeo folders
