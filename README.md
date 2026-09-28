@@ -671,4 +671,4 @@ https://growingholistically.com/yoga-you-videos/ change to bullet points, make t
 Learning program lesson introduction video good
 
 
-- look at vimeo folders
+- look at vimeo folders, also check that the SRS isn't duplicated on the site
