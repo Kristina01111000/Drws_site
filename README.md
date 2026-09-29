@@ -17,7 +17,7 @@ July: 27 hour 45 min -> received
 
 August: 17 hour 30 min
 
-September: 17 hour 45 min
+September: 18 hour 0 min
  
 
 
@@ -672,3 +672,4 @@ Learning program lesson introduction video good
 
 
 - look at vimeo folders, also check that the SRS isn't duplicated on the site
+- moved the videos to vimeo
