@@ -17,7 +17,7 @@ July: 27 hour 45 min -> received
 
 August: 17 hour 30 min
 
-September: 19 hour 5 min
+September: 19 hour 45 min
  
 
 
@@ -655,11 +655,7 @@ He does not want to sell the old book anymore
 For the do any of these green section
 Try putting them all on one page with anchors and compare to it
 Make the links more centered but still left justified, adjust the column size
-Make the scorecard not a freebie
-Make a new scorecard page that is just for linking to from the homepage and it doesn;t have the download in it, just copy top half of the current scorecard page and 
-make the current scorecard page just for members
-Edit https://growingholistically.com/4-element-card/ to say this is only for members at the top ‘Here’s a great thing we have for our members to make the 4 elements fun’
-https://growingholistically.com/yoga-you-videos/ change to bullet points, make the videos links to the right, add 15px to the spacer below all of the videos
+
 Learning program lesson introduction video good
 
 
