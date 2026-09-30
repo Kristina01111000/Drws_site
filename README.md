@@ -673,3 +673,4 @@ Learning program lesson introduction video good
 
 - look at vimeo folders, also check that the SRS isn't duplicated on the site
 - moved the videos to vimeo
+- - ask him about unlisted videos on youtube
