@@ -19,7 +19,7 @@ August: 17 hour 30 min
 
 September: 20 hour 30 min
 
-October: 30 min
+October: 2 hour 15 min
  
 
 
@@ -664,3 +664,30 @@ Learning program lesson introduction video good
 - look at vimeo folders, also check that the SRS isn't duplicated on the site
 - moved the videos to vimeo
 - - ask him about unlisted videos on youtube
+
+
+10/1
+For next week:
+Put the new book info into the shop
+He will send the pdf of the book to me and then I will list it
+Change the listing for the physical to coming soon
+He does not want to sell the old book anymore
+Put the rest of the yoga videos on to the yoga and you videos page https://growingholistically.com/yoga-you-videos/ 
+Add code ”book readers 50% off monthly membership for up to 12 months. Use the code BookDiscount.“
+Remove  from https://growingholistically.com/guided-journeys/health topics menu item
+Try to center everything on the homepage in the cell phone view
+Homepage nutrition section remove the think blood sentence, 
+Homepage try to get the video section wider
+Homepage do any of  these sound like you section left justified, try changing the links to blue so they look like links 
+Switch the text changes between cell phone and desktop view, cellphone view wins
+Look at https://growingholistically.com/do-any-of-these-sound-like-you/ he prefers the single  page to the separate pages on homepage links, give more spacing add the anchors and link to it from the homepage
+https://growingholistically.com/learn-more-about-our-weekly-life-balance-scorecard/ add an already a member? Click here button to main scorecard page 
+Change “A professor BJ Fogg, PhD, of Stanford “ to professor bj foss, on both scorecard pages
+Figure out why some vimeo videos don’t have a thumbnail and fix it
+https://growingholistically.com/yoga-you-videos/ water video needs better title
+Get exercises with patients done, he wants a special one for his skull exercises
+Change exercises for patients to “4 element yoga exercises for musculoskeletal and health conditions” https://growingholistically.com/advice-for-patients/ all of the videos are going into sections for specific parts of your body
+https://growingholistically.com/four-element-yoga/ 
+Add a drop down menu to 4 element yoga menu section, link to all videos, link to the videos that are sectioned "maneuvers for musculoskeletal and health conditions”
+https://growingholistically.com/links-to-dr-ws-videos/ remove end “s” from title
+Get rid of the “dr w”s from that page also, the ones in the video collection titles
