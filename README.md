@@ -19,7 +19,7 @@ August: 17 hour 30 min
 
 September: 20 hour 30 min
 
-October: 2 hour 15 min
+October: 2 hour 45 min
  
 
 
@@ -692,3 +692,6 @@ Add a drop down menu to 4 element yoga menu section, link to all videos, link to
 https://growingholistically.com/links-to-dr-ws-videos/ remove end “s” from title
 Get rid of the “dr w”s from that page also, the ones in the video collection titles
 - he sent the book
+
+- book is on the site
+- send invoice tomorrow
