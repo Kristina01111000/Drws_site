@@ -15,9 +15,9 @@ June: 15 hour 30 min -> received
 
 July: 27 hour 45 min -> received
 
-August: 17 hour 30 min
+August: 17 hour 30 min -> sent
 
-September: 20 hour 30 min
+September: 20 hour 30 min -> sent
 
 October: 2 hour 45 min
  
