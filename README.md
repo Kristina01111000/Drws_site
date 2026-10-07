@@ -19,7 +19,7 @@ August: 17 hour 30 min -> sent
 
 September: 20 hour 30 min -> sent
 
-October: 6 hour 0 min
+October: 7 hour 45 min
  
 
 
@@ -669,15 +669,13 @@ Learning program lesson introduction video good
 10/1
 For next week:
 Put the rest of the yoga videos on to the yoga and you videos page https://growingholistically.com/yoga-you-videos/ 
-Homepage try to get the video section wider
+
 
 
 https://growingholistically.com/learn-more-about-our-weekly-life-balance-scorecard/ add an already a member? Click here button to main scorecard page 
 
 Figure out why some vimeo videos don’t have a thumbnail and fix it
 
-Get exercises with patients done, he wants a special one for his skull exercises
-Change exercises for patients to “4 element yoga exercises for musculoskeletal and health conditions” https://growingholistically.com/advice-for-patients/ all of the videos are going into sections for specific parts of your body
+
 https://growingholistically.com/four-element-yoga/ 
-Add a drop down menu to 4 element yoga menu section, link to all videos, link to the videos that are sectioned "maneuvers for musculoskeletal and health conditions”
 
