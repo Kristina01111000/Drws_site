@@ -19,7 +19,7 @@ August: 17 hour 30 min -> sent
 
 September: 20 hour 30 min -> sent
 
-October: 2 hour 45 min
+October: 4 hour 15 min
  
 
 
@@ -668,13 +668,8 @@ Learning program lesson introduction video good
 
 10/1
 For next week:
-Put the new book info into the shop
-He will send the pdf of the book to me and then I will list it
-Change the listing for the physical to coming soon
-He does not want to sell the old book anymore
 Put the rest of the yoga videos on to the yoga and you videos page https://growingholistically.com/yoga-you-videos/ 
-Add code ”book readers 50% off monthly membership for up to 12 months. Use the code BookDiscount.“
-Remove  from https://growingholistically.com/guided-journeys/health topics menu item
+
 Try to center everything on the homepage in the cell phone view
 Homepage nutrition section remove the think blood sentence, 
 Homepage try to get the video section wider
@@ -689,9 +684,4 @@ Get exercises with patients done, he wants a special one for his skull exercises
 Change exercises for patients to “4 element yoga exercises for musculoskeletal and health conditions” https://growingholistically.com/advice-for-patients/ all of the videos are going into sections for specific parts of your body
 https://growingholistically.com/four-element-yoga/ 
 Add a drop down menu to 4 element yoga menu section, link to all videos, link to the videos that are sectioned "maneuvers for musculoskeletal and health conditions”
-https://growingholistically.com/links-to-dr-ws-videos/ remove end “s” from title
-Get rid of the “dr w”s from that page also, the ones in the video collection titles
-- he sent the book
 
-- book is on the site
-- send invoice tomorrow
