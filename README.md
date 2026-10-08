@@ -19,7 +19,7 @@ August: 17 hour 30 min -> sent
 
 September: 20 hour 30 min -> sent
 
-October: 7 hour 45 min
+October: 9 hour 0 min
  
 
 
@@ -678,4 +678,29 @@ Figure out why some vimeo videos don’t have a thumbnail and fix it
 
 
 https://growingholistically.com/four-element-yoga/ 
+
+
+10/8
+For next week:
+Temporarily unlisted the self renewal system topics course, im transfering the vimeo videos and there is an issue, i can;t delta a bunch of the youtube videos, Im working on the issue, it I can’t fix it Ill just remake it tomorrow afternoon ie https://growingholistically.com/lessons/self-renewal-system-body-alignment-episode-1/ 
+https://growingholistically.com/shop/ fix the way the book image looks
+Try to change the shop page title to four element shop
+Try to get the description on the shop page, add the back of the book to the shop page
+Think about what to do with quick minutes -> can be put on instagram reels
+Make 4 element magazine for members only
+Delete the stuff on youtube that is on vimeo? – Wait on that talk about it in november
+Delete the 5 do these sound like you pages
+Make a page with the first learning program lesson on it available to a few places, consider places
+Homepage Dr. W's Four Element Approach section
+Change the button to “Get started here”
+Homepage Personal & Spiritual Growth change important to ‘some useful’
+https://growingholistically.com/four-element-yoga/ bold the Focused Breathing sections
+Capitalize yoga videos in the blue part at bottom
+ https://growingholistically.com/nutrition-and-you/ say “the following is a sample of a video from dr ‘w learning program” link in lesson 4, nutrition part 1
+Then have ‘join here to get access to the other videos in the learning program’
+https://growingholistically.com/?page_id=7556 (draft) Dr. W’s Holistic Exercise Page 
+https://growingholistically.com/yoga-you-videos/ get the rest of the vimeo videos onto this page, remove the water and fire/ air videos, don’t put any that are like that on
+List the physical books on the site, list 100 of them, the price is 17.95
+https://growingholistically.com/dr-ws-holistic-wellness-advice/ not listed on the header yet, need to finish it
+Think about a code that can be given on the app to get a discount on the site
 
