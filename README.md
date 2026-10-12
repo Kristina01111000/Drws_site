@@ -705,3 +705,5 @@ https://growingholistically.com/dr-ws-holistic-wellness-advice/ not listed on th
 Think about a code that can be given on the app to get a discount on the site
 
 - look into css that stops sidebar, maybe it is causeing the youtube video and description problem
+
+check link in email from sarah
