@@ -697,3 +697,19 @@ Think about a code that can be given on the app to get a discount on the site
 - look into css that stops sidebar, maybe it is causeing the youtube video and description problem
 
 check link in email from sarah
+
+
+10/15
+For next week:
+Add the documentary https://growingholistically.com/links-to-dr-ws-videos/ put it above quick minutes _> he will send me the paragraph text
+Add the documentary to the homepage next to the book say “watch the 30 minute documentary ”, fix the spacing
+Add it to vimeo or find it
+https://growingholistically.com/elemental-coaching/ he will send me new icons for the sessions section, in email, add that file to a google doc that everyone can access
+Send sarah an email saying we took the butterfly image off, we thought that it didn’t work, feel free to find a new one for the page
+Try to bold the “join up here” menu item
+Fix spacing on videos https://growingholistically.com/yoga-you-videos/ also put the bullet point list into two columns
+https://growingholistically.com/lessons/self-renewal-system-body-alignment-episode-1/ fixed the youtube video issue
+Need to hide titles on all when they’re all on
+take the whole course to make sure everything works correctly
+relist it
+
