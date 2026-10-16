@@ -19,7 +19,7 @@ August: 17 hour 30 min -> received
 
 September: 20 hour 30 min -> received
 
-October: 14 hour 45 min
+October: 15 hour 5 min
  
 
 
@@ -714,3 +714,4 @@ take the whole course to make sure everything works correctly
 relist it
 
 - need to find 80 question quiz that works, or download each file from the site
+- make info page about app
