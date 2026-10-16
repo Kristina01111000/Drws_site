@@ -19,7 +19,7 @@ August: 17 hour 30 min -> received
 
 September: 20 hour 30 min -> received
 
-October: 14 hour 15 min
+October: 14 hour 45 min
  
 
 
@@ -713,3 +713,4 @@ Need to hide titles on all when they’re all on
 take the whole course to make sure everything works correctly
 relist it
 
+- need to find 80 question quiz that works, or download each file from the site
