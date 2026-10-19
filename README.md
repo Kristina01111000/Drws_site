@@ -694,8 +694,6 @@ https://growingholistically.com/yoga-you-videos/ get the rest of the vimeo video
 https://growingholistically.com/dr-ws-holistic-wellness-advice/ not listed on the header yet, need to finish it
 Think about a code that can be given on the app to get a discount on the site
 
-- look into css that stops sidebar, maybe it is causeing the youtube video and description problem
-
 check link in email from sarah
 
 
