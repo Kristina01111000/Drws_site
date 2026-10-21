@@ -288,3 +288,12 @@ body {
 	text-align: center !important;
 	font-weight: bold;
 }
+
+
+// fixed the video padding and margin in cell phone view  in divi
+selector {  
+  margin-top: 0px;
+  margin-bottom: 10px;
+    padding-top: 10px;
+  padding-bottom: 10px;
+}
