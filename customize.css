@@ -297,3 +297,8 @@ selector {
     padding-top: 10px;
   padding-bottom: 10px;
 }
+
+// bolded join here in the main menu
+.highlight {
+    font-weight: bold;
+}
