@@ -19,7 +19,7 @@ August: 17 hour 30 min -> received
 
 September: 20 hour 30 min -> received
 
-October: 17 hour 30 min
+October: 17 hour 45 min
  
 
 
@@ -730,3 +730,5 @@ Change the shop so its one listing and they select softcover, ebook, or both, ma
 Will be adding the app to the shop when it is ready
 When sarah is done, add the videos on the page 
 Look into whether i can link an entire vimeo showcase onto the site, if i can put the showcase on then link the showcase
+
+- checked all the php
