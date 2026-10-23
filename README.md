@@ -19,7 +19,7 @@ August: 17 hour 30 min -> received
 
 September: 20 hour 30 min -> received
 
-October: 17 hour 45 min
+October: 18 hour 0 min
  
 
 
@@ -715,8 +715,8 @@ relist it
   
 10/22
   For next week:
-Get paragraph text and add the documentary to the videos page https://growingholistically.com/links-to-dr-ws-videos/ email him if i dont; have it tomorrow 
-On homepage put documentary title on a different line in orange section
+Get paragraph text and add the documentary to the videos page https://growingholistically.com/links-to-dr-ws-videos/ 
+
 Customize the vimeo page, change icon
 Double check that the documentary on the page is not muted
 http://growingholistically.com/info tell people about gh in terms of the app, put what i think should be here, goal is to get them to join, they have already bought the app, so make it free for them? Put PhoneAppDiscount code on the page
