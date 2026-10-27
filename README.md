@@ -724,7 +724,7 @@ https://growingholistically.com/activities-more-detail/ fix it so that fire is o
 https://growingholistically.com/elemental-coaching/ she will send me a new earth icon to put in
 https://growingholistically.com/yoga-you-videos/ fix the thumbnails that dont show up or are dark
 https://growingholistically.com/dr-ws-holistic-wellness-advice/ add the other 4 pages, make 2 columns for desktop, separate them into sections your body’s top half, body bottom half , make a spacer that is only visible for small screens
-He might send me a revised ebook at some point, 
+He might send me a revised ebook at some point, --> put it in if he does
 Double check what email someone buying the book goes to 
 Change the shop so its one listing and they select softcover, ebook, or both, make both be $25
 Will be adding the app to the shop when it is ready
