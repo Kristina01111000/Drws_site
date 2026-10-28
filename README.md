@@ -19,7 +19,7 @@ August: 17 hour 30 min -> received
 
 September: 20 hour 30 min -> received
 
-October: 18 hour 30 min
+October: 19 hour 45 min
  
 
 
@@ -715,22 +715,16 @@ relist it
   
 10/22
   For next week:
-Get paragraph text and add the documentary to the videos page https://growingholistically.com/links-to-dr-ws-videos/ 
 
 Customize the vimeo page, change icon
-Double check that the documentary on the page is not muted
 http://growingholistically.com/info tell people about gh in terms of the app, put what i think should be here, goal is to get them to join, they have already bought the app, so make it free for them? Put PhoneAppDiscount code on the page
 https://growingholistically.com/activities-more-detail/ fix it so that fire is on top in the text, so its in a matching order
-https://growingholistically.com/elemental-coaching/ she will send me a new earth icon to put in
+
 https://growingholistically.com/yoga-you-videos/ fix the thumbnails that dont show up or are dark
 https://growingholistically.com/dr-ws-holistic-wellness-advice/ add the other 4 pages, make 2 columns for desktop, separate them into sections your body’s top half, body bottom half , make a spacer that is only visible for small screens
-He might send me a revised ebook at some point, --> put it in if he does
 Double check what email someone buying the book goes to 
-Change the shop so its one listing and they select softcover, ebook, or both, make both be $25
 Will be adding the app to the shop when it is ready
 When sarah is done, add the videos on the page 
 Look into whether i can link an entire vimeo showcase onto the site, if i can put the showcase on then link the showcase
 
-- checked all the php
-- look at email for the new stuff
 - figure out why combining the book listing isn't working right
