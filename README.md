@@ -19,7 +19,7 @@ August: 17 hour 30 min -> received
 
 September: 20 hour 30 min -> received
 
-October: 18 hour 0 min
+October: 18 hour 30 min
  
 
 
@@ -733,3 +733,4 @@ Look into whether i can link an entire vimeo showcase onto the site, if i can pu
 
 - checked all the php
 - look at email for the new stuff
+- figure out why combining the book listing isn't working right
