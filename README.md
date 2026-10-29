@@ -19,7 +19,7 @@ August: 17 hour 30 min -> received
 
 September: 20 hour 30 min -> received
 
-October: 21 hour 45 min
+October: 23 hour 0 min
  
 
 
@@ -610,7 +610,25 @@ Code- FIRSTSESSION  FOR $150 OFF.
 
 8/27
 For next week:
-
+For next week:
+Fix the book shop issue
+Hold off of the yoga videos for now showcase
+https://growingholistically.com/the-four-element-story-documentary/ fix the text, remove strongly, add some space underneath, take documentary out of the title, move the text to be above the video, put the open line underneath the video
+https://growingholistically.com/activities-more-detail/ fix the actual page so fire is on top
+See if i can make the menu line heights shorter
+Add links to the pages under freebies that link out to the pages that were underneath them before
+https://growingholistically.com/a-spiritual-you/ remove the bottom line from this page
+Make an archive for the monthly topics , to be linked to on the monthly topic page
+Fix image on monthly topic page
+Email stephen to get the correct earth icon with the x on it
+https://growingholistically.com/info/ “holistic lifebalance app”
+Change title to “welcome users of the holistic lifebalance app”
+He will send me more text
+Make the footer different, smaller, make a page to link to at the bottom that has all the links for the community
+Remove the social links
+Fix elongate your spine thumbnail, his eyes are closed
+https://growingholistically.com/dr-ws-holistic-wellness-advice/ upper body, middle, and lower body, middle is all the organ issues including immune system, weight gain
+make the sub menu items a different color
 
 - need to make sure that the pages are bolcked to non members
 
