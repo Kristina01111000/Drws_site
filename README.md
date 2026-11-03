@@ -741,3 +741,4 @@ When sarah is done, add the videos on the page
 Look into whether i can link an entire vimeo showcase onto the site, if i can put the showcase on then link the showcase
 
 - figure out why combining the book listing isn't working right
+- showcases are made, on vimeo
