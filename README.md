@@ -21,7 +21,7 @@ September: 20 hour 30 min -> received
 
 October: 23 hour 0 min
 
-November: 15 min
+November: 1 hour 0 min
 
  
 
@@ -749,7 +749,6 @@ Look into whether i can link an entire vimeo showcase onto the site, if i can pu
 10/29
 For next week:
 Fix the book shop issue
-Hold off of the yoga videos for now showcase
 https://growingholistically.com/the-four-element-story-documentary/ fix the text, remove strongly, add some space underneath, take documentary out of the title, move the text to be above the video, put the open line underneath the video
 https://growingholistically.com/activities-more-detail/ fix the actual page so fire is on top
 See if i can make the menu line heights shorter
@@ -767,4 +766,4 @@ Fix elongate your spine thumbnail, his eyes are closed
 https://growingholistically.com/dr-ws-holistic-wellness-advice/ upper body, middle, and lower body, middle is all the organ issues including immune system, weight gain
 Change submenu items colors, grey maybe?
 
-got showcase onto arms and shoulders page
+got 4 showcases onto the pages
