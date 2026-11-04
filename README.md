@@ -21,7 +21,7 @@ September: 20 hour 30 min -> received
 
 October: 23 hour 0 min
 
-November: 1 hour 0 min
+November: 1 hour 5 min
 
  
 
@@ -756,7 +756,6 @@ Add links to the pages under freebies that link out to the pages that were under
 https://growingholistically.com/a-spiritual-you/ remove the bottom line from this page
 Make an archive for the monthly topics , to be linked to on the monthly topic page
 Fix image on monthly topic page
-Email stephen to get the correct earth icon with the x on it
 https://growingholistically.com/info/ “holistic lifebalance app”
 Change title to “welcome users of the holistic lifebalance app”
 He will send me more text
