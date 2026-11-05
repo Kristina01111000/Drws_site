@@ -21,7 +21,7 @@ September: 20 hour 30 min -> received
 
 October: 23 hour 0 min
 
-November: 4 hour 0 min
+November: 4 hour 30 min
 
  
 
@@ -764,7 +764,6 @@ Delete the lessons from youtube leave everything else
 https://growingholistically.com/dr-ws-holistic-wellness-advice/ come up with some new titles that include 4 element in it for the menu
 Dr w exercises for your conditions is potential name
 Add it to the menu
-For the pages that don’t have anything add a coming soon section 
 https://growingholistically.com/community-menu/ add link to bottom footer menu, remove the taller one, 
 Add a paragraph about the gh community to the page
 Link it underneath member resources
