@@ -748,7 +748,6 @@ Look into whether i can link an entire vimeo showcase onto the site, if i can pu
 
 10/29
 For next week:
-https://growingholistically.com/the-four-element-story-documentary/ fix the text, remove strongly, add some space underneath, take documentary out of the title, move the text to be above the video, put the open line underneath the video
 
 Add links to the pages under freebies that link out to the pages that were underneath them before
 
