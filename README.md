@@ -21,7 +21,7 @@ September: 20 hour 30 min -> received
 
 October: 23 hour 0 min
 
-November: 2 hour 15 min
+November: 2 hour 45 min
 
  
 
@@ -758,4 +758,3 @@ Fix elongate your spine thumbnail, his eyes are closed
 https://growingholistically.com/dr-ws-holistic-wellness-advice/ upper body, middle, and lower body, middle is all the organ issues including immune system, weight gain
 Change submenu items colors, grey maybe?
 
-got 4 showcases onto the pages
