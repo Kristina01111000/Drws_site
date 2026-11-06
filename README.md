@@ -21,7 +21,7 @@ September: 20 hour 30 min -> received
 
 October: 23 hour 0 min
 
-November: 4 hour 30 min
+November: 4 hour 35 min
 
  
 
@@ -761,7 +761,7 @@ https://growingholistically.com/dr-ws-holistic-wellness-advice/ upper body, midd
 11/5
 For next week:
 Delete the lessons from youtube leave everything else
-https://growingholistically.com/dr-ws-holistic-wellness-advice/ come up with some new titles that include 4 element in it for the menu
+https://growingholistically.com/dr-ws-holistic-wellness-advice/ come up with some new titles that include 4 element in it for the menu --> added to menu
 Dr w exercises for your conditions is potential name
 Add it to the menu
 https://growingholistically.com/community-menu/ add link to bottom footer menu, remove the taller one, 
