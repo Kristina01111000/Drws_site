@@ -21,7 +21,7 @@ September: 20 hour 30 min -> received
 
 October: 23 hour 0 min
 
-November: 5 hour 55 min
+November: 7 hour 55 min
 
  
 
@@ -779,3 +779,9 @@ Newsletter -> think about how it is mostly going to his patients, he will send m
 
 Change submenu items colors, grey maybe?
 - add the new meditation?
+
+
+For thursday:
+Transfer the newsletter to constant contact, put everything in the order i think it should be in
+For showcase write text to use the arrows to use the showcase 
+Look for a new carousel, but for now edit the showcases on vimeo
