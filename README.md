@@ -21,7 +21,7 @@ September: 20 hour 30 min -> received
 
 October: 23 hour 0 min
 
-November: 4 hour 35 min
+November: 5 hour 55 min
 
  
 
