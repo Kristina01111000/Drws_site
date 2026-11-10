@@ -778,4 +778,4 @@ https://growingholistically.com/product/the-four-element-code-2/ remove the addi
 Newsletter -> think about how it is mostly going to his patients, he will send me a draft,  ill make a copy and edit it the way i think would be better, these will be longer than the old newsletters
 
 Change submenu items colors, grey maybe?
-
+- add the new meditation?
