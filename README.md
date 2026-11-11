@@ -21,7 +21,7 @@ September: 20 hour 30 min -> received
 
 October: 23 hour 0 min
 
-November: 9 hour 15 min
+November: 10 hour 15 min
 
  
 
@@ -761,13 +761,8 @@ https://growingholistically.com/dr-ws-holistic-wellness-advice/ upper body, midd
 11/5
 For next week:
 
-https://growingholistically.com/community-menu/ add link to bottom footer menu, remove the taller one, 
-Add a paragraph about the gh community to the page
-Link it underneath member resources
-Switch user profile to community menu
 https://growingholistically.com/a-spiritual-you/ move the video to vimeo 
-edit other showcases on vimeo
-Make a page for the monthly archive for newsletters, make a page for monthly newsletter, link to archive on the newsletter page
+
 Link to topic archive on the bottom of the monthly topic page
 https://growingholistically.com/product/the-four-element-code-2/ remove the additional information or add to it so it looks better
 
