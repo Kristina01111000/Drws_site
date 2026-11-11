@@ -21,7 +21,7 @@ September: 20 hour 30 min -> received
 
 October: 23 hour 0 min
 
-November: 8 hour 15 min
+November: 9 hour 15 min
 
  
 
@@ -760,27 +760,17 @@ https://growingholistically.com/dr-ws-holistic-wellness-advice/ upper body, midd
 
 11/5
 For next week:
-Delete the lessons from youtube leave everything else
-https://growingholistically.com/dr-ws-holistic-wellness-advice/ come up with some new titles that include 4 element in it for the menu --> added to menu
-Dr w exercises for your conditions is potential name
-Add it to the menu
+
 https://growingholistically.com/community-menu/ add link to bottom footer menu, remove the taller one, 
 Add a paragraph about the gh community to the page
 Link it underneath member resources
 Switch user profile to community menu
 https://growingholistically.com/a-spiritual-you/ move the video to vimeo 
-https://growingholistically.com/shoulders-arms-hands/ make the carousel stop automatically moving, get rid of the carousel, try to get the showcase to look better, if not add all the videos to the pages, try to stop the scroll down inside the page, make the window longer using css if possible, if i can;t get it to work add the videos with titles 
-Add descriptions into the page if they are on vimeo, edit the descriptions if they’re not good enough
+edit other showcases on vimeo
 Make a page for the monthly archive for newsletters, make a page for monthly newsletter, link to archive on the newsletter page
 Link to topic archive on the bottom of the monthly topic page
 https://growingholistically.com/product/the-four-element-code-2/ remove the additional information or add to it so it looks better
-Newsletter -> think about how it is mostly going to his patients, he will send me a draft,  ill make a copy and edit it the way i think would be better, these will be longer than the old newsletters
 
 Change submenu items colors, grey maybe?
 - add the new meditation?
 
-
-For thursday:
-Transfer the newsletter to constant contact, put everything in the order i think it should be in
-For showcase write text to use the arrows to use the showcase 
-Look for a new carousel, but for now edit the showcases on vimeo
