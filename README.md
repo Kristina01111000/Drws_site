@@ -21,7 +21,7 @@ September: 20 hour 30 min -> received
 
 October: 23 hour 0 min
 
-November: 7 hour 55 min
+November: 8 hour 15 min
 
  
 
@@ -768,7 +768,6 @@ https://growingholistically.com/community-menu/ add link to bottom footer menu, 
 Add a paragraph about the gh community to the page
 Link it underneath member resources
 Switch user profile to community menu
-https://growingholistically.com/dr-ws-holistic-wellness-advice/ switch middle to organ systems
 https://growingholistically.com/a-spiritual-you/ move the video to vimeo 
 https://growingholistically.com/shoulders-arms-hands/ make the carousel stop automatically moving, get rid of the carousel, try to get the showcase to look better, if not add all the videos to the pages, try to stop the scroll down inside the page, make the window longer using css if possible, if i can;t get it to work add the videos with titles 
 Add descriptions into the page if they are on vimeo, edit the descriptions if they’re not good enough
