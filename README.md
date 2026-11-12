@@ -21,7 +21,7 @@ September: 20 hour 30 min -> received
 
 October: 23 hour 0 min
 
-November: 11 hour 30 min
+November: 12 hour 45 min
 
  
 
@@ -772,11 +772,11 @@ Change submenu items colors, grey maybe?
 11/12
 For next week:
 Add syracuse natural healing to the bottom of the email template, also put gh and four element doctor, 
-Add water  and earth meditation to https://growingholistically.com/guided-journeys/ ? is the way the meditations work is that I listen to make sure its good enough and then tell you when its added to the site instead of asking? Yes
+
 Sydney wants a page with all the showcases embedded, is that something i should do? That will be easy to do yes
-Email them the pages that need a showcase, say of they can’t find enough for a showcase then just one video is ok
+
 On all of the showcase pages make the instructions burgundy
-Email them after this is done 
+
 Change the titles of the videos in the showcases,  so they look better
 Look and see if there is a third party that will show the description in the showcase data
 Put brain in the organs section of holistic wellness advice
