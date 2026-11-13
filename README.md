@@ -784,4 +784,5 @@ Make a headaches page and add it to the chart
 On the community menu page say “below are links that you can use as a member” no exclamation point maybe add a colon
 Remove the footer image of the dr logo
 For the low back and sacrum showcase change the video order so there is a thumbnail, there tell them to fix the thumbnail that they can , tell them to change the thumbnails, and also add the videos in their personal libraries into the team library
-they are the ones writing the newlstter
+they are the ones writing the newsletter
+- look at the thing he sent in my email about the descriptions for vimeo
