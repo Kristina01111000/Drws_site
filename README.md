@@ -21,7 +21,7 @@ September: 20 hour 30 min -> received
 
 October: 23 hour 0 min
 
-November: 12 hour 45 min
+November: 13 hour 0 min
 
  
 
@@ -786,3 +786,4 @@ Remove the footer image of the dr logo
 For the low back and sacrum showcase change the video order so there is a thumbnail, there tell them to fix the thumbnail that they can , tell them to change the thumbnails, and also add the videos in their personal libraries into the team library
 they are the ones writing the newsletter
 - look at the thing he sent in my email about the descriptions for vimeo
+- guided journeys descriptions done
