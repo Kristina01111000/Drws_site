@@ -21,7 +21,7 @@ September: 20 hour 30 min -> received
 
 October: 23 hour 0 min
 
-November: 13 hour 15 min
+November: 13 hour 30 min
 
  
 
@@ -787,4 +787,4 @@ For the low back and sacrum showcase change the video order so there is a thumbn
 they are the ones writing the newsletter
 - look at the thing he sent in my email about the descriptions for vimeo
 - guided journeys descriptions done
-- worked on homepage
+- worked on homepage --> look for new email
