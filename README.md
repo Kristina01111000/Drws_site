@@ -21,7 +21,7 @@ September: 20 hour 30 min -> received
 
 October: 23 hour 0 min
 
-November: 14 hour 15 min
+November: 15 hour 0 min
 
  
 
@@ -773,17 +773,4 @@ Change submenu items colors, grey maybe?
 For next week:
 Add syracuse natural healing to the bottom of the email template, also put gh and four element doctor, 
 
-Sydney wants a page with all the showcases embedded, is that something i should do? That will be easy to do yes
-
-On all of the showcase pages make the instructions burgundy
-
 Change the titles of the videos in the showcases,  so they look better
-Look and see if there is a third party that will show the description in the showcase data
-
-On the community menu page say “below are links that you can use as a member” no exclamation point maybe add a colon
-
-For the low back and sacrum showcase change the video order so there is a thumbnail, there tell them to fix the thumbnail that they can , tell them to change the thumbnails, and also add the videos in their personal libraries into the team library
-
-- look at the thing he sent in my email about the descriptions for vimeo
-- guided journeys descriptions done
-- worked on homepage --> look for new email
