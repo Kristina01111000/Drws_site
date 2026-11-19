@@ -21,7 +21,7 @@ September: 20 hour 30 min -> received
 
 October: 23 hour 0 min
 
-November: 15 hour 0 min
+November: 16 hour 30 min
 
  
 
@@ -772,5 +772,29 @@ Change submenu items colors, grey maybe?
 11/12
 For next week:
 Add syracuse natural healing to the bottom of the email template, also put gh and four element doctor, 
+
+11/19
+For next week:
+Make a copy of the homepage before doing anything
+Move the video into a right column next to the text, 
+Find a new background image for that section
+Make the cell phone view text match the desktop view, so the video shows
+For burgundy section make the bullet points be in a carousel with pictures that match, desktop paragraphs in left column, carousel in right column, cell phone view stacked, just images not videos
+Change the newsletter to 4 Element Holistic E-Zine everywhere
+Look into divider and gradients in divi, for the homepage to soften the transitions
+Make the padding be the same size as the burgundy section
+In cell phone view , turn it burgundy, fix the padding 
+Try it: put black color in the right and left sides of 3 homepage sections and either take a picture or email him to look at it.  Try a few other colors also 
+For book section, make the size of the picture match up to the size of the text, on bigger screens it gets taller desktop only
+Put the fire air water and earth sections into a carousel, 
+Look for a new fire image, get one with a person with arms up looking at the sun, not physical fire
+Do any of theses sound like you put the first paragraph under it in an accordion with a read more that links to the page
+Try a sticky join here, if it is good remove the so much to discover section , remove the ancient wisdom section
+Personal spiritual growth, add an image of one of the oracle cards into a column
+For freebies page, link to it on first panel , make the page with what he sent on email, make a showcase with why to join, also add a join here at the top and the bottom growingholistically.com/freebies 
+Fix the video titles and the thumbnails using the search function, do that tomorrow
+Put https://growingholistically.com/shoulders-arms-hands/ into a gallery, so he can compare to see which he prefers, add the descriptions under video if they are there, email him when this is done
+https://growingholistically.com/the-brain-alzheimers-anxiety-and-strokes/ fix the link on the wellness advice page
+
 
 Change the titles of the videos in the showcases,  so they look better
