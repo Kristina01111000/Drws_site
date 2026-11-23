@@ -798,3 +798,4 @@ https://growingholistically.com/the-brain-alzheimers-anxiety-and-strokes/ fix th
 
 
 Change the titles of the videos in the showcases,  so they look better
+-> use the search function on vimeo
