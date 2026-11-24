@@ -21,7 +21,7 @@ September: 20 hour 30 min -> received
 
 October: 23 hour 0 min
 
-November: 16 hour 30 min
+November: 17 hour 0 min
 
  
 
@@ -793,8 +793,7 @@ Try a sticky join here, if it is good remove the so much to discover section , r
 Personal spiritual growth, add an image of one of the oracle cards into a column
 For freebies page, link to it on first panel , make the page with what he sent on email, make a showcase with why to join, also add a join here at the top and the bottom growingholistically.com/freebies 
 Fix the video titles and the thumbnails using the search function, do that tomorrow
-Put https://growingholistically.com/shoulders-arms-hands/ into a gallery, so he can compare to see which he prefers, add the descriptions under video if they are there, email him when this is done
-https://growingholistically.com/the-brain-alzheimers-anxiety-and-strokes/ fix the link on the wellness advice page
+
 
 
 Change the titles of the videos in the showcases,  so they look better
